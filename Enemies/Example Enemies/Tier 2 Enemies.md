@@ -1,6 +1,4 @@
----
-title: Tier 2 Enemies
----
+# Tier 2 Enemies
 
 ## Forest Dwellers
 The deep woods are home to hostile creatures that will defend their territory to the death, although they will also grant boons to travelers they trust.
