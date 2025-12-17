@@ -1,6 +1,4 @@
----
-title: Desert
----
+# Desert
 
 Arid, hot regions such as canyons, plateaus, or sandy deserts are represented by the Desert climate.  Characters traveling in these regions should be careful to bring more Supplies than normal.
 
