@@ -1,6 +1,4 @@
----
-title: Shells
----
+# Shells
 
 Shell abilities apply a special status effect on their target known as a _Shell._  A Shell is a pool of temporary HP that has a fixed elemental type, including colorless.  When a character has a Shell applied to them, they will take double damage from all magical attacks.  In addition, when determining the elemental modifier to the damage they take or to their status effect modifier, you should take the target's elemental type to be the element of the Shell.  No character with the exception of some Bosses may have more than one Shell of a given elemental type active at a time, and no player character may ever have more Shell than their base Health.  An enemy's maximum Shell is determined by the starting Shell they have in combat, and they cannot receive a Shell higher than this of any elemental type.
 
