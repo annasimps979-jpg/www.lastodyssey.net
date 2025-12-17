@@ -1,6 +1,4 @@
----
-title: Cities
----
+# Cities
 
 Population: 10,000-100,000.
 
