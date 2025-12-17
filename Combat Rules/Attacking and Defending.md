@@ -1,6 +1,4 @@
----
-title: Attacking and Defending
----
+# Attacking and Defending
 
 Some character abilities, such as buffs and debuffs, succeed no matter what.  However, there are three types of abilities that can hit or miss depending on the circumstances: physical attacks, magical attacks, and status-inflicting abilities.  The same mechanics listed below for player characters and their allies targeting enemies also apply to enemies targeting player characters or their allies.  When you use any of these three kinds of abilities, you must always roll a 1d10 known as the hit die, whose result will determine whether or not the ability succeeds.  If the ability in question targets multiple enemies, you only roll the hit die once, and use the resulting number to determine whether you hit and the base damage you deal against each one separately.
 
