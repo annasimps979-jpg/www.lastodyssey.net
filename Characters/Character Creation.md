@@ -1,6 +1,4 @@
----
-title: Character Creation
----
+# Character Creation
 
 In Last Odyssey, each player will take control of a single player character.  A group of player characters is called a party.  The role of the party is to be agents in the world, taking on quests, going new places, and being a force for positive change.  As they continue on in the campaign, they will gain new abilities and increase their attributes and statistics.  The basic measure of a character's strength is a number called their tier, which goes from 1 all the way up to 10.  The following section outlines the process for making a new tier 1 character.  For characters beyond tier 1, see the Character Advancement section.
 
