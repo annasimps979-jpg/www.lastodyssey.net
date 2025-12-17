@@ -1,0 +1,22 @@
+---
+title: Investigation
+---
+
+Players in a new area will usually be ignorant of the traits of enemies, the local weather patterns, the Lore of the world an/or an area, or other information pertinent to their objectives.  This knowledge is often quite scarce, and therefore valuable enough that it shouldn't just be handed to them for free.  It might be worked for, traded for, bartered for, or be handed out as a quest reward, but at bare minimum players should be able to access information via something called an investigation roll.  When players are attempting to gather scarce information, they should pick the attribute that is most relevant to the manner in which they are gathering information and then roll a 1d10.  If they roll equal to or below their current value in that attribute, with a 10 in a given attribute counting as a 9, they will be able to ask 2d6 questions about the fiction for the GM to answer.  If they roll above their target number, they do not "fail" but instead are able to ask 1d6 questions.  The main types of investigation rolls are as follows:
+*  Tracking.  When attempting to find information by examining physical evidence or searching a specific area, the player should roll equal to or under their character's Body.
+*  Research.  When attempting to find information in written materials or deduce it via scientific research, the player should roll equal to or under their character's Mind.
+*  Gossip.  When attempting to listen in on conversations in a tavern or learn information through socializing with willing sources, the player should roll equal to or under their character's Spirit.
+
+Gathering information is a time-consuming process, but does not always take all day.  In most cases, each player character should be able to perform one investigation roll per day.  If an NPC or other player character aids the character whose player is making an investigation roll, each additional investigation roll does not increase the total number of questions asked.  Instead, each of the participants makes the same check separately, and if one of them rolls equal to or under the relevant attribute, they may all ask 2d6 questions in total.  If none of them roll equal to or above the required number, they may only ask 1d6 questions in total instead.
+
+If certain kinds of information are not accessible via a regular investigation roll, players also have the option of earning it as a reward for tasks or directly buying it with cr.  In general, a question that is common knowledge for people in the area is worth 1 cr, a question that is only answerable by a professional is worth 5 cr, and a question that is rare or unique is worth at least 100 cr, if not more, in addition to the blood, sweat, and tears involved in figuring out whom to ask.  Not everyone can be bribed, of course, but people of influence and people whose professions revolve around knowledge gathering are generally happy to accept money in exchange for sharing what they know.
+
+Not every question that the players ask will be worthy of an investigation roll.  If a piece of information is common knowledge or it is reasonable that a player would know it due to their particular background, the GM should simply provide it to the players directly.  However, there are several categories of question that will almost always require an investigation roll to answer.  These are:
+*  Questions about local enemies, such as information about their creature and elemental types, statistics, abilities, and item tables.
+*  Questions about nearby paths, such as their danger rating, their navigation difficulty, how long they are, where they lead, and what weather players might encounter along the way.
+*  Questions about local goods and services, including what merchants, professionals, and followers are in the area and where to find resources and equipment.
+*  Questions about antagonists, including their past and present activities, their abilities, how much power and Anima they have accumulated, and what they might be planning.
+*  Questions about Lore, particularly Lore that the source the players are investigating specializes in.
+*  Any other rumors that the GM thinks would lead players in the right direction.
+
+If players do not have any questions in mind, they can make a _directionless investigation roll._  If they make a directionless investigation roll, they will learn 1d4 pieces of information of the GM's choice.

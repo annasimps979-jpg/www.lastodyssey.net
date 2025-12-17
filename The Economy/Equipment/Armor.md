@@ -1,0 +1,94 @@
+---
+title: Armor
+---
+
+A character's equipped armor set provides a bonus to their Magical Defense and a bonus to their Physical Defense.  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during combat.  The rules for armor upgrades are identical to the rules for weapon upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  Unlike weapons, there are only three varieties of armor, and they also determine the bonuses that characters receive to their statistics.  These are Cloth armor, Light armor, and Heavy armor, and the resulting bonuses are as follows:
+
+Cloth:
+*  Mundane Cloth armor grants a +0 to Physical Defense and a +2 to Magical Defense.
+*  Rare Cloth armor grants a +1 to Physical Defense and a +3 to Magical Defense.
+*  Expert Cloth armor grants a +2 to Physical Defense and a +4 to Magical Defense.
+
+Light:
+*  Mundane Light armor grants a +1 to Physical Defense and a +1 to Magical Defense.
+*  Rare Light armor grants a +2 to Physical Defense and a +2 to Magical Defense.
+*  Expert Light armor grants a +3 to Physical Defense and a +3 to Magical Defense.
+
+Heavy:
+*  Mundane Heavy armor grants a +2 to Physical Defense and a +0 to Magical Defense.
+*  Rare Heavy armor grants a +3 to Physical Defense and a +1 to Magical Defense.
+*  Expert Heavy armor grants a +4 to Physical Defense and a +2 to Magical Defense.
+
+## Armor Upgrades
+Variable:
+*  Reinforced.  When you are hit by a physical attack while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 2, and at UV 3 this reduces damage by 3.
+*  Inscribed.  When you are hit by a magical attack while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 2, and at UV 3 this reduces damage by 3.
+*  Extra Ability.  When a character wears armor with this upgrade, they are able to use a single flex power, job power, or class ability at twice its normal MP cost.  At UV 1, the ability is earned at of Rank 1-3 of the job or class that can use it, at UV 2 the ability is earned at Rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.
+*  Elemental Resistance.  When you wear this armor set, you resist damage of the specified elemental type based on the value of the upgrade.  At UV 1, damage dealt to you of that elemental type is multiplied by 0.5, at UV 2 it is multiplied by 0.25, and at UV 3 you are completely immune.
+*  Chain Vest.  At the beginning of every battle while wearing this armor, you gain an amount of temporary HP depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, you gain 5 HP, at UV 2 you gain 10, and at UV 3 you have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum Shell you can have during the battle.
+
+UV 1:
+*  Elemental Type.  When you wear armor that has this upgrade, you count as having the specified elemental type when calculating received damage.  This is overridden by class abilities like Dancer's Mask that change your elemental type, and also does not affect any Shells that you receive during battle.  You cannot have more than one of this upgrade on a single piece of armor.
+*  Invigorating.  While you are wearing this armor, you are immune to debuffs that affect the specified statistic.  This upgrade cannot stack, but you can have multiple upgrades that make you immune to different statistics at once.
+*  Weatherproofing.  While you are wearing this armor, you are immune to the negative and positive effects of a single type of weather effect.  This cannot stack, but you may be immune to more than one type of weather effect due to different versions of this upgrade at a time.
+*  Status Resistance.  While you are wearing this armor, the probability of an enemy inflicting a particular status effect on you is reduced as though you were resistant to the effect's elemental type.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status effect, but you can resist multiple statuses at once with different versions of this upgrade.
+*  Sealed.  This armor lets you function in an environment such as vacuum or underwater without suffering any negative effects.  This does not stack, but armors can be sealed to multiple environments at once.
+
+UV 2:
+*  Flexible.  You have a +1 to your Evasion while you are wearing this armor.
+*  Proofed.  You have a +1 to your Resistance while you are wearing this armor.
+*  Fitted.  Characters that do not have the correct proficiency to allow them to wear this armor may still wear it without any penalties.
+*  Plated.  When you are hit by an attack that does colorless, physical damage, the damage it deals to you is multiplied by 0.5 in addition to any other multipliers.
+*  Status Immunity.  When you are wearing armor with this upgrade, you are immune to the specified status effect.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status effect.
+
+UV 3:
+*  Barbed.  When an enemy hits you with a melee attack while you are wearing this armor, they automatically receive the status effect specified by this upgrade.
+*  Enchanted.  If you are wearing this armor at the beginning of combat, you automatically gain 20 points of Shell of the specified elemental type of this upgrade.  You still gain this even if your Health is less than 20.  All other rules for Shells apply as normal.
+*  Blessed.  You are immune to all debuffs while wearing this armor, and you are also immune to any effects that reduce your AP in any capacity.
+*  Mana Battery.  When you begin a battle, you gain 20 temporary MP in addition to your normal MP.  Any remaining amount of this MP goes away at the end of the battle.
+*  Mechanical.  When you are wearing this armor, you are immune to any effects that prevent you from using certain actions, such as Silence, Frostbite, or Fear.
+
+Unique:
+*  Corrupted.  When your character would otherwise be permanently killed by the actions of a Villain or Monster, something else happens instead.
+*  Druidic.  While you are wearing this armor, any healing you do to either yourself or allies is multiplied by 1.5, rounded down.  This applies in or out of combat.
+*  Exoskeleton.  If you are wearing this armor at the beginning of a battle, you automatically gain Hasted without having to have it cast on you.  This effect still cannot stack with the effects of the Haste ability.
+*  Vengeful.  When you take physical damage due to an enemy's attack while wearing this armor, the enemy immediately also becomes the target of their physical attack as though they had attacked themselves as well as you.
+*  Conductive.  When you take magical damage due to an enemy's attack while wearing this armor, the enemy immediately also becomes the target of their magical attack as though they had attacked themselves as well as you.
+*  Weapons Platform.  While you are wearing this armor, you can swap weapons and accessories without spending any AP as many times as you like per turn.
+*  Angelic.  This armor gives you wings that allow you to take the Fly action during combat.  Fly costs 1 AP and puts you within melee range of every enemy on the battlefield as though you were in the front row, while putting you out of melee range of their attacks as though you were in the back row.  However, if you are hit by any attacks while Flying, you will fall back down to the front row of the battlefield.
+*  Utility Belt.  While you are wearing this armor, you can use one Item from the party inventory per round without spending any AP.
+*  Masterwork.  This armor is of unusual quality.  Cloth armor with this ability gives +4 Magical Defense and +6 Physical Defense, Light armor gives +5 Magical Defense and +5 Physical Defense, and Heavy armor gives +4 Magical Defense and +6 Physical Defense.
+*  Bound.  While wearing this armor during combat, you cannot deal any damage, use the Move action, or use items.  However, you also cannot take any damage that would not automatically kill you or break your current Shell.  You can use any other abilities as normal.
+
+## Example Armor
+
+*  Boiled Leather Jerkin.  Mundane Light Armor.  Treated: This armor set has Reinforced 1.
+*  Soldier's Uniform.  Rare Heavy Armor.  Fitted: Any character can wear this whether or not they are proficient in Heavy armor.
+*  Instructor's Robes.  Expert Cloth Armor.  Teaching Aid: This armor grants the user Mana Battery when worn.
+*  Black Knight's Armor.  Unique Heavy Armor.  Death Knight's Curse: This armor is Corrupted, and is also Plated and has the Shadow elemental type.
+
+## Armor Generation
+To generate a new random piece of armor, first choose the type and the Quality. Then, roll on the table below until you have generated a number of upgrades whose total UV add up to the possible UV of the armor. If you roll a Variable upgrade, give the armor the UV 1 version. If you roll an upgrade that would put the total Upgrade Value of the weapon above its maximum, reroll.
+
+|Result|Upgrade|
+|:-|:-|
+|1|Reinforced|
+|2|Inscribed|
+|3|Extra Ability|
+|4|Elemental Resistance|
+|5|Chain Vest|
+|6|Elemental Type|
+|7|Invigorating|
+|8|Weatherproofing|
+|9|Status Resistance|
+|10|Sealed|
+|11|Flexible|
+|12|Proofed|
+|13|Fitted|
+|14|Plated|
+|15|Status Immunity|
+|16|Barbed|
+|17|Enchanted|
+|18|Blessed|
+|19|Mana Battery|
+|20|Mechanical|

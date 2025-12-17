@@ -1,0 +1,15 @@
+---
+title: Climate Modifiers
+---
+
+Some climates are more hostile than others.  If GMs want to provide more variation and challenge to their players while they travel along a path, or if the region is in the grip of a Monster, they can add one or more of the following modifiers to a given climate:
+*  Mild: the climate here is less volatile than usual.  Unless otherwise specified, instead of rolling a 1d10 to determine the weather during the navigation phase, the GM should roll a 1d6 and then consult the weather table.
+*  Dangerous: the climate here is more volatile than usual.  Unless otherwise specified, instead of rolling a 1d10 to determine the weather during the navigation phase, the GM should roll a 1d6 and add 4 and then consult the weather table.
+*  Subterranean: this region or path is deep underground.  All effects due to glare or brightness are negated, but the navigation difficulty is increased by 2 unless the players are able to maintain a light source.
+*  Volcanic: this area is home to high volcanic activity.  Every day, the GM should roll an additional 1d10 when they roll on the weather table.  If they roll a 10 on this die, volcanic activity will be visible in the sky, obscuring the sun and negating any effects from brightness.  However, they will also have to resist a status-inflicting ability during the navigation phase with a Status Accuracy equal to the navigation difficulty of the path that inflicts Poisoned on a hit unless they have proper protection.
+*  Overgrown: the path is choked with flora, making it difficult to advance forward.  The navigation difficulty is increased by 2.
+*  Barren: there is very little life here, or at least very little life that is well-suited to harboring humans.  The Hunt and Gather actions are impossible during the camping phase.
+*  Artificial: the weather patterns here are determined by something more purposeful than the laws of physics.  The Divine action is impossible during the camping phase, but the weather is deterministic rather than random, and players should be able to discover the pattern either through deduction or through gathering Lore.
+*  Burning: this region is currently suffering from ongoing wildfires.  Every day, the GM should roll an additional 1d10 when they roll on the weather table.  If they roll a 10 on this die, the player characters will have to avoid a nearby fire, which takes the form of a status-inflicting ability during the navigation phase with a Status Accuracy equal to the navigation difficulty of the path that inflicts Burned on a hit against them.
+*  Windy: high winds scour this area, and make it more difficult to travel.  Players must wear a Cloak of some variety every day or else take an amount of damage equal to the navigation difficulty of the path during the navigation phase.
+*  Infested: this area is crawling with enemies.  If the player characters do not encounter a natural hazard during the encounter phase, they will automatically have an enemy encounter.

@@ -1,0 +1,12 @@
+---
+title: Landmarks
+---
+
+Not every populated area necessarily follows usual settlement patterns, especially not in weirder settings where people might find alternate ways of sustaining themselves other than the techniques used by humans in the real world.  Even in the real world, places such as temples, manors, fortresses, and monasteries were isolated from settlements for logistical or theological reasons.  In Last Odyssey, all of these kinds of places can exist, and adding them to the overworld can serve to enrich a setting and give players more variety in the kinds of places they will discover during the campaign.  A secluded rebel headquarters in the wilderness, the temple of a forgotten god, the tower of a genial but mad wizard or artificer, an isolated tavern, a hunting lodge in the woods, or anything else the GM can think of are all examples of possible landmarks that the players could come across.
+
+When making a landmark, the GM should consider the following questions:
+*  Why is this place isolated from the surrounding settlements?  Are its residents outcasts or criminals of some kind?  Have they taken vows of seclusion from the outside world?
+*  Human beings, regardless of who they are, need food, water, and shelter.  If not from usual settlement patterns, how do the people here get their resources?  Do they have their own gardens?  Are offerings brought in from somewhere else?  Do they steal from the surrounding countryside, or even conduct raids?
+*  Who runs this place, and how?  Is it an authoritarian cult, or a libertarian commune?  Who are the leadership, and what is their attitude towards the players?
+*  What goods and services are available to players, and what is the price they pay for accessing them?  Is resting here free, or does it cost money?  Are these things only available to members of a certain faction, or are they available to all?
+*  It is likely that this place will distinguish itself from other settlements in terms of its decore and its overall feel.  What does it look like, and what about it makes it memorable for players?  Is it a tall, imposing fortress, or a modest hut?  Is it in a particularly overgrown or populous region, or is the surrounding countryside barren, and if so, why?

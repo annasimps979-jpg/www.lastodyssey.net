@@ -1,0 +1,9 @@
+---
+title: The Party Inventory
+---
+
+Carry weight and capacity are represented in Last Odyssey by the Item Rating system.  In addition to its effects and base cost, each item in the party inventory has an Item Rating that is an estimate of how much space it takes up during travel.  The Carrying Capacity of each character is the maximum sum total rating of the items that they can carry at once.  Each character's Carrying Capacity is equal to 5 times their Body attribute plus 10.  Unless otherwise specified, all battle items have an Item Rating of 1.  Travel items can have ratings of anywhere from 1-10, weapons have a rating of 5, armor has a rating of 10, and each accessory has a rating of 2.  However, your equipped weapon, armor, and accessories do not count towards your carrying capacity, only extra equipment that you carry on your person.
+
+During battle, all of the battle items that each player has are shared between party members.  However, weapons and accessories are not.  This means that any character can use any item in the party's inventory, but cannot equip another player's held weapons or accessories during battle.  Once a battle item is used once, it is automatically expended and disappears from the party inventory as its material form is consumed to power the magical effect it causes.  Only battle items can be used during battle, but all items including battle items can be used outside of battle.  Unless otherwise specified, it takes a trivial amount of time for a character to use a battle item outside of combat, up to a few minutes.  When you use a battle item, you can use it on any character on the battlefield including yourself regardless of where that character is currently located.
+
+There are two different types of items that have fixed rules governing them in Last Odyssey: battle items and travel items.  Other objects can take up Carrying Capacity, but this is left up to GM fiat.

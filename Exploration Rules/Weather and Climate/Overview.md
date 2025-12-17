@@ -1,0 +1,36 @@
+---
+title: Weather and Climate
+---
+
+A large part of the character of an overworld in Last Odyssey is its climate.  From a storytelling perspective, the climate of a given place contributes a great deal to making it feel memorable and distinct from other parts of the game.  Mechanically, it also determines the weather that the players will encounter as they traverse its paths.  For each different distinct climate the players encounter, there is a different corresponding _weather table._  To make a roll on the weather table, the GM should roll a 1d10.  The number shown on the die will correspond to the type of weather that the players will encounter for that day.  The exception to this is if a type of weather called a Storm took place the day before, in which case the GM should instead determine the weather based on the rules for the particular Storm instead.
+
+In order of danger, the possible weather effects are shown in the table below.
+|Weather|Effect|
+|:-|:-|
+|Sunny|The sky is a pleasant, clear blue, and the temperature is mild.  The players do not experience any penalties or bonuses.|
+|Cloudy|The sky is filled with clouds that cast shadows over the ground, and the temperature is cool.  The players do not experience any bonuses or penalties.|
+|Bright|The sun is out and beating down right on the characters.  At the end of the camping phase, all characters that did not wear a Sunproof Cloak or piece of Armor will receive the Burned status effect.  During combat encounters, all characters who are not wearing a Sunproof Cloak will begin the first round with the Blinded status effect.|
+|Rainy|Rain is coming down from the clouds, making tools and equipment damp.  All characters that did not wear a Waterproof Cloak or piece of Armor will lose one item of the GM's choice due to their pack filling with water.  On Rainy days, the navigation difficulty of the path counts as 1 greater than normal.|
+|Foggy|A fine, white mist cloaks everything, making it significantly harder to see.  On Foggy days, the navigation difficulty of the path counts as 1 greater than normal.  In addition, enemies during enemy encounters will gain a surprise round unless the Scout action was used the day before.|
+|Snowy|Snow drifts gently down from the sky, piling up on the ground and creating problems for the unwary.  Players whose characters that did not wear a Coldproof Cloak or piece of Armor should roll a 1d4 during the camping phase.  Each character whose player rolls a 4 will develop the Frostbitten status effect.|
+|Hot|It is unbelievably hot, far hotter than the human body can truly handle.  At the end of the camping phase, all characters that did not wear a Sunproof Cloak or piece of armor will receive the Burned status effect.  Also, every player whose character did not wear a Heatproof Cloak or piece of Armor should roll a 1d4.  If they roll a 1, their character takes an injury as though they had been downed in battle.|
+|Humid|It should be raining, but it isn't, and it's so hot and sticky out that it's difficult to breathe.  At the end of the camping phase, all characters that did not wear a Waterproof Cloak will receive the Poisoned status effect.  Characters that do not wear a Heatproof Cloak should roll a 1d4.  If they roll a 1, their character takes an injury as though they had been downed in battle.|
+
+_Storms_ are special types of weather that last for multiple days if triggered.  During the navigation phase the following day after the GM rolls a Storm on the Weather Table, the weather is not determined as normal.  Instead, the GM should roll a 1d4 and add 6 to determine the result on the weather table for that day.  There are three types of Storms: Thunderstorms, Snowstorms, and Sandstorms.
+|Storm|Effect|
+|:-|:-|
+|Thunderstorm|The sky opens up, rain pours down, and lightning begins to boom.  All characters that did not wear a Waterproof Cloak or piece of Armor will lose 2 items of the GM's choice due to their pack filling with water.  Also, if no character takes the Shelter action during the camping phase, the characters will be unable to use the Cook, Recover, or Mend actions, and will take an injury as though they had run out of Supplies.  The navigation difficulty of a path counts as 2 greater than normal during a Thunderstorm.|
+|Snowstorm|High winds blow swirling vortices of snow and sleet directly into the faces of the characters, obscuring the trail and making it difficult to camp.  During a Snowstorm, enemies during enemy encounters will gain a surprise round unless the Scout action was used the day before.  At least two characters should take the Shelter action during the camping phase, or else characters will be unable to use the Cook, Recover, or Mend actions, and will take an injury as though they had run out of Supplies as well as gaining the Frostbitten status effect.  The navigation difficulty of a path counts as 2 greater than normal during a Snowstorm.  Finally, at the end of the camping phase, all characters that did not wear a Coldproof Cloak or piece of Armor will receive the Frostbitten status effect regardless of whether they take the Shelter action during camping.|
+|Sandstorm|During a Sandstorm, enemies during enemy encounters will gain a surprise round unless the Scout action was used the day before.  At least two characters should take the Shelter action during the camping phase, or else characters will be unable to use the Cook, Recover, or Mend actions.  No matter what, they are also unable to use the Scout and Watch actions during the camping phase.  The navigation difficulty of a path counts as 3 greater than normal during a Sandstorm.|
+
+GMs are encouraged to build their own weather tables for different areas out of the weather effects described above.  This section contains six example climate types that are ready to use in your campaign:
+*  Coastal: Mild and warm.
+*  Temperate: Cool and wet.
+*  Boreal: Cold and wet.
+*  Tropical: Hot and wet.
+*  Desert: Hot and dry.
+*  Polar: Cold and dry.
+
+While players are not traveling, the weather does not have any mechanical effects.  However, to add flavor, GMs may choose to roll on the weather table every 24 in-game hours to determine the weather that day.  This can add to the character of a settlement, although GMs are not obligated to abide by the area's weather table given that the negative consequences of weather are meant to be due to long-term rather than short-term exposure.
+
+Sometimes, the players will spend enough time in an overworld that the seasons will change around them.  If this is the case, the GM can opt to keep track of the days as they go by with a seasonal calendar, which is a stretch of 365 days  Every time the players complete a travel round while traveling or rest for the day at a specific location, the GM should advance the day on the calendar by 1.  If they feel like it, GMs can get creative with this, choosing festival days, marking out special seasons like wildfires or high winds, and creating transitional periods when one season becomes another.  Doing so will give Last Odyssey a more pastoral tone, and GMs and players should discuss whether or not this is the type of game they'd like to play.
