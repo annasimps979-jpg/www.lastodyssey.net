@@ -1,6 +1,4 @@
----
-title: Tier 1 Enemies
----
+# Tier 1 Enemies
 
 ## Police
 The police are deployed against protestors, activists, criminals, and anyone else that the government perceives as threatening the established order.
