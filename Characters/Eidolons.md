@@ -1,6 +1,4 @@
----
-title: Eidolons
----
+# Eidolons
 
 Anima finds its highest expression in the magic of the eidolons.  A character's eidolon is a demigodlike being whose power protects and is in turn fed by the deepest parts of a character's soul.  An eidolon does not need to straightforwardly reflect who a character is on the surface.  A character who is kind and compassionate might be protected by a powerful dragon, while a character who is tough and stoic might be protected by an ethereal goddess.  In Last Odyssey, a character's eidolon performs two main functions.  The first of these is to intervene outside of combat in order to save characters from dire circumstances, and the second of these is to be summoned inside of combat to fight on the party's behalf.
 
