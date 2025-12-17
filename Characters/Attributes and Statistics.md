@@ -1,6 +1,4 @@
----
-title: Attributes and Statistics
----
+# Attributes and Statistics
 
 The capabilities of a character during battle are represented by their attributes, their statistics, and their abilities.  Likewise, the abilities a player character can use are determined by the job they occupy and its current rank, their class, their items, their equipment, and whatever flex powers they have taken during character advancement.
 
