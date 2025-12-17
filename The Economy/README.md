@@ -1,6 +1,4 @@
----
-title: The Economy
----
+# The Economy
 
 In the Last Odyssey rulebook, the word "currency" is shortened to "cr."  This number is an abstraction, and represents the accumulated gold, silver, bronze, platinum, credits, paperbacks, or any other form of currency the players have accumulated, as well as the various valuable but useless items that the players acquire as loot along their journey.  Last Odyssey is not a game about being traveling merchants, and making a full determination of the price of trade goods from town to town is complicated and would be the subject of a great deal of bookkeeping on the part of the GM and their players if attempted.  That being said, if GMs and players want to simulate trade, they can substitute cr with items of equivalent value.  They should keep track of the corresponding cr value of each given item, and change it over time or over space to represent the forces of supply and demand.  Keep in mind, however, that in a pre-industrial and pre-mercantile age market pressures are much weaker than they are in the contemporary age, and phenomena like inflation are rare except in cases of crisis.
 
