@@ -1,6 +1,4 @@
----
-title: Accessories
----
+# Accessories
 
 An accessory is a kind of item that is worn on the body but is not a piece of armor.  There are three types of accessories: Head, Arm, and Loop.  Characters may wear up to one Head accessory, two Arm accessories (one for both arms), and two Loop accessories (one on their neck and one on their waist) at a time.  Characters of any tier can wear any type of accessory, but characters may only wear a number of accessories at a time equal to their tier divided by two, at a minimum of 1.  This means that tier 1 characters can wear 1 accessory at a time, while tier 10 characters can wear 5 at a time, one on their Head, two on their Arms, one on their Neck, and one on their Waist.
 
