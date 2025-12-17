@@ -1,6 +1,4 @@
----
-title: Tier 3 Enemies
----
+# Tier 3 Enemies
 
 ## Living Dead
 When necromancers or bioengineers create constructs out of dead bodies, these are the creatures that result.
