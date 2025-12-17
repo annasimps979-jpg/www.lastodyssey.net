@@ -1,6 +1,4 @@
----
-title: Status Effects
----
+# Status Effects
 
 When a character successfully hits another with a status-inflicting ability, the target or targets of the ability in question are now under the received status effect until they are either cured by an item or ability.  The status effect inflicted by an ability of this type is determined by its elemental type.  Unlike damaging abilities, elemental resistances do not change the actual effect of the ability.  Instead, they change the probability that the target will receive the status effect at all.  When a character uses a status-inflicting ability against another character on the battlefield, consult the element table in the last section, with the element associated with the power on the left-hand column and the element of the target on the top.  There is no such thing as a colorless status effect.  The associated multiplier changes the probability as follows:
 
