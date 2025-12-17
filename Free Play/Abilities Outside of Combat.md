@@ -1,6 +1,4 @@
----
-title: Abilities Outside of Combat
----
+# Abilities Outside of Combat
 
 Player characters, being endowed with the power of Mana, can use their spells to defeat enemies.  These same spells will sometimes have utility outside of combat.  When necessary, GMs should adhere to the following rules when making rulings about how they function:
 *  The MP cost of an ability is the same out of combat as it is in combat.  Players can cast as many abilities at a time as they like.
