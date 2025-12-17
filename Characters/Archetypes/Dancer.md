@@ -1,6 +1,4 @@
----
-title: Dancer
----
+# Dancer
 
 The Dancer's core virtue is their **Charm.**  At character creation, they gain the following traits:
 *  Proficiency in Cloth armor.
