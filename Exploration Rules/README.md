@@ -1,6 +1,4 @@
----
-title: Exploration
----
+# Exploration
 
 In Last Odyssey, the wilderness is vast and dangerous.  Human settlements are connected, but oftentimes it is a struggle for ordinary people to journey between them.  In Last Odyssey, journeying between locations is handled structurally rather than merely via free play.  This is to maintain a sense of pacing, and also to create a framework for making the world feel dangerous, and therefore real.  In many ways, travel is much like combat, in that it is a structured form of play the group enters and exits at specific points during play in order to resolve a certain section of the narrative.  In this case, when the group is traveling a significant distance, that is, great enough that it would take more than six hours of walking to get there, then this counts as travel.
 
