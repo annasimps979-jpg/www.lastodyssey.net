@@ -1,6 +1,4 @@
----
-title: Thief
----
+# Thief
 
 The Thief's core virtue is their **Cunning.**  At character creation, they gain the following traits:
 *  Proficiency in Light armor.
