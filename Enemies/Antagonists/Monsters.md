@@ -1,6 +1,4 @@
----
-title: Monsters
----
+# Monsters
 
 The other form of Antagonist in Last Odyssey is the Monster.  Every Monster has a Domain, which is a territory that it defends and attempts to expand in order to earn Anima.  Domains are almost always physical territories, such as a network of temples or a forgotten crypt.  A Monster's Domain will reflect its nature in recognizable ways.  Forests might grow dark and foreboding, or become infested with insects.  A feudal domain might become miserable and oppressive, while a city or town might experience a sudden, inexplicable bout of plague.  Defeating a Monster is often the key to ridding the world of such ills.  When a Monster is thrown out of its Domain, it might become a Villain if it has the capacity.  Otherwise, if it is not promptly killed, it will eventually take root in a new Domain and continue to spread its influence.
 
