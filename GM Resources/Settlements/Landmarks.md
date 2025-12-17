@@ -1,6 +1,4 @@
----
-title: Landmarks
----
+# Landmarks
 
 Not every populated area necessarily follows usual settlement patterns, especially not in weirder settings where people might find alternate ways of sustaining themselves other than the techniques used by humans in the real world.  Even in the real world, places such as temples, manors, fortresses, and monasteries were isolated from settlements for logistical or theological reasons.  In Last Odyssey, all of these kinds of places can exist, and adding them to the overworld can serve to enrich a setting and give players more variety in the kinds of places they will discover during the campaign.  A secluded rebel headquarters in the wilderness, the temple of a forgotten god, the tower of a genial but mad wizard or artificer, an isolated tavern, a hunting lodge in the woods, or anything else the GM can think of are all examples of possible landmarks that the players could come across.
 
