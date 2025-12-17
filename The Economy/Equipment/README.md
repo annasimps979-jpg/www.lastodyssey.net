@@ -1,6 +1,4 @@
----
-title: Equipment
----
+# Equipment
 
 A character's base Physical and Magical Attack and Defense as well as their base Evasion and Resistance are affected by special items that they carry on their person into combat called _equipment._  By default, a character can wear three types of equipment: weapons, which give bonuses to their base Magical and Physical Attack; armor, which gives bonuses to their base Physical and Magical Defense; and accessories, which give bonuses to their base Evasion and Resistance.
 
