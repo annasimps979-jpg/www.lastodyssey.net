@@ -1,6 +1,4 @@
----
-title: Climate Modifiers
----
+# Climate Modifiers
 
 Some climates are more hostile than others.  If GMs want to provide more variation and challenge to their players while they travel along a path, or if the region is in the grip of a Monster, they can add one or more of the following modifiers to a given climate:
 *  Mild: the climate here is less volatile than usual.  Unless otherwise specified, instead of rolling a 1d10 to determine the weather during the navigation phase, the GM should roll a 1d6 and then consult the weather table.
