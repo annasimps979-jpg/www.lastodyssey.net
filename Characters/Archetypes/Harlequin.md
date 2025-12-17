@@ -1,6 +1,4 @@
----
-title: Harlequin
----
+# Harlequin
 
 The Harlequin's core virtue is their **Daring.**  At character creation, they gain the following traits:
 *  Proficiency in Light armor.
