@@ -1,6 +1,4 @@
----
-title: The Combat Round
----
+# The Combat Round
 
 The standard unit of time that each battle is divided into is known as a _round._  After the initiative order is determined and all other pre-battle steps are taken into consideration, the first round of combat begins.  This round, and each subsequent round, are divided into three phases which take place in order:
 1.  The Action Phase.  This is the phase in which each character on the field takes their turn in the order determined by the results of calling initiative.
