@@ -1,6 +1,4 @@
----
-title: Tier 9 Enemies
----
+# Tier 9 Enemies
 
 ## Invaders
 Alternate dimensions contain sentients of their own.  While most transdimensional denizens are benign, those that willingly choose to colonize other dimensions often aren't.
