@@ -1,6 +1,4 @@
----
-title: Death and Injury
----
+# Death and Injury
 
 When a character drops to 0 HP or below inside of combat, they are considered _downed._  When a character is downed, all of the effects applied to them automatically go away, including buffs, debuffs, Hasted, Slowed, status effects, and Shells, with the exception of Poisoned, Frostbitten, and Burned.  They cannot act, and cannot be the target of any actions except those that revive them.  When they are revived during the battle, they take the place they previously occupied in the Initiative order, and will act on the first turn they have after the turn of the character that revived them.  However, when they are downed they also lose the opportunity to act on their held turn regardless of whether or not they are revived before it.
 
