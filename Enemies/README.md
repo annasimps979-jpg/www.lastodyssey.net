@@ -1,6 +1,4 @@
----
-title: Enemies
----
+# Enemies
 
 In Last Odyssey, every character that is capable of fighting the player characters in combat is called an _enemy._  Not every NPC is an enemy.  In general, if a character has the capacity to last for more than a couple of seconds in a stand-up fight against an armed opponent and the GM expects that the players might fight them, then they should be given a set of combat statistics.
 
