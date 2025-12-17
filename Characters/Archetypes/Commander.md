@@ -1,6 +1,4 @@
----
-title: Commander 
----
+# Commander
 
 The Commander's core virtue is their **Leadership.**  At character creation, they gain the following traits:
 *  Proficiency in Heavy armor.
