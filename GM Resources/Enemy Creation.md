@@ -1,6 +1,4 @@
----
-title: Enemy Creation
----
+# Enemy Creation
 
 GMs who want to introduce enemies not included in the Example Enemies section have a few options.  First, they could take a pre-existing enemy and change it superficially, either by altering its creature type or element and the elemental types of its abilities and then changing its name and appearance.  They could also take an existing enemy and change its abilities.  Whatever the GM decides, it is recommended that they not hew too closely to any one roster of "canon" enemies.  This is partially to maintain the sense of danger and discovery for players, and partially because learning about the abilities and statistics of the enemies that player characters will face on the road is a core part of the experience of Last Odyssey.
 
