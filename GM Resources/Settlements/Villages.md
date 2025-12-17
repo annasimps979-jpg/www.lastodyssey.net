@@ -1,6 +1,4 @@
----
-title: Villages
----
+# Villages
 
 Population: <1,000 people.  
 
