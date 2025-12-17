@@ -39,6 +39,4 @@ Forging bonds between players.  It's not just combat where player characters are
 
 Closed playtests are still ongoing--a big thank you to the participants, whose names I, as of writing this, do not have permission to disclose, who have already given me a lot of thoughtful feedback to incorporate.
 
-It looks a little different now, but I built this website from this template website's github page: [https://non-binary-trees.github.io/simple-srd/](https://non-binary-trees.github.io/simple-srd/)
-
 Special shout out to Billy, for helping me wrangle with the website-creation end of things; to Lottie, for keeping me humble; to Irving, for telling me I could do it; to Andrew, for telling me how to do it; to everyone who believed in me.
