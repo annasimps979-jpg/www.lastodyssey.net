@@ -1,6 +1,4 @@
----
-title: True Death
----
+# True Death
 
 Player characters do not die like ordinary people.  Instead, they will only die under certain circumstances.  When this happens, they undergo something called True Death.  If a player character would undergo True Death due to the consequences of either their own actions or the actions of a Villain or Monster, they may spend 3 Anima to beseech their Eidolon to save their life, in which case they will be revived at 1 HP as soon as the immediate danger that led to their death has passed.  If they are unable to do this, they are gone forever, and cannot be resurrected by any means.  If they still have Anima remaining, it is distributed to the other player characters unless otherwise specified.
 
