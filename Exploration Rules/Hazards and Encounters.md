@@ -1,6 +1,4 @@
----
-title: Hazards and Encounters
----
+# Hazards and Encounters
 
 There are two types of dangers that players will encounter on the road: _natural hazards_ and _enemy encounters._  A natural hazard is a blockage due to the environment--a tangle of brambles, a field of poppies that put characters to sleep, a swamp filled with leeches, or a similar type of obstacle.  To survive a natural hazard, players must approach it like a puzzle challenge, using Supplies, lateral thinking, and/or Anima to overcome it.  To survive an enemy encounter, players will have to win in combat or flee.
 
