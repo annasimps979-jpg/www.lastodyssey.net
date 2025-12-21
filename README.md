@@ -32,7 +32,7 @@ Forging bonds between players.  It's not just combat where player characters are
 
 * [**Key Terms:**](Extras/Key-Terms.md) Some words you might need to know.
 
-* [**Table of Contents:**](Extras/Table-of-Contents.md) All sections in order.
+* [**Table of Contents:**](Extras/Table-of-Contents.md) All sections in order of necessity and complexity.
 
 ## Acknowledgements
 
