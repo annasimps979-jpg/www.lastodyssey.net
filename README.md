@@ -28,7 +28,7 @@ Forging bonds between players.  It's not just combat where player characters are
 
 ## Getting Started
 
-* [**Beginner's Guide:**](Beginner's-Guide/What-Is-Fantasy-Role-Play?.md) For people new to FRP and people new to Last Odyssey.
+* [**Beginner's Guide:**](Beginner's-Guide/What-Is-Fantasy-Role-Play.md) For people new to FRP and people new to Last Odyssey.
 
 * **Glossary:** Some words you might need to know.
 
