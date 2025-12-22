@@ -81,7 +81,7 @@
   - [Lore](https://annasimps979-jpg.github.io/Free-Play/Lore.md)
   - [Puzzles](https://annasimps979-jpg.github.io/Free-Play/Puzzles.md)
   - [Quests](https://annasimps979-jpg.github.io/Free-Play/Quests.md)
-- **GM Resources**
+- [**GM Resources**](https://annasimps979-jpg.github.io/GM-Resources/README.md)
   - [Campaigns](https://annasimps979-jpg.github.io/GM-Resources/Campaigns.md)
   - [Dungeons](https://annasimps979-jpg.github.io/GM-Resources/Dungeons.md)
   - [Worldbuilding](https://annasimps979-jpg.github.io/GM-Resources/Worldbuilding.md)
