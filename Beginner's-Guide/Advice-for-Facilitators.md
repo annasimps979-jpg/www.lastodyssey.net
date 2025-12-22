@@ -1,5 +1,3 @@
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
-
 # Advice for Facilitators
 
 The most vital, most unsung, most underrated hero of every gaming group is its facilitator.  As facilitator, you are responsible for dealing with the logistics of the game--the when, the where, the how long, and the who.  You will be the one telling people to show up, coordinating snacks, cleaning up before and after, and making sure everyone has a good time.  The truth is that everyone in the group ought to contribute to this, but some people will inevitably contribute more than others.  Rather than letting the work flow downhill to the person who is socially expected to do this (in a lot of cases, the women), designating one or two people as facilitator can massively improve your group experience, both so someone is accountable for doing this work, and so the person who is doing it feels properly thanked for it.
