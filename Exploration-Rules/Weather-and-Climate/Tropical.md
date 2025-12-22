@@ -5,6 +5,7 @@ Jungles, the summer months in hotter regions, and the wet season on islands are 
 Example natural hazards: thick foliage, a leech-filled swamp, a surging river.
 
 Weather Table:
+
 |Result|Weather|
 |:-|:-|
 |1|Sunny|
