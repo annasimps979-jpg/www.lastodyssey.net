@@ -16,6 +16,7 @@ In order of danger, the possible weather effects are shown in the table below.
 |Humid|It should be raining, but it isn't, and it's so hot and sticky out that it's difficult to breathe.  At the end of the camping phase, all characters that did not wear a Waterproof Cloak will receive the Poisoned status effect.  Characters that do not wear a Heatproof Cloak should roll a 1d4.  If they roll a 1, their character takes an injury as though they had been downed in battle.|
 
 _Storms_ are special types of weather that last for multiple days if triggered.  During the navigation phase the following day after the GM rolls a Storm on the Weather Table, the weather is not determined as normal.  Instead, the GM should roll a 1d4 and add 6 to determine the result on the weather table for that day.  There are three types of Storms: Thunderstorms, Snowstorms, and Sandstorms.
+
 |Storm|Effect|
 |:-|:-|
 |Thunderstorm|The sky opens up, rain pours down, and lightning begins to boom.  All characters that did not wear a Waterproof Cloak or piece of Armor will lose 2 items of the GM's choice due to their pack filling with water.  Also, if no character takes the Shelter action during the camping phase, the characters will be unable to use the Cook, Recover, or Mend actions, and will take an injury as though they had run out of Supplies.  The navigation difficulty of a path counts as 2 greater than normal during a Thunderstorm.|
