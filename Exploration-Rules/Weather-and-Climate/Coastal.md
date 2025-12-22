@@ -5,6 +5,7 @@ Lands with sunny and breezy climates are represented by this type.  The months o
 Example Natural Hazards: a rising tide, sheer cliffs, slippery rocks.
 
 Weather Table:
+
 |Result|Weather|
 |:-|:-|
 |1-3|Sunny|
