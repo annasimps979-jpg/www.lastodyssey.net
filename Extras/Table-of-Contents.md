@@ -1,7 +1,7 @@
 # Table of Contents
 
 - [**Beginner's Guide**](https://annasimps979-jpg.github.io/Beginner's-Guide/README.md)
-  - [What Is Fantasy Role Play?](https://annasimps979-jpg.github.io/Beginner's-Guide/What-Is-Fantasy-Role-Play?.md)
+  - [What Is Fantasy Role Play?](https://annasimps979-jpg.github.io/Beginner's-Guide/What-Is-Fantasy-Role-Play.md)
   - [What Is Last Odyssey?](https://annasimps979-jpg.github.io/Beginner's-Guide/What-is-Last-Odyssey.md)
   - [Getting Started](https://annasimps979-jpg.github.io/Beginner's-Guide/Getting-Started.md)
   - [Advice for Players](https://annasimps979-jpg.github.io/Beginner's-Guide/Advice-for-Players.md)
