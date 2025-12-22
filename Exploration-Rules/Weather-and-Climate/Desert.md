@@ -5,6 +5,7 @@ Arid, hot regions such as canyons, plateaus, or sandy deserts are represented by
 Example Natural Hazards: quicksand, a mirage, a deep canyon.
 
 Weather Table:
+
 |Result|Weather|
 |:-|:-|
 |1|Cloudy|
