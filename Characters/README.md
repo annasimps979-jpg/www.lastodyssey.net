@@ -5,6 +5,6 @@ In Last Odyssey, characters are like JRPG heroes, with strong personalities and 
 * [Character Creation:](Character-Creation.html) An overview of the elements of character building.
 * [Archetypes:](Archetypes/) What makes characters unique.
 * [Jobs:](Jobs/) A character's proficiencies during battle.
-* [Attributes and Statistics:](Attributes-and-Statistics.html) The mechanical heart of every character.
+* [Attributes and Statistics:](https://annasimps979-jpg.github.io/Characters/Attributes-and-Statistics.html) The mechanical heart of every character.
 * [Eidolons:](Eidolons.html) Summoned creatures to use during battle.
 * [Character Advancement:](Character-Advancement.html) How characters grow stronger.
