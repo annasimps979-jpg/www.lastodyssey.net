@@ -12,7 +12,7 @@ While enemies in combat are mostly the same as player characters, there are a fe
 
 An enemy's description in the Monster Manual will list their Tier, their creature type, their elemental type, and whether they are Normal, Elite, or an Antagonist for the purposes of XP calculation.  It will look like this: (XP Type Tier, Creature Type, Elemental Type).
 
-* [Encounter Creation](https://annasimps979-jpg.github.io/Enemies/Encounter-Creation.html)
-* [Enemy Creation](https://annasimps979-jpg.github.io/GM-Resources/Enemy-Creation.html)
-* [Antagonists](https://annasimps979-jpg.github.io/Enemies/Antagonists/)
-* [Example Enemies](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/)
+* [Encounter Creation](Encounter-Creation)
+* [Enemy Creation](Enemy-Creation)
+* [Antagonists](Antagonists/)
+* [Example Enemies](Example-Enemies/)
