@@ -4,7 +4,7 @@ In Last Odyssey, the wilderness is vast and dangerous.  Human settlements are co
 
 Each adventure the players go on is set in a finite part of a larger world.  The scope and scale of this region of the world is up to the GM, but it almost always takes the form of a set of interconnected locations, each of which will the stage for a particular act of the drama.  At the highest scale relevant for a single adventure in Last Odyssey, this is represented by a map that will be referred to in these rules as the _overworld._  In Last Odyssey, the overworld is a representation of the world as players will experience it.  It is often helpful to project it onto a geographical map of the region of the world in which the adventure takes place, but it is not strictly necessary so long as GMs have a clear sense of how players will be getting from place to place.
 
-* [Nodes and Paths](https://annasimps979-jpg.github.io/Exploration-Rules/Nodes-and-Paths.html)
-* [The Travel Round](https://annasimps979-jpg.github.io/Exploration-Rules/The-Travel-Round.html)
-* [Weather and Climate](https://annasimps979-jpg.github.io/Exploration-Rules/Weather-and-Climate/)
-* [Hazards and Encounters](https://annasimps979-jpg.github.io/Exploration-Rules/Hazards-and-Encounters.html)
+* [Nodes and Paths](Nodes-and-Paths)
+* [The Travel Round](The-Travel-Round)
+* [Weather and Climate](Weather-and-Climate/)
+* [Hazards and Encounters](Hazards-and-Encounters)
