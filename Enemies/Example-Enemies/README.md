@@ -4,13 +4,13 @@ There are 100 example enemies in this folder, plus Antagonists of all tiers.  Al
 
 Enemies by Tier:
 
-* [Tier 1](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-1-Enemies.html)
-* [Tier 2](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-2-Enemies.html)
-* [Tier 3](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-3-Enemies.html)
-* [Tier 4](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-4-Enemies.html)
-* [Tier 5](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-5-Enemies.html)
-* [Tier 6](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-6-Enemies.html)
-* [Tier 7](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-7-Enemies.html)
-* [Tier 8](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-8-Enemies.html)
-* [Tier 9](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-9-Enemies.html)
-* [Tier 10](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/Tier-10-Enemies.html)
+* [Tier 1](Tier-1-Enemies)
+* [Tier 2](Tier-2-Enemies)
+* [Tier 3](Tier-3-Enemies)
+* [Tier 4](Tier-4-Enemies)
+* [Tier 5](Tier-5-Enemies)
+* [Tier 6](Tier-6-Enemies)
+* [Tier 7](Tier-7-Enemies)
+* [Tier 8](Tier-8-Enemies)
+* [Tier 9](Tier-9-Enemies)
+* [Tier 10](Tier-10-Enemies)
