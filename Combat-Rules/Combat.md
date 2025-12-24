@@ -6,12 +6,12 @@ Combat is over when either side is downed, surrenders, or flees.  In Last Odysse
 
 All singular instances of combat involving the player characters in Last Odyssey are referred to as _battles._  Each battle takes place between two opposing sides, with the player characters and their allies on one side and their enemies on the other.  Any elements of the battlefield that cannot act by themselves can still be interacted with by characters that use the Interact action.  The effects of the Interact action always trigger during the Effect Phase of the battle.  See the Actions, Turns, and Rounds section for more details.
 
-* [Starting Battles](.../Combat-Rules/Starting-Battles)
-* [The Combat Round](.../Combat-Rules/The-Combat-Round)
-* [Attacking and Defending](.../Combat-Rules/Attacking-and-Defending)
-* [Elemental Types](.../Combat-Rules/Elemental-Types)
-* [Shells](.../Combat-Rules/Shells)
-* [Buffs and Debuffs](.../Combat-Rules/Buffs-and-Debuffs)
-* [Status Effects](.../Combat-Rules/Status-Effects)
-* [Ending Combat](.../Combat-Rules/Ending-Combat)
-* [Death and Injury](.../Combat-Rules/Death-and-Injury)
+* [Starting Battles](Starting-Battles)
+* [The Combat Round](The-Combat-Round)
+* [Attacking and Defending](Attacking-and-Defending)
+* [Elemental Types](Elemental-Types)
+* [Shells](Shells)
+* [Buffs and Debuffs](Buffs-and-Debuffs)
+* [Status Effects](Status-Effects)
+* [Ending Combat](Ending-Combat)
+* [Death and Injury](Death-and-Injury)
