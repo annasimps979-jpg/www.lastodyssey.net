@@ -28,7 +28,7 @@ Last Odyssey has a "trad" TTRPG structure, which its author refers to as FRP, or
 
 ## Getting Started
 
-* [**Beginner's Guide:**](Beginner's-Guide/) For people new to FRP and people new to Last Odyssey.
+* [**Beginner's Guide:**](../Beginner's-Guide/) For people new to FRP and people new to Last Odyssey.
 
 * [**Key Terms:**](Extras/Key-Terms) Some words you might need to know.
 
