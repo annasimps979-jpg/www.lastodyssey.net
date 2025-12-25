@@ -42,8 +42,8 @@ A character's elemental type determines the elemental type of some of the abilit
 ## Choose Starting Job
 A character's job grants them abilities they can use in combat, and extra actions they can take during exploration.  It also grants them bonuses to three different statistics that depend on which job they currently occupy.  As they advance in Tier, characters will gain multiple jobs that they can switch between during the Paradigm Phase of combat.  Eventually, every character in the party will be able to use any job.  However, at character creation all characters start with only one job available.  See the [Jobs](../Characters/Jobs/) section for more details.  In Last Odyssey, there are six jobs:
 *  _[Strikers](../Characters/Jobs/Striker)_ specialize in dealing physical damage to their enemies.
-*  _[Casters](../Characters/Jobs/Caster)(../Characters/Jobs/Caster)_ specialize in dealing magical damage to their enemies.
-*  _[Healers](../Characters/Jobs/Healer)(../Characters/Jobs/Healer)_ specialize in restoring their allies' HP and negating debuffs and status effects.
+*  _[Casters](../Characters/Jobs/Caster) specialize in dealing magical damage to their enemies.
+*  _[Healers](../Characters/Jobs/Healer) specialize in restoring their allies' HP and negating debuffs and status effects.
 *  _[Defenders](../Characters/Jobs/Defender)_ specialize in drawing enemy attacks and negating the damage they do to allies.
 *  _[Supports](../Characters/Jobs/Support)_ specialize in buffing allies and applying Shells, which are a form of temporary HP.
 *  _[Saboteurs](../Characters/Jobs/Saboteur)_ specialize in debuffing and applying negative status effects to enemies.
