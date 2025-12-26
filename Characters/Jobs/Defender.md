@@ -7,7 +7,7 @@ While they are a Defender, characters gain the following bonuses to their statis
 *  Their Resistance is increased by their Mind.
 *  Their Magical Defense is increased by their Spirit.
 
-Abilities by Rank:
+## Abilities by Rank
 
 **Rank 1:** Taunt. Ranged. Cost: 1 AP.  Inflict the Taunted status on a single target.  A Taunted character can only use single-target magical attacks, physical attacks, and status-inflicting abilities, and only on you.  It can also use the Move action to move into range of you if needed.  Each character can only be Taunted by a single other character at a time.  If the character cannot reach you by any means, they will act as though they are not Taunted.
 
