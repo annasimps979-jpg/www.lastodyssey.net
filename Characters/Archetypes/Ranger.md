@@ -9,7 +9,7 @@ A Ranger's core virtue is their **Focus.**  At character creation, they gain the
 *  As a Support, their buff abilities will affect Physical Accuracy.
 *  As a Saboteur, their debuff abilities will affect Evasion.
 
-Advancements by Rank:
+## Advancements by Rank
 
 **Rank 1:** Mark Target. Ranged. Cost: 1 AP.  This ability inflicts the Hunted status effect on the target.  When you use a magical attack, physical attack, or status-inflicting ability on the target, you roll the hit die twice and choose the number you prefer.  This does not apply to attacks that target multiple enemies.  Only one enemy can have the Hunted status effect inflicted on them per Ranger on your team.  If a Hunted enemy dies due to one of your attacks, you may immediately use Mark Target on another enemy at no AP cost.
 
@@ -31,7 +31,7 @@ Advancements by Rank:
 
 **Capstone:** Wild Hunt. Multi. Cost: 1 Anima, 2 AP.  Applies Hunted to all enemies and then makes a basic attack against each one.
 
-Talents:
+## Talents
 
 **Striker:** True Strike.  When you use a physical attack against a Hunted enemy, you may remove the Hunted status effect in order to guarantee that you hit regardless of the result of the hit die.
 
