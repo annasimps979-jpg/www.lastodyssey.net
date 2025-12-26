@@ -9,7 +9,7 @@ The Commander's core virtue is their **Leadership.**  At character creation, the
 *  As a Support, your buff abilities will affect Resistance.
 *  As a Saboteur, your debuff abilities will affect Status Accuracy.
 
-Advancements by Rank:
+## Advancements by Rank
 
 **Rank 1:** Orders. Ally. Cost: 1 AP.  Grant a free AP to a single ally that can then use it to act during your turn.  You may only use this ability once per round.
 
