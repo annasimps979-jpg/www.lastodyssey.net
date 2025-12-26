@@ -31,7 +31,7 @@ The Dancer's core virtue is their **Charm.**  At character creation, they gain t
 
 **Capstone:** Tango. Special. Cost: 1 Anima, 2 AP.  Immediately use all of the abilities that your enemies have used between the end of its last turn and the beginning of its current turn.  You may choose the targets of all of these abilities at will.
 
-Talents:
+## Talents
 
 **Striker:** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless physical attacks into your current elemental type due to Masked.
 
