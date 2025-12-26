@@ -1,18 +1,18 @@
 # Eidolons
-A character's eidolon is a demigodlike being whose power protects and is in turn fed by the deepest parts of a character's soul.  Eidolons are extraordinary creatures, and are not necessarily humanlike.  One character might be protected by a powerful dragon, while another might fight alongside an ethereal goddess.  In Last Odyssey, a character's eidolon performs two main functions.  The first of these is to intervene in order to save characters from True Death, and the second of these is to be summoned during combat to fight on their behalf.
+A character's <dfn id="term-eidolon">eidolon</dfn> is a demigodlike being whose power protects and is in turn fed by the deepest parts of a character's soul.  Eidolons are extraordinary creatures, and are not necessarily humanlike.  One character might be protected by a powerful dragon, while another might fight alongside an ethereal goddess.  In Last Odyssey, a character's eidolon performs two main functions.  The first of these is to intervene in order to save characters from True Death, and the second of these is to be summoned during combat to fight on their behalf.
 
 A character's summoned eidolon shares their elemental type.  The eidolon's elemental type affects the damage that they take in addition to determining the elemental type of their abilities.  An eidolon's statistics are determined by the base attributes of the character that summoned them and by their archetype.  The exceptions to this are Mana, which Eidolons do not need to expend in order to use their abilities, and Initiative, since the Eidolon does not enter the initiative order in the same way as other characters.  Instead, their abilities are either free or cost Anima, and they act during the same turn .  They also have the same number of Action Points that their characters do.  When they are first summoned, they start with the same number of AP that the character who summoned them had remaining before they used the Summon Eidolon action, and can immediately take their turn.
 
 ## Eidolons in Combat
-An eidolon's statistics are determined by the base attributes of their character, and function the same as character statistics in battle.  Their abilities do not cost MP.  In addition, eidolons act during their summoner's turn in the initiative order.  Therefore, they do not have Mana or Initiative, but otherwise they share the same statistics that all player characters have.  Each of their statistics also receives a bonus given by their archetype, which is the same as the bonus to a player character's statistics from their corresponding job.  For example, an eidolon that is a Striker gets a bonus to their Physical Attack equal to their summoner's Body, an eidolon that is a Caster gets a bonus to their Magical Attack equal to their summoner's Mind, and so on.  The formulae for their statistics are as follows:
-*  An eidolon's _Health_ is (Body + Spirit + Tier)x5.
-*  An eidolon's _Physical Attack_ is (Body) + (Tier) + (Archetype Bonus).
-*  An eidolon's _Magical Attack_ is (Mind) + (Tier) + (Archetype Bonus).
-*  An eidolon's _Physical Defense_ is (Body) + (Tier) + (Archetype Bonus).
-*  An eidolon's _Magical Defense_ is (Spirit) + (Tier) + (Archetype Bonus).
-*  An eidolon's _Evasion_ is (Mind) + (Tier) + (Archetype Bonus).
-*  An eidolon's _Resistance_ is (Spirit) + (Tier) + (Archetype Bonus).
-*  An eidolon's _Physical Accuracy, Magical Accuracy,_ and _Status Accuracy_ are (Mind) + (Body) + (Spirit).
+An eidolon's combat statistics are determined by the base attributes of their character.  Their abilities do not cost MP.  In addition, eidolons act during their summoner's turn in the initiative order.  Therefore, they do not have Mana or Initiative, but otherwise they share the same statistics that all player characters have.  Each of their statistics also receives a bonus given by their archetype, which is the same as the bonus to a player character's statistics from their corresponding job.  For example, an eidolon that is a Striker gets a bonus to their Physical Attack equal to their summoner's Body, an eidolon that is a Caster gets a bonus to their Magical Attack equal to their summoner's Mind, and so on.  The formulae for their statistics are as follows:
+*  An eidolon's _Health_ is their character's (Body + Spirit + Tier)x5.
+*  An eidolon's _Physical Attack_ is their character's (Body) + (Tier) + (Archetype Bonus).
+*  An eidolon's _Magical Attack_ is their character's (Mind) + (Tier) + (Archetype Bonus).
+*  An eidolon's _Physical Defense_ is their character's (Body) + (Tier) + (Archetype Bonus).
+*  An eidolon's _Magical Defense_ is their character's (Spirit) + (Tier) + (Archetype Bonus).
+*  An eidolon's _Evasion_ is their character's (Mind) + (Tier) + (Archetype Bonus).
+*  An eidolon's _Resistance_ is their character's (Spirit) + (Tier) + (Archetype Bonus).
+*  An eidolon's _Physical Accuracy, Magical Accuracy,_ and _Status Accuracy_ are their character's (Mind) + (Body) + (Spirit).
 
 As characters advance in tier, they will unlock special capstone abilities that only their eidolons can use.  In addition, a character's eidolon may also use two basic abilities and two abilities determined by its archetype.  All eidolons have the following abilities:
 
