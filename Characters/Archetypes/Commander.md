@@ -31,6 +31,8 @@ The Commander's core virtue is their **Leadership.**  At character creation, the
 
 **Capstone:** Charge! Special. Cost: 1 Anima, 2 AP.  Your eidolon grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its statistics for theirs.
 
+## Talents
+
 **Striker:** Vanguard.  When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and Physical Attack for theirs.
 
 **Caster:** Siege Engineer.  When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and Magical Attack for theirs.
