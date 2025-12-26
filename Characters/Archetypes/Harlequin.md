@@ -9,6 +9,8 @@ The Harlequin's core virtue is their **Daring.**  At character creation, they ga
 *  As a Support, their buff abilities affect Status Accuracy.
 *  As a Saboteur, their debuff abilities affect Physical Accuracy.
 
+## Advancements by Rank
+
 **Rank 1:** Gamble. Ranged. Cost: 1 AP.  Wager up to 5 times your tier HP, MP and Shell against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.
 
 **Rank 2:** You gain +1 Status Accuracy.
@@ -29,7 +31,7 @@ The Harlequin's core virtue is their **Daring.**  At character creation, they ga
 
 **Capstone:** Spin the Revolver. Ranged.  Choose an enemy and roll a 1d6.  If the result is a 6, the enemy takes damage equal to quadruple your eidolon's Magical Attack.  If not, roll again.  If the result is a 6, then your eidolon takes damage equal to quadruple its Magical Attack.  Keep going back and forth with the die like this until either your eidolon or the enemy have taken damage.
 
-Talents:
+## Talents
 
 **Striker:** Random Strike.  When you use a physical attack, you may roll on the Random Element Table to determine its elemental type.
 
