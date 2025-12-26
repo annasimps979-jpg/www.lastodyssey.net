@@ -30,7 +30,7 @@ The Artificer's core virtue is their **Knowledge.**  At character creation, they
 
 **Capstone:** Target Acquired. Multi. Cost: 1 Anima, 2 AP.  Use Scan on all enemies on the battlefield.  Every affected enemy will be Scanned for the remainder of the battle unless the effect is removed by an ability.
 
-Talents:
+## Talents
 
 **Striker:** Sniper.  When you use an item that does physical damage to an enemy, you may add your Physical Attack to its base damage.
 
