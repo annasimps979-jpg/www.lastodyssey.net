@@ -7,7 +7,7 @@ While they are a Healer, characters gain the following bonuses to their statisti
 *  Their Physical Attack is increased by an amount equal to their Mind.
 *  Their Magical Attack is increased by an amount equal to their Spirit.
 
-Abilities by Rank:
+## Abilities by Rank
 
 **Rank 1:** Heal. Ally. Cost: 5 MP, 1 AP.  Restore an amount of HP to a single target equal to your Magical Attack.
 
