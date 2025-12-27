@@ -2,17 +2,17 @@
 
 Each character can wield a single weapon at a time during combat.  Characters can swap out their current weapon for another one they are proficient in during combat with the Swap Weapon action.  All weapons give bonuses to a character's base Physical Attack and their base Magical Attack while they are being wielded.  The values of these bonuses are determined by the weapon's Quality and Attack Type.  There are three Attack Types, Balanced, Physical, and Magical.  The corresponding attack bonuses each of them gives and the types of weapons that count as each Attack Type are as follows:
 
-*  Physical: Lances, Swords, and Bows count as having the Physical weapon type.
+-  Physical: Lances, Swords, and Bows count as having the Physical weapon type.
   -  Mundane Physical weapons grant a +3 to Physical Attack and a +1 to Magical Attack.
   -  Rare Physical weapons grant a +5 to Physical Attack and a +3 to Magical Attack.
   -  Expert Physical weapons grant a +7 to Physical Attack and a +5 to Magical Attack.
 
-*  Balanced: Guns, Daggers, and Claws count as as having the Balanced Attack Type.
+-  Balanced: Guns, Daggers, and Claws count as as having the Balanced Attack Type.
   -  Mundane Balanced weapons grant a +2 to Physical Attack and a +2 to Magical Attack.
   -  Rare Balanced weapons grant a +4 to Physical Attack and a +4 to Magical Attack.
   -  Expert Balanced weapons grant a +6 to Physical Attack and a +6 to Magical Attack.
 
-*  Magical: Staves, Fans, and Scepters count as as having the Magical Attack Type.
+-  Magical: Staves, Fans, and Scepters count as as having the Magical Attack Type.
   -  Mundane Magical weapons grant a +1 to Physical Attack and a +3 to Magical Attack.
   -  Rare Magical weapons grant a +3 to Physical Attack and a +5 to Magical Attack.
   -  Expert Magical weapons grant a +5 to Physical Attack and a +7 to Magical Attack.
