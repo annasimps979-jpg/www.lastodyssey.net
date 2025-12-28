@@ -5,8 +5,8 @@ Over time, characters in Last Odyssey will earn _<dfn id="term-experience-points
 The XP cost of each improvement a character buys is equal to the number of improvements they have already bought plus one multiplied by twice their current tier.  For example, at tier 1 the very first improvement a character buys will cost 2 XP, while the last one will cost 12 XP.  Characters of tier 10 can buy improvements as normal, but are maxed out at tier 10.  If a character in your campaign reaches max level, this means that it's time for the campaign to start wrapping up and/or for that character to move on and be changed out for another one.  Every time you advance in tier, you also gain access to the archetype ability or stat bonus of the corresponding rank.
 
 When a character first advances to a new tier, they also advance the rank of their archetype and gain the corresponding advancement.  While they occupy a given tier, each character will take each of the following advancements one single time.  Once these advancements have been taken, they must advance to the next tier to advance further.
-*  Advance 3 Ranks in a job.
-*  Advance 3 Ranks in a job.
+*  Advance 3 total Ranks in jobs.
+*  Advance 3 total Ranks in jobs.
 *  Advance a single attribute by 1.
 *  Advance a different attribute by 1.
 *  Unlock a new job or unlock a talent.
