@@ -10,6 +10,7 @@ While they are a Striker, characters gain the following bonuses to their statist
 ## Abilities by Rank
 
 |Rank|Name|Type|Cost|Description|
+|:-|:-|:-|:-|:-|
 |1|Strike|Melee|3 MP, 1 AP|Make a colorless physical attack that deals 1.5x damage on a hit in addition to other modifiers.|
 |2|Elemental Attack|3 MP, 1 AP|Make a physical attack whose elemental type is the same as your base elemental type.|
 |3|Power Attack|5 MP, 1 AP|Make a colorless physical attack.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
