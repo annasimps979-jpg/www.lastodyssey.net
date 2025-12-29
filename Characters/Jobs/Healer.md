@@ -10,6 +10,7 @@ While they are a Healer, characters gain the following bonuses to their statisti
 ## Abilities by Rank
 
 |Rank|Name|Type|Cost|Description|
+|:-|:-|:-|:-|:-|
 |1|Heal|Ally|5 MP, 1 AP|Restore an amount of HP to a single target equal to your Magical Attack.|
 |2|Cleanse|Ally|8 MP, 1 AP|Reset the Bonus Tracker for all of a single target's statistics back to +0.|
 |3|Revive|Ally|10 MP, 1 AP|Revive a single downed target back to 1 HP.|
