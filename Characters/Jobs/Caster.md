@@ -11,6 +11,7 @@ While they are a Caster, characters gain the following bonuses to their statisti
 ## Abilities by Rank
 
 |Rank|Name|Type|Cost|Description|
+|:-|:-|:-|:-|:-|
 |1|Magic Missile|Ranged|3 MP, 1 AP|Make a colorless magical attack against a single target.|
 |2|Elemental Bolt|Ranged|5 MP, 1 AP|Make a magical attack against a single target whose elemental type is the same as your base elemental type.|
 |3|Trained Spellcaster|Passive|N/A|Flex powers that are magical attacks cost 5 MP instead of 10 MP.|
