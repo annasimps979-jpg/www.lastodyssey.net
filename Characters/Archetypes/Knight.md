@@ -11,25 +11,45 @@ The Knight's core virtue is their **Discipline.**  At character creation, they r
 
 ## Advancements by Rank
 
-**Rank 1:** Focus. Self. Apply the Focused status effect to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status effect goes away.
+**Rank 1:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Focus|Self|1 AP|Apply the Focused status effect to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status effect goes away.|
 
 **Rank 2:** You gain +1 Physical Defense.
 
-**Rank 3:** Cavalry. Passive.   Once per round, you may use the Move action on your turn without spending any AP, including when you are Focused.
+**Rank 3:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Cavalry|Passive|N/A|Once per round, you may use the Move action on your turn without spending any AP, including when you are Focused.|
 
 **Rank 4:** You gain +1 Physical Defense.
 
-**Rank 5:** Disciplined Focus. Passive.  While you are Focused, you may spend 2 AP to take the Calm action, which removes the Focused status effect from you.
+**Rank 5:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Disciplined Focus|Passive|N/A|While you are Focused, you may spend 2 AP to take the Calm action, which removes the Focused status effect from you.|
 
 **Rank 6:** You gain +1 Physical Defense.
 
-**Rank 7:** Enrage. Passive.  Once per round, if you miss an attack while Focused, you may choose to reset your bonus damage back to 2 instead of losing the Focused status effect.
+**Rank 7:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Enrage|Passive|Once per round, if you miss an attack while Focused, you may choose to reset your bonus damage back to 2 instead of losing the Focused status effect.|
 
 **Rank 8:** You gain +1 Physical Defense.
 
 **Rank 9:** You gain +1 Physical Defense.
 
-**Capstone:** Berserk Charge. Special. Cost: 1 Anima, 2 AP.  Your eidolon applies Focused to itself, and may make as many basic attacks as possible until Focused is removed.
+**Capstone:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Berserk Charge|Special|1 Anima, 2 AP|Your eidolon applies Focused to itself, and may make as many basic attacks as possible until Focused is removed.|
 
 ## Talents
 
