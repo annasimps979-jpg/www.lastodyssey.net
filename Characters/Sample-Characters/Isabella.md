@@ -89,6 +89,7 @@
 |7|Whirlwind|Multi|12 MP, 1 AP|Make a colorless physical attack against all enemies on the battlefield.|
 |8|Thunder Leap|Ranged|8 MP, 1 AP|Make a thunder physical attack against a single target.|
 |9|Thunder Whirlwind|Multi|15 MP, 1 AP|Make a thunder physical attack against all enemies on the battlefield.|
+|N/A|Melee|Passive|N/A|While you are Focused, you may use physical attacks in addition to your basic attack.  Hitting an enemy with a physical attack increases your bonus damage by 1, while missing an enemy with a physical attack removes the Focused status effect.|
 
 ### Caster
 
@@ -117,6 +118,7 @@
 |7|Thunder Chain|Special|10 MP, 1 AP|Make a ranged thunder magical attack against a single enemy.  If you break the target's Shell, you may use this ability again against another target without spending any MP or AP.|
 |8|Magic Storm|Multi|13 MP, 1 AP|Make a colorless magical attack against all enemies on the battlefield.|
 |9|Thunder Storm|Multi|15 MP, 1 AP|Make a thunder magical attack against all enemies on the battlefield.|
+|N/A|Artillery|Passive|N/A|While you are Focused, you may use magical attacks in addition to your basic attack.  Hitting an enemy with a magical attack increases your bonus damage by 1, while missing an enemy with a magical attack removes the Focused status effect.|
 
 ### Healer
 
@@ -169,6 +171,7 @@
 |7|Barrier|Self|9 MP, 1 AP|Inflict the Barred status effect on yourself.  While you are Barred, if you are hit by a magical attack the damage dealt to you is automatically reduced to 0 and the Barred status effect is removed.|
 |8|Reflect|Self|12 MP, 1 AP|Inflict the Reflecting status effect on yourself.  While you are Reflecting, the next time you are hit with a magical attack the attacker takes damage as though they were also a target of the same attack and the Reflecting status is removed.|
 |9|Deathless|Passive|N/A|When you are hit with an attack that would otherwise down you while at anything but 1 HP and 0 Shell, you are instead reduced to 1 HP and 0 Shell.|
+|N/A|Tower|Passive|N/A|While you are Focused, you may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and you take reduced damage from physical and magical attacks equal to your current damage bonus.|
 
 ### Support
 
@@ -197,6 +200,7 @@
 |7|Power Buff (Physical Defense)|Ally|16 MP, 1 AP|Move the statistic associated with your archetype three steps up the Bonus Tracker for the selected target.|
 |8|Multiprotect (Thunder)|Multi|20 MP, 1 AP|Apply the Protected status effect to yourself and all of your allies, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or status effects of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
 |9|Multihaste|Multi|25 MP, 1 AP|You and all of your allies receive the Hasted status effect during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
+|N/A|Relentless|Passive|N/A|While you are Focused, you gain 1 Shell of your elemental type every time you hit an enemy.  If you have a Shell of a different elemental type active, you gain 1 Shell of that elemental type instead.|
 
 ### Saboteur
 
@@ -225,6 +229,7 @@
 |7|Multidebilitate (Paralyzed)|Multi|18 MP, 1 AP|Use a status-inflicting ability on all enemies on the battlefield that inflicts the status effect associated with your elemental type on a hit.|
 |8|Multislow|Multi|28 MP, 1 AP|All enemies on the battlefield receive the Slowed status effect during the Effect Phase of this round. The effect then lasts for three subsequent rounds. While the target is Slowed, they have -1 AP to use per round.|
 |9|Multivulnerability (Thunder)|Multi|19 MP, 1 AP|Inflict the Vulnerable status on all enemies on the battlefield.  When a target is Vulnerable, the next time they are hit by an attack of your base elemental type, it affects them as though they had a 2x weakness to that elemental type, and the Vulnerable status is removed.  Characters can be Vulnerable to multiple elemental types at a time.  If a character has a 2x or greater weakness to the elemental type it is Vulnerable to, the Vulnerable status does nothing.|
+|N/A|Spy|Passive|N/A|While you are Focused, you may use status-inflicting abilities in addition to your basic attack.  Hitting an enemy with a status-inflicting ability increases your bonus damage by 1, while missing an enemy with a status-inflicting ability removes the Focused status effect.|
 
 ## Eidolon
 
