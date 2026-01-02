@@ -2,9 +2,11 @@
 
 Over time, characters in Last Odyssey will earn _<dfn id="term-experience-points">experience points</dfn>,_ or <abbr title="experience points">XP</abbr> for short.  The pool of XP that a character has earned can be spent on making them stronger by increasing their attributes and unlocking new abilities.  In Last Odyssey, a character's level of advancement in relation to other characters is quantified by its tier.  Players can spend XP on four distinct improvements to their character: unlocking a new job or unlocking a talent for one they already have, taking what's known as a flex power, adding 1 to one of their attributes, and advancing 3 total Ranks in any jobs they are currently able to occupy.  The last two of these can be done twice per tier, while the first two can only be done once.
 
-The XP cost of each improvement a character buys is equal to the number of improvements they have already bought plus one multiplied by twice their current tier.  For example, at tier 1 the very first improvement a character buys will cost 2 XP, while the last one will cost 12 XP.  Characters of tier 10 can buy improvements as normal, but are maxed out at tier 10.  If a character in your campaign reaches max level, this means that it's time for the campaign to start wrapping up and/or for that character to move on and be changed out for another one.  Every time you advance in tier, you also gain access to the archetype ability or stat bonus of the corresponding rank.
+The XP cost of each improvement a character buys is equal to the number of improvements they have already bought plus one multiplied by twice their current tier.  For example, at tier 1 the very first improvement a character buys will cost 2 XP, while the last one will cost 12 XP.  Once a character has reached tier 10 and then unlocked all of the possible advancements, they may no longer advance in tier.  If a character in your campaign reaches max level, this means that it's time for the campaign to start wrapping up and/or for that character to move on and be changed out for another one.  Every time you advance in tier, you also gain access to the archetype ability or stat bonus of the corresponding rank.
 
 When a character first advances to a new tier, they also advance the rank of their archetype and gain the corresponding advancement.  While they occupy a given tier, each character will take each of the following advancements one single time.  Once these advancements have been taken, they must advance to the next tier to advance further.
+
+In total, once per tier, a character can take each of the following advancements:
 *  Advance 3 total Ranks in jobs.
 *  Advance 3 total Ranks in jobs.
 *  Advance a single attribute by 1.
@@ -38,7 +40,7 @@ During character advancement, players may purchase any of the following flex pow
 *  Flex Proficiency. Passive.  You become proficient in a type of weapon or armor you were not previously proficient in.
 
 ## Advancing Tier
-Once you have bought one of each of the six tier improvements, your character is ready to advance in tier.  To do so, you must spend 3 Anima to either summon their eidolon in battle or to save them from True Death.  Once this has been done, the character advances to the next tier, and automatically receives the advancement corresponding to the rank of their archetype equal to their new tier.
+Once you have bought one of each of the six tier improvements, your character is ready to advance in tier.  To do so, you must spend 3 Anima to either summon their eidolon in battle or to save them from True Death.  Once this has been done, the character advances to the next tier, and automatically receives the advancement corresponding to the rank of their archetype equal to their new tier.  
 
 ## Changing Aspirations and Relationships
 It is inevitable that a character's Aspirations and Relationships will change throughout the game.  When they use them to spend Anima, they will abandon or change them depending on the narrative.  In addition, whenever player determines that their character's Aspiration has changed and/or they have acquired or lost a Relationship, they have the ability to modify them at will.  They should then announce this to the group so that the other players and the GM can take proper note of the change.
