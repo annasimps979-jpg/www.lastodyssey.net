@@ -200,7 +200,6 @@
 |7|Power Buff (Physical Defense)|Ally|16 MP, 1 AP|Move the statistic associated with your archetype three steps up the Bonus Tracker for the selected target.|
 |8|Multiprotect (Thunder)|Multi|20 MP, 1 AP|Apply the Protected status effect to yourself and all of your allies, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or status effects of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
 |9|Multihaste|Multi|25 MP, 1 AP|You and all of your allies receive the Hasted status effect during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
-|N/A|Relentless|Passive|N/A|While you are Focused, you gain 1 Shell of your elemental type every time you hit an enemy.  If you have a Shell of a different elemental type active, you gain 1 Shell of that elemental type instead.|
 
 ### Saboteur
 
