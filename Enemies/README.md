@@ -8,7 +8,7 @@ Each enemy on the battlefield has combat statistics and a set of active and pass
 2.  _Hide enemy statistics._  The Scan ability and the mechanics around information assume that players will be ignorant of the current HP, MP, Shell, statistics, and abilities of an enemy unless they put effort into learning them, and thus the GM should not them until the right conditions are met.
 3.  _Tell players what they've done, and what's been done to them._  GMs should tell them how much damage they are doing to enemies, what status effects have been inflicted on all characters, and how much damage they are taking.
 
-Enemies differ from player characters in a few important ways.  First, enemies begin with a Shell of their elemental type in addition to their HP.  Enemies also count as their elemental type for the purpose of calculating the damage they receive.  Finally, each enemy has a creature type, which is a single word that describes what kind of being it is.  In the base game, there are ten creature types: 
+Enemies differ from player characters in a few important ways.  First, enemies begin with a Shell of their elemental type in addition to their HP.  Enemies also count as their elemental type for the purpose of calculating the damage they receive.  Finally, each enemy has a _<dfn id = "term-creature-type">creature type</dfn>,_ which is a single word that describes what kind of being it is.  In the base game, there are ten creature types: 
 * _<dfn id = "term-human">Humans</dfn>_ are creatures that are or are approximate to human beings.
 * _<dfn id= "term-construct">Constructs</dfn>_ are creatures that were deliberately created by another being.
 * _<dfn id ="term-fairy">Fairies</dfn>_ are magical creatures that possess the power of charm and illusion.
