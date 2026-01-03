@@ -116,7 +116,6 @@
 |7|Wind Chain|Special|10 MP, 1 AP|Make a ranged magical attack against a single enemy whose elemental type is your base elemental type.  If you break the target's Shell, you may use this ability again against another target without spending any MP or AP.|
 |8|Magic Storm|Multi|13 MP, 1 AP|Make a colorless magical attack against all enemies on the battlefield.|
 |9|Wind Storm|Multi|15 MP, 1 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.|
-|N/A|Siege Engineer|Passive|N/A|When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and Magical Attack for theirs.|
 
 ### Healer
 
