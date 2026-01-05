@@ -51,7 +51,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|
 |Bow|Melee|1 AP|Makes a basic physical attack.|
 |Arrow of Light|Ranged|1 AP, 8 MP|Makes a physical attack against a single target that deals physical light damage on a hit.|
-|Inscrutable Form.  Passive.  The Seeker does not take double damage from physical or magical attacks depending on whether or not its shell or HP are being damaged.  All other multipliers still apply.|
+|Inscrutable Form|Passive|N/A|The Seeker does not take double damage from physical or magical attacks depending on whether or not its shell or HP are being damaged.  All other multipliers still apply.|
 
 **Item Table**
 
