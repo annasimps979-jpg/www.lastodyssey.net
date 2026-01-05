@@ -35,6 +35,8 @@ In combat, police will swap between rounds where they debuff and rounds where th
 
 ### Hover Drone (Normal 1, Construct, Water)
 
+**Stastistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |2|3|5|15|2|4|4|0|2|
@@ -43,13 +45,21 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |:-|:-|:-|:-|:-|
 |2|0|4|4|4|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Rubber Bullets|Melee|1 AP|Makes a basic physical attack|
 |Tear Gas|Ranged|7 MP, 1 AP|Inflicts the Burn status on a single target with a successful status-inflicting roll.|
 |Injection|Ally|5 MP, 1 AP|Restores 4 HP to a single ally.|
 
-Item Table: Mundane Restore Health, Mundane Inflict Burn, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Restore Health|
+|2|Mundane Inflict Burn|
+|3|10 cr|
 
 ### Spider Drone (Normal 1, Construct, Thunder)
 
@@ -67,9 +77,17 @@ Item Table: Mundane Restore Health, Mundane Inflict Burn, 10 cr.
 |Autocannon|Special|1 AP|Makes a colorless, ranged physical attack against a single target.  The Spider Drone may only use this ability once per battle.|
 |Disarm|Melee|1 AP|Makes a colorless physical attack that, if successful, causes the target to drop their weapon.  The target must then spend 1 AP on its turn to pick it back up.|
 
-Item Table: Mundane Buff Evasion, Mundane Scan, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Buff Evasion| 
+|2|Mundane Scan|
+|3|10 cr|
 
 ### Lieutenant (Elite 1, Human, Ice)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -79,6 +97,8 @@ Item Table: Mundane Buff Evasion, Mundane Scan, 10 cr.
 |:-|:-|:-|:-|:-|
 |0|3|4|0|0|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Fists|Melee|1 AP|Makes a basic colorless physical attack.|
@@ -86,7 +106,13 @@ Item Table: Mundane Buff Evasion, Mundane Scan, 10 cr.
 |Knock Some Sense Into Em|1 AP|Ally|Does 1 damage and restores 5 MP to a single ally.|
 |Faithful|Passive|N/A|If there is a Captain on the battlefield and they are hit by an attack that would otherwise down them, the Lieutenant is hit by the attack instead.|
 
-Item Table: Mundane Restore MP, Mundane Buff Resistance, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Restore MP| 
+|2|Mundane Buff Resistance| 
+|3|50 cr|
 
 ### Captain (Elite 1, Human, Thunder)
 
@@ -106,7 +132,13 @@ Item Table: Mundane Restore MP, Mundane Buff Resistance, 50 cr.
 |Reload|Self|1 AP|The Captain gains 1 Ammo.|
 |Revenge|Passive|N/A|If an opponent misses the Captain with a melee attack, they can make a free use of Baton against them.|
 
-Item Table: Mundane Thunder Damage (Physical), Mundane Debuff Physical Accuracy, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Thunder Damage (Physical)| 
+|2|Mundane Debuff Physical Accuracy|
+|3|50 cr|
 
 ## Goblins
 Goblins are sentient woodland creatures that have their own language and culture.  During lean times, they will sometimes resort to raiding human settlements for food and supplies.
@@ -114,6 +146,8 @@ Goblins are sentient woodland creatures that have their own language and culture
 In combat, goblins are both bullies and cowards.  They will gang up on the weakest party member they can attack, and will retreat to the back row as soon as they lose their shields.  They are also wicked cunning, and smart enough to exploit magical and physical vulnerabilities (although they do not know the elements of their enemies off the bat).
 
 ### Skirmisher (Normal 1, Fairy, Wood)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -123,15 +157,25 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |:-|:-|:-|:-|:-|
 |2|1|4|4|4|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Knife|Melee|1 AP|Makes a basic physical attack.|
 |Poison Dart|Ranged|1 AP, 7 MP|Attempts to inflict Poisoned on an enemy.|
 |Tactical Retreat|Passive|N/A|If the Skirmisher becomes Shellbroken, it will move to the back row immediately for free.|
 
-Item Table: Mundane Restore MP, Mundane Inflict Toxin, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Restore MP|
+|2|Mundane Inflict Toxin|
+|3|10 cr|
 
 ### Arsonist (Normal 1, Fairy, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -141,15 +185,25 @@ Item Table: Mundane Restore MP, Mundane Inflict Toxin, 10 cr.
 |:-|:-|:-|:-|:-|
 |1|2|2|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Firebomb|Ranged|1 AP, 5 MP|Makes a fire magical attack against a single target.|
 |Tinder|Melee|1 AP, 4 MP|Inflicts Burn on a single target with a successful status-inflicting ability roll.|
 |Detonate|All|2 AP|Kills the Arsonist and makes a fire magical attack against every enemy on the battlefield.|
 
-Item Table: Mundane Magical Damage (Fire), Mundane Inflict Burn, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Magical Damage (Fire)|
+|2|Mundane Inflict Burn|
+|3|10 cr|
 
 ### Prankster (Normal 1, Fairy, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -159,6 +213,8 @@ Item Table: Mundane Magical Damage (Fire), Mundane Inflict Burn, 10 cr.
 |:-|:-|:-|:-|:-|
 |3|1|2|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Steal|Melee|1 AP|Makes a physical attack roll that, if successful, takes a battle item of the GM's choice from the party inventory.  The Prankster may then use it immediately for free.|
@@ -166,9 +222,17 @@ Item Table: Mundane Magical Damage (Fire), Mundane Inflict Burn, 10 cr.
 |Sand in the Eyes|Ranged|1 AP, 3 MP|Debuffs the Physical Accuracy of a single enemy.|
 |Quick Fingers|Passive|N/A|If an enemy misses the Prankster with a Melee ability, they may immediately use Steal on them without spending any AP.|
 
-Item Table: Mundane Debuff Physical Accuracy, Mundane Inflict Confusion, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Debuff Physical Accuracy|
+|2|Mundane Inflict Confusion|
+|3|10 cr|
 
 ### Boar Rider (Elite 1, Fairy, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -178,6 +242,8 @@ Item Table: Mundane Debuff Physical Accuracy, Mundane Inflict Confusion, 10 cr.
 |:-|:-|:-|:-|:-|
 |1|3|8|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a physical attack against an enemy.|
@@ -186,9 +252,17 @@ Item Table: Mundane Debuff Physical Accuracy, Mundane Inflict Confusion, 10 cr.
 |Enrage|Passive|N/A|If the Boar Rider is Taunted, they will also become Berserk, which is the equivalent of the Knight's Focus ability.|
 |Too Stupid to Die|Passive|N/A|If the Boar Rider is reduced to 0 HP, it will not die until the Effect Phase at the end of the round.|
 
-Item Table: Focus, Mundane Colorless Physical Damage, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Focus|
+|2|Mundane Colorless Physical Damage|
+|3|50 cr|
 
 ### Shaman (Elite 1, Fairy, Wood)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -198,6 +272,8 @@ Item Table: Focus, Mundane Colorless Physical Damage, 50 cr.
 |:-|:-|:-|:-|:-|
 |2|1|2|4|4|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Ghost Hand|Ranged|1 AP, 3 MP|Makes a shadow magical attack against one character.|
@@ -206,4 +282,10 @@ Item Table: Focus, Mundane Colorless Physical Damage, 50 cr.
 |Blood Sacrifice|Ally|1 AP|The Shaman immediately kills an ally that has Sacrifice inflicted on it to restore its MP back to full.|
 |Ghost Talk|Passive|N/A|When one of the Shaman's enemies has the Sacrifice status effect and dies, the Shaman heals its MP back to full.|
 
-Item Table: Mundane Debuff Evasion, Mundane Restore MP, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Debuff Evasion|
+|2|Mundane Restore MP|
+|3|50 cr|
