@@ -7,6 +7,8 @@ In combat, police will swap between rounds where they debuff and rounds where th
 
 ### Cop (Normal 1, Human, Colorless)
 
+**Statistics:**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |10|5|4|10|2|4|2|2|1|
@@ -15,13 +17,21 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |:-|:-|:-|:-|:-|
 |1|2|4|2|2|
 
+**Abilities:**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Truncheon|Melee|1 AP|The Cop makes a basic physical attack.|
 |Crowd Control|Ranged|3 MP, 1 AP|The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.|
 |Body Armor|Passive|N/A|The first time the Cop is hit by a physical attack, they do not take any damage.|
 
-Item Table: Guard, Mundane Colorless Physical Damage, 10 cr.
+**Item Table:** 
+
+|Number|Item|
+|:-|:-|
+|1|Guard| 
+|2|Mundane Colorless Physical Damage| 
+|3|10 cr|
 
 ### Hover Drone (Normal 1, Construct, Water)
 
