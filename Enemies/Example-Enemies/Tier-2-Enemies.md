@@ -7,6 +7,8 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 
 ### Wolf (Normal 2, Animal, Shadow)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |12|8|7|15|2|6|2|2|1|
@@ -15,15 +17,25 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |:-|:-|:-|:-|:-|
 |2|2|6|4|4|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
 |Gore|Melee|3 MP, 1 AP|Makes a colorless physical attack that inflicts damage multiplied by 1.5x in addition to other modifiers.|
 |Howl|Self|3 MP, 1 AP|Buffs the Physical Attack of the Wolf by one step on the Bonus Tracker.|
 
-Item Table: Mundane Buff Physical Attack, Cure Blinded, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Buff Physical Attack|
+|2|Cure Blinded|
+|3|10 cr|
 
 ### Dryad (Normal 2, Elemental, Wood)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -33,15 +45,25 @@ Item Table: Mundane Buff Physical Attack, Cure Blinded, 10 cr.
 |:-|:-|:-|:-|:-|
 |2|1|4|4|4|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Club|Melee|1 AP|Makes a basic physical attack.|
 |Entangle|Ranged|1 AP, 7 MP|On a successful status-inflicting roll, inflicts Petrify.|
 |Photosynthesis|Passive|N/A|If the Dryad receives water damage, they will receive the damage as healed HP.  If the Dryad receives Light damage, they will receive the damage as healed MP.|
 
-Item Table: Mundane Restore MP, Mundane Inflict Petrify, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Restore MP|
+|2|Mundane Inflict Petrify|
+|3|10 cr|
 
 ### Naiad (Normal 2, Elemental, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -51,15 +73,25 @@ Item Table: Mundane Restore MP, Mundane Inflict Petrify, 10 cr.
 |:-|:-|:-|:-|:-|
 |3|1|2|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Claws|Melee|1 AP|Makes a basic physical attack.|
 |Baptize|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single ally.|
 |Restore|Ally|1 AP, 5 MP|Heals a single character for an amount equal to the Naiad's Magical Attack.|
 
-Item Table: Mundane Restore HP, Remove Debuffs, 10 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Restore HP|
+|2|Remove Debuffs|
+|3|10 cr|
 
 ### Ent (Elite 2, Elemental, Wood)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -69,6 +101,8 @@ Item Table: Mundane Restore HP, Remove Debuffs, 10 cr.
 |:-|:-|:-|:-|:-|
 |1|4|6|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|Melee|1 AP|Makes a basic physical attack.|
@@ -77,9 +111,17 @@ Item Table: Mundane Restore HP, Remove Debuffs, 10 cr.
 |Photosynthesis|Passive|N/A|If the Ent receives water damage, they will receive the damage as healed HP.  If the Ent receives Light damage, they will receive the damage as healed MP.|
 |Forest Fire|Passive|N/A|If the Ent takes fire damage from any source, it will not be able to use Regenerate until after its next turn.|
 
-Item Table: Mundane Wood Magical Damage, Guard, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Wood Magical Damage|
+|2|Guard| 
+|3|50 cr|
 
 ### Pixie (Elite 2, Fairy, Wind)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -89,6 +131,8 @@ Item Table: Mundane Wood Magical Damage, Guard, 50 cr.
 |:-|:-|:-|:-|:-|
 |4|1|4|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Airslice|Ranged|1 AP, 5 MP|Makes a wind magical attack against a single target.|
@@ -97,7 +141,13 @@ Item Table: Mundane Wood Magical Damage, Guard, 50 cr.
 |Sparkles|Self|2 AP|Restores 10 MP to the Pixie.|
 |Revenge Hex|Passive|N/A|When the Pixie is downed, the character responsible must roll to resist Silence versus the Pixie's Status Accuracy.|
 
-Item Table: Cure Silence, Mundane Buff Evasion, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Cure Silence|
+|2|Mundane Buff Evasion|
+|3|50 cr|
 
 ## Dwarves
 Dwarves are the enigmatic dwellers of the deep caves.  They are friendly enough folk, but are possessive of their territory and their treasure, and will fight to the death to preserve the former and to acquire more of the latter.
@@ -105,6 +155,8 @@ Dwarves are the enigmatic dwellers of the deep caves.  They are friendly enough 
 In combat, dwarves are highly coordinated opponents, with each one focusing on their own niche in battle.  They should employ smart tactics, and should not show concern for injury except when it threatens their life.
 
 ### Digger (Normal 2, Human, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -114,15 +166,25 @@ In combat, dwarves are highly coordinated opponents, with each one focusing on t
 |:-|:-|:-|:-|:-|
 |1|3|4|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pickaxe|Melee|1 AP|Makes a basic physical attack.|
 |Luck Rune|Ally|1 AP, 5 MP|Buffs Resistance.|
 |Blessing of Earth|Ally|1 AP, 7 MP|Increases or creates an ally's earth Shell by an amount equal to the Digger's Magical Attack.|
 
-Item Table: Mundane Buff Resistance, Mundane Earth Shell, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Buff Resistance|
+|2|Mundane Earth Shell|
+|3|10 cr|
 
 ### Sapper (Normal 2, Construct, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -132,15 +194,25 @@ Item Table: Mundane Buff Resistance, Mundane Earth Shell, 10 cr.
 |:-|:-|:-|:-|:-|
 |3|3|2|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Fist|Melee|1 AP|Makes a basic physical attack.|
 |Tremor|Ranged|1 AP, 5 MP|Makes a magical attack that deals magical earth damage on a hit.|
 |Scan|Ranged|1 AP, 2 MP|Is equivalent to the Artificer's Scan ability.|
 
-Item Table: Mundane Magical Earth Damage, Scan, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Magical Earth Damage|
+|2|Scan|
+|3|10 cr|
 
 ### Blacksmith (Normal 2, Human, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -150,15 +222,25 @@ Item Table: Mundane Magical Earth Damage, Scan, 10 cr.
 |:-|:-|:-|:-|:-|
 |1|3|6|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hammer|Melee|1 AP|Makes a basic physical attack.|
 |Heated Strike|Melee|1 AP, 3 MP|Makes a physical attack that deals physical fire damage on a hit.|
 |Break Armor|Ranged|1 AP, 3 MP|Debuffs the target's Physical Defense.|
 
-Item Table: Mundane Physical Fire Damage, Mundane Debuff Physical Defense, 10 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Physical Fire Damage|
+|2|Mundane Debuff Physical Defense|
+|3|10 cr|
 
 ### Assassin (Elite 2, Human, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -168,6 +250,8 @@ Item Table: Mundane Physical Fire Damage, Mundane Debuff Physical Defense, 10 cr
 |:-|:-|:-|:-|:-|
 |4|2|8|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description
 |:-|:-|:-|:-|
 |Dagger|Melee|1 AP|Makes a basic physical attack.|
@@ -176,9 +260,17 @@ Item Table: Mundane Physical Fire Damage, Mundane Debuff Physical Defense, 10 cr
 |Assassin's Mark|Ranged|1 AP|Applies the Hunted status effect to a single enemy.  Works the same as the Ranger's Mark Target.|
 |Parkour|Passive|N/A|The Assassin has the Ranger's Forest Walk ability.|
 
-Item Table: Mundane Inflict Toxin, Mundane Inflict Silence, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Inflict Toxin|
+|2|Mundane Inflict Silence|
+|3|50 cr|
 
 ### Runecarver (Elite 2, Human, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -188,6 +280,8 @@ Item Table: Mundane Inflict Toxin, Mundane Inflict Silence, 50 cr.
 |:-|:-|:-|:-|:-|
 |3|2|2|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hammer|Melee|1 AP|Makes a basic physical attack.|
@@ -196,4 +290,10 @@ Item Table: Mundane Inflict Toxin, Mundane Inflict Silence, 50 cr.
 |Solidify|Ally|1 AP, 9 MP|Makes the Runecarver or one ally immune to earth damage the next time they are hit by it.|
 |Runecaster|Passive|N/A|The Runecarver has runes that let them cast two spells for free.  When they do so, the spell cannot miss.|
 
-Item Table: Mundane Restore MP, Block Magical Damage, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Restore MP|
+|2|Block Magical Damage|
+|3|50 cr|
