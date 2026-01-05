@@ -27,7 +27,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 
 **Item Table:** 
 
-|Number|Item|
+|Result|Item|
 |:-|:-|
 |1|Guard| 
 |2|Mundane Colorless Physical Damage| 
