@@ -7,6 +7,8 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 
 ### Goon (Normal 4, Dragon, Fire)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |23|12|10|35|2|10|6|3|3|
@@ -15,15 +17,25 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |:-|:-|:-|:-|:-|
 |1|3|10|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|Melee|1 AP|Makes a basic physical attack.|
 |Dragon Kick|Multi|1 AP, 10 MP|Makes a physical attack against every enemy in the front row that deals physical fire damage on a hit.|
 |Gang Up|Passive|N/A|During the Effect Phase, the Goon's Physical Attack is buffed by one level on the Bonus Tracker for every one of the Goon's allies more than enemies the Goon has remaining.|
 
-Item Table: Rare Magical Fire Damage, Rare Buff Physical Attack, 100 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Rare Magical Fire Damage|
+|2|Rare Buff Physical Attack|
+|3|100 cr|
 
 ### Dancer (Normal 4, Dragon, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -33,15 +45,25 @@ Item Table: Rare Magical Fire Damage, Rare Buff Physical Attack, 100 cr.
 |:-|:-|:-|:-|:-|
 |5|1|6|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hairpin|Melee|1 AP|Makes a basic physical attack.|
 |Veil|Ally|1 AP, 9 MP|Confers the Protected status on a single ally or on the Dancer.  The element that that ally is Protected from is the same as the Dancer's current elemental type.|
 |Copycat|Special|1 AP, 10 MP|Uses one of the abilities that the Dancer's enemies used after the end of its last turn.|
 
-Item Table: Copycat, Costume Change, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Copycat|
+|2|Costume Change|
+|3|100 cr|
 
 ### Kitsune (Normal 4, Demon, Wood)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -51,15 +73,25 @@ Item Table: Copycat, Costume Change, 100 cr.
 |:-|:-|:-|:-|:-|
 |5|2|2|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sleep|Ranged|1 AP, 7 MP|Attempts to inflict Fatigued on a single enemy.|
 |Steal|Special|1 AP|This ability can be used on all characters when the Kitsune is in the front row, and only on the front row when the Kitsune is in the back row.  The Kitsune makes a magical attack that, on a hit, takes a single item from the party inventory that the Kitsune can use the Use Item ability to deploy.|
 |Mock|Ranged|1 AP|Taunts one of the Kitsune's enemies.  Works the same as the Defender's Taunt, except that Taunted player characters that cannot target the Kitsune are not able to act.|
 
-Item Table: Taunt, Rare Inflict Fatigue, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Taunt|
+|2|Rare Inflict Fatigue|
+|3|100 cr|
 
 ### Oni (Elite 4, Demon, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -69,6 +101,8 @@ Item Table: Taunt, Rare Inflict Fatigue, 100 cr.
 |:-|:-|:-|:-|:-|
 |5|4|8|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Claws|Melee|1 AP|Makes a basic physical attack.|
@@ -77,9 +111,17 @@ Item Table: Taunt, Rare Inflict Fatigue, 100 cr.
 |Bath Salts|Multi|1 AP, 10 MP|Buffs the Magical Attack of the Oni and its allies by one step on the Bonus Tracker.|
 |Soul Eater|Passive|N/A|If any of the Oni's enemies are downed during the Effect Phase, the Oni can drain all of the MP they died with from them.  If they are revived, they will come back with an MP of zero.|
 
-Item Table: Rare Magical Fire Damage, Rare Buff Magical Attack, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Magical Fire Damage|
+|2|Rare Buff Magical Attack|
+|3|500 cr|
 
 ### Casinoman (Elite 4, Dragon, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -89,6 +131,8 @@ Item Table: Rare Magical Fire Damage, Rare Buff Magical Attack, 500 cr.
 |:-|:-|:-|:-|:-|
 |6|2|10|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Brass Knuckles|Melee|1 AP|Makes a basic physical attack.|
@@ -97,7 +141,13 @@ Item Table: Rare Magical Fire Damage, Rare Buff Magical Attack, 500 cr.
 |Rig Game|Ranged|1 AP, 12 MP|Lowers a random Accuracy of all of the Casinoman's enemies by one level on the Bonus Tracker.|
 |Ante Up|Passive|N/A|During the Effect Phase, all characters must either donate 1 MP or immediately take 1 unblockable damage.  Each time a character donates, they add 1 to a counter called the Betting Pool.|
 
-Item Table: Mundane Debuff Physical Accuracy (Multi), Rare Magical Damage (Random), 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Debuff Physical Accuracy (Multi)|
+|2|Rare Magical Damage (Random)|
+|3|500 cr|
 
 ## Frost Dwellers
 The inhabitants of the frozen caves inside of the Southern Glacier are a mix of wild animals and something more sinister.
@@ -105,6 +155,8 @@ The inhabitants of the frozen caves inside of the Southern Glacier are a mix of 
 Frost dwellers, if they are attacking, are most likely attempting to defend their territory.  They will exert themselves in ways that are meant to scare their enemies to cause a retreat as quickly as possible.
 
 ### Worg (Normal 4, Animal, Ice)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -114,15 +166,25 @@ Frost dwellers, if they are attacking, are most likely attempting to defend thei
 |:-|:-|:-|:-|:-|
 |3|2|10|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Claw|Melee|1 AP|Makes a basic physical attack.|
 |Ice Fang|Melee|1 AP, 3 MP|Makes a physical attack that deals physical ice damage to a single target on a hit.|
 |Chilling Howl|Multi|1 AP, 12 MP|Reduces the Resistance of all of the Worg's enemies by one level on the Bonus Tracker.|
 
-Item Table: Rare Physical Ice Damage, Mundane Reduce Resistance (Multi), 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Physical Ice Damage|
+|2|Mundane Reduce Resistance (Multi)|
+|3|100 cr|
 
 ### Wraith (Normal 4, Undead, Ice)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -132,6 +194,8 @@ Item Table: Rare Physical Ice Damage, Mundane Reduce Resistance (Multi), 100 cr.
 |:-|:-|:-|:-|:-|
 |4|1|4|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bonechill|Melee|1 AP|Attempts to inflict Frostbite on a single target.|
@@ -139,9 +203,17 @@ Item Table: Rare Physical Ice Damage, Mundane Reduce Resistance (Multi), 100 cr.
 |Crystal Veil|Multi|1 AP, 14 MP|Applies an ice Shell of up to 10 on the Wraith and all of its allies.|
 |Ice Ghost|Passive|N/A|The Wraith is immune to Frostbite and ice damage.|
 
-Item Table: Rare Inflict Frostbite, Rare Ice Shell, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Frostbite|
+|2|Rare Ice Shell|
+|3|100 cr|
 
 ### Shrike (Normal 4, Animal, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -151,6 +223,8 @@ Item Table: Rare Inflict Frostbite, Rare Ice Shell, 100 cr.
 |:-|:-|:-|:-|:-|
 |2|3|10|4|4|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Beak|Melee|1 AP|Makes a basic physical attack.|
@@ -158,9 +232,17 @@ Item Table: Rare Inflict Frostbite, Rare Ice Shell, 100 cr.
 |Swift Swim|Passive|N/A|The Shrike can spend 1 of its AP per round to act before all other characters.  The other AP has to be used at the proper point in the Initiative order.|
 |Air Bladder|Passive|N/A|The Shrike is immune to Frostbitten, ice damage, and water damage.|
 
-Item Table: Haste, Rare Cure Frostbite, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Haste|
+|2|Rare Cure Frostbite|
+|3|100 cr|
 
 ### Troll (Elite 4, Demon, Ice)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -170,6 +252,8 @@ Item Table: Haste, Rare Cure Frostbite, 100 cr.
 |:-|:-|:-|:-|:-|
 |0|7|14|0|0|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bash|Melee|1 AP, 5 MP|Makes a colorless physical attack that has its damage multiplied by two on a hit in addition to other multipliers.|
@@ -177,9 +261,17 @@ Item Table: Haste, Rare Cure Frostbite, 100 cr.
 |Berserk|Self|1 AP|Works the same as the Knight's Focus ability.|
 |Insulating Fat|Passive|N/A|The Troll is immune to Frostbite and ice damage.|
 
-Item Table: Rare Restore HP, Rare Ice Shell, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Restore HP|
+|2|Rare Ice Shell|
+|3|500 cr|
 
 ### Specter (Elite 4, Undead, Ice)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -189,6 +281,8 @@ Item Table: Rare Restore HP, Rare Ice Shell, 500 cr.
 |:-|:-|:-|:-|:-|
 |3|2|8|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Reap|Reaction|When an enemy drops to 5 HP or below, the Specter is able to make a free physical attack against them immediately.|
@@ -197,4 +291,10 @@ Item Table: Rare Restore HP, Rare Ice Shell, 500 cr.
 |Ice Storm|Multi|1 AP, 13 MP|Makes a magical attack against all of the Specter's enemies that does magical ice damage on a hit.|
 |Drain Soul|Ranged|1 AP, 5 MP|Makes a magical attack that, on a hit, damages the target's MP instead of their HP or shell and restores the amount of damage done to the Spectre's MP.|
 
-Item Table: Rare MP Damage, Rare Magical Ice Damage (Multi), 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare MP Damage|
+|2|Rare Magical Ice Damage (Multi)|
+|3|500 cr|
