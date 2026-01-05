@@ -7,6 +7,8 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 
 ### Zombie (Normal 3, Undead, Shadow)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |32|8|6|25|2|6|4|5|2|
@@ -15,15 +17,25 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 |:-|:-|:-|:-|:-|
 |0|5|6|0|0|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Smack|Melee|1 AP|Makes a basic physical attack.|
 |Bite|Melee|1 AP, 5 MP|Makes a basic physical attack.  On a hit, also inflicts Necrotized.  Necrotized enemies will take damage instead of being healed if they become the target of any abilities that heal HP.|
 |Undeath|Passive|N/A|The first time the Zombie would be downed in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 
-Item Table: Mundane Physical Shadow Damage, Mundane Inflict Toxin, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Physical Shadow Damage|
+|2|Mundane Inflict Toxin|
+|3|10 cr|
 
 ### Skeleton (Normal 3, Undead, Ice)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -33,15 +45,25 @@ Item Table: Mundane Physical Shadow Damage, Mundane Inflict Toxin, 10 cr.
 |:-|:-|:-|:-|:-|
 |3|3|4|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
 |Arrow|Ranged|1 AP, 5 MP|Makes a colorless physical attack against a single target.|
 |Undeath|Passive|N/A|The first time the Skeleton would be downed in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 
-Item Table: Mundane Inflict Paralyze, Mundane Physical Colorless Damage, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Inflict Paralyze|
+|2|Mundane Physical Colorless Damage|
+|3|10 cr|
 
 ### Ghost (Normal 3, Undead, Ice)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -51,6 +73,8 @@ Item Table: Mundane Inflict Paralyze, Mundane Physical Colorless Damage, 10 cr.
 |:-|:-|:-|:-|:-|
 |3|1|4|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Drain Mana|Melee|1 AP|Makes a basic physical attack that damages MP instead of HP and heals the Ghost's MP by half the damage it deals on a hit.|
@@ -59,9 +83,17 @@ Item Table: Mundane Inflict Paralyze, Mundane Physical Colorless Damage, 10 cr.
 |Nostalgia|Ranged|1 AP, 12 MP|Uses a status-inflicting ability that inflicts Slowed on a single target.|
 |Immaterial|Passive|N/A|During the Effect Phase, the Ghost will become Immaterial, which is the equivalent of Hidden.  At the beginning of their turn, this effect disappears.|
 
-Item Table: Mundane Restore MP, Mundane Inflict Frostbite, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Restore MP|
+|2|Mundane Inflict Frostbite|
+|3|10 cr|
 
 ### Statue (Elite 3, Undead, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -71,6 +103,8 @@ Item Table: Mundane Restore MP, Mundane Inflict Frostbite, 10 cr.
 |:-|:-|:-|:-|:-|
 |1|6|10|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
@@ -79,9 +113,17 @@ Item Table: Mundane Restore MP, Mundane Inflict Frostbite, 10 cr.
 |Frontline|Self|1 AP, 10 MP|Inflicts the Guarded status on all of the Statue's allies until the beginning of its next turn.|
 |Living Construct|Passive|N/A|The Statue is immune to all negative status effects.|
 
-Item Table: Mundane Physical Colorless Damage (Row), Shield, 50 cr.
+**Item Table** 
+
+|Result|Items|
+|:-|:-|
+|1|Mundane Physical Colorless Damage (Row)|
+|2|Shield|
+|3|50 cr|
 
 ### Zombie Hulk (Elite 3, Undead, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -91,6 +133,8 @@ Item Table: Mundane Physical Colorless Damage (Row), Shield, 50 cr.
 |:-|:-|:-|:-|:-|
 |0|6|12|0|0|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|Melee|1 AP|Makes a basic physical attack.|
@@ -99,7 +143,13 @@ Item Table: Mundane Physical Colorless Damage (Row), Shield, 50 cr.
 |Undeath|Passive|N/A|The first time the Zombie Hulk would be downed in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 |Miasma|Passive|N/A|During the Effect Phase of each round, the Zombie Hulk makes a status-inflicting ability roll with no AP or MP cost to inflict Poisoned on every non-Undead character on the battlefield.|
 
-Item Table: Mundane Inflict Poisoned (Multi), Mundane Restore HP, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Inflict Poisoned (Multi)|
+|2|Mundane Restore HP|
+|3|50 cr|
 
 ## Void Elves
 Tall, enigmatic beings who descended one day from the heavens and now lay claim to the entire Earth.
@@ -107,6 +157,8 @@ Tall, enigmatic beings who descended one day from the heavens and now lay claim 
 Void elves are powerful combatants, but are also quite arrogant.  As a result, they will fight with intelligence, but will often disregard their enemies' defenses or buffs, assuming that their raw power is enough to prevail.  They will, of course, still debuff their enemies when they want to prove a point.
 
 ### Telepath (Normal 3, Angel, Wind)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -116,6 +168,8 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |:-|:-|:-|:-|:-|
 |4|2|2|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Read Mind|Ranged|1 AP, 2 MP|Works the same as the Artificer's Scan ability.|
@@ -123,9 +177,17 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Corrupt Mind|Ranged|1 AP, 10 MP|Debuffs an enemy's Magical Attack by 3 steps on the Bonus Tracker.|
 |Mindwipe|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single character.|
 
-Item Table: Mundane Magical Light Damage, Mundane Debuff Magical Attack, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Magical Light Damage|
+|2|Mundane Debuff Magical Attack|
+|3|10 cr|
 
 ### Empath (Normal 3, Angel, Wind)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -135,6 +197,8 @@ Item Table: Mundane Magical Light Damage, Mundane Debuff Magical Attack, 10 cr.
 |:-|:-|:-|:-|:-|
 |4|1|2|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Heal Body|Ally|1 AP, 11 MP|Heals a single target by twice the Empath's Magical Attack.|
@@ -143,9 +207,17 @@ Item Table: Mundane Magical Light Damage, Mundane Debuff Magical Attack, 10 cr.
 |Premonition|Multi|1 AP, 10 MP|Buffs the Evasion of the Empath and all of its allies by one step on the Bonus Tracker.|
 |Pain Resonance|Passive|N/A|The Empath starts battle with the Resonant status effect.  While an Empath is Resonant, whenever the Empath receives damage, every other character on the field must resist a status-inflicting roll against the Empath or receive the same amount of damage.|
 
-Item Table: Mundane Remove Paralysis, Rare Restore HP, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Remove Paralysis|
+|2|Rare Restore HP|
+|3|10 cr|
 
 ### Telekinetic (Normal 3, Angel, Wind)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -155,6 +227,8 @@ Item Table: Mundane Remove Paralysis, Rare Restore HP, 10 cr.
 |:-|:-|:-|:-|:-|
 |3|1|6|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Staff|Melee|1 AP|Makes a basic physical attack.|
@@ -163,9 +237,17 @@ Item Table: Mundane Remove Paralysis, Rare Restore HP, 10 cr.
 |Mass Anchor|Ranged|1 AP, 7 MP|Attempts to inflict Fatigue on a single enemy.|
 |Push/Pull|Ranged|1 AP, 5 MP|Makes a status-inflicting ability roll.  On a hit, the Telekinetic can force a single enemy to use the Move action at no AP cost, unless said enemy is immune to effects that move them.|
 
-Item Table: Mundane Magical Colorless Damage, Mundane Inflict Fatigue, 10 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Mundane Magical Colorless Damage|
+|2|Mundane Inflict Fatigue|
+|3|10 cr|
 
 ### Lord (Elite 3, Angel, Light)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -175,6 +257,8 @@ Item Table: Mundane Magical Colorless Damage, Mundane Inflict Fatigue, 10 cr.
 |:-|:-|:-|:-|:-|
 |3|1|10|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
@@ -183,7 +267,13 @@ Item Table: Mundane Magical Colorless Damage, Mundane Inflict Fatigue, 10 cr.
 |Psi Lance|Ranged|1 AP, 7 MP|Makes a magical attack that deals magical colorless damage on a hit that is multiplied by 2 in addition to other modifiers.|
 |Cheat Death|Ally|1 AP, 10 MP|Revives a single downed ally back to 1 HP.|
 
-Item Table: Orders, Mundane Revive, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Orders|
+|2|Mundane Revive|
+|3|50 cr|
 
 ### Infiltrator (Elite 3, Angel, Light)
 
@@ -203,4 +293,10 @@ Item Table: Orders, Mundane Revive, 50 cr.
 |Wired Reflexes|Self|1 AP, 12 MP|Inflicts Hasted on the Infiltrator.|
 |Hamstring|Melee|1 AP, 12 MP|Makes a basic physical attack.  On a hit, also inflicts Slowed on the enemy.|
 
-Item Table: Hide, Haste, 50 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Hide|
+|2|Haste|
+|3|50 cr|
