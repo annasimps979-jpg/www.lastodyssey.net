@@ -2,9 +2,9 @@
 
 Lands with wet and cool climates are represented by this type.  The months of winter and spring in milder regions and the month of spring in more remote regions as well as the climate of cooler wetlands and intertidal zones are all represented by the Temperate climate.
 
-Example Natural Hazards: a rushing stream, a treacherous bog, a fallen tree.
+**Example Natural Hazards:** a rushing stream, a treacherous bog, a fallen tree.
 
-Weather Table:
+**Weather Table**
 
 |Result|Weather|
 |:-|:-|
