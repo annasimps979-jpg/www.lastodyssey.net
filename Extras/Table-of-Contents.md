@@ -97,6 +97,7 @@
     - [Weapons](../The-Economy/Equipment/Weapons)
     - [Armor](../The-Economy/Equipment/Armor)
     - [Accessories](../The-Economy/Equipment/Accessories)
+    - [Equipment Upgrades](../The-Economy/Equipment/Equipment-Upgrades)
   - [The Party Inventory](../The-Economy/The-Party-Inventory/)
     - [Battle Items](../The-Economy/The-Party-Inventory/Battle-Items)
     - [Travel Items](../The-Economy/The-Party-Inventory/Travel-Items)
