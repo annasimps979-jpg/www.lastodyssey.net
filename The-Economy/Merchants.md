@@ -13,7 +13,7 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 * _<dfn id = "term-sorcerer-merchant">Sorcerers</dfn>_ specialize in hexes and offensive magic, and tend to be reclusive.
 * _<dfn id = "term-ranger-merchant">Rangers</dfn>_ are practitioners of natural magic and experts in survival.
 
-## Blacksmiths
+### Blacksmiths
 
 |Rating|Items|
 |:-|:-|
