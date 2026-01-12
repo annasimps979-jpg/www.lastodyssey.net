@@ -38,4 +38,4 @@ Last Odyssey has a "trad" TTRPG structure, which its author refers to as FRP, or
 
 Closed playtests are still ongoing--a big thank you to the participants, whose names I, as of writing this, do not have permission to disclose, who have already given me a lot of thoughtful feedback to incorporate.
 
-Special shout out to Billy, for your technical help and general guidance; to Lottie, for keeping me humble; to Irving, for telling me I could do it; to Andrew, for telling me how to do it; to everyone who believed in me.
+Special shout out to Billy, for his technical help and general guidance; to Lottie, for keeping me humble; to Irving, for telling me I could do it; to Andrew, for telling me how to do it; to everyone who believed in me.
