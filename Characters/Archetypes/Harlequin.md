@@ -1,12 +1,12 @@
 # Harlequin
 
-The Harlequin's core virtue is their **Daring.**  At [character creation](../Characters/Character-Creation), they gain the following traits:
+The Harlequin's core virtue is their **Daring.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Light armor.
 *  Proficiency in Claws.
 *  +5 Health
 *  +10 Mana
 *  +6 Initiative
-*  As a Support, their buff [abilities](../Extras/Key-Terms#term-ability) affect Status Accuracy.
+*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) affect Status Accuracy.
 *  As a Saboteur, their debuff abilities affect Physical Accuracy.
 
 ## Advancements by Rank
@@ -59,8 +59,8 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../Cha
 
 **Healer:** Bet Your Life.  When you heal an ally with a Healer ability, have them call a number and then roll a 1d10.  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
 
-**Defender:** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../Extras/Key-Terms#term-gm) rolls the hit die.  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
+**Defender:** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../../Extras/Key-Terms#term-gm) rolls the hit die.  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
 
-**Support:** Random Buff.  When you use a buff ability, you may roll on the Random Statistic Table to determine which [statistic](../Extras/Key-Terms#term-statistic) you buff.
+**Support:** Random Buff.  When you use a buff ability, you may roll on the Random Statistic Table to determine which [statistic](../../Extras/Key-Terms#term-statistic) you buff.
 
 **Saboteur:** Random Debuff.  When you use a debuff ability, you may roll on the Random Statistic Table to determine which statistic you debuff.
