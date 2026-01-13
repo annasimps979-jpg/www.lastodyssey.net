@@ -6,7 +6,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 *  +10 Health
 *  +10 Mana
 *  +4 Initiative
-*  As a Support, their buff [abilities](../Extras/Key-Terms#term-ability) will affect Magical Accuracy.
+*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect Magical Accuracy.
 *  As a Saboteur, their debuff abilities will affect Resistance.
 
 ## Advancements by Rank
@@ -15,7 +15,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Scan|Ranged|2 MP, 1 AP|Select an enemy.  You immediately learn its current HP, MP, Shell, and elemental type.  Subsequent uses of this ability on the same enemy will allow you to learn the same information, or allow you to learn the value of one of its [statistics](../Extras/Key-Terms#term-statistic), its item table, or reveal one of its abilities.|
+|Scan|Ranged|2 MP, 1 AP|Select an enemy.  You immediately learn its current HP, MP, Shell, and elemental type.  Subsequent uses of this ability on the same enemy will allow you to learn the same information, or allow you to learn the value of one of its [statistics](../../Extras/Key-Terms#term-statistic), its item table, or reveal one of its abilities.|
 
 **Rank 2:** You gain +1 Magical Accuracy.
 
@@ -49,11 +49,11 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Target Acquired|Multi|1 Anima, 2 AP|Use Scan on all enemies on the battlefield.  Every affected enemy will be Scanned for the remainder of the [battle](../Extras/Key-Terms#term-battle) unless the effect is removed by an ability.|
+|Target Acquired|Multi|1 Anima, 2 AP|Use Scan on all enemies on the battlefield.  Every affected enemy will be Scanned for the remainder of the [battle](../../Extras/Key-Terms#term-battle) unless the effect is removed by an ability.|
 
 ## Talents
 
-**Striker:** Sniper.  When you use an item that does physical damage to an enemy, you may add your Physical Attack to its [base](../Extras/Key-Terms#term-base) damage.
+**Striker:** Sniper.  When you use an item that does physical damage to an enemy, you may add your Physical Attack to its [base](../../Extras/Key-Terms#term-base) damage.
 
 **Caster:** Magic Ammo.  When you use an item that does magical damage to an enemy, you may add your Magical Attack to its base damage.
 
