@@ -1,12 +1,12 @@
 # Thief
 
-The Thief's core virtue is their **Cunning.**  At character creation, they gain the following traits:
+The Thief's core virtue is their **Cunning.**  At [character creation](../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Light armor.
 *  Proficiency in Daggers.
 *  +10 Health
 *  +5 Mana
 *  +6 Initiative
-*  As a Support, their buff abilities will affect Physical Attack.
+*  As a Support, their buff [abilities](../Extras/Key-Terms#term-ability) will affect Physical Attack.
 *  As a Saboteur, their debuff abilities will affect Physical Defense.
 
 ## Advancements by Rank
@@ -15,7 +15,7 @@ The Thief's core virtue is their **Cunning.**  At character creation, they gain 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Steal|Melee|1 AP|Select an enemy and roll on their item table.  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per battle with this ability.|
+|Steal|Melee|1 AP|Select an enemy and roll on their item table.  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](../Extras/Key-Terms#term-battle) with this ability.|
 
 **Rank 2:** You gain +1 Physical Attack.
 
@@ -23,7 +23,7 @@ The Thief's core virtue is their **Cunning.**  At character creation, they gain 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Hide|Self|1 AP|You apply the Hidden status effect to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied character remaining on the battlefield, the Hidden status effect is removed.|
+|Hide|Self|1 AP|You apply the Hidden status effect to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied [character](../Extras/Key-Terms#term-character) remaining on the battlefield, the Hidden status effect is removed.|
 
 **Rank 4:** You gain +1 Physical Attack.
 
