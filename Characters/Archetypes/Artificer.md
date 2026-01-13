@@ -1,6 +1,6 @@
 # Artificer
 
-The Artificer's core virtue is their **Knowledge.**  At [character creation](../Characters/Character-Creation), they gain the following traits:
+The Artificer's core virtue is their **Knowledge.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Heavy armor.
 *  Proficiency in Guns.
 *  +10 Health
