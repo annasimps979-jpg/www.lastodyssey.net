@@ -1,12 +1,12 @@
 # Commander
 
-The Commander's core virtue is their **Leadership.**  At [character creation](../Characters/Character-Creation), they gain the following traits:
+The Commander's core virtue is their **Leadership.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Heavy armor.
 *  Proficiency in Swords.
 *  +15 Health
 *  +5 Mana
 *  +4 Initiative
-*  As a Support, your buff [abilities](../Extras/Key-Terms#term-ability) will affect Resistance.
+*  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) will affect Resistance.
 *  As a Saboteur, your debuff abilities will affect Status Accuracy.
 
 ## Advancements by Rank
@@ -39,7 +39,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Chain of Command|Passive|N/A|Designate one of your party members as your Lieutenant.  While you are downed in [battle](../Extras/Key-Terms#term-battle), that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
+|Chain of Command|Passive|N/A|Designate one of your party members as your Lieutenant.  While you are downed in [battle](../../Extras/Key-Terms#term-battle), that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
 
 **Rank 8:** You gain +1 Resistance.
 
@@ -49,7 +49,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Charge!|Special|1 Anima, 2 AP|Your eidolon grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](../Extras/Key-Terms#term-statistic) for theirs.|
+|Charge!|Special|1 Anima, 2 AP|Your eidolon grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](../../Extras/Key-Terms#term-statistic) for theirs.|
 
 ## Talents
 
