@@ -1,12 +1,12 @@
 # Knight
 
-The Knight's core virtue is their **Discipline.**  At [character creation](../Characters/Character-Creation), they receive the following traits:
+The Knight's core virtue is their **Discipline.**  At [character creation](../../Characters/Character-Creation), they receive the following traits:
 *  Proficiency in Heavy armor.
 *  Proficiency in Lances.
 *  +15 Health
 *  +10 Mana
 *  +2 Initiative
-*  As a Support, their buff [abilities](../Extras/Key-Terms#term-ability) will affect Physical Defense.
+*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect Physical Defense.
 *  As a Saboteur, their debuff abilities will affect Physical Attack.
 
 ## Advancements by Rank
