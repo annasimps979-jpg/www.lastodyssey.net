@@ -1,12 +1,12 @@
 # Dancer
 
-The Dancer's core virtue is their **Charm.**  At [character creation](../Characters/Character-Creation), they gain the following traits:
+The Dancer's core virtue is their **Charm.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Cloth armor.
 *  Proficiency in Fans.
 *  +10 Health
 *  +10 Mana
 *  +4 Initiative
-*  As a Support, your buff [abilities](../Extras/Key-Terms#term-ability) affect Evasion.
+*  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) affect Evasion.
 *  As a Saboteur, your debuff abilities affect Magical Accuracy.
 
 ## Advancements by Rank
