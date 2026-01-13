@@ -2,7 +2,7 @@
 
 The Defender specializes in drawing and negating the effects of enemy attacks.
 
-While they are a Defender, characters gain the following bonuses to their statistics:
+While they are Defenders, [player characters](../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../Extras/Key-Terms#term-statistic):
 *  Their Physical Defense is increased by their Body.
 *  Their Resistance is increased by their Mind.
 *  Their Magical Defense is increased by their Spirit.
@@ -11,7 +11,7 @@ While they are a Defender, characters gain the following bonuses to their statis
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Taunt|Ranged|1 AP|Inflict the Taunted status on a single target.  A Taunted character can only use single-target magical attacks, physical attacks, and status-inflicting abilities, and only on you.  It can also use the Move action to move into range of you if needed.  Each character can only be Taunted by a single other character at a time.  If the character cannot reach you by any means, they will act as though they are not Taunted.|
+|1|Taunt|Ranged|1 AP|Inflict the Taunted status on a single target.  A Taunted [character](../Extras/Key-Terms#term-character) can only use single-target magical attacks, physical attacks, and status-inflicting [abilities](../Extras/Key-Terms#term-ability), and only on you.  It can also use the Move [action](../Extras/Key-Terms#term-action) to move into range of you if needed.  Each character can only be Taunted by a single other character at a time.  If the character cannot reach you by any means, they will act as though they are not Taunted.|
 |2|Guard|Ally|5 MP, 1 AP|Inflict the Guarded status on a single ally, which remains until the beginning of your next turn.  Every time that ally is targeted by a physical attack, magical attack, or status-inflicting ability, you become the target instead.  If they are targeted by a Multi- or All-type ability, the ability is simply negated against them.|
 |3|Shield|Self|7 MP, 1 AP|Inflict the Shielded status effect on yourself.  While you are Shielded, if you are hit by a physical attack the damage dealt to you is automatically reduced to 0 and the Shielded status effect is removed.|
 |4|Counter|Self|7 MP, 1 AP|Inflict the Countering status effect on yourself.  While you are Countering, the next time you are hit with a physical attack the attacker takes damage as though they were also a target of the same attack and the Countering status is removed.|
