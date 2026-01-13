@@ -15,7 +15,7 @@
 *  A discrete instance of combat in Last Odyssey is called a _<dfn id="term-battle">battle</dfn>._
 *  Any agent that can act during battles is called a _<dfn id="term-character">character</dfn>._
 *  An _<dfn id="term-attribute">attribute</dfn>_ is a number from one to ten that represents how strong a character is in a general domain of aptitudes.
-*  A _<dfn id="term-statistic">statistic</dfn>_ is also a number, but is much less abstract, instead representing a specific capability in combat.
+*  A _<dfn id="term-statistic">statistic</dfn>_ is a number from one to ten that represents a specific capability in combat.
 *  An _<dfn id="term-action">action</dfn>_ is a single, discrete thing that a character does during play.  Depending on what phase of gameplay you are in, characters are allowed to take different actions.
 *  _<dfn id="term-ability" title="ability">Abilities</dfn>_ are discrete actions that characters can take during combat that supplement the actions that all characters can take.
 
