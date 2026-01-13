@@ -1,6 +1,6 @@
 # Priest
 
-The Priest's core virtue is their **Compassion.**  At [character creation](../Characters/Character-Creation), they gain the following traits:
+The Priest's core virtue is their **Compassion.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Cloth armor.
 *  Proficiency in Scepters.
 *  +10 Health
@@ -23,7 +23,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../Ch
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Prayer|Passive|N/A|During the Effect Phase of every round of [battle](../Extras/Key-Terms#term-battle), you and your allies regain 1 MP.  If you are downed during the Effect Phase, this effect does not apply.|
+|Prayer|Passive|N/A|During the Effect Phase of every round of [battle](../../Extras/Key-Terms#term-battle), you and your allies regain 1 MP.  If you are downed during the Effect Phase, this effect does not apply.|
 
 **Rank 4:** You gain +1 Magical Defense.
 
