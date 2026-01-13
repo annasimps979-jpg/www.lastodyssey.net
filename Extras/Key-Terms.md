@@ -10,10 +10,10 @@
 *  An _<dfn id="term-adventure">adventure</dfn>_ is one or more sessions that are tied together by an overarching narrative.  An adventure is also the smallest unit of playtime that Last Odyssey is built to handle.
 *  A _<dfn id="term-campaign">campaign</dfn>_ is a string of adventures featuring a shared set of PCs, a shared world, and an overarching narrative of some kind.  Last Odyssey is at its best when used as a way to run campaigns.
 *  When the rules call for a decision to be made by _<dfn id="term-fiat">fiat</dfn>,_ it means that it will be decided based on what makes sense for their story, rather than referring to the rules.
+*  Any agent that can act during battles, exploration, or the narrative at large is called a _<dfn id="term-character">character</dfn>._
+*  A discrete instance of combat in Last Odyssey is called a _<dfn id="term-battle">battle</dfn>._
 
 ## Last Odyssey-Specific Terms
-*  A discrete instance of combat in Last Odyssey is called a _<dfn id="term-battle">battle</dfn>._
-*  Any agent that can act during battles, exploration, or the narrative at large is called a _<dfn id="term-character">character</dfn>._
 *  An _<dfn id="term-attribute">attribute</dfn>_ is a number from one to ten that represents how strong a character is in a general domain of aptitudes.
 *  A _<dfn id="term-statistic">statistic</dfn>_ is a number from one to ten that represents a specific capability in combat.
 *  An _<dfn id="term-action">action</dfn>_ is a single, discrete thing that a character does during play.  Depending on what phase of gameplay you are in, characters are allowed to take different actions.
