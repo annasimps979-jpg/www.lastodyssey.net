@@ -1,12 +1,12 @@
 # Ranger
 
-A Ranger's core virtue is their **Focus.**  At character creation, they gain the following traits:
+A Ranger's core virtue is their **Focus.**  At [character creation](../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Light armor.
 *  Proficiency in Bows.
 *  +10 Health
 *  +10 Mana
 *  +4 Initiative
-*  As a Support, their buff abilities will affect Physical Accuracy.
+*  As a Support, their buff [abilities](../Extras/Key-Terms#term-ability) will affect Physical Accuracy.
 *  As a Saboteur, their debuff abilities will affect Evasion.
 
 ## Advancements by Rank
@@ -61,6 +61,6 @@ A Ranger's core virtue is their **Focus.**  At character creation, they gain the
 
 **Defender:** Forcefield.  You may use the Mark Target ability to apply the Defended status to an ally.  The next time they are hit by a status-inflicting ability, a magical attack, or a physical attack, the damage or status is negated.  Only one ally may be Defended by you at a time.
 
-**Support:** Herbal Medicine.  You may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all debuffs that have been applied to them, although this does not affect the position of any of their statistics on the Bonus Tracker.
+**Support:** Herbal Medicine.  You may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all debuffs that have been applied to them, although this does not affect the position of any of their [statistics](../Extras/Key-Terms#term-statistic) on the Bonus Tracker.
 
 **Saboteur:** Poison Arrow.  When an enemy is affected by the Lay Trap ability, you may choose to use a single-target status-inflicting ability on them instead of using your basic attack.  When you do so, roll the hit die as though the enemy were Hunted.
