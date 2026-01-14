@@ -3,7 +3,7 @@
 ## Invaders
 Alternate dimensions contain sentients of their own.  While most transdimensional visitors are benign or even benevolent, those that willingly choose to colonize other dimensions often aren't.
 
-Invaders don't follow too many rules in combat, except for one: do whatever the players expect the least at any given time.
+Invaders don't follow too many rules in combat, except for one: do whatever the [players](../../Extras/Key-Terms#term-player) expect the least at any given time.
 
 ### Grub (Normal 9, Horror, Colorless)
 
@@ -51,7 +51,7 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |:-|:-|:-|:-|
 |Standard Missile|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit that is multiplied by 2 in addition to other multipliers.|
 |Standard Shell|Ally|1 AP, 7 MP|Increases or restores the Shell of the Pupil or one of its allies by 18 points.|
-|Implant Eggs|Special|1 AP|If another character on the battlefield is already downed, the Pupil can use this ability on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the battle.|
+|Implant Eggs|Special|1 AP|If another character on the battlefield is already downed, the Pupil can use this [ability](../../Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](../../Extras/Key-Terms#term-battle).|
 
 **Item Table** 
 
@@ -138,7 +138,7 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |Mindstab|Ranged|1 AP, 10 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit and also reduces the target's Magical Attack by one step on the Bonus Tracker.|
 |Dream Eater|Ranged|1 AP, 5 MP|Makes a magical attack against a single target that, on a hit, deals magical colorless damage to their MP instead of their HP or Shell, with all multipliers calculated as normal.  The Illithid then regains an amount of MP equal to the damage the target took to their MP.|
 |Mass Delusion|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Illithid's enemies that inflicts the Confused status on a hit.|
-|Puppeteer|Ranged|1 AP, 10 MP|Uses a status-inflicting ability on a single target that, on a hit, allows them to force that enemy to take 2 actions of the GM's choice.|
+|Puppeteer|Ranged|1 AP, 10 MP|Uses a status-inflicting ability on a single target that, on a hit, allows them to force that enemy to take 2 actions of the [GM's](../../Extras/Key-Terms#term-gm) choice.|
 |Brain Eater|Melee|1 AP, 3 MP|The Illithid makes a physical attack that, on a hit, deals physical colorless damage.  The Illithid then immediately regains an amount of HP equal to the damage it dealt with this attack.|
 
 **Item Table** 
@@ -227,7 +227,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Mech-Arm|Melee|1 AP|Makes a basic physical attack.|
-|Jury-Rig|Special|1 AP, 11 MP|The Engineer can transfer up to a total HP, Shell, and MP from one of their allies to another equal to its Magical Attack, so long as they are Construct type characters.|
+|Jury-Rig|Special|1 AP, 11 MP|The Engineer can transfer up to a total HP, Shell, and MP from one of their allies to another equal to its Magical Attack, so long as they are Construct type [characters](../../Extras/Key-Terms#term-character).|
 |Repairs|Multi|1 AP, 18 MP|Removes all of the status effects and debuffs from the Engineer and all of their allies.|
 
 **Item Table** 
