@@ -3,7 +3,7 @@
 ## Angels
 The servants of Heaven are just and righteous, but this makes them no less deadly in combat.
 
-Angels will fight fair, but will also fight hard, and to the death.  If they are sent after the players, this means they know their tactics and their weaknesses and are prepared to respond accordingly.
+Angels will fight fair, but will also fight hard, and to the death.  If they are sent after the [players](../../Extras/Key-Terms#term-player), this means they know their tactics and their weaknesses and are prepared to respond accordingly.
 
 ### Herald (Normal 8, Angel, Light)
 
@@ -109,7 +109,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |Baleful Strike|Melee|1 AP, 3 MP|Makes a physical attack against a single target that deals physical fire damage on a hit.|
 |Blessed Sword|Ally|1 AP, 16 MP|Buffs the Physical Attack of either the Avenger or their allies by three levels on the Bonus Tracker.|
 |Condemn|Ranged|1 AP|Designates one of the Avenger's enemies as Condemned.  When the Avenger or one of their allies uses a physical or magical attack or a status-inflicting ability on a Condemned target, the GM may roll the associated 1d10 twice and choose which result they want.|
-|Final Judgment|Special|2 AP|When the Avenger uses this ability, the GM selects one of their enemies and rolls a 1d10.  If the result is above a 5, the Condemned enemy takes the total amount of damage they have dealt in the battle minus the amount of healing they have received.  It is possible that this result could be negative, in which case they are healed instead.  If the result is a 5 or below, nothing happens.  In either case, however, the Condemned status is removed and cannot be applied to them again for the rest of the battle.|
+|Final Judgment|Special|2 AP|When the Avenger uses this [ability](../../Extras/Key-Terms#term-ability), the GM selects one of their enemies and rolls a 1d10.  If the result is above a 5, the Condemned enemy takes the total amount of damage they have dealt in the [battle](../../Extras/Key-Terms#term-battle) minus the amount of healing they have received.  It is possible that this result could be negative, in which case they are healed instead.  If the result is a 5 or below, nothing happens.  In either case, however, the Condemned status is removed and cannot be applied to them again for the rest of the battle.|
 
 **Item Table** 
 
@@ -137,7 +137,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|
 |Hammer|Melee|1 AP|Makes a basic physical attack.|
 |Sworn Protector|Multi|1 AP, 10 MP|This ability works the same as the Defender's Multiguard ability.|
-|Light Barrier|Self|1 AP, 20 MP|The Protector inflicts the Light Barrier status on themselves.  The next time a character hits them with a magical or physical attack, the Protector uses a status-inflicting ability for free that causes their attacker to become Blinded on a hit.|
+|Light Barrier|Self|1 AP, 20 MP|The Protector inflicts the Light Barrier status on themselves.  The next time a [character](../../Extras/Key-Terms#term-character) hits them with a magical or physical attack, the Protector uses a status-inflicting ability for free that causes their attacker to become Blinded on a hit.|
 |Retribution|Passive|N/A|When the Protector takes damage from an attack due to one of their allies being Guarded, the Protector automatically uses Hammer against the attacker.|
 |Righteous Guardian|Passive|N/A|When the Protector is hit by a magical attack, the attacker's Magical Attack is reduced by one step on the Bonus Tracker.|
 
@@ -288,7 +288,7 @@ The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  Howe
 |Frenzied|Passive|N/A|Each time the Wight takes damage, its Physical Attack is buffed by one step on the Bonus Tracker.|
 |Drink Blood|Melee|1 AP, 12 MP|The Wight makes a physical attack on a single target.  On a hit, they deal colorless physical damage and regain an amount of HP and MP equal to the damage they dealt.|
 |Entrance|Special|1 AP, 5 MP|Uses a status-inflicting ability that, if it hits, inflicts the Entranced status effect.  Entranced characters cannot act.|
-|It Keeps Coming Back|Passive|N/A|When the Wight is downed, the GM should roll a 1d10.  If the roll is a 3 or below, the Wight will be revived at full HP and Shell during the Effect Phase of the same round in which it was downed.|
+|It Keeps Coming Back|Passive|N/A|When the Wight is downed, the [GM](../../Extras/Key-Terms#term-gm) should roll a 1d10.  If the roll is a 3 or below, the Wight will be revived at full HP and Shell during the Effect Phase of the same round in which it was downed.|
 
 **Item Table** 
 
