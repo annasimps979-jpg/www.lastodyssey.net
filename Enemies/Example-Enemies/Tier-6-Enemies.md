@@ -3,7 +3,7 @@
 ## Chaos Elementals
 The Elemental Boundary of the cosmos will sometimes leak into the Material Plane.  When it does, aspects of the elements will be "embodied" in elementals.  Elementals are hostile, and quite insane.
 
-There is nothing discernible elementals usually "want."  They simply act on instinct, using powers associated with their given element almost at random.  They won't use any actions in battle other than their abilities, and won't use these abilities in a tactical manner, instead just lashing out at the nearest target.
+There is nothing discernible elementals usually "want."  They simply act on instinct, using powers associated with their given element almost at random.  They won't use any [actions](../../Extras/Key-Terms#term-action) in battle other than their [abilities](../../Extras/Key-Terms#term-ability), and won't use these abilities in a tactical manner, instead just lashing out at the nearest target.
 
 ### Wisp (Normal 6, Elemental, Variable)
 
@@ -52,7 +52,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 |Strike|Melee|1 AP, 3 MP|The Homid makes an attack that deals damage of its elemental type.|
 |Physical Form|Self|1 AP|The Homid becomes immune to magical damage, and all of their attacks deal physical damage.|
 |Magical Form|Self|1 AP|The Homid becomes immune to physical damage, and all of their attacks deal magical damage.|
-|Vacillation|Passive|N/A|The Homid begins battle with either Physical or Magical Form active, whichever the GM chooses.  If Physical Form is active during the Effect Phase, the Homid will use Magical Form.  If Magical Form is active during the Effect Phase, the Homid will use Physical Form.|
+|Vacillation|Passive|N/A|The Homid begins battle with either Physical or Magical Form active, whichever the [GM](../../Extras/Key-Terms#term-gm) chooses.  If Physical Form is active during the Effect Phase, the Homid will use Magical Form.  If Magical Form is active during the Effect Phase, the Homid will use Physical Form.|
 
 **Item Table** 
 
@@ -109,7 +109,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 |Punch|Melee|1 AP|Makes a basic physical attack.|
 |Bash|Melee|1 AP, 5 MP|Makes a physical attack against a single target that deals physical damage on a hit of the golem's elemental type that is multiplied by 2 in addition to other modifiers.|
 |Rock Toss|Ranged|1 AP, 8 MP|Makes a physical attack against a single target that deals magical damage of the Golem's elemental type on a hit.|
-|Screen|Ally|1 AP, 9 MP|Confers the Protected status on the Golem or one of its allies.  The next attack of the Golem's elemental type that hits a character that is Protected will have its damage negated.|
+|Screen|Ally|1 AP, 9 MP|Confers the Protected status on the Golem or one of its allies.  The next attack of the Golem's elemental type that hits a [character](../../Extras/Key-Terms#term-character) that is Protected will have its damage negated.|
 |Conduit|Passive|N/A|If the Golem is hit by a magical attack of its elemental type, the user of the attack will take the same amount of damage the Golem takes.|
 
 **Item Table**
@@ -289,7 +289,7 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 |Sleet|Multi|1 AP, 18 MP|Uses a status-inflicting ability on every enemy on the battlefield that inflicts Frostbite on a hit.|
 |Resurrection|Ally|1 AP, 15 MP|Raises a single downed ally of the Prophet's back to half its maximum HP.|
 |Karma|Multi|1 AP, 40 MP|Inflicts the Reflecting status on the Prophet and all of their allies.  The next time they are hit by a magical attack, the damage they take is also automatically dealt to the attacker and the status is removed.|
-|Foretell Doom|Passive|N/A|After the Effect Phase in battle passes three times, the Prophet makes a magical attack against all of its enemies that does not cost any MP.  Every hit enemy takes magical water damage that is multiplied by 3 in addition to other modifiers.|
+|Foretell Doom|Passive|N/A|After the Effect Phase in [battle](../../Extras/Key-Terms#term-battle) passes three times, the Prophet makes a magical attack against all of its enemies that does not cost any MP.  Every hit enemy takes magical water damage that is multiplied by 3 in addition to other modifiers.|
 
 **Item Table** 
 
