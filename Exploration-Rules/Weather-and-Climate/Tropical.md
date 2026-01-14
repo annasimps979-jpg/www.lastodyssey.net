@@ -14,4 +14,4 @@ Jungles, the summer months in hotter regions, and the wet season on islands are 
 |6-7|Rainy|
 |8-10|Thunderstorm|
 
-Tropical regions are rife with small animals, poisonous plants, dirty water, and microorganisms, all of which are intent on causing the player characters as much misery as possible.  If the characters run out of supplies, they will also receive the Poisoned status effect in addition to an injury due to deprivation.
+Tropical regions are rife with small animals, poisonous plants, dirty water, and microorganisms, all of which are intent on causing the [player characters](../../Extras/Key-Terms#term-player-character) as much misery as possible.  If the [party](../../Extras/Key-Terms#term-party) runs out of Supplies, they will receive the Poisoned status effect in addition to the usual injury due to deprivation.
