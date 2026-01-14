@@ -3,7 +3,7 @@
 ## Forest Dwellers
 The deep woods are home to hostile creatures that will defend their territory to the death, although they will also grant boons to travelers they trust.
 
-Forest Dwellers are interested in murdering their opponents with as little fanfare as possible.  The exception to this is that they will prioritize survival in combat over a quicker end to things.  You will see them choose to use healing abilities even when it isn't strictly needed, and playing it safe with buffs and debuffs.
+Forest Dwellers are interested in murdering their opponents with as little fanfare as possible.  The exception to this is that they will prioritize survival in combat over a quicker end to things.  You will see them choose to use healing [abilities](../../Extras/Key-Terms#term-ability) even when it isn't strictly needed, and playing it safe with buffs and debuffs.
 
 ### Wolf (Normal 2, Animal, Shadow)
 
@@ -79,7 +79,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |:-|:-|:-|:-|
 |Claws|Melee|1 AP|Makes a basic physical attack.|
 |Baptize|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single ally.|
-|Restore|Ally|1 AP, 5 MP|Heals a single character for an amount equal to the Naiad's Magical Attack.|
+|Restore|Ally|1 AP, 5 MP|Heals a single [character](../../Extras/Key-Terms#term-character) for an amount equal to the Naiad's Magical Attack.|
 
 **Item Table**
 
@@ -152,7 +152,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 ## Dwarves
 Dwarves are the enigmatic dwellers of the deep caves.  They are friendly enough folk, but are possessive of their territory and their treasure, and will fight to the death to preserve the former and to acquire more of the latter.
 
-In combat, dwarves are highly coordinated opponents, with each one focusing on their own niche in battle.  They should employ smart tactics, and should not show concern for injury except when it threatens their life.
+In combat, dwarves are highly coordinated opponents, with each one focusing on their own niche in [battle](../../Extras/Key-Terms#term-battle).  They should employ smart tactics, and should not show concern for injury except when it threatens their life.
 
 ### Digger (Normal 2, Human, Earth)
 
