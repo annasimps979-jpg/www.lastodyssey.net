@@ -1,6 +1,7 @@
 # Key Terms
 
 *  A _<dfn id="term-player">player</dfn>_ is a participant who controls a fixed number of characters within the setting.  In Last Odyssey, each player controls one of the story's protagonists.
+*  Any agent that can act during battles, exploration, or the narrative at large is called a _<dfn id="term-character">character</dfn>._
 *  A _<dfn id="term-player-character">player character</dfn>,_ or <abbr title="player character">PC</abbr> for short, is a character controlled by one of the players.  In Last Odyssey, each player character also has a set of statistics unique to that character that determine (along with narrative context) the consequences of the actions they take during play.
 *  The _<dfn id="term-party">party</dfn>_ is the group of player characters, and their players.  They are, usually, the protagonists of the narrative.
 *  A _<dfn id="term-npc">non-player character</dfn>,_ or <abbr title="non-player character">NPC</abbr> for short, is any character in the narrative who is not controlled by a player.  Not all NPCs have statistics, only those who are capable of standing up to the players in a fight.
@@ -10,7 +11,6 @@
 *  An _<dfn id="term-adventure">adventure</dfn>_ is one or more sessions that are tied together by an overarching narrative.  An adventure is also the smallest unit of playtime that Last Odyssey is built to handle.
 *  A _<dfn id="term-campaign">campaign</dfn>_ is a string of adventures featuring a shared set of PCs, a shared world, and an overarching narrative of some kind.  Last Odyssey is at its best when used as a way to run campaigns.
 *  When the rules call for a decision to be made by _<dfn id="term-fiat">fiat</dfn>,_ it means that it will be decided based on what makes sense for their story, rather than referring to the rules.
-*  Any agent that can act during battles, exploration, or the narrative at large is called a _<dfn id="term-character">character</dfn>._
 *  A discrete instance of combat in Last Odyssey is called a _<dfn id="term-battle">battle</dfn>._
 
 ## Last Odyssey-Specific Terms
