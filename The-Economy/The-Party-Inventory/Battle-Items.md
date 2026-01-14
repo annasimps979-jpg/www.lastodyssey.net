@@ -1,9 +1,9 @@
 # Battle Items
 
-_<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of inventory item that is usable during combat.  Some battle items reproduce the effects of an ability such as Heal or Restore Mana, while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](../Extras/Key-Terms#term-party) inventory.  All battle items cost 1 AP to use unless otherwise specified.
+_<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of inventory item that is usable during combat.  Some battle items reproduce the effects of an ability such as Heal or Restore Mana, while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](../../Extras/Key-Terms#term-party) inventory.  All battle items cost 1 AP to use unless otherwise specified.
 
 ## Battle Item Effects
-Each battle item has a discrete effect that it induces during combat.  In theory, multiple items could lead to the same effect.  Rather than having a fixed list of items, Last Odyssey has a fixed set of item effects that could be caused by multiple items.  This is for two reasons.  The first is that the value of an item to the [players](../Extras/Key-Terms#term-player) is determined by what it does, and not what it looks like, and this is reflected in the item's cost.  The second is that the item that produces an effect in one setting may be different to its equivalent in another.  For example, in a sci-fi setting healing items may take the form of injectors or medkits, while in a fantasy setting they could take the form of healing potions or poultices.
+Each battle item has a discrete effect that it induces during combat.  In theory, multiple items could lead to the same effect.  Rather than having a fixed list of items, Last Odyssey has a fixed set of item effects that could be caused by multiple items.  This is for two reasons.  The first is that the value of an item to the [players](../../Extras/Key-Terms#term-player) is determined by what it does, and not what it looks like, and this is reflected in the item's cost.  The second is that the item that produces an effect in one setting may be different to its equivalent in another.  For example, in a sci-fi setting healing items may take the form of injectors or medkits, while in a fantasy setting they could take the form of healing potions or poultices.
 
 Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</dfn>,_ how potent that effect is, which is determined by its Quality, and any enhancements.  There are three Qualities of item: Mundane, Rare, and Expert.  Some items have effects that depend on their Quality, while others do not.  In the rulebook, the former are referred to as _<dfn id = "term-leveled-item-effect">leveled</dfn>,_ while the latter are referred to as _<dfn id = "term-non-leveled-item-effect">non-leveled</dfn>._  If an item is leveled, its effect and its cost are determined by its Quality, whereas non-leveled items do not have a Quality rating.  Each additional level of Quality multiplies the cost of the item by ten.  For example, if the Mundane version of an item costs 5 cr, then the Rare version will cost 50 cr and the Expert version will cost 500 cr.
 
@@ -11,7 +11,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
-|Restore HP|1 cr|When used, this item restores a fixed amount of HP to a single [character](../Extras/Key-Terms#term-character).  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
+|Restore HP|1 cr|When used, this item restores a fixed amount of HP to a single [character](../../Extras/Key-Terms#term-character).  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
 |Restore MP|3 cr|When used, this item restores a fixed amount of MP to a single character.  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
 |Physical Damage|5 cr|When used, this item deals base colorless physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Magical Damage|5 cr|When used, this item deals base colorless magical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
@@ -64,7 +64,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Mandragora|N/A|Summon Creature (Dryad)|4000 cr|
 
 ## Battle Item Generation
-At times, there is a need to quickly create new items.  If the [GM](../Extras/Key-Terms#term-gm) needs to reward the players or their enemies with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, roll a d20 and consult the table below:  
+At times, there is a need to quickly create new items.  If the [GM](../../Extras/Key-Terms#term-gm) needs to reward the players or their enemies with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, roll a d20 and consult the table below:  
 
 |Result|Effect|
 |:-|:-|
