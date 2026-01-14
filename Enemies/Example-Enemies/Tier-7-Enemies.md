@@ -78,7 +78,7 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Chop|Melee|1 AP|Makes a basic physical attack.|
-|Fury|Self|1 AP|Works the same way as the Knight's Focus ability when the Knight has the Melee passive ability active.|
+|Fury|Self|1 AP|Works the same way as the Knight's Focus [ability](../../Extras/Key-Terms#term-ability) when the Knight has the Melee passive ability active.|
 |Cleave|Multi|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the front row.  On a hit, this attack does colorless physical damage.|
 
 **Item Table** 
@@ -152,7 +152,7 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 ## Devils
 The denizens of Hell are many, but they all have one thing in common: their irrepressible thirst for violence.
 
-In combat, devils are clever and efficient.  While they are cruel, it is not to the point of impeding their ability to win.  They will use tactics on par with the player characters.
+In combat, devils are clever and efficient.  While they are cruel, it is not to the point of impeding their ability to win.  They will use tactics on par with the [player characters](../../Extras/Key-Terms#term-player-character).
 
 ### Imp (Normal 7, Demon, Fire)
 
@@ -172,7 +172,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Nibble|Melee|1 AP|Makes a basic physical attack.|
 |Cigar Toss|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, inflicts the Burned status on a single target.|
-|Hat Trick|Ranged|1 AP, 10 MP|The Imp makes a magical attack against a single opponent that allows them to steal an item from the party inventory.  They may then use this item with the Use Item action.|
+|Hat Trick|Ranged|1 AP, 10 MP|The Imp makes a magical attack against a single opponent that allows them to steal an item from the [party](../../Extras/Key-Terms#term-party) inventory.  They may then use this item with the Use Item action.|
 
 **Item Table** 
 
@@ -199,7 +199,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Crack Open|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical light damage on a hit.  In addition, each hit allows the Succubus to cast this spell for free against one additional target.|
-|Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the Effect Phase, the GM should roll a d10.  If the roll is above a 7, any Charmed characters on the battlefield will take an extra action of the GM's choice.|
+|Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the Effect Phase, the [GM](../../Extras/Key-Terms#term-gm) should roll a d10.  If the roll is above a 7, any Charmed [characters](../../Extras/Key-Terms#term-character) on the battlefield will take an extra [action](../../Extras/Key-Terms#term-action) of the GM's choice.|
 |Soul Eater|Special|1 AP|The Succubus makes a magical attack against a Charmed character that, on a hit, does magical colorless damage.  The Succubus then regains an amount of Shell equal to the amount of damage done to the target.|
 
 **Item Table** 
@@ -256,8 +256,8 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Sickle|Melee|1 AP|Makes a basic physical attack.|
 |Test Subject|Ranged|1 AP|The Torturer inflicts the Test Subject status on a single target.  This status can be healed, and only one character can be a Test Subject at a time.  The Torturer's Test Subject receives +1 total damage from all sources.|
-|Wheel of Knives|Special|1 AP, 8 MP.  Roll a 1d10 and consult the Random Element Table.  The Test Subject takes physical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's attacks.|
-|Wheel of Pain|Special|1 AP, 5 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's attacks.|
+|Wheel of Knives|Special|1 AP, 8 MP.  Roll a 1d10 and consult the Random Element Table.  The Test Subject takes physical damage of the resulting elemental type that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
+|Wheel of Pain|Special|1 AP, 5 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's magical attacks.|
 |Wheel of Misfortune|Special|1 AP, 7 MP.  The Torturer's Test subject receives a random extra status effect that cannot be resisted, not even by immunity.  Roll a 1d10 and consult the Torturer's Elemental Table to see which status effect they receive.  Colorless corresponds to the subject not receiving any damage.|
 
 **Item Table**
