@@ -15,7 +15,7 @@ In total, once per tier, a character can take each of the following advancements
 *  Learn a flew power.
 
 ## Advancing Attributes
-When a player chooses to advance one of their character's attributes, they add +1 to either their Body, their Mind, or their Spirit.  The next time they take this improvement during the same tier, they must improve a different attribute.  The maximum value that any of a character's attributes can have is 12.
+When a player chooses to advance one of their character's attributes, they add +1 to either their [Body](../Characters/Attributes-and-Statistics#term-body), their [Mind](../Characters/Attributes-and-Statistics#term-mind), or their [Spirit](../Characters/Attributes-and-Statistics#term-spirit).  The next time they take this improvement during the same tier, they must improve a different attribute.  The maximum value that any of a character's attributes can have is 12.
 
 ## Advancing Jobs
 When a player advances their character's Rank in a job, they are now able to use all of the abilities associated with that Rank or lower while they occupy it.  Players can save up Ranks whenever they take this improvement until they are ready, but they cannot spend them except when they take this improvement again.  Unlocking the capstone ability at the end of a job's ability list counts as advancing by 2 Ranks instead of 1.
@@ -32,14 +32,14 @@ During character advancement, players may purchase any of the following flex pow
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Flex Buff|Ally|10 MP, 1 AP|When you take this power, choose one of the nine character [statistics](../Extras/Key-Terms#term-statistic).  Using this ability raises the specified statistic of the target by one level on the Bonus Tracker.|
+|Flex Buff|Ally|10 [MP](../Characters/Attributes-and-Statistics#term-mp), 1 AP|When you take this power, choose one of the nine character [statistics](../Extras/Key-Terms#term-statistic).  Using this ability raises the specified statistic of the target by one level on the Bonus Tracker.|
 |Flex Debuff|Ranged|6 MP, 1 AP|When you take this power, choose one of the nine character statistics.  Using this ability lowers the specified statistic of the target by one level on the Bonus Tracker.|
 |Flex Bolt|Ranged|10 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability makes a magical attack of that elemental type against a single target.|
 |Flex Strike|Melee|10 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability makes a physical attack of that elemental type against a single target.|
 |Flex Debilitate|Ranged|14 MP, 1 AP|When you take this power, choose a status effect.  Using this ability triggers a status-inflicting ability against a single target that inflicts this status effect on a hit.|
-|Flex Shell|Ally|14 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability increases the Shell of a single target by your current Magical Attack.  This power works the same as the Support's Shell ability.|
+|Flex Shell|Ally|14 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability increases the Shell of a single target by your current [Magical Attack](../Characters/Attributes-and-Statistics#term-magical-attack).  This power works the same as the Support's Shell ability.|
 |Flex Protect|Ally|18 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability makes you or a single ally Protected against that elemental type.|
-|Flex Statistic|Passive|N/A|You gain a permanent +5 bonus to your character's Health, +5 bonus to their Mana, or a +2 bonus to their Initiative.|
+|Flex Statistic|Passive|N/A|You gain a permanent +5 bonus to your character's [Health](../Characters/Attributes-and-Statistics#term-health), +5 bonus to their [Mana](../Characters/Attributes-and-Statistics#term-mana), or a +2 bonus to their [Initiative](../Characters/Attributes-and-Statistics#term-initiative).|
 |Flex Proficiency|Passive|N/A|You become proficient in a type of weapon or armor you were not previously proficient in.|
 
 ## Advancing Tier
