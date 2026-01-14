@@ -3,7 +3,7 @@
 The Commander's core virtue is their **Leadership.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Heavy armor.
 *  Proficiency in Swords.
-*  +15 Health
+*  +15 [Health]
 *  +5 Mana
 *  +4 Initiative
 *  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) will affect Resistance.
@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|Passive|N/A|Your allies gain a +1 bonus to their Status, Physical, and Magical Accuracies when they act after you in the initiative order that does not count on the bonus tracker.  If you are downed, this effect does not apply.|
+|Standard Bearer|Passive|N/A|Your allies gain a +1 bonus to their Status, Physical, and Magical Accuracies when they act after you in the initiative order that does not count on the bonus tracker.  If you are [downed](../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
 
 **Rank 4:** You gain +1 Resistance.
 
