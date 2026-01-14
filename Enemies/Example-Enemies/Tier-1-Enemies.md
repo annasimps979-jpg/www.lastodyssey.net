@@ -3,7 +3,7 @@
 ## Police
 The police are deployed against protestors, activists, criminals, and anyone else that the government perceives as threatening the established order.
 
-In combat, police will swap between rounds where they debuff and rounds where they exert maximum force.  During the first round of battle, they will not attack but instead sit there and either inflict status effects, use buffs and debuffs, or just look menacing.
+In combat, police will swap between rounds where they debuff and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict status effects, use buffs and debuffs, or just look menacing.
 
 ### Cop (Normal 1, Human, Colorless)
 
@@ -74,7 +74,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pincers|Melee|1 AP|Makes a basic physical attack|
-|Autocannon|Special|1 AP|Makes a colorless, ranged physical attack against a single target.  The Spider Drone may only use this ability once per battle.|
+|Autocannon|Special|1 AP|Makes a colorless, ranged physical attack against a single target.  The Spider Drone may only use this [ability](../../Extras/Key-Terms#term-ability) once per battle.|
 |Disarm|Melee|1 AP|Makes a colorless physical attack that, if successful, causes the target to drop their weapon.  The target must then spend 1 AP on its turn to pick it back up.|
 
 **Item Table** 
@@ -143,7 +143,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 ## Goblins
 Goblins are sentient woodland creatures that have their own language and culture.  During lean times, they will sometimes resort to raiding human settlements for food and supplies.
 
-In combat, goblins are both bullies and cowards.  They will gang up on the weakest party member they can attack, and will retreat to the back row as soon as they lose their shields.  They are also wicked cunning, and smart enough to exploit magical and physical vulnerabilities (although they do not know the elements of their enemies off the bat).
+In combat, goblins are both bullies and cowards.  They will gang up on the weakest [party](../../Extras/Key-Terms#term-party) member they can attack, and will retreat to the back row as soon as they lose their shields.  They are also wicked cunning, and smart enough to exploit magical and physical vulnerabilities (although they do not know the elements of their enemies off the bat).
 
 ### Skirmisher (Normal 1, Fairy, Wood)
 
@@ -217,7 +217,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Steal|Melee|1 AP|Makes a physical attack roll that, if successful, takes a battle item of the GM's choice from the party inventory.  The Prankster may then use it immediately for free.|
+|Steal|Melee|1 AP|Makes a physical attack roll that, if successful, takes a battle item of the [GM's](../../Extras/Key-Terms#term-gm) choice from the party inventory.  The Prankster may then use it immediately for free.|
 |Practical Joke|Ranged|1 AP, 7 MP|Makes a status-inflicting roll that, on a hit, inflicts the Confused status effect on an enemy.|
 |Sand in the Eyes|Ranged|1 AP, 3 MP|Debuffs the Physical Accuracy of a single enemy.|
 |Quick Fingers|Passive|N/A|If an enemy misses the Prankster with a Melee ability, they may immediately use Steal on them without spending any AP.|
@@ -276,7 +276,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Ghost Hand|Ranged|1 AP, 3 MP|Makes a shadow magical attack against one character.|
+|Ghost Hand|Ranged|1 AP, 3 MP|Makes a shadow magical attack against one [character](../../Extras/Key-Terms#term-character).|
 |Medicine|Ally|1 AP, 5 MP|Heals the target for 7 HP.|
 |Ritual Circle|Multi|2 AP|Gives every ally excluding the Shaman the Sacrifice status effect.  Once the Ritual Circle is established, the Shaman can spend an additional AP to make one of its enemies part of it as well.|
 |Blood Sacrifice|Ally|1 AP|The Shaman immediately kills an ally that has Sacrifice inflicted on it to restore its MP back to full.|
