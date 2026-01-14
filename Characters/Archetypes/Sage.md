@@ -3,11 +3,11 @@
 The Sage's core virtue is their **Wisdom.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Cloth armor.
 *  Proficiency in Staves.
-*  +5 Health
-*  +15 Mana
-*  +4 Initiative
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect Magical Attack.
-*  As a Saboteur, their debuff abilities will affect Magical Defense.
+*  +5 [Health](../../Characters/Attributes-and-Statistics#term-health)
+*  +15 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
+*  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
+*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).
+*  As a Saboteur, their debuff abilities will affect [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).
 
 ## Advancements by Rank
 
@@ -15,7 +15,7 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Grimoire|Passive|N/A|In addition to MP, you also have a number of Spell Slots equal to your current tier. When you use a magical attack or a flex power, you may expend a single Spell Slot instead of paying the MP cost.|
+|Grimoire|Passive|N/A|In addition to [MP](../../Characters/Attributes-and-Statistics#term-mp), you also have a number of Spell Slots equal to your current tier. When you use a magical attack or a flex power, you may expend a single Spell Slot instead of paying the MP cost.|
 
 **Rank 2:** You gain +1 Magical Attack.
 
