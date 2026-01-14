@@ -3,11 +3,11 @@
 The Thief's core virtue is their **Cunning.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Light armor.
 *  Proficiency in Daggers.
-*  +10 Health
-*  +5 Mana
-*  +6 Initiative
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect Physical Attack.
-*  As a Saboteur, their debuff abilities will affect Physical Defense.
+*  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
+*  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
+*  +6 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
+*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
+*  As a Saboteur, their debuff abilities will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
 
 ## Advancements by Rank
 
@@ -49,13 +49,13 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Assassinate|Melee|1 Anima, 2 AP|Select an enemy and roll a 1d10.  That enemy loses a percentage of their remaining combined HP and Shell equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
+|Assassinate|Melee|1 Anima, 2 AP|Select an enemy and roll a 1d10.  That enemy loses a percentage of their remaining combined [HP](../../Characters/Attributes-and-Statistics#term-hp) and Shell equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
 
 ## Talents
 
 **Striker:** Lifesteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of HP from them equal to your current Physical Attack and give it to yourself.
 
-**Caster:** Manasteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of MP from them equal to your current Magical Attack and give it to yourself.
+**Caster:** Manasteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of [MP](../../Characters/Attributes-and-Statistics#term-mp) from them equal to your current [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) and give it to yourself.
 
 **Healer:** Night Shift.  You may use your Healer abilities while Hidden without removing the status effect from yourself.
 
