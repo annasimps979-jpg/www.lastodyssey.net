@@ -1,6 +1,6 @@
 # Defender
 
-The Defender specializes in drawing and negating the effects of enemy attacks.
+_<dfn id = "term-defender">Defenders</dfn>_ specialize in drawing and negating the effects of enemy attacks.
 
 While they are Defenders, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 *  Their [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense) is increased by their [Body](../../Characters/Attributes-and-Statistics#term-body).
