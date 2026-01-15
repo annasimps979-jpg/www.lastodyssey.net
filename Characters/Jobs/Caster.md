@@ -1,6 +1,6 @@
 # Caster
 
-Casters specialize in magical attacks.
+_<dfn id = "term-caster">Casters</dfn>_ specialize in magical attacks.
 
 While they are Casters, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 
