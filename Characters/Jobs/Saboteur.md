@@ -3,15 +3,15 @@
 The Saboteur specializes in debuffs and negative status effects.
 
 While they are Saboteurs, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
-*  Their Resistance is increased by an amount equal to their Body.
-*  Their Physical Attack is increased by an amount equal to their Mind.
-*  Their Evasion is increased by an amount equal to their Spirit.
+*  Their [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) is increased by an amount equal to their [Body](../../Characters/Attributes-and-Statistics#term-body).
+*  Their [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) is increased by an amount equal to their [Mind](../../Characters/Attributes-and-Statistics#term-mind).
+*  Their [Evasion](../../Characters/Attributes-and-Statistics#term-evasion) is increased by an amount equal to their [Spirit](../../Characters/Attributes-and-Statistics#term-spirit).
 
 ## Abilities by Rank
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Debuff|Ranged|3 MP, 1 AP|Move an enemy down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
+|1|Debuff|Ranged|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Move an enemy down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
 |2|Debilitate|Ranged|7 MP, 1 AP|Use a status-inflicting ability on a single target that inflicts the status effect associated with your elemental type on a hit.|
 |3|Slow|Ranged|12 MP, 1 AP|The target of this ability receives the Slowed status effect during the Effect Phase of this round. The effect then lasts for three subsequent rounds. While the target is Slowed, they have -1 AP to use per round.|
 |4|Multidebuff|Multi|12 MP, 1 AP|Move all of your enemies down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
