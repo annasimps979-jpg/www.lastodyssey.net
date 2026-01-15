@@ -9,11 +9,11 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 
 **Statistics**
 
-|HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |51|19|14|55|3|12|8|7|4|
 
-|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |1|7|12|2|2|
 
@@ -22,7 +22,7 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Axe|Melee|1 AP|Makes a basic physical attack.|
-|Two-Handed Chop|Melee|1 AP, 5 MP|Makes a physical attack that, on a hit, does colorless physical damage that is multiplied by 2 in addition to other modifiers.|
+|Two-Handed Chop|Melee|1 AP, 5 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Makes a physical attack that, on a hit, does colorless physical damage that is multiplied by 2 in addition to other modifiers.|
 |Disposable|Passive|N/A|Fodder will always take damage for any non-Fodder enemies on the battlefield.  If there are multiple Fodder enemies on the battlefield, the GM may choose which one takes the damage.|
 
 **Item Table** 
@@ -51,7 +51,7 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |:-|:-|:-|:-|
 |Sharp Thingy|Melee|1 AP|Makes a basic physical attack.|
 |Boom|Ranged|1 AP, 9 MP|Makes a magical attack against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
-|Tripwire|Special|1 AP, 5 MP|The next one of the Goblin's enemies to move will automatically gain the Petrified status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is downed, the Tripwire leaves.|
+|Tripwire|Special|1 AP, 5 MP|The next one of the Goblin's enemies to move will automatically gain the Petrified status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Characters/Abilities-and-Statistics#term-downed), the Tripwire leaves.|
 
 **Item Table**
 
