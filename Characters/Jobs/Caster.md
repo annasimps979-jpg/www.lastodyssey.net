@@ -4,15 +4,15 @@ Casters specialize in magical attacks.
 
 While they are Casters, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 
-*  Their Resistance is increased by an amount equal to their Body.
-*  Their Magical Attack is increased by an amount equal to their Mind.
-*  Their Magical Defense is increased by an amount equal to their Spirit.
+*  Their [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) is increased by an amount equal to their [Body](../../Characters/Attributes-and-Statistics#term-body).
+*  Their [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) is increased by an amount equal to their [Mind](../../Characters/Attributes-and-Statistics#term-mind).
+*  Their [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense) is increased by an amount equal to their [Spirit](../../Characters/Attributes-and-Statistics#term-spirit).
 
 ## Abilities by Rank
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Magic Missile|Ranged|3 MP, 1 AP|Make a colorless magical attack against a single target.|
+|1|Magic Missile|Ranged|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Make a colorless magical attack against a single target.|
 |2|Elemental Bolt|Ranged|5 MP, 1 AP|Make a magical attack against a single target whose elemental type is the same as your [base](../../Extras/Key-Terms#term-base) elemental type.|
 |3|Trained Spellcaster|Passive|N/A|Flex powers that are magical attacks cost 5 MP instead of 10 MP.|
 |4|Magic Chain|Special|8 MP, 1 AP|Make a ranged, colorless magical attack against a single target.  If you break the target's Shell, you may use this [ability](../../Extras/Key-Terms#term-ability) again against another target without spending any MP or AP.|
