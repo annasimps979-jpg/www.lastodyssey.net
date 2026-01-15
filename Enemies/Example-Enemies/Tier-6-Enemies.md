@@ -9,11 +9,11 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 **Statistics**
 
-|HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |7|28|11|80|3|4|20|1|10|
 
-|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |3|1|4|6|6|
 
@@ -21,7 +21,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Faerie Fire|Ranged|1 AP, 5 MP|Makes a magical attack that does magical damage of the Wisp's elemental type on a hit.|
+|Faerie Fire|Ranged|1 AP, 5 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Makes a magical attack that does magical damage of the Wisp's elemental type on a hit.|
 |Curse|Multi|1 AP, 18 MP|Attempts to inflict the status associated with the Wisp's element on all enemies on the battlefield.|
 |Magic Ward|Ally|1 AP, 7 MP|Applies 16 points of Shell to a single ally of the Wisp's current elemental type.|
 
@@ -140,7 +140,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 |Orb|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical damage of the Conflagration's elemental type that is multiplied by 2 in addition to other modifiers.|
 |Storm|Multi|1 AP, 13 MP|Makes a magical attack against every enemy of the Conflagration's that deals magical damage of the Conflagration's elemental type on a hit.|
 |Chain Spell|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical damage of the Conflagration's elemental type.  On a hit, the Conflagration makes another attack against another character for free.  Each subsequent attack lets the Conflagration attack another character for free.|
-|Pure Elemental|Passive|N/A|When the Conflagration is reduced to 0 MP, it is automatically downed and cannot be revived.|
+|Pure Elemental|Passive|N/A|When the Conflagration is reduced to 0 MP, it is automatically [downed](../../Characters/Abilities-and-Statistics#term-downed) and cannot be revived.|
 
 **Item Table** 
 
