@@ -12,11 +12,11 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 **Statistics**
 
-|[HP](../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../Characters/Abilities-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |12|18|8|30|2|4|4|2|2|
 
-|[Evasion](../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../Characters/Abilities-and-Statistics#term-status-accuracy)|
+|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |4|2|4|8|8|
 
@@ -25,7 +25,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Leg Stab|Melee|1 AP|Makes a basic physical attack.|
-|Magic Spear|Ranged|1 AP, 3 [MP](../Characters/Abilities-and-Statistics#term-mp)|Makes a magical attack that inflicts colorless magical damage on a  hit.|
+|Magic Spear|Ranged|1 AP, 3 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Makes a magical attack that inflicts colorless magical damage on a  hit.|
 |Bind|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that inflicts Petrify on a hit.|
 |Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the Petrify status effect, the Webmaster deals magical earth damage that is multiplied by 2 in addition to other modifiers against them without needing to make an attack roll.|
 |Antimagic Field|Special|Variable|The Webmaster can use the Sage's Counterspell ability.|
@@ -198,7 +198,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Deep Cuts|Passive|N/A|If the Torture Rack rolls a 1 when making a physical attack against one of its enemies, it will also inflict 1 random injury.|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all debuffs.|
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target.|
-|Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](../../Extras/Key-Terms#term-gm) rolls a 1d10.  The target then loses a percentage of their total [Health](../Characters/Abilities-and-Statistics#term-health) from their combined HP and Shell equal to the result of the roll multiplied by 10.|
+|Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](../../Extras/Key-Terms#term-gm) rolls a 1d10.  The target then loses a percentage of their total [Health](../../Characters/Abilities-and-Statistics#term-health) from their combined HP and Shell equal to the result of the roll multiplied by 10.|
 
 ### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
 
@@ -257,7 +257,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Knowledge is Power|Self|1 AP, 16 MP|The Savior buffs its Magical Defense by three steps on the Bonus Tracker.|
 |Power is Everything|Self|1 AP, 7 MP|The Savior restores 26 points of its Shell.|
 |Cure|Ally|1 AP, 12 MP|The Savior removes all status effects from a single target.  If it is advantageous, the Savior will also cast this on its enemies.|
-|Resurrection|Ally|1 AP, 15 MP|The Savior immediately restores a [downed](../Characters/Abilities-and-Statistics#term-downed) character to half its maximum HP, rounded down.  This enemy will then gain the Puppet status effect, and will fight on the Savior's side until the status effect is removed.
+|Resurrection|Ally|1 AP, 15 MP|The Savior immediately restores a [downed](../../Characters/Abilities-and-Statistics#term-downed) character to half its maximum HP, rounded down.  This enemy will then gain the Puppet status effect, and will fight on the Savior's side until the status effect is removed.
 |Alien Biology|Passive|N/A|The Savior will take damage from abilities and items that heal HP and MP, but will heal due to items that deal damage of any kind.  Damage from all other sources is taken as normal.|
 |They Walk Silently Among Us|Passive|N/A|The Savior is immune to the Scan ability as well as any equivalent abilities or items.|
 |Romance|Paradigm Action|1 Anima|The Savior designates a single one of its enemies as its Lover.  For the rest of the battle, the Lover will receive all damage, status effects, buffs, and debuffs that the Savior does, including Haste and Slow.  This effect cannot be removed by the effects of abilities or items, but the Savior can only have one Lover at a time, meaning that if it designates another Lover the first creature stops being one.|
