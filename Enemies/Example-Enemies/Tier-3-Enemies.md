@@ -9,11 +9,11 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 
 **Statistics**
 
-|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |32|8|6|25|2|6|4|5|2|
 
-|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
+|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |0|5|6|0|0|
 
@@ -22,8 +22,8 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Smack|Melee|1 AP|Makes a basic physical attack.|
-|Bite|Melee|1 AP, 5 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Makes a basic physical attack.  On a hit, also inflicts Necrotized.  Necrotized enemies will take damage instead of being healed if they become the target of any abilities that heal HP.|
-|Undeath|Passive|N/A|The first time the Zombie would be [downed](../../Characters/Abilities-and-Statistics#term-downed) in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
+|Bite|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a basic physical attack.  On a hit, also inflicts Necrotized.  Necrotized enemies will take damage instead of being healed if they become the target of any abilities that heal HP.|
+|Undeath|Passive|N/A|The first time the Zombie would be [downed](../../Characters/Attributes-and-Statistics#term-downed) in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 
 **Item Table** 
 
