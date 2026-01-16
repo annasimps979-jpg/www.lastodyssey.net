@@ -9,11 +9,11 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 
 **Statistics**
 
-|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |50|35|17|75|3|10|12|8|6|
 
-|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
+|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |3|8|10|6|6|
 
@@ -22,7 +22,7 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
-|Acid Spit|Ranged|1 AP, 5 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Makes a magical attack that deals magical wood damage on a hit and also reduces the enemy's Physical Defense by one on the Bonus Tracker.|
+|Acid Spit|Ranged|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that deals magical wood damage on a hit and also reduces the enemy's Physical Defense by one on the Bonus Tracker.|
 |Accelerated Growth|Passive|N/A|During each Effect Phase, the Grub's Magical Defense, Physical Defense, and Resistance are buffed by one on the Bonus Tracker.|
 
 **Item Table** 
@@ -51,7 +51,7 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |:-|:-|:-|:-|
 |Standard Missile|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit that is multiplied by 2 in addition to other multipliers.|
 |Standard Shell|Ally|1 AP, 7 MP|Increases or restores the Shell of the Pupil or one of its allies by 18 points.|
-|Implant Eggs|Special|1 AP|If another character on the battlefield is already [downed](../../Characters/Abilities-and-Statistics#term-downed), the Pupil can use this [ability](../../Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](../../Extras/Key-Terms#term-battle).|
+|Implant Eggs|Special|1 AP|If another character on the battlefield is already [downed](../../Characters/Attributes-and-Statistics#term-downed), the Pupil can use this [ability](../../Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](../../Extras/Key-Terms#term-battle).|
 
 **Item Table** 
 
