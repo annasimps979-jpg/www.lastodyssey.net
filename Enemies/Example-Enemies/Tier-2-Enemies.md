@@ -9,11 +9,11 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 
 **Statistics**
 
-|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |12|8|7|15|2|6|2|2|1|
 
-|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
+|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |2|2|6|4|4|
 
@@ -22,7 +22,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
-|Gore|Melee|3 [MP](../../Characters/Abilities-and-Statistics#term-mp), 1 AP|Makes a colorless physical attack that inflicts damage multiplied by 1.5x in addition to other modifiers.|
+|Gore|Melee|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Makes a colorless physical attack that inflicts damage multiplied by 1.5x in addition to other modifiers.|
 |Howl|Self|3 MP, 1 AP|Buffs the Physical Attack of the Wolf by one step on the Bonus Tracker.|
 
 **Item Table** 
@@ -139,7 +139,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Taunt|Ranged|1 AP|Works the same way as the Defender's Taunt.|
 |Counterspell|Reaction|Variable|Works the same way as a Sage's Counterspell.|
 |Sparkles|Self|2 AP|Restores 10 MP to the Pixie.|
-|Revenge Hex|Passive|N/A|When the Pixie is [downed](../../Characters/Abilities-and-Statistics#term-downed), the character responsible must roll to resist Silence versus the Pixie's Status Accuracy.|
+|Revenge Hex|Passive|N/A|When the Pixie is [downed](../../Characters/Attributes-and-Statistics#term-downed), the character responsible must roll to resist Silence versus the Pixie's Status Accuracy.|
 
 **Item Table** 
 
