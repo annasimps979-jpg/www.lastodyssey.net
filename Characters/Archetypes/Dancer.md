@@ -1,8 +1,8 @@
 # Dancer
 
 The Dancer's core virtue is their **Charm.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
-*  Proficiency in Cloth armor.
-*  Proficiency in Fans.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Cloth armor.
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Fans.
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
