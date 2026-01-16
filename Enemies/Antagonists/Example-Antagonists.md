@@ -63,7 +63,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 **Description:** Ser Tarbh is a charismatic and boisterous man whose troops are doggedly loyal to him.  Behind the veneer of joy, however, is a deeply traumatized war veteran who has decided to burn his humanity in exchange for revenge against his former enemies, the kingdom of the Stells.
 
-**Eidolon:** Hill Giant (Striker, Earth, Tier 3, Body 7, Mind 1, Spirit 1).
+**[Eidolon](../../Characters/Eidolons#term-eidolon):** Hill Giant (Striker, Earth, Tier 3, Body 7, Mind 1, Spirit 1).
 
 ### Form 1: War Leader (Villain 3, Human, Colorless)
 
