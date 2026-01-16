@@ -9,11 +9,11 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 
 **Statistics**
 
-|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |23|12|10|35|2|10|6|3|3|
 
-|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
+|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |1|3|10|2|2|
 
@@ -22,7 +22,7 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|Melee|1 AP|Makes a basic physical attack.|
-|Dragon Kick|Multi|1 AP, 10 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Makes a physical attack against every enemy in the front row that deals physical fire damage on a hit.|
+|Dragon Kick|Multi|1 AP, 10 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack against every enemy in the front row that deals physical fire damage on a hit.|
 |Gang Up|Passive|N/A|During the Effect Phase, the Goon's Physical Attack is buffed by one level on the Bonus Tracker for every one of the Goon's allies more than enemies the Goon has remaining.|
 
 **Item Table**
@@ -107,7 +107,7 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |:-|:-|:-|:-|
 |Claws|Melee|1 AP|Makes a basic physical attack.|
 |Fire Wisp|Ranged|1 AP, 10 MP|Makes a magical fire attack against a single enemy.  If this attack breaks their Shell, the attack can bounce to another target.|
-|Smelling Salts|Ally|1 AP, 15 MP|Revives a single [downed](../../Characters/Abilities-and-Statistics#term-downed) character back to half their maximum HP.|
+|Smelling Salts|Ally|1 AP, 15 MP|Revives a single [downed](../../Characters/Attributes-and-Statistics#term-downed) character back to half their maximum HP.|
 |Bath Salts|Multi|1 AP, 10 MP|Buffs the Magical Attack of the Oni and its allies by one step on the Bonus Tracker.|
 |Soul Eater|Passive|N/A|If any of the Oni's enemies are downed during the Effect Phase, the Oni can drain all of the MP they died with from them.  If they are revived, they will come back with an MP of zero.|
 
