@@ -1,8 +1,8 @@
 # Harlequin
 
 The Harlequin's core virtue is their **Daring.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
-*  Proficiency in Light armor.
-*  Proficiency in Claws.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Light armor.
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Claws.
 *  +5 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +6 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
