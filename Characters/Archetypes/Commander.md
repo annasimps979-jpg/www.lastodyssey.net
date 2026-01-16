@@ -1,8 +1,8 @@
 # Commander
 
 The Commander's core virtue is their **Leadership.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
-*  Proficiency in Heavy armor.
-*  Proficiency in Swords.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Heavy armor.
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Swords.
 *  +15 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
