@@ -49,7 +49,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Charge!|Special|1 Anima, 2 AP|Your eidolon grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](../../Extras/Key-Terms#term-statistic) for theirs.|
+|Charge!|Special|1 Anima, 2 AP|Grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](../../Extras/Key-Terms#term-statistic) for theirs.|
 
 ## Talents
 
