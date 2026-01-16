@@ -9,11 +9,11 @@ Test subjects without their masters are very much insane.  They will not use any
 
 **Statistics**
 
-|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |22|23|11|45|2|6|8|4|4|
 
-|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
+|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |3|4|6|6|6|
 
@@ -22,7 +22,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pseudopod|Melee|1 AP|Makes a basic physical attack.|
-|Bolt|Ranged|1 AP, 5 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Makes a magical attack against a single target that deals magical damage of the Slime's current elemental type on a hit.|
+|Bolt|Ranged|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack against a single target that deals magical damage of the Slime's current elemental type on a hit.|
 |Elemental Absorption|Passive|N/A|The Slime's elemental type is the elemental type of the last magical attack, physical attack, or status-inflicting ability that hit it.  This can include colorless.  The change triggers before Divide activates.|
 
 **Item Table**
