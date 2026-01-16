@@ -1,8 +1,8 @@
 # Thief
 
 The Thief's core virtue is their **Cunning.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
-*  Proficiency in Light armor.
-*  Proficiency in Daggers.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Light armor.
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Daggers.
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +6 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
