@@ -249,7 +249,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |Stab|Melee|1 AP|Makes a physical attack against an enemy.|
 |Gore|Melee|1 AP, 3 MP|Makes a colorless physical attack that deals 2x damage on a hit in addition to other multipliers.
 |Charge|Special|1 AP, 5 MP|Makes a physical attack against an enemy in the back row.  Can only be done if there are no enemies in the front row.|
-|Enrage|Passive|N/A|If the Boar Rider is Taunted, they will also become Berserk, which is the equivalent of the Knight's Focus ability.|
+|Enrage|Passive|N/A|If the Boar Rider is Taunted, they will also become Berserk, which is the equivalent of the [Knight's](../Characters/Archetypes/Knight) Focus ability.|
 |Too Stupid to Die|Passive|N/A|If the Boar Rider is reduced to 0 HP, it will not die until the Effect Phase at the end of the round.|
 
 **Item Table** 
