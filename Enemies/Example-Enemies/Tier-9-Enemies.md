@@ -78,7 +78,7 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
-|Cloaking Field|Self|1 AP, 10 MP|This ability inflicts the Cloaked status on the Infiltrator, which works the same as the Thief's Hide ability.|
+|Cloaking Field|Self|1 AP, 10 MP|This ability inflicts the Cloaked status on the Infiltrator, which works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
 |Implant|Melee|1 AP, 5 MP|Uses a status-inflicting ability that, on a hit, deals physical colorless damage and inflicts the Athena status.  During the next Effect Phase, characters with the Athena status will have their Magical and Status Accuracies debuffed by three steps on the Bonus Tracker.  A Grub will then spawn in the front row on the Infiltrator's side and the Athena effect will be removed from the character.|
 
 **Item Table** 
@@ -171,7 +171,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Laser|Melee|1 AP|Makes a basic physical attack.|
-|Database|Multi|1 AP, 10 MP|Uses the Artificer's Multiscan on all of the Eye's enemies.  The next magical attack, status effect, or physical attack dealt to them ignores any of their resistances or immunities to damage or status effects, but not their weaknesses.|
+|Database|Multi|1 AP, 10 MP|Uses the [Artificer's](../../Characters/Archetypes/Artificer) Multiscan on all of the Eye's enemies.  The next magical attack, status effect, or physical attack dealt to them ignores any of their resistances or immunities to damage or status effects, but not their weaknesses.|
 |Orbital Strike|Multi|1 AP, 15 MP|Makes a magical attack against all of the Eye's enemies that deals magical metal damage on a hit.|
 
 **Item Table** 
@@ -256,7 +256,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |:-|:-|:-|:-|
 |Turret|Melee|1 AP|Makes a basic physical attack.|
 |Missile Barrage|Multi|1 AP, 15 MP|Makes a physical attack against all of the Walker's enemies that does physical earth damage on a hit.|
-|Energy Shield|Self|1 AP, 7 MP.  Inflicts the Energy Shield status on the Walker.  This works like the Defender's Barrier ability.|
+|Energy Shield|Self|1 AP, 7 MP|Inflicts the Barrier status on the Walker.  This works like the Defender's Barrier ability.|
 |Salvageable|Passive|N/A|When the Walker is downed, ordinary healing can bring it back in addition to abilities that revive characters.|
 |Titanium Armor|Passive|N/A|If the Walker is hit by an attack that deals less than 10 damage after modifiers are applied, it does not take any damage.|
 
