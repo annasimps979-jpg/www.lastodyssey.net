@@ -228,7 +228,7 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Spear|Melee|1 AP|Makes a basic physical attack.|
-|Submerge|Self|1 AP|Works the same as the Thief's Hide ability.|
+|Submerge|Self|1 AP|Works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
 |Ambush|Passive|N/A|Works the same as the Thief's Sneak Attack ability.|
 
 **Item Table** 
