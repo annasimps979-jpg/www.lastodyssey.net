@@ -139,7 +139,7 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |Sinkhole|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical earth damage on a hit and inflicts the Sinking status, which deals magical earth damage during every subsequent Effect Phase until cured.|
 |Turn Back the Clock|Ally|1 AP, 20 MP|Revives a single downed [character](../../Extras/Key-Terms#term-character) with full HP, MP, and Shell.|
 |Manipulate Fate|Multi|1 AP, 30 MP|Debuffs the Physical, Magical, and Status Accuracy of all of the Oracle's enemies.|
-|Reset Timeline|Special|2 AP|The Oracle uses the [Harlequin's](../Characters/Archetypes/Harlequin) Jubilee [ability](../../Extras/Key-Terms#term-ability).|
+|Reset Timeline|Special|2 AP|The Oracle uses the [Harlequin's](../../Characters/Archetypes/Harlequin) Jubilee [ability](../../Extras/Key-Terms#term-ability).|
 
 **Item Table**
 
