@@ -201,7 +201,7 @@ Frost dwellers, if they are attacking, are most likely attempting to defend thei
 |Bonechill|Melee|1 AP|Attempts to inflict Frostbite on a single target.|
 |Ice Spike|Ranged|1 AP, 7 MP|Makes a magical attack that deals magical ice damage on a hit multiplied by 2 in addition to other modifiers.|
 |Crystal Veil|Multi|1 AP, 14 MP|Applies an ice Shell of up to 10 on the Wraith and all of its allies.|
-|Ice Ghost|Passive|N/A|The Wraith is immune to Frostbite and ice damage.|
+|Ice Ghost|Passive|N/A|The Wraith is immune to Frostbitten and ice damage.|
 
 **Item Table** 
 
@@ -258,7 +258,7 @@ Frost dwellers, if they are attacking, are most likely attempting to defend thei
 |:-|:-|:-|:-|
 |Bash|Melee|1 AP, 5 MP|Makes a colorless physical attack that has its damage multiplied by two on a hit in addition to other multipliers.|
 |Troll Regeneration|Self|1 AP, 15 MP|Restores the Troll's HP back to full.|
-|Berserk|Self|1 AP|Works the same as the Knight's Focus ability.|
+|Berserk|Self|1 AP|Works the same as the [Knight's](../../Characters/Archetypes/Knight) Focus ability.|
 |Insulating Fat|Passive|N/A|The Troll is immune to Frostbite and ice damage.|
 
 **Item Table** 
