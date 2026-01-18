@@ -26,7 +26,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
-|Scan|10 cr|This item applies the Artificer's Scan ability to a single target, revealing all current relevant information about it.|
+|Scan|10 cr|This item applies the [Artificer's](../../Characters/Archetypes/Artificer) Scan ability to a single target, revealing all current relevant information about it.|
 |Remove Debuffs|15 cr|This item removes all debuffs from a single character.|
 |Remove Status Effect|20 cr|This item removes a status effect of the specified type from a single character.|
 |Negate Resistances|50 cr|This item negates all of a target's elemental and/or status effect resistances until the beginning of the target's next turn.|
@@ -47,7 +47,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target enemies will affect all enemies.  Multiplies base cost by 10.|
 |Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item added together, multiplied by 5.|
 |Delay|When you use this item, it does not trigger immediately.  Instead, its effect happens during the Effect Phase of the round.  Multiplies cost by 0.75, rounded down.|
-|Random|When you use this item, it inflicts a random effect based on the element you roll on the random element table, which is detailed in the archetype description for the Harlequin.|
+|Random|When you use this item, it inflicts a random effect based on the element you roll on the Random Element Table.|
 
 ## Example Battle Items
 
