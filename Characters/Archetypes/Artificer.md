@@ -6,8 +6,8 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a [Support](../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy).
-*  As a [Saboteur](../Characters/Jobs/Saboteur), their debuff abilities will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
+*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
 
 ## Advancements by Rank
 
@@ -53,13 +53,13 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 ## Talents
 
-**[Striker](../Characters/Jobs/Striker):** Sniper.  When you use an item that does physical damage to an enemy, you may add your Physical Attack to its [base](../../Extras/Key-Terms#term-base) damage.
+**[Striker](../../Characters/Jobs/Striker):** Sniper.  When you use an item that does physical damage to an enemy, you may add your Physical Attack to its [base](../../Extras/Key-Terms#term-base) damage.
 
-**[Caster](../Characters/Jobs/Caster):** Magic Ammo.  When you use an item that does magical damage to an enemy, you may add your [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) to its base damage.
+**[Caster](../../Characters/Jobs/Caster):** Magic Ammo.  When you use an item that does magical damage to an enemy, you may add your [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) to its base damage.
 
-**[Healer](../Characters/Jobs/Healer):** First Aid.  When you use an item that heals an ally, you may add your Magical Attack to its base healing.
+**[Healer](../../Characters/Jobs/Healer):** First Aid.  When you use an item that heals an ally, you may add your Magical Attack to its base healing.
 
-**[Defender](../Characters/Jobs/Defender):** Optimize Defenses.  If you use the Scan ability on an ally, it inflicts the Optimized status effect on them.  The next physical attack, magical attack, or status-inflicting ability that hits them will ignore any of their weaknesses.  The Optimized status effect is then removed.
+**[Defender](../../Characters/Jobs/Defender):** Optimize Defenses.  If you use the Scan ability on an ally, it inflicts the Optimized status effect on them.  The next physical attack, magical attack, or status-inflicting ability that hits them will ignore any of their weaknesses.  The Optimized status effect is then removed.
 
 **Support:** Targeting Systems.  When you use Scan on an ally, they gain a temporary +5 to their [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), Magical, and [Status Accuracies](../../Characters/Attributes-and-Statistics#term-status-accuracy) that does not count on the bonus tracker until the end of their next turn.
 
