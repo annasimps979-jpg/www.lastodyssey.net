@@ -28,7 +28,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Magic Spear|Ranged|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that inflicts colorless magical damage on a  hit.|
 |Bind|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that inflicts Petrify on a hit.|
 |Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the Petrify status effect, the Webmaster deals magical earth damage that is multiplied by 2 in addition to other modifiers against them without needing to make an attack roll.|
-|Antimagic Field|Special|Variable|The Webmaster can use the Sage's Counterspell ability.|
+|Antimagic Field|Special|Variable|The Webmaster can use the [Sage's](../../Characters/Archetypes/Sage) Counterspell ability.|
 |Eggs|Passive|N/A|The Webmaster begins the [battle](../../Extras/Key-Terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
 |Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 Colorless HP and no defenses.  If the Egg is still present during the next effect phase, it hatches into a Spiderling enemy that joins the Initative order during the next combat round.|
 |Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to Move instead of 1.  The Ranger's Forest Walk counteracts this effect.|
