@@ -13,7 +13,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 **Rank 1:** Ability.
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Gamble|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP|Wager up to 5 times your tier [HP](../../Characters/Attributes-and-Statistics#term-hp), [MP](../../Characters/Attributes-and-Statistics#term-mp) and Shell against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
 
