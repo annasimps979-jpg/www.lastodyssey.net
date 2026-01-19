@@ -19,7 +19,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Behold!|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Herald's enemies that inflicts the Blinded status on a hit.|
