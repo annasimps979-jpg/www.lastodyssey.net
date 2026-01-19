@@ -15,7 +15,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Restore [MP](../../Characters/Attributes-and-Statistics#term-mp)|Ally|5 MP, 1 AP|You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.|
+|Restore [MP](../../Characters/Attributes-and-Statistics#term-mp)|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 MP, 1 AP|You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.|
 
 **Rank 2:** You gain +1 Magical Defense.
 
@@ -23,7 +23,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Prayer|Passive|N/A|During the Effect Phase of every round of [battle](../../Extras/Key-Terms#term-battle), you and your allies regain 1 MP.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed) during the Effect Phase, this effect does not apply.|
+|Prayer|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase of every round of [battle](../../Extras/Key-Terms#term-battle), you and your allies regain 1 MP.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed) during the Effect Phase, this effect does not apply.|
 
 **Rank 4:** You gain +1 Magical Defense.
 
@@ -31,7 +31,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Multirestore|Multi|20 MP, 1 AP|You may use any of the abilities that any of your enemies have used between the end of your last turn and the beginning of your current turn, counting held turns.|
+|Multirestore|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|20 MP, 1 AP|You may use any of the abilities that any of your enemies have used between the end of your last turn and the beginning of your current turn, counting held turns.|
 
 **Rank 6:** You gain +1 Magical Defense.
 
