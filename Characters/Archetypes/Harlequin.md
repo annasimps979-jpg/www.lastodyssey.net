@@ -6,8 +6,8 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 *  +5 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +6 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) affect [Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy).
-*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities affect [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy).
+*  As a [Support](../../Characters/Jobs/Support), their [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [abilities](../../Extras/Key-Terms#term-ability) affect [Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) abilities affect [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy).
 
 ## Advancements by Rank
 
