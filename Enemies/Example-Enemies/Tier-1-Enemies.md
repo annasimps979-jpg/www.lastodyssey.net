@@ -19,11 +19,11 @@ In combat, police will swap between rounds where they debuff and rounds where th
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Truncheon|Melee|1 AP|The Cop makes a basic physical attack.|
-|Crowd Control|Ranged|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.|
-|Body Armor|Passive|N/A|The first time the Cop is hit by a physical attack, they do not take any damage.|
+|Truncheon|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|The Cop makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Crowd Control|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.|
+|Body Armor|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The first time the Cop is hit by a physical attack, they do not take any damage.|
 
 **Item Table** 
 
@@ -50,8 +50,8 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Rubber Bullets|Melee|1 AP|Makes a basic physical attack|
-|Tear Gas|Ranged|7 MP, 1 AP|Inflicts the Burn status on a single target with a successful status-inflicting roll.|
-|Injection|Ally|5 MP, 1 AP|Restores 4 HP to a single ally.|
+|Tear Gas|Ranged|7 MP, 1 AP|Inflicts the Burn status on a single target with a successful [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).|
+|Injection|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 MP, 1 AP|Restores 4 HP to a single ally.|
 
 **Item Table** 
 
@@ -74,7 +74,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pincers|Melee|1 AP|Makes a basic physical attack|
-|Autocannon|Special|1 AP|Makes a colorless, ranged physical attack against a single target.  The Spider Drone may only use this [ability](../../Extras/Key-Terms#term-ability) once per battle.|
+|Autocannon|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP|Makes a colorless, ranged physical attack against a single target.  The Spider Drone may only use this [ability](../../Extras/Key-Terms#term-ability) once per battle.|
 |Disarm|Melee|1 AP|Makes a colorless physical attack that, if successful, causes the target to drop their weapon.  The target must then spend 1 AP on its turn to pick it back up.|
 
 **Item Table** 
@@ -189,7 +189,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Firebomb|Ranged|1 AP, 5 MP|Makes a fire magical attack against a single target.|
+|Firebomb|Ranged|1 AP, 5 MP|Makes a fire [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target.|
 |Tinder|Melee|1 AP, 4 MP|Inflicts Burn on a single target with a successful status-inflicting ability roll.|
 |Detonate|All|2 AP|Kills the Arsonist and makes a fire magical attack against every enemy on the battlefield.|
 
@@ -278,7 +278,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |:-|:-|:-|:-|
 |Ghost Hand|Ranged|1 AP, 3 MP|Makes a shadow magical attack against one [character](../../Extras/Key-Terms#term-character).|
 |Medicine|Ally|1 AP, 5 MP|Heals the target for 7 HP.|
-|Ritual Circle|Multi|2 AP|Gives every ally excluding the Shaman the Sacrifice status effect.  Once the Ritual Circle is established, the Shaman can spend an additional AP to make one of its enemies part of it as well.|
+|Ritual Circle|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|2 AP|Gives every ally excluding the Shaman the Sacrifice status effect.  Once the Ritual Circle is established, the Shaman can spend an additional AP to make one of its enemies part of it as well.|
 |Blood Sacrifice|Ally|1 AP|The Shaman immediately kills an ally that has Sacrifice inflicted on it to restore its MP back to full.|
 |Ghost Talk|Passive|N/A|When one of the Shaman's enemies has the Sacrifice status effect and dies, the Shaman heals its MP back to full.|
 
