@@ -16,12 +16,12 @@ An eidolon's combat statistics are determined by the base attributes of their ch
 *  An eidolon's _[Resistance](../Characters/Attributes-and-Statistics#term-resistance)_ is their character's (Spirit) + (Tier) + (Archetype Bonus).
 *  An eidolon's _[Physical Accuracy](../Characters/Attributes-and-Statistics#term-physical-accuracy), [Magical Accuracy](../Characters/Attributes-and-Statistics#term-magical-accuracy),_ and _[Status Accuracy](../Characters/Attributes-and-Statistics#term-status-accuracy)_ are their character's (Mind) + (Body) + (Spirit).
 
-As characters advance in tier, they will unlock special capstone abilities that only their eidolons can use.  In addition, a character's eidolon may also use two basic abilities and two abilities determined by its archetype.  All eidolons have the following abilities:
+As characters advance in tier, they will unlock unique capstone abilities that only their eidolons can use.  In addition, a character's eidolon may also use two basic abilities and two abilities determined by its archetype.  All eidolons have the following abilities:
 
-|Name|Type|Cost|Description|
+|Name|[Type](../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Attack|Melee|1 AP|Make a colorless physical attack against a single target.|
-|Full Restore|Self|1 Anima, 1 AP|The eidolon removes all status effects from itself and immediately restores itself to full HP.|
+|Attack|[Melee](../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Make a colorless [physical attack](../Combat-Rules/Attacking-and-Defending#term-physical-attack) against a single target.|
+|Full Restore|[Self](../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 Anima, 1 AP|The eidolon removes all status effects from itself and immediately restores itself to full HP.|
 
 ## Abilities by Archetype
 
@@ -29,21 +29,21 @@ As characters advance in tier, they will unlock special capstone abilities that 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Cleave|Multi|1 AP|Make a colorless physical attack against all enemies in the front row.|
+|Cleave|[Multi](../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP|Make a colorless physical attack against all enemies in the front row.|
 |Elemental Strike|Melee|1 AP|Make a physical attack against a single enemy whose elemental type is the same as the user's elemental type.|
 
 **Caster:**
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Magic Blast|Ranged|1 AP|Make a colorless magical attack against a single enemy.|
+|Magic Blast|[Ranged](../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP|Make a colorless [magical attack](../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single enemy.|
 |Elemental Blast|Ranged|1 AP|Makes a magical attack whose elemental type is the same as the user's elemental type against a single enemy.|
 
 **Healer:**
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Heal|Ally|1 AP|Heal either the eidolon or a single [party](../Extras/Key-Terms#term-party) member by an amount equal to the eidolon's Magical Attack.  If the ally is [downed](../Characters/Attributes-and-Statistics#term-downed), they are also revived.|
+|Heal|[Ally](../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP|Heal either the eidolon or a single [party](../Extras/Key-Terms#term-party) member by an amount equal to the eidolon's Magical Attack.  If the ally is [downed](../Characters/Attributes-and-Statistics#term-downed), they are also revived.|
 |Cure|Ally|1 AP|Removes all debuffs and status effects from the eidolon or one of the party members.|
 
 **Defender:**
@@ -65,4 +65,4 @@ As characters advance in tier, they will unlock special capstone abilities that 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Reduce|Ranged|1 AP|Bring the Bonus Tracker of the statistic that their summoner's [archetype](../Characters/Archetypes/) debuffs to -7 for a single target and apply Slowed as though the eidolon had used the Slow ability on them.|
-|Sabotage|Ranged|1 AP|Make a status-inflicting ability roll against a single target.  If it succeeds, inflict the status effect associated with their elemental type on the target.|
+|Sabotage|Ranged|1 AP|Use a [status-inflicting ability](../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) against a single target.  If it succeeds, inflict the status effect associated with their elemental type on the target.|
