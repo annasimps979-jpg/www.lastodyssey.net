@@ -33,8 +33,8 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Block Physical Damage|100 cr|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
 |Block Magical Damage|400 cr|The next time the target of this item would otherwise take magical damage, they do not take any damage instead.|
 |Disable Attacks|700 cr|The target of this item cannot use any magical attacks, physical attacks, or status-inflicting abilities during their next turn.|
-|Haste|800 cr|The target of this item becomes Hasted as though a character in the Support job had used Haste on them.  This still cannot stack with any other applications of Hasted.|
-|Slow|900 cr|The target of this item becomes Slowed as though a character in the Saboteur job had used Haste on them.  This still cannot stack with any other applications of Slowed.|
+|Haste|800 cr|The target of this item becomes Hasted.  This still cannot stack with any other applications of Hasted.|
+|Slow|900 cr|The target of this item becomes Slowed.  This still cannot stack with any other applications of Slowed.|
 |Summon Creature|1000x(Tier of summoned creature)|When you use this item, it summons a creature, usually a monster of some type, to fight as an ally on your side.  The first time it can take its turn is during the round after you summoned it.|
 
 ## Item Enhancements
