@@ -6,8 +6,8 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a [Support](../../Characters/Jobs/Support), your buff [abilities](../../Extras/Key-Terms#term-ability) affect [Evasion](../../Characters/Attributes-and-Statistics#term-evasion).
-*  As a [Saboteur](../../Characters/Jobs/Saboteur), your debuff abilities affect [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy).
+*  As a [Support](../../Characters/Jobs/Support), your [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [abilities](../../Extras/Key-Terms#term-ability) affect [Evasion](../../Characters/Attributes-and-Statistics#term-evasion).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), your [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) abilities affect [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy).
 
 ## Advancements by Rank
 
