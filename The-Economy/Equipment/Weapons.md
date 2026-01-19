@@ -50,8 +50,8 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 |Keen|This upgrade gives a bonus to either your Status, Magical, or Physical Accuracy whose value depends on its UV.  UV 1 gives a +1, UV 2 gives a +3, and UV 3 gives a +5.|
 |Extra Ability|When a character wields a weapon with this upgrade, they are able to use a single flex power, [job](../../Characters/Jobs/) ability, or archetype [ability](../../Extras/Key-Terms#term-ability) at twice its normal MP cost.  At UV 1, the ability is earned at of Rank 1-3 of the job or class that can use it, at UV 2 the ability is earned at Rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
 |Fast|This upgrade gives a bonus to the wielder's [Initiative](../../Characters/Attributes-and-Statistics#term-initiative).  At UV 1, the bonus is +1, at UV 2 the bonus is +2, and at UV 3 the bonus is +3.|
-|Sharpened|After you hit an enemy with a physical attack while wielding a weapon with this upgrade, you can add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +2 extra damage, and UV 3 gives +3 extra damage.|
-|Energized|After you hit an enemy with a magical attack while wielding a weapon with this upgrade, you can add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +2 extra damage, and UV 3 gives +3 extra damage.|
+|Sharpened|After you hit an enemy with a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) while wielding a weapon with this upgrade, you can add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +2 extra damage, and UV 3 gives +3 extra damage.|
+|Energized|After you hit an enemy with a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) while wielding a weapon with this upgrade, you can add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +2 extra damage, and UV 3 gives +3 extra damage.|
 
 ### UV 1
 
@@ -59,7 +59,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 |:-|:-|
 |Elemental|Instead of dealing colorless physical damage, this weapon's basic attack deals elemental physical damage of a fixed type.  This upgrade cannot be applied more than once to a single weapon.|
 |Slayer|When you hit an enemy of the Enemy Type specified by this upgrade, the damage is multiplied by 1.5x in addition to other modifiers.  This upgrade cannot stack, but you can have multiple Slayer upgrades of different types on the same weapon.|
-|Light|In addition to their usual basic attack, weapons with this upgrade give the wielder a free ability called Light Attack.  When the wielder uses this ability, they make two colorless, melee, physical attacks against a single target, each one dealing damage multiplied by 0.75x in addition to other modifiers.|
+|Light|In addition to their usual basic attack, weapons with this upgrade give the wielder a free ability called Light Attack.  When the wielder uses this ability, they make two colorless, [Melee](../../Combat-Rules/Attacking-and-Defending#term-melee), physical attacks against a single target, each one dealing damage multiplied by 0.75x in addition to other modifiers.|
 |Toxic|When you hit an enemy with this weapon's basic attack, it also inflicts one level of the debuff specified by this upgrade.  This ability cannot stack, but a weapon can be Poisoned with multiple different kinds of debuffs at once.|
 |Pommel Guard|While wielding this weapon, you are immune to enemy abilities that reflect your abilities back at you.  However, when an enemy successfully reflects one of your abilities, it still counts as negating its effects on them.|
 
@@ -68,7 +68,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 |Name|Description|
 |:-|:-|
 |Cursed|When you hit an enemy with this weapon's basic attack, you also inflict the status specified by this upgrade.|
-|Blunt|This weapon's basic attack is replaced with an ability that makes a melee physical attack against an enemy.  On a hit, this attack does not do damage, but instead reduces the AP that the enemy can use during its next turn by one.  You can hit an enemy with this attack multiple times per turn, but you cannot reduce its AP below zero.|
+|Blunt|This weapon's basic attack is replaced with an ability that makes a Melee physical attack against an enemy.  On a hit, this attack does not do damage, but instead reduces the AP that the enemy can use during its next turn by one.  You can hit an enemy with this attack multiple times per turn, but you cannot reduce its AP below zero.|
 |Ambushing|At the beginning of a [battle](../../Extras/Key-Terms#term-battle), you may make a free basic attack against any target within range of this weapon's basic attack before the Initiative order is determined.  If your [party](../../Extras/Key-Terms#term-party) has First Strike, you can make this attack for free during your First Strike turn in addition to any other [actions](../../Extras/Key-Terms#term-action).|
 |Standard Issue|Weapons with this upgrade can be wielded by any character, regardless of whether or not that character is proficient in using weapons of its type.|
 |Sensor Array|When you hit an enemy with a basic attack while using this weapon, it automatically inflicts the Scan ability in addition to its usual damage.|
@@ -77,21 +77,21 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 
 |Name|Description|
 |:-|:-|
-|Reach|This weapon's melee abilities can hit enemies in the back row or the front row while the wielder is in the front row, and can also hit enemies in the front row while the wielder is in the back row.|
+|Reach|This weapon's Melee abilities can hit enemies in the back row or the front row while the wielder is in the front row, and can also hit enemies in the front row while the wielder is in the back row.|
 |Heavy|This weapon's basic attack costs 2 AP to use instead of 1, but deals 3x its base damage in addition to other multipliers on a hit.|
 |Primordial|When you make a basic attack while wielding this weapon, you may decide the elemental type of the resulting damage.  However, the damage's elemental type cannot be colorless.|
 |Laser|The damage of this weapon's basic attack ignores the target's Physical Defense.  However, all other abilities or alternate contextual attacks do damage as normal.|
-|Double-Edged|In addition to their usual basic attack, weapons with this upgrade give the wielder a free ability called Double Attack.  When the wielder uses this ability, they make two colorless, melee, physical attacks against a single target, each one dealing damage multiplied by 1x in addition to other modifiers.|
+|Double-Edged|In addition to their usual basic attack, weapons with this upgrade give the wielder a free ability called Double Attack.  When the wielder uses this ability, they make two colorless, Melee, physical attacks against a single target, each one dealing damage multiplied by 1x in addition to other modifiers.|
 
 ### Unique
 
 |Name|Description|
 |:-|:-|
 |Temporal|Once per turn, not including held turns, you may reverse the effects of any abilities you used during your turn in order to regain all of your AP.|
-|Lunar|In addition to their regular basic attack, the wielder of this weapon gains an ability called Lunar Attack that makes a melee physical attack against a single target that deals colorless magical damage instead colorless physical damage.  Your Physical Accuracy still applies to the attack roll, and your Physical Attack is still what determines the bonus to its damage.|
+|Lunar|In addition to their regular basic attack, the wielder of this weapon gains an ability called Lunar Attack that makes a Melee physical attack against a single target that deals colorless magical damage instead colorless physical damage.  Your Physical Accuracy still applies to the attack roll, and your Physical Attack is still what determines the bonus to its damage.|
 |Vorpal|When you make a physical attack with this weapon, the damage you deal is calculated as though the target's Physical Defense were half its actual value, rounded down.|
 |Plasma|When you make a magical attack with this weapon, the damage you deal is calculated as though the target's Magical Defense were half its actual value, rounded down.|
-|Organic|When you use a status-inflicting ability while wielding this weapon, the roll to determine if the status hits is made as though the target's Resistance were one half its actual value, rounded down.|
+|Organic|When you use a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) while wielding this weapon, the roll to determine if the status hits is made as though the target's Resistance were one half its actual value, rounded down.|
 |Vampiric|When you hit an enemy with a physical attack while wielding this weapon, you also heal an amount of HP equal to the total damage you dealt to that enemy.|
 |Masterwork|This weapon is of unusual quality, even for an Expert weapon.  Physical weapons with this upgrade give a +10 to Physical Attack and a +8 to Magical Attack, Balanced weapons give a +9 to Physical Attack and a +9 to Magical Attack, and Magical weapons give a +8 to Physical Attack and a +10 to Magical Attack.|
 |Explosive|When you hit an enemy with this weapon's basic attack, every other enemy also takes damage as though you had hit them with a basic attack as well.|
