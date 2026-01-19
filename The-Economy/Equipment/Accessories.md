@@ -12,7 +12,7 @@ There are no stacking Quality levels for accessories, but there are three unique
 |:-|:-|
 |Shield|This type of accessory grants a +1 to either your [Physical](../../Characters/Attributes-and-Statistics#term-physical-defense) or [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).  This effect can stack with other bonuses of the same type.|
 |Resonance|When you are wearing an accessory of this type, when you hit an enemy with an [ability](../../Extras/Key-Terms#term-ability) of the specified elemental type, it hits them as though you had rolled a 10 regardless of what the actual result of your attack or status-inflicting ability roll was.  This effect does not stack with other effects of the same type, but you can have multiple elemental resonances at once.|
-|Support|Wearing this accessory grants you proficiency with a specified weapon or armor type.  This does not stack, but you can wear Accessories that give you multiple different proficiencies at the same time.|
+|Supporting|Wearing this accessory grants you proficiency with a specified weapon or armor type.  This does not stack, but you can wear Accessories that give you multiple different proficiencies at the same time.|
 |Volatile|When you use an ability that costs [MP](../../Characters/Attributes-and-Statistics#term-mp) while wearing this accessory, roll a 1d10.  If the result is greater than 5, the ability does not cost any MP, while if the result is 5 or below, the ability costs double MP.  If you cannot afford the double MP cost in the latter case, the ability still fires but you immediately drop to 0 MP.|
 |Item Sleeve|When you use the item specified by this upgrade that involves a 1d10 roll, you may roll an additional 1d10 and freely choose which result you take.  If there is not a 1d10 roll involved, it instead doubles the item's potency or adds an extra enhancement.  For example, a healing item that normally heals 10 [HP](../../Characters/Attributes-and-Statistics#term-hp) will now heal 20, or an item sleeve for a Scan item might turn it into Multiscan.|
 |Linked Ability|When you are wearing this accessory, you gain the use of an ability specified by the upgrade for double its usual MP cost.|
@@ -34,7 +34,7 @@ There are no stacking Quality levels for accessories, but there are three unique
 |Auto Heal|During the Effect Phase of every round, if you are wearing this accessory you automatically heal for 5 HP.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this accessory does nothing.|
 |Grant Edge|At the start of a battle, if you are wearing this accessory, you gain a +1 to your [base](../../Extras/Key-Terms#term-base) [Initiative](../../Characters/Attributes-and-Statistics#term-initiative).  This bonus can stack with any other bonuses to Initiative that you have.|
 |Absorb Magic|If you are attacked by a magical attack of the specified element while wearing this accessory, you gain an amount of HP equal to the damage you would have taken had the attack hit you.  There are no accessories that will let you absorb colorless damage.  If you are hit by any magical attacks, you take damage as normal.|
-|Reciprocity|Any debuff, status effect, or buff that any character applies to you is also applied by you to them.  This includes effects such as Taunted, the Defender's Guard ability, and special effects like the Ranger's Hunted, but does not include abilities like Shells.  Any effects you apply to yourself are only applied once.|
+|Reciprocity|Any debuff, status effect, or buff that any character applies to you is also applied by you to them.  This includes statuses such as Taunted, Guarded, Hunted, but does not include the effects of other abilities like Shells.  Any effects you apply to yourself are only applied once.|
 
 ## Example Accessories
 
@@ -53,7 +53,7 @@ Each accessory has only one upgrade, so generating random accessories is just a 
 |:-|:-|
 |1|Shield|
 |2|Resonance|
-|3|Support|
+|3|Supporting|
 |4|Volatile|
 |5|Item Sleeve|
 |6|Linked Ability|
