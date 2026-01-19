@@ -13,7 +13,7 @@ On a character's turn, they are limited to performing the following actions:
 
 |Name|Cost|Description|
 |:-|:-|:-|
-|<dfn id = "term-basic-attack">Basic Attack</dfn>|1 AP|Make a colorless physical attack against a single enemy.  This does damage as outlined in the [Attacking and Defending](../Combat-Rules/Attacking-and-Defending) section.  No matter what, this attack always counts as a melee attack.|
+|<dfn id = "term-basic-attack">Basic Attack</dfn>|1 AP|Make a colorless [physical attack](../Combat-Rules/Attacking-and-Defending#term-physical-attack) against a single enemy.  By default, this counts as a [Melee](../Combat-Rules/Attacking-and-Defending#term-melee) ability.|
 |<dfn id = "term-use-ability">Use Ability</dfn>|Variable|Use one of the abilities they have currently available per their archetype and job.|
 |<dfn id = "term-use-item">Use Item</dfn>|1 AP|Use one of the items in the [party](../Extras/Key-Terms#term-party) inventory on a target or targets of your choice.  Once an item is used, it is permanently removed from the party inventory.|
 |<dfn id = "term-move">Move</dfn>|1 AP|Move from the front row to the back row, or from the back row to the front row of your respective side.|
