@@ -24,12 +24,12 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Leg Stab|Melee|1 AP|Makes a basic physical attack.|
-|Magic Spear|Ranged|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that inflicts colorless magical damage on a  hit.|
-|Bind|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that inflicts Petrify on a hit.|
+|Leg Stab|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Magic Spear|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that inflicts colorless magical damage on a  hit.|
+|Bind|Ranged|1 AP, 7 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Petrify on a hit.|
 |Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the Petrify status effect, the Webmaster deals magical earth damage that is multiplied by 2 in addition to other modifiers against them without needing to make an attack roll.|
-|Antimagic Field|Special|Variable|The Webmaster can use the [Sage's](../../Characters/Archetypes/Sage) Counterspell ability.|
-|Eggs|Passive|N/A|The Webmaster begins the [battle](../../Extras/Key-Terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
+|Antimagic Field|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|Variable|The Webmaster can use the [Sage's](../../Characters/Archetypes/Sage) Counterspell ability.|
+|Eggs|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Webmaster begins the [battle](../../Extras/Key-Terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
 |Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 Colorless HP and no defenses.  If the Egg is still present during the next effect phase, it hatches into a Spiderling enemy that joins the Initative order during the next combat round.|
 |Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to Move instead of 1.  The Ranger's Forest Walk counteracts this effect.|
 
@@ -52,7 +52,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Dry Bite|Melee|1 AP|Makes a basic physical attack.|
 |Pounce|Ranged|1 AP, 5 MP|The Tarantula makes a physical attack that deals colorless physical damage on a hit.|
 |Poison Bite|Melee|1 AP, 5 MP|The Tarantula makes a physical attack that deals colorless physical damage on a hit and applies the Toxin status effect.|
-|Harden|Self|1 AP, 5 MP|The Tarantula buffs its Physical Defense by 1 step on the Bonus Tracker.|
+|Harden|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 5 MP|The Tarantula buffs its Physical Defense by 1 step on the Bonus Tracker.|
 |Frenzy|Self|1 AP|Applies the Focused status to the Tarantula.|
 |Hunter's Frenzy|Passive|N/A|The Tarantula can still use any abilities that count as physical attacks when it is Focused.|
 |Spines|Passive|N/A|When the Tarantula is hit by a physical attack, the Tarantula will counterattack them with a free status-inflicting ability that deals Poisoned on a hit.|
@@ -82,7 +82,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Greatsword|Melee|1 AP|Makes a basic physical attack.|
-|Cleave|Multi|1 AP, 7 MP|Makes a physical attack against all of the War Leader's enemies in the front row that does colorless physical damage on a hit.|
+|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|Makes a physical attack against all of the War Leader's enemies in the front row that does colorless physical damage on a hit.|
 |Challenge|Ranged|1 AP|Confers the Taunted status on one of the War Leader's enemies.|
 |Battle Prayer|Ally|1 AP, 9 MP|Bestows the Protected (Colorless) status on the War Leader or one of their allies.|
 |Inspire|Multi|1 AP, 10 MP|Increases the Physical Attack of the War Leader and all of their allies by one step on the Bonus Tracker.|
@@ -132,7 +132,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |:-|:-|:-|:-|
 |Sword Arm|Melee|1 AP|Makes a basic physical attack.|
 |Icy Lance|Ranged|1 AP, 8 MP|Makes a physical attack against a single enemy that deals physical Ice damage on a hit.|
-|Frost Blast|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical ice damage that is multiplied by 2 in addition to other modifiers.|
+|Frost Blast|Ranged|1 AP, 7 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target that deals magical ice damage that is multiplied by 2 in addition to other modifiers.|
 |Chill|Ranged|1 AP, 7 MP.  Uses a status-inflicting ability against a single target that inflicts the Frostbite status effect on a hit.|
 |Cold Snap|Multi|1 AP, 28 MP|Inflicts the Slow status effect on all of the Revenant's enemies.|
 |Exposure|Ranged|1 AP, 8 MP|Inflicts the Vulnerable (Ice) status effect on a single one of the Revenant's enemies.|
