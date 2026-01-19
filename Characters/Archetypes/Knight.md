@@ -13,7 +13,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 **Rank 1:** Ability.
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Focus|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|Apply the Focused status effect to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status effect goes away.|
 
