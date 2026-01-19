@@ -6,8 +6,8 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 *  +15 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +2 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
-*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
+*  As a [Support](../../Characters/Jobs/Support), their [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) abilities will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
 
 ## Advancements by Rank
 
