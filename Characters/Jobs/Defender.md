@@ -9,7 +9,7 @@ While they are Defenders, [player characters](../../Extras/Key-Terms#term-player
 
 ## Abilities by Rank
 
-|Rank|Name|Type|Cost|Description|
+|Rank|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|:-|
 |1|Taunt|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP|Inflict the Taunted status on a single target.  A Taunted [character](../../Extras/Key-Terms#term-character) can only use single-target [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), and [status-inflicting](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) [abilities](../../Extras/Key-Terms#term-ability), and only on you.  It can also use the Move [action](../../Extras/Key-Terms#term-action) to move into range of you if needed.  Each character can only be Taunted by a single other character at a time.  If the character cannot reach you by any means, they will act as though they are not Taunted.|
 |2|Guard|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Inflict the Guarded status on a single ally, which remains until the beginning of your next turn.  Every time that ally is targeted by a physical attack, magical attack, or status-inflicting ability, you become the target instead.  If they are targeted by a Multi- or All-type ability, the ability is simply negated against them.|
