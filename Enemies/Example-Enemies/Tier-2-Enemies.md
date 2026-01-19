@@ -19,11 +19,11 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Bite|Melee|1 AP|Makes a basic physical attack.|
+|Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Gore|Melee|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Makes a colorless physical attack that inflicts damage multiplied by 1.5x in addition to other modifiers.|
-|Howl|Self|3 MP, 1 AP|Buffs the Physical Attack of the Wolf by one step on the Bonus Tracker.|
+|Howl|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|3 MP, 1 AP|Buffs the Physical Attack of the Wolf by one step on the Bonus Tracker.|
 
 **Item Table** 
 
@@ -50,7 +50,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Club|Melee|1 AP|Makes a basic physical attack.|
-|Entangle|Ranged|1 AP, 7 MP|On a successful status-inflicting roll, inflicts Petrify.|
+|Entangle|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 7 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Petrified on a hit.|
 |Photosynthesis|Passive|N/A|If the Dryad receives water damage, they will receive the damage as healed HP.  If the Dryad receives Light damage, they will receive the damage as healed MP.|
 
 **Item Table** 
@@ -78,7 +78,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Claws|Melee|1 AP|Makes a basic physical attack.|
-|Baptize|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single ally.|
+|Baptize|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 8 MP|Removes all buffs and debuffs from a single ally.|
 |Restore|Ally|1 AP, 5 MP|Heals a single [character](../../Extras/Key-Terms#term-character) for an amount equal to the Naiad's Magical Attack.|
 
 **Item Table**
@@ -108,7 +108,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Punch|Melee|1 AP|Makes a basic physical attack.|
 |Tough Bark|Self|1 AP, 7 MP|Inflicts the Guarded status on the Ent until the beginning of its next turn or until after the next time it is hit with a physical attack.|
 |Regenerate|Self|1 AP, 11 MP|Heals the Ent for an amount of HP equal to twice its Magical Attack.|
-|Photosynthesis|Passive|N/A|If the Ent receives water damage, they will receive the damage as healed HP.  If the Ent receives Light damage, they will receive the damage as healed MP.|
+|Photosynthesis|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|If the Ent receives water damage, they will receive the damage as healed HP.  If the Ent receives Light damage, they will receive the damage as healed MP.|
 |Forest Fire|Passive|N/A|If the Ent takes fire damage from any source, it will not be able to use Regenerate until after its next turn.|
 
 **Item Table** 
@@ -135,9 +135,9 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Airslice|Ranged|1 AP, 5 MP|Makes a wind magical attack against a single target.|
+|Airslice|Ranged|1 AP, 5 MP|Makes a wind [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target.|
 |Taunt|Ranged|1 AP|Works the same way as the Defender's Taunt.|
-|Counterspell|Reaction|Variable|Works the same way as a Sage's Counterspell.|
+|Counterspell|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|Variable|Works the same way as a Sage's Counterspell.|
 |Sparkles|Self|2 AP|Restores 10 MP to the Pixie.|
 |Revenge Hex|Passive|N/A|When the Pixie is [downed](../../Characters/Attributes-and-Statistics#term-downed), the character responsible must roll to resist Silence versus the Pixie's Status Accuracy.|
 
