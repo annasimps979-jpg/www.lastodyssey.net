@@ -13,7 +13,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 **Rank 1:** Ability.
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Orders|[Ally](../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP|Grant a free AP to a single ally that can then use it to act during your turn.  You may only use this ability once per round.|
 
