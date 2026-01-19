@@ -13,7 +13,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 **Rank 1:** Ability.
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Restore [MP](../../Characters/Attributes-and-Statistics#term-mp)|Ally|5 MP, 1 AP|You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.|
 
