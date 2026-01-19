@@ -13,7 +13,7 @@ A Ranger's core virtue is their **Focus.**  At [character creation](../../Charac
 
 **Rank 1:** Ability.
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Mark Target|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP|This ability inflicts the Hunted status effect on the target.  When you use a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on the target, you roll the [hit die](../../Combat-Rules/Attacking-and-Defending#term-hit-die) twice and choose the number you prefer.  This does not apply to attacks that target multiple enemies.  Only one enemy can have the Hunted status effect inflicted on them per Ranger on your team.  If a Hunted enemy dies due to one of your attacks, you may immediately use Mark Target on another enemy at no AP cost.|
 
