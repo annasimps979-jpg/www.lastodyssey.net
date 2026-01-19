@@ -13,7 +13,7 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 **Rank 1:** Ability.
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Grimoire|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|In addition to [MP](../../Characters/Attributes-and-Statistics#term-mp), you also have a number of Spell Slots equal to your current tier. When you use a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) or a [flex power](../../Characters/Character-Advancement#term-flex-power), you may expend a single Spell Slot instead of paying the MP cost.|
 
