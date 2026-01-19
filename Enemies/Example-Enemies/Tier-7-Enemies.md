@@ -19,11 +19,11 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Axe|Melee|1 AP|Makes a basic physical attack.|
+|Axe|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Two-Handed Chop|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that, on a hit, does colorless physical damage that is multiplied by 2 in addition to other modifiers.|
-|Disposable|Passive|N/A|Fodder will always take damage for any non-Fodder enemies on the battlefield.  If there are multiple Fodder enemies on the battlefield, the GM may choose which one takes the damage.|
+|Disposable|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Fodder will always take damage for any non-Fodder enemies on the battlefield.  If there are multiple Fodder enemies on the battlefield, the GM may choose which one takes the damage.|
 
 **Item Table** 
 
@@ -50,8 +50,8 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sharp Thingy|Melee|1 AP|Makes a basic physical attack.|
-|Boom|Ranged|1 AP, 9 MP|Makes a magical attack against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
-|Tripwire|Special|1 AP, 5 MP|The next one of the Goblin's enemies to move will automatically gain the Petrified status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Characters/Attributes-and-Statistics#term-downed), the Tripwire leaves.|
+|Boom|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 9 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
+|Tripwire|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to move will automatically gain the Petrified status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Characters/Attributes-and-Statistics#term-downed), the Tripwire leaves.|
 
 **Item Table**
 
@@ -78,8 +78,8 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Chop|Melee|1 AP|Makes a basic physical attack.|
-|Fury|Self|1 AP|Works the same way as the [Knight's](../../Characters/Archetypes/Knight) Focus [ability](../../Extras/Key-Terms#term-ability) when the Knight has the Melee passive ability active.|
-|Cleave|Multi|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the front row.  On a hit, this attack does colorless physical damage.|
+|Fury|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|Works the same way as the [Knight's](../../Characters/Archetypes/Knight) Focus [ability](../../Extras/Key-Terms#term-ability) when the Knight has the Melee passive ability active.|
+|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the front row.  On a hit, this attack does colorless physical damage.|
 
 **Item Table** 
 
@@ -136,7 +136,7 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Whip|Melee|1 AP|Makes a basic physical attack.|
-|Repression|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Bleak Lord's enemies that inflicts Silenced on a hit.|
+|Repression|Multi|1 AP, 18 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Bleak Lord's enemies that inflicts Silenced on a hit.|
 |Cleansing Darkness|Multi|1 AP, 18 MP|Removes all status effects and debuffs from the Bleak Lord and all of their allies.|
 |Compel|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, allows the Bleak Lord to give one of their AP to the target and force them to use any action they wish.|
 |Master of the Violent and Cruel|Passive|N/A|All of the Bleak Lord's allies take double damage and do double damage from all sources.|
