@@ -8,7 +8,7 @@ All singular instances of combat involving the player characters in Last Odyssey
 
 * [Starting Battles](Starting-Battles): A guide to the process of starting a battle.
 * [The Combat Round](The-Combat-Round): How in-game time flows during combat.
-* [Attacking and Defending](Attacking-and-Defending): [Magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), and [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).
+* [Attacking and Defending](Attacking-and-Defending): [Magical attacks](../Combat-Rules/Attacking-and-Defending#term-magical-attack), [physical attacks](../Combat-Rules/Attacking-and-Defending#term-physical-attack), and [status-inflicting abilities](../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).
 * [Elemental Types](Elemental-Types): Modifiers to dealt damage.
 * [Shells](Shells): A special type of HP that gives protection from physical attacks, and vulnerability to magical attacks.
 * [Buffs and Debuffs](Buffs-and-Debuffs): Increasing and decreasing character [statistics](../Extras/Key-Terms#term-statistic) during battle.
