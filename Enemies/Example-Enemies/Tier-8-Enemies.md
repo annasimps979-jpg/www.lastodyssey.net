@@ -23,7 +23,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|
 |Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Behold!|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Herald's enemies that inflicts the Blinded status on a hit.|
-|The First Seal|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When the Herald is [downed](../../Characters/Attributes-and-Statistics#term-downed), all of the Herald's enemies have their Magical Accuracy debuffed by one step on the Bonus Tracker.|
+|The First Seal|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When the Herald is [downed](../../Characters/Attributes-and-Statistics#term-downed), all of the Herald's enemies have their Magical Accuracy [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 
 **Item Table** 
 
@@ -107,7 +107,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|
 |Greatsword|Melee|1 AP|Makes a basic physical attack.|
 |Baleful Strike|Melee|1 AP, 3 MP|Makes a physical attack against a single target that deals physical fire damage on a hit.|
-|Blessed Sword|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 16 MP|Buffs the Physical Attack of either the Avenger or their allies by three levels on the Bonus Tracker.|
+|Blessed Sword|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 16 MP|[Buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) the Physical Attack of either the Avenger or their allies by three levels on the Bonus Tracker.|
 |Condemn|Ranged|1 AP|Designates one of the Avenger's enemies as Condemned.  When the Avenger or one of their allies uses a physical or magical attack or a status-inflicting ability on a Condemned target, the GM may roll the associated 1d10 twice and choose which result they want.|
 |Final Judgment|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|2 AP|When the Avenger uses this [ability](../../Extras/Key-Terms#term-ability), the GM selects one of their enemies and rolls a 1d10.  If the result is above a 5, the Condemned enemy takes the total amount of damage they have dealt in the [battle](../../Extras/Key-Terms#term-battle) minus the amount of healing they have received.  It is possible that this result could be negative, in which case they are healed instead.  If the result is a 5 or below, nothing happens.  In either case, however, the Condemned status is removed and cannot be applied to them again for the rest of the battle.|
 
