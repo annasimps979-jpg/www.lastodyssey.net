@@ -136,10 +136,10 @@ Test subjects without their masters are very much insane.  They will not use any
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Penetrating Stare|Ranged|1 AP, 7 MP|On a hit, inflicts the Paralyzed status on a single target.|
-|Enlightenment|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 18 MP|Buffs a single target's Magical Attack by three steps on the Bonus Tracker.|
+|Enlightenment|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 18 MP|[Buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) a single target's Magical Attack by three steps on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Psychic Scream|Multi|1 AP, 13 MP|Makes a magical attack against all enemies on the field that, when it hits, deals colorless magical damage.|
 |Dream Eater|Ranged|1 AP, 5 MP|Makes a colorless magical attack against a single opponent.  On a hit, restores an amount of MP to the Precog equal to the damage they dealt to their target.|
-|Lobotomy|Ranged|1 AP, 10 MP|Debuffs a single target's Magical Attack by three levels on the Bonus Tracker.|
+|Lobotomy|Ranged|1 AP, 10 MP|[Debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) a single target's Magical Attack by three levels on the Bonus Tracker.|
 
 **Item Table** 
 
