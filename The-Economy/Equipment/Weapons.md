@@ -60,7 +60,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 |Elemental|Instead of dealing colorless physical damage, this weapon's basic attack deals elemental physical damage of a fixed type.  This upgrade cannot be applied more than once to a single weapon.|
 |Slayer|When you hit an enemy of the Enemy Type specified by this upgrade, the damage is multiplied by 1.5x in addition to other modifiers.  This upgrade cannot stack, but you can have multiple Slayer upgrades of different types on the same weapon.|
 |Light|In addition to their usual basic attack, weapons with this upgrade give the wielder a free ability called Light Attack.  When the wielder uses this ability, they make two colorless, [Melee](../../Combat-Rules/Attacking-and-Defending#term-melee), physical attacks against a single target, each one dealing damage multiplied by 0.75x in addition to other modifiers.|
-|Toxic|When you hit an enemy with this weapon's basic attack, it also inflicts one level of the debuff specified by this upgrade.  This ability cannot stack, but a weapon can be Poisoned with multiple different kinds of debuffs at once.|
+|Toxic|When you hit an enemy with this weapon's basic attack, it also inflicts one level of the [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) specified by this upgrade.  This ability cannot stack, but a weapon can be Poisoned with multiple different kinds of debuffs at once.|
 |Pommel Guard|While wielding this weapon, you are immune to enemy abilities that reflect your abilities back at you.  However, when an enemy successfully reflects one of your abilities, it still counts as negating its effects on them.|
 
 ### UV 2
