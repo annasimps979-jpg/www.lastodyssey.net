@@ -5,7 +5,7 @@ Alternate dimensions contain sentients of their own.  While most transdimensiona
 
 Invaders don't follow too many rules in combat, except for one: do whatever the [players](../../Extras/Key-Terms#term-player) expect the least at any given time.
 
-### Grub (Normal 9, Horror, Colorless)
+### Grub (Normal 9, Horror, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
 
 **Statistics**
 
@@ -22,7 +22,7 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic physical attack.|
-|Acid Spit|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that deals magical wood damage on a hit and also reduces the enemy's Physical Defense by one on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
+|Acid Spit|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that deals magical [wood](../../Combat-Rules/Elemental-Types#term-wood) damage on a hit and also reduces the enemy's Physical Defense by one on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Accelerated Growth|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During each Effect Phase, the Grub's Magical Defense, Physical Defense, and Resistance are [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one on the Bonus Tracker.|
 
 **Item Table** 
@@ -210,7 +210,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |2|Expert Debuff Evasion|
 |3|1000 cr|
 
-### Engineer (Normal 9, Human, Thunder)
+### Engineer (Normal 9, Human, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
 
 **Statistics**
 
@@ -238,7 +238,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |2|Expert Restore MP|
 |3|1000 cr|
 
-### Walker (Elite 9, Construct, Earth)
+### Walker (Elite 9, Construct, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
 
 **Statistics**
 
@@ -268,7 +268,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |2|Expert Magical Fire Damage|
 |3|5000 cr|
 
-### Overseer (Elite 9, Construct, Wind)
+### Overseer (Elite 9, Construct, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
 
 **Statistics**
 
