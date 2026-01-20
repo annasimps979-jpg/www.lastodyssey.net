@@ -5,7 +5,7 @@ The people who run the casinos that act as sieves for the vast wealth trafficked
 
 In combat, Gangsters will beat on the weakest enemy.  They will also never engage in a fair fight unless forced to.
 
-### Goon (Normal 4, Dragon, Fire)
+### Goon (Normal 4, Dragon, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
 
 **Statistics**
 
@@ -33,7 +33,7 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |2|Rare Buff Physical Attack|
 |3|100 cr|
 
-### Dancer (Normal 4, Dragon, Water)
+### Dancer (Normal 4, Dragon, [Water](../../Combat-Rules/Elemental-Types#term-water))
 
 **Statistics**
 
@@ -50,7 +50,7 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hairpin|Melee|1 AP|Makes a basic physical attack.|
-|Veil|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 9 MP|Confers the Protected status on a single ally or on the Dancer.  The element that that ally is Protected from is the same as the Dancer's current elemental type.|
+|Veil|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 9 MP|Confers the Protected status on a single ally or on the Dancer.  The element that that ally is Protected from is the same as the Dancer's current [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).|
 |Copycat|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 10 MP|Uses one of the abilities that the Dancer's enemies used after the end of its last turn.|
 
 **Item Table** 
@@ -61,7 +61,7 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |2|Costume Change|
 |3|100 cr|
 
-### Kitsune (Normal 4, Demon, Wood)
+### Kitsune (Normal 4, Demon, [Wood](../../Combat-Rules/Elemental-Types#term-wood))
 
 **Statistics**
 
@@ -136,7 +136,7 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Brass Knuckles|Melee|1 AP|Makes a basic physical attack.|
-|Distribute Winnings|Ranged|1 AP, 5 MP|Makes a magical attack against a single target on the battlefield that, on a hit, deals [base](../../Extras/Key-Terms#term-base) magical colorless damage equal to the current Betting Pool, which is then reset to zero.|
+|Distribute Winnings|Ranged|1 AP, 5 MP|Makes a magical attack against a single target on the battlefield that, on a hit, deals [base](../../Extras/Key-Terms#term-base) magical [colorless](../../Combat-Rules/Elemental-Types#term-colorless) damage equal to the current Betting Pool, which is then reset to zero.|
 |Color Burst|Ranged|1 AP, 8 MP|Makes a magical attack against a single enemy that, on a hit, deals magical damage of a random element that is multiplied by 2 in addition to other modifiers.|
 |Rig Game|Ranged|1 AP, 12 MP|Lowers a random Accuracy of all of the Casinoman's enemies by one level on the Bonus Tracker.|
 |Ante Up|Passive|N/A|During the Effect Phase, all characters must either donate 1 MP or immediately take 1 unblockable damage.  Each time a character donates, they add 1 to a counter called the Betting Pool.|
@@ -154,7 +154,7 @@ The inhabitants of the frozen caves inside of the Southern Glacier are a mix of 
 
 Frost dwellers, if they are attacking, are most likely attempting to defend their territory.  They will exert themselves in ways that are meant to scare their enemies to cause a retreat as quickly as possible.
 
-### Worg (Normal 4, Animal, Ice)
+### Worg (Normal 4, Animal, [Ice](../../Combat-Rules/Elemental-Types#term-ice))
 
 **Statistics**
 
