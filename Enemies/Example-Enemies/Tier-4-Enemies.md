@@ -3,7 +3,7 @@
 ## Gangsters
 The people who run the casinos that act as sieves for the vast wealth trafficked through Neon Station are highly unpredictable, but almost always violent.
 
-In combat, Gangsters will beat on the weakest enemy.  They will also never engage in a fair fight unless forced to.
+In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  They will also never engage in a fair fight unless forced to.
 
 ### Goon (Normal 4, Dragon, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
 
