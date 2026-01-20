@@ -109,7 +109,7 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |Squash|Melee|1 AP, 5 MP|Makes a physical attack that deals physical colorless damage on a hit that is multiplied by 2 in addition to other multipliers.|
 |Boulder|Ranged|1 AP, 10 MP|Makes a physical attack against a single target that does physical earth damage if it hits.|
 |Landslide|Multi|1 AP, 15 MP|Makes a physical attack against every enemy on the battlefield that deals physical earth damage on a hit.|
-|Adaptation|Passive|N/A|When the Cave Troll is hit by a physical attack, their Physical Defense is buffed by one step on the Bonus Tracker and their Magical Defense is debuffed by one step on the Bonus Tracker.  When the Cave Troll is hit by a magical attack, the reverse happens.|
+|Adaptation|Passive|N/A|When the Cave Troll is hit by a physical attack, their Physical Defense is [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) and their Magical Defense is [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by one step on the Bonus Tracker.  When the Cave Troll is hit by a magical attack, the reverse happens.|
 
 **Item Table** 
 
