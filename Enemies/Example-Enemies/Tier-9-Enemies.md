@@ -3,7 +3,7 @@
 ## Invaders
 Alternate dimensions contain sentients of their own.  While most transdimensional visitors are benign or even benevolent, those that willingly choose to colonize other dimensions often aren't.
 
-Invaders don't follow too many rules in combat, except for one: do whatever the [players](../../Extras/Key-Terms#term-player) expect the least at any given time.
+Invaders don't follow too many rules in [combat](../../Combat-Rules/), except for one: do whatever the [players](../../Extras/Key-Terms#term-player) expect the least at any given time.
 
 ### Grub (Normal 9, Horror, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
 
