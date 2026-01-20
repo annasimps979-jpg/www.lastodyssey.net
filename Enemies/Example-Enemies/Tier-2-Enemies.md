@@ -5,7 +5,7 @@ The deep woods are home to hostile creatures that will defend their territory to
 
 Forest Dwellers are interested in murdering their opponents with as little fanfare as possible.  The exception to this is that they will prioritize survival in combat over a quicker end to things.  You will see them choose to use healing [abilities](../../Extras/Key-Terms#term-ability) even when it isn't strictly needed, and playing it safe with [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff).
 
-### Wolf (Normal 2, Animal, Shadow)
+### Wolf (Normal 2, Animal, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
 
 **Statistics**
 
@@ -22,7 +22,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Gore|Melee|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Makes a colorless physical attack that inflicts damage multiplied by 1.5x in addition to other modifiers.|
+|Gore|Melee|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Makes a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical attack that inflicts damage multiplied by 1.5x in addition to other modifiers.|
 |Howl|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|3 MP, 1 AP|Buffs the Physical Attack of the Wolf by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 
 **Item Table** 
@@ -33,7 +33,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |2|Cure Blinded|
 |3|10 cr|
 
-### Dryad (Normal 2, Elemental, Wood)
+### Dryad (Normal 2, Elemental, [Wood](../../Combat-Rules/Elemental-Types#term-wood))
 
 **Statistics**
 
@@ -51,7 +51,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |:-|:-|:-|:-|
 |Club|Melee|1 AP|Makes a basic physical attack.|
 |Entangle|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 7 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Petrified on a hit.|
-|Photosynthesis|Passive|N/A|If the Dryad receives water damage, they will receive the damage as healed HP.  If the Dryad receives Light damage, they will receive the damage as healed MP.|
+|Photosynthesis|Passive|N/A|If the Dryad receives [water](../../Combat-Rules/Elemental-Types#term-water) damage, they will receive the damage as healed HP.  If the Dryad receives [Light](../../Combat-Rules/Elemental-Types#term-light) damage, they will receive the damage as healed MP.|
 
 **Item Table** 
 
@@ -109,7 +109,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Tough Bark|Self|1 AP, 7 MP|Inflicts the Guarded status on the Ent until the beginning of its next turn or until after the next time it is hit with a physical attack.|
 |Regenerate|Self|1 AP, 11 MP|Heals the Ent for an amount of HP equal to twice its Magical Attack.|
 |Photosynthesis|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|If the Ent receives water damage, they will receive the damage as healed HP.  If the Ent receives Light damage, they will receive the damage as healed MP.|
-|Forest Fire|Passive|N/A|If the Ent takes fire damage from any source, it will not be able to use Regenerate until after its next turn.|
+|Forest Fire|Passive|N/A|If the Ent takes [fire](../../Combat-Rules/Elemental-Types#term-fire) damage from any source, it will not be able to use Regenerate until after its next turn.|
 
 **Item Table** 
 
@@ -119,7 +119,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |2|Guard| 
 |3|50 cr|
 
-### Pixie (Elite 2, Fairy, Wind)
+### Pixie (Elite 2, Fairy, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
 
 **Statistics**
 
@@ -154,7 +154,7 @@ Dwarves are the enigmatic dwellers of the deep caves.  They are friendly enough 
 
 In combat, dwarves are highly coordinated opponents, with each one focusing on their own niche in [battle](../../Extras/Key-Terms#term-battle).  They should employ smart tactics, and should not show concern for injury except when it threatens their life.
 
-### Digger (Normal 2, Human, Earth)
+### Digger (Normal 2, Human, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
 
 **Statistics**
 
