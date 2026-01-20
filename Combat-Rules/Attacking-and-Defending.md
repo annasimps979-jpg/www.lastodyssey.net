@@ -24,7 +24,7 @@ Every ability that you use has an <dfn id = "term-ability-type">ability type</df
 *  <dfn id = "term-ranged">Ranged</dfn>.  This ability is offensive, and may target any character on the battlefield.
 *  <dfn id = "term-ally-ability">Ally</dfn>.  This ability is defensive, and may target any character on the battlefield.
 *  <dfn id = "term-special-ability">Special</dfn>.  The possible targets of this ability are contextual.  Read its description to learn when it can be used.
-*  <dfn id = "term-passive">Passive</dfn>.  This ability cannot be used as an [action](../Extras/Key-Terms#term-action), but instead changes something about the way the character behaves in combat.
+*  <dfn id = "term-passive">Passive</dfn>.  This ability cannot be used as an [action](../Extras/Key-Terms#term-action), but instead changes something about the way the character behaves in [combat](../Combat-Rules/).
 *  <dfn id = "term-multi">Multi</dfn>.  This ability targets more than one character on the battlefield.
 *  <dfn id = "term-reaction">Reaction</dfn>.  This ability cannot be used as an action, but triggers automatically when certain conditions are met.
 
