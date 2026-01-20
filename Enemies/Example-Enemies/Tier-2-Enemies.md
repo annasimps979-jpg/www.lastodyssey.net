@@ -9,7 +9,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell]((../../Combat-Rules/Shells))|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |12|8|7|15|2|6|2|2|1|
 
