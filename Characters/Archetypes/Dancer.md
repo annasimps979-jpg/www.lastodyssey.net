@@ -23,7 +23,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Dancer's Mask|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Whenever you use an ability that has an elemental type, you may obtain the Masked status effect, which means you now count as having [HP](../../Characters/Attributes-and-Statistics) and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
+|Dancer's Mask|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Whenever you use an ability that has an [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type), you may obtain the Masked status effect, which means you now count as having [HP](../../Characters/Attributes-and-Statistics) and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
 
 **Rank 4:** You gain +1 Evasion.
 
@@ -53,7 +53,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) into your current elemental type due to Masked.
+**[Striker](../../Characters/Jobs/Striker):** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your [colorless](../../Combat-Rules/Elemental-Types#term-colorless) [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) into your current elemental type due to Masked.
 
 **[Caster](../../Characters/Jobs/Caster):** School Uniform.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless magical attacks into your current elemental type due to Masked.
 
