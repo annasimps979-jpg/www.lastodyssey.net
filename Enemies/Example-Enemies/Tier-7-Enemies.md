@@ -1,11 +1,11 @@
 # Tier 7 Enemies
 
 ## Orks
-Ork raiding parties are feared by rural folk, and rightfully so.  When they strike, they strike not just to steal food but also to remind their victims of their presence by inspiring terror, softening them for the next raid.
+Ork raiding parties are feared by rural folk, and rightfully so.  When they strike, they strike not just to steal food but also to remind their victims of their presence by inspiring fear, softening them for the next raid.
 
-In combat, Orks want to strike terror.  They do this through doing their best to do massive amounts of physical damage, and by purposefully ignoring their own health to maintain their image as invulnerable, rage-filled monsters.
+In combat, Orks want to strike terror in the hearts of their enemies.  They do this through doing their best to do massive amounts of physical damage, and by purposefully ignoring their own health to maintain their image as invulnerable, rage-filled monsters.
 
-### Fodder (Normal 7, Demon, Earth)
+### Fodder (Normal 7, Demon, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
 
 **Statistics**
 
@@ -22,7 +22,7 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Axe|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Two-Handed Chop|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that, on a hit, does colorless physical damage that is multiplied by 2 in addition to other modifiers.|
+|Two-Handed Chop|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that, on a hit, does [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical damage that is multiplied by 2 in addition to other modifiers.|
 |Disposable|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Fodder will always take damage for any non-Fodder enemies on the battlefield.  If there are multiple Fodder enemies on the battlefield, the GM may choose which one takes the damage.|
 
 **Item Table** 
@@ -154,7 +154,7 @@ The denizens of Hell are many, but they all have one thing in common: their irre
 
 In combat, devils are clever and efficient.  While they are cruel, it is not to the point of impeding their ability to win.  They will use tactics on par with the [player characters](../../Extras/Key-Terms#term-player-character).
 
-### Imp (Normal 7, Demon, Fire)
+### Imp (Normal 7, Demon, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
 
 **Statistics**
 
@@ -182,7 +182,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |2|Taunt|
 |3|500 cr|
 
-### Succubus (Normal 7, Demon, Light)
+### Succubus (Normal 7, Demon, [Light](../../Combat-Rules/Elemental-Types#term-light))
 
 **Statistics**
 
@@ -210,7 +210,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |2|Rare Restore HP (Multi)|
 |3|500 cr|
 
-### Cambion (Normal 7, Demon, Shadow)
+### Cambion (Normal 7, Demon, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
 
 **Statistics**
 
@@ -256,7 +256,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Sickle|Melee|1 AP|Makes a basic physical attack.|
 |Test Subject|Ranged|1 AP|The Torturer inflicts the Test Subject status on a single target.  This status can be healed, and only one character can be a Test Subject at a time.  The Torturer's Test Subject receives +1 total damage from all sources.|
-|Wheel of Knives|Special|1 AP, 8 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes physical damage of the resulting elemental type that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
+|Wheel of Knives|Special|1 AP, 8 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes physical damage of the resulting [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
 |Wheel of Pain|Special|1 AP, 5 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's magical attacks.|
 |Wheel of Misfortune|Special|1 AP, 7 MP|The Torturer's Test subject receives a random extra status effect that cannot be resisted, not even by immunity.  Roll a 1d10 and consult the Torturer's Elemental Table to see which status effect they receive.  Colorless corresponds to the subject not receiving any damage.|
 
