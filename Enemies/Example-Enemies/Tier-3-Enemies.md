@@ -5,7 +5,7 @@ When necromancers or bioengineers create constructs out of dead bodies, these ar
 
 In combat, the living dead are stupid, aggressive, and totally unconcerned with death.  Insofar as they display cunning, it should purely be to create a sense of dramatic tension and to display animus towards the [player characters](../../Extras/Key-Terms#term-player).
 
-### Zombie (Normal 3, Undead, Shadow)
+### Zombie (Normal 3, Undead, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
 
 **Statistics**
 
@@ -50,7 +50,7 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
-|Arrow|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 MP|Makes a colorless physical attack against a single target.|
+|Arrow|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 MP|Makes a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical attack against a single target.|
 |Undeath|Passive|N/A|The first time the Skeleton would be downed in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 
 **Item Table** 
@@ -91,7 +91,7 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 |2|Mundane Inflict Frostbite|
 |3|10 cr|
 
-### Statue (Elite 3, Undead, Earth)
+### Statue (Elite 3, Undead, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
 
 **Statistics**
 
@@ -156,7 +156,7 @@ Tall, enigmatic beings who descended one day from the heavens and now lay claim 
 
 Void elves are powerful combatants, but are also quite arrogant.  As a result, they will fight with intelligence, but will often disregard their enemies' defenses or [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff), assuming that their raw power is enough to prevail.  They will, of course, still [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) their enemies when they want to prove a point.
 
-### Telepath (Normal 3, Angel, Wind)
+### Telepath (Normal 3, Angel, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
 
 **Statistics**
 
@@ -173,7 +173,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Read Mind|Ranged|1 AP, 2 MP|Works the same as the [Artificer's](../../Characters/Archetypes/Artificer) Scan ability.|
-|Mindspike|Ranged|1 AP, 5 MP|Makes a magical light attack against a single enemy.|
+|Mindspike|Ranged|1 AP, 5 MP|Makes a magical [light](../../Combat-Rules/Elemental-Types#term-light) attack against a single enemy.|
 |Corrupt Mind|Ranged|1 AP, 10 MP|Debuffs an enemy's Magical Attack by 3 steps on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Mindwipe|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single [character](../../Extras/Key-Terms#term-character).|
 
