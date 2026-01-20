@@ -6,7 +6,7 @@ New Villains created by the GM begin with 5 Anima.  There are four circumstances
 *  For each Anima the [players](../../Extras/Key-Terms#term-player) spend in order to thwart the Villain's Ambition, the Villain will earn 1 Anima.  This includes Anima they spend to succeed in Skill Challenges.
 *  Every time the players advance the Villain's Ambition of their own free will, knowingly or otherwise, the Villain will earn 1 Anima.
 *  Every time the Villain achieves their Ambition, they earn 5 Anima.
-*  Every time a player character uses Anima during combat against a Villain, the Villain earns the same amount of Anima the player character spent.
+*  Every time a player character uses Anima during [combat](../../Combat-Rules/) against a Villain, the Villain earns the same amount of Anima the player character spent.
 
 Villains can spend Anima to subvert players for the sake of their Ambition by taking the following [actions](../../Extras/Key-Terms#term-action):
 *  Interrupt.  A Villain may spend 1 Anima during combat to take one additional action during, before, or after another [character's](../../Extras/Key-Terms#term-character) turn.  This action does not cost them any AP.
