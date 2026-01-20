@@ -23,7 +23,7 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |:-|:-|:-|:-|
 |Punch|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Dragon Kick|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 10 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack against every enemy in the front row that deals physical fire damage on a hit.|
-|Gang Up|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Goon's Physical Attack is buffed by one level on the Bonus Tracker for every one of the Goon's allies more than enemies the Goon has remaining.|
+|Gang Up|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Goon's Physical Attack is [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one level on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) for every one of the Goon's allies more than enemies the Goon has remaining.|
 
 **Item Table**
 
