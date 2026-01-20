@@ -30,7 +30,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the Petrify status effect, the Webmaster deals magical [earth](../../Combat-Rules/Elemental-Types#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to make an attack roll.|
 |Antimagic Field|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|Variable|The Webmaster can use the [Sage's](../../Characters/Archetypes/Sage) Counterspell ability.|
 |Eggs|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Webmaster begins the [battle](../../Extras/Key-Terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
-|Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 HP and no defenses.  If the Egg is still present during the next effect phase, it hatches into a Spiderling enemy that joins the Initative order during the next combat round.|
+|Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 HP and no defenses.  If the Egg is still present during the next effect phase, it hatches into a Spiderling enemy that joins the Initative order during the next [combat round](../../Combat-Rules/The-Combat-Round).|
 |Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to Move instead of 1.  The Ranger's Forest Walk counteracts this effect.|
 
 ### Form 2: Tarantula (Monster 2, Animal, Earth)
