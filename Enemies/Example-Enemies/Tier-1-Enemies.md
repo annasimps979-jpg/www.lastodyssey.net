@@ -5,7 +5,7 @@ The police are deployed against protestors, activists, criminals, and anyone els
 
 In combat, police will swap between rounds where they use their [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict status effects, use [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and debuffs, and generally look menacing.
 
-### Cop (Normal 1, Human, Colorless)
+### Cop (Normal 1, Human, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
 
 **Statistics**
 
@@ -33,7 +33,7 @@ In combat, police will swap between rounds where they use their [debuffs](../../
 |2|Mundane Colorless Physical Damage| 
 |3|10 cr|
 
-### Hover Drone (Normal 1, Construct, Water)
+### Hover Drone (Normal 1, Construct, [Water](../../Combat-Rules/Elemental-Types#term-water))
 
 **Stastistics**
 
@@ -61,7 +61,7 @@ In combat, police will swap between rounds where they use their [debuffs](../../
 |2|Mundane Inflict Burn|
 |3|10 cr|
 
-### Spider Drone (Normal 1, Construct, Thunder)
+### Spider Drone (Normal 1, Construct, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -85,7 +85,7 @@ In combat, police will swap between rounds where they use their [debuffs](../../
 |2|Mundane Scan|
 |3|10 cr|
 
-### Lieutenant (Elite 1, Human, Ice)
+### Lieutenant (Elite 1, Human, [Ice](../../Combat-Rules/Elemental-Types#term-ice))
 
 **Statistics**
 
@@ -145,7 +145,7 @@ Goblins are sentient woodland creatures that have their own language and culture
 
 In combat, goblins are both bullies and cowards.  They will gang up on the weakest [party](../../Extras/Key-Terms#term-party) member they can attack, and will retreat to the back row as soon as they lose their shields.  They are also wicked cunning, and smart enough to exploit magical and physical vulnerabilities (although they do not know the elements of their enemies off the bat).
 
-### Skirmisher (Normal 1, Fairy, Wood)
+### Skirmisher (Normal 1, Fairy, [Wood](../../Combat-Rules/Elemental-Types#term-wood))
 
 **Statistics**
 
@@ -173,7 +173,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |2|Mundane Inflict Toxin|
 |3|10 cr|
 
-### Arsonist (Normal 1, Fairy, Fire)
+### Arsonist (Normal 1, Fairy, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
 
 **Statistics**
 
@@ -201,7 +201,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |2|Mundane Inflict Burn|
 |3|10 cr|
 
-### Prankster (Normal 1, Fairy, Shadow)
+### Prankster (Normal 1, Fairy, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
 
 **Statistics**
 
@@ -230,7 +230,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |2|Mundane Inflict Confusion|
 |3|10 cr|
 
-### Boar Rider (Elite 1, Fairy, Earth)
+### Boar Rider (Elite 1, Fairy, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
 
 **Statistics**
 
