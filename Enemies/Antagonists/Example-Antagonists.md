@@ -195,7 +195,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Soulkill|Ranged|1 AP, 5 MP|The Torture Rack makes a physical attack that, on a hit, deals colorless physical damage to the target's MP instead of its HP or Shell.|
 |Administer Sedative|Ranged|1 AP, 7 MP|The Torture Rack uses a status-inflicting ability that inflicts Paralyze on a hit.|
 |Experiment|Ranged|1 AP, 7 MP|The Torture Rack uses a status-inflicting ability that inflicts a random status effect on a hit.|
-|Deep Cuts|Passive|N/A|If the Torture Rack rolls a 1 when making a physical attack against one of its enemies, it will also inflict 1 random injury.|
+|Deep Cuts|Passive|N/A|If the Torture Rack rolls a 1 when making a physical attack against one of its enemies, it will also inflict 1 random [injury](../../Combat-Rules/Death-and-Injury#term-injury).|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all debuffs.|
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target.|
 |Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](../../Extras/Key-Terms#term-gm) rolls a 1d10.  The target then loses a percentage of their total [Health](../../Characters/Attributes-and-Statistics#term-health) from their combined HP and Shell equal to the result of the roll multiplied by 10.|
