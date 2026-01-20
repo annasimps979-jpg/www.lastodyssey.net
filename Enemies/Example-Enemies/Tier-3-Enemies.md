@@ -154,7 +154,7 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 ## Void Elves
 Tall, enigmatic beings who descended one day from the heavens and now lay claim to the entire Earth.
 
-Void elves are powerful combatants, but are also quite arrogant.  As a result, they will fight with intelligence, but will often disregard their enemies' defenses or buffs, assuming that their raw power is enough to prevail.  They will, of course, still debuff their enemies when they want to prove a point.
+Void elves are powerful combatants, but are also quite arrogant.  As a result, they will fight with intelligence, but will often disregard their enemies' defenses or [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff), assuming that their raw power is enough to prevail.  They will, of course, still [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) their enemies when they want to prove a point.
 
 ### Telepath (Normal 3, Angel, Wind)
 
@@ -174,7 +174,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |:-|:-|:-|:-|
 |Read Mind|Ranged|1 AP, 2 MP|Works the same as the [Artificer's](../../Characters/Archetypes/Artificer) Scan ability.|
 |Mindspike|Ranged|1 AP, 5 MP|Makes a magical light attack against a single enemy.|
-|Corrupt Mind|Ranged|1 AP, 10 MP|Debuffs an enemy's Magical Attack by 3 steps on the Bonus Tracker.|
+|Corrupt Mind|Ranged|1 AP, 10 MP|Debuffs an enemy's Magical Attack by 3 steps on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Mindwipe|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single [character](../../Extras/Key-Terms#term-character).|
 
 **Item Table** 
