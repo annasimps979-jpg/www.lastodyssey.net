@@ -3,7 +3,7 @@
 ## Living Dead
 When necromancers or bioengineers create constructs out of dead bodies, these are the creatures that result.
 
-In combat, the living dead are stupid, aggressive, and totally unconcerned with death.  Insofar as they display cunning, it should purely be to create a sense of dramatic tension and to display animus towards the [player characters](../../Extras/Key-Terms#term-player).
+In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and totally unconcerned with death.  Insofar as they display cunning, it should purely be to create a sense of dramatic tension and to display animus towards the [player characters](../../Extras/Key-Terms#term-player).
 
 ### Zombie (Normal 3, Undead, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
 
