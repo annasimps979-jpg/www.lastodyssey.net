@@ -83,7 +83,7 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 
 The vast majority of merchants will have storefronts where there are potential customers.  Most villages will have a blacksmith, an apothecary, and possibly a ranger, while most towns and all cities will have markets in addition to at least one of each type of merchant.  To add flavor, GMs can create merchant themes that do not follow the typical types outlined above.  Here are some suggestions:
 *  A merchant that specializes in selling a particular type of rare good, such as Summon Creature battle items.
-*  A merchant that specializes in selling all elemental types of a common good, such as a merchant who only sells Magical or Physical Damage items.
+*  A merchant that specializes in selling all [elemental types](../Combat-Rules/Elemental-Types#term-elemental-type) of a common good, such as a merchant who only sells Magical or Physical Damage items.
 *  A merchant whose items all have a particular enhancement, such as Random or All.
 *  A merchant that sells items for unusually low or high prices, up to an order of magnitude above or below the norm.
 *  A merchant that sells items that have unknown effects or effects that the merchant lies about.  This should be done rarely, both to ensure that players are surprised and also to ensure that they don't get too paranoid about the goods they are buying.
