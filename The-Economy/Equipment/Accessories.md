@@ -34,7 +34,7 @@ There are no stacking Quality levels for accessories, but there are three unique
 |Auto Heal|During the Effect Phase of every round, if you are wearing this accessory you automatically heal for 5 HP.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this accessory does nothing.|
 |Grant Edge|At the start of a battle, if you are wearing this accessory, you gain a +1 to your [base](../../Extras/Key-Terms#term-base) [Initiative](../../Characters/Attributes-and-Statistics#term-initiative).  This bonus can stack with any other bonuses to Initiative that you have.|
 |Absorb Magic|If you are attacked by a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) of the specified element while wearing this accessory, you gain an amount of HP equal to the damage you would have taken had the attack hit you.  There are no accessories that will let you absorb colorless damage.  If you are hit by any magical attacks, you take damage as normal.|
-|Reciprocity|Any debuff, status effect, or buff that any character applies to you is also applied by you to them.  This includes statuses such as Taunted, Guarded, Hunted, but does not include the effects of other abilities like Shells.  Any effects you apply to yourself are only applied once.|
+|Reciprocity|Any [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff), status, or [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) that any character applies to you is also applied by you to them.  This includes statuses such as Taunted, Guarded, Hunted, but does not include the effects of other abilities like Shells.  Any effects you apply to yourself are only applied once.|
 
 ## Example Accessories
 
