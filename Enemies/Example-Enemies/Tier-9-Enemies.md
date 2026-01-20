@@ -9,7 +9,7 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |50|35|17|75|3|10|12|8|6|
 
