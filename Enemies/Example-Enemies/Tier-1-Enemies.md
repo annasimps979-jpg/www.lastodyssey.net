@@ -3,7 +3,7 @@
 ## Police
 The police are deployed against protestors, activists, criminals, and anyone else that the government perceives as threatening the established order.
 
-In combat, police will swap between rounds where they debuff and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict status effects, use buffs and debuffs, or just look menacing.
+In combat, police will swap between rounds where they use their [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict status effects, use [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and debuffs, and generally look menacing.
 
 ### Cop (Normal 1, Human, Colorless)
 
@@ -22,7 +22,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Truncheon|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|The Cop makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Crowd Control|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.|
+|Crowd Control|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|The Cop moves a single target's Physical Attack down by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Body Armor|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The first time the Cop is hit by a physical attack, they do not take any damage.|
 
 **Item Table** 
