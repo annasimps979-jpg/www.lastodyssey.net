@@ -15,7 +15,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Copycat|[Special](../Combat-Rules/Attacking-and-Defending#term-special-ability)|10 [MP](../../Characters/Attributes-and-Statistics), 1 AP|You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.|
+|Copycat|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|10 [MP](../../Characters/Attributes-and-Statistics), 1 AP|You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.|
 
 **Rank 2:** You gain +1 Evasion.
 
@@ -23,7 +23,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Dancer's Mask|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Whenever you use an ability that has an [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type), you may obtain the Masked status effect, which means you now count as having [HP](../../Characters/Attributes-and-Statistics) and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
+|Dancer's Mask|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Whenever you use an ability that has an [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type), you may obtain the Masked status effect, which means you now count as having [HP](../../Characters/Attributes-and-Statistics) and [Shell](../../Combat-Rules/Shells) of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
 
 **Rank 4:** You gain +1 Evasion.
 
