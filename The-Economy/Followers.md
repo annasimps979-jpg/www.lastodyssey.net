@@ -6,7 +6,7 @@ The cost of hiring a follower is paid out at the beginning of each path that the
 
 When the GM wants to create a new follower, they should follow along with the step-by-step process below.
 1.  Determine the combat and travel skills the follower has based on their template.  They should not have more than one combat template applied to them at a time.
-2.  Choose an elemental type for the follower's [abilities](../Extras/Key-Terms#term-ability).  In addition, choose which Buff or Debuff their skills apply if they are a Support or Saboteur.  Each follower either counts as colorless or has an innate elemental type, which is the same as the player characters.
+2.  Choose an elemental type for the follower's [abilities](../Extras/Key-Terms#term-ability).  In addition, choose which [buff](../Combat-Rules/Buffs-and-Debuffs#term-buff) or [debuff](../Combat-Rules/Buffs-and-Debuffs#term-debuff) their skills apply if they are a Support or Saboteur.  Each follower either counts as colorless or has an innate elemental type, which is the same as the player characters.
 3.  Choose the follower's equipment.  Combat followers will have a number of battle items, accessories, a set of armor, and a weapon based on their template.
 4.  Fill out the follower's combat [statistics](../Extras/Key-Terms#term-statistic) if they have any combat capabilities.  If not, they will be vulnerable to death at any time due to violence.
 5.  Compute the cost of hiring the follower based on their capabilities.  The total hiring cost per path or day in a dungeon is equal to the sum total of all of the individual costs associated with each of their different capabilities.
