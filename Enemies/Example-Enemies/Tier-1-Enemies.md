@@ -3,7 +3,7 @@
 ## Police
 The police are deployed against protestors, activists, criminals, and anyone else that the government perceives as threatening the established order.
 
-In combat, police will swap between rounds where they use their [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict status effects, use [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and debuffs, and generally look menacing.
+In [combat](../../Combat-Rules/), police will swap between rounds where they use their [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict status effects, use [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and debuffs, and generally look menacing.
 
 ### Cop (Normal 1, Human, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
 
