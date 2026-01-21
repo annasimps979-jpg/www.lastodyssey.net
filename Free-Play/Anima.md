@@ -12,7 +12,7 @@ Player characters are agents of change, and when they pursue change they will al
 
 Players are always allowed to count Aspirations and Relationships as things that are important to their character for the sake of earning Anima.  If something is important to their character but is not a listed Aspiration or Relationship, then whether they can earn Anima by putting it at risk or by putting something at risk for the sake of it is a matter of [GM](../Extras/Key-Terms#term-gm) [fiat](../Extras/Key-Terms#term-fiat).  Here are some possibilities for what might count as important to a character:
 *  Reputation with a faction, settlement, or important person.
-*  Wealth, power, prestige, or status, so long as it goes beyond their immediate personal possessions.
+*  Wealth, power, prestige, or social standing, so long as it goes beyond their immediate personal possessions.
 *  Important attributes that don't have to do with adventuring, such as a beautiful face or noble bearing.
 
 ## Using Anima
