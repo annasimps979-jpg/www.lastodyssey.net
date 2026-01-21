@@ -51,13 +51,13 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |:-|:-|:-|:-|
 |Sharp Thingy|Melee|1 AP|Makes a basic physical attack.|
 |Boom|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 9 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
-|Tripwire|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to move will automatically gain the Petrified status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Characters/Attributes-and-Statistics#term-downed), the Tripwire leaves.|
+|Tripwire|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to move will automatically gain the [Petrified](../../Combat-Rules/Statuses#term-petrified) status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Characters/Attributes-and-Statistics#term-downed), the Tripwire leaves.|
 
 **Item Table**
 
 |Result|Item|
 |:-|:-|
-|1|Rare Inflict Petrify|
+|1|Rare Inflict Petrified|
 |2|Use Elemental Burst (Earth)|
 |3|500 cr|
 
@@ -136,8 +136,8 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Whip|Melee|1 AP|Makes a basic physical attack.|
-|Repression|Multi|1 AP, 18 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Bleak Lord's enemies that inflicts Silenced on a hit.|
-|Cleansing Darkness|Multi|1 AP, 18 MP|Removes all status effects and debuffs from the Bleak Lord and all of their allies.|
+|Repression|Multi|1 AP, 18 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Bleak Lord's enemies that inflicts [Silenced](../../Combat-Rules/Statuses#term-silenced) on a hit.|
+|Cleansing Darkness|Multi|1 AP, 18 MP|Removes all statuses and debuffs from the Bleak Lord and all of their allies.|
 |Compel|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, allows the Bleak Lord to give one of their AP to the target and force them to use any action they wish.|
 |Master of the Violent and Cruel|Passive|N/A|All of the Bleak Lord's allies take double damage and do double damage from all sources.|
 
@@ -145,7 +145,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 
 |Result|Item|
 |:-|:-|
-|1|Rare Inflict Silence (Multi)|
+|1|Rare Inflict Silenced (Multi)|
 |2|Orders|
 |3|1000 cr|
 
@@ -171,7 +171,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Nibble|Melee|1 AP|Makes a basic physical attack.|
-|Cigar Toss|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, inflicts the Burned status on a single target.|
+|Cigar Toss|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, inflicts the Burned [status](../../Combat-Rules/Statuses) on a single target.|
 |Hat Trick|Ranged|1 AP, 10 MP|The Imp makes a magical attack against a single opponent that allows them to steal an item from the [party](../../Extras/Key-Terms#term-party) inventory.  They may then use this item with the Use Item action.|
 
 **Item Table** 
@@ -258,7 +258,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |Test Subject|Ranged|1 AP|The Torturer inflicts the Test Subject status on a single target.  This status can be healed, and only one character can be a Test Subject at a time.  The Torturer's Test Subject receives +1 total damage from all sources.|
 |Wheel of Knives|Special|1 AP, 8 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes physical damage of the resulting [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
 |Wheel of Pain|Special|1 AP, 5 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's magical attacks.|
-|Wheel of Misfortune|Special|1 AP, 7 MP|The Torturer's Test subject receives a random extra status effect that cannot be resisted, not even by immunity.  Roll a 1d10 and consult the Torturer's Elemental Table to see which status effect they receive.  Colorless corresponds to the subject not receiving any damage.|
+|Wheel of Misfortune|Special|1 AP, 7 MP|The Torturer's Test subject receives a random extra status that cannot be resisted, not even by immunity.  Roll a 1d10 and consult the Torturer's Elemental Table to see which status they receive.  Colorless corresponds to the subject not receiving any damage.|
 
 **Item Table**
 
