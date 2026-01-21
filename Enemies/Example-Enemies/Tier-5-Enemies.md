@@ -78,7 +78,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Tail|Melee|1 AP|Makes a basic physical attack.|
-|Acid Spit|Ranged|1 AP, 5 MP|Makes a magical attack that does magical [wood](../../Combat-Rules/Elemental-Types#term-wood) damage and inflicts the Poisoned status effect on a hit.|
+|Acid Spit|Ranged|1 AP, 5 MP|Makes a magical attack that does magical [wood](../../Combat-Rules/Elemental-Types#term-wood) damage and inflicts the [Poisoned](../../Combat-Rules/Statuses#term-poisoned) [status](../../Combat-Rules/Statuses) on a hit.|
 |Amniotic Tank|Passive|N/A|When the Spitter is infected with Poisoned, they do not take damage resulting from it but instead are healed for 2 HP during the Effect Phase of every round.|
 
 **Item Table** 
@@ -135,7 +135,7 @@ Test subjects without their masters are very much insane.  They will not use any
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Penetrating Stare|Ranged|1 AP, 7 MP|On a hit, inflicts the Paralyzed status on a single target.|
+|Penetrating Stare|Ranged|1 AP, 7 MP|On a hit, inflicts the [Paralyzed](../../Combat-Rules/Statuses#term-paralyzed) status on a single target.|
 |Enlightenment|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 18 MP|[Buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) a single target's Magical Attack by three steps on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Psychic Scream|Multi|1 AP, 13 MP|Makes a magical attack against all enemies on the field that, when it hits, deals colorless magical damage.|
 |Dream Eater|Ranged|1 AP, 5 MP|Makes a colorless magical attack against a single opponent.  On a hit, restores an amount of MP to the Precog equal to the damage they dealt to their target.|
@@ -258,7 +258,7 @@ Royal Militia are organized, disciplined, and utterly devoted to their task.  Th
 |Falcon Dive|Ranged|1 AP, 8 MP|Makes a physical attack against a single target that does physical thunder damage on a hit.|
 |Cloudsplitter|Multi|1 AP, 10 MP|Makes a melee physical attack against every enemy in the [front row](../../Combat-Rules/Starting-Battles#term-front-row) that does physical thunder damage on a hit.|
 |Challenge|Ranged|1 AP|Applies the Taunted status to a single one of the Paladin's enemies.|
-|Terrifying Combatant|Passive|The Paladin cannot be Slowed or Taunted, and will ignore the Guarded status effect if applied to any allies.|
+|Terrifying Combatant|Passive|The Paladin cannot be Slowed or Taunted, and will ignore the Guarded status if applied to any allies.|
 
 **Item Table** 
 
@@ -285,7 +285,7 @@ Royal Militia are organized, disciplined, and utterly devoted to their task.  Th
 |Normal|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
-|Evil Stare|Multi|1 AP, 18 MP|Attempts to inflict the Petrified status on every enemy on the battlefield.|
+|Evil Stare|Multi|1 AP, 18 MP|Attempts to inflict the [Petrified](../../Combat-Rules/Statuses#term-petrified) status on every enemy on the battlefield.|
 |Thunderstorm|Multi|1 AP, 13 MP|Makes a magical attack against every enemy on the battlefield that deals magical thunder damage on a hit.|
 |Windstorm|Multi|1 AP, 10 MP|Makes a physical attack against every enemy on the battlefield that moves them to the [back row](../../Combat-Rules/Starting-Battles#term-back-row) on a hit.  If they are already in the back row or have the Shielded status, this attack does nothing.|
 |Tough Skin|Passive|N/A|If the Wyvern is hit with an attack that deals less than 5 total damage after modifiers are applied, it takes 0 damage instead.|
