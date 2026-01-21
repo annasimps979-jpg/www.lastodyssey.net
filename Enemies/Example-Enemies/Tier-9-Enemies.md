@@ -79,7 +79,7 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
 |Cloaking Field|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 10 MP|This ability inflicts the Cloaked status on the Infiltrator, which works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
-|Implant|Melee|1 AP, 5 MP|Uses a status-inflicting ability that, on a hit, deals physical colorless damage and inflicts the Athena status.  During the next Effect Phase, characters with the Athena status will have their Magical and Status Accuracies [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by three steps on the Bonus Tracker.  A Grub will then spawn in the front row on the Infiltrator's side and the Athena effect will be removed from the character.|
+|Implant|Melee|1 AP, 5 MP|Uses a status-inflicting ability that, on a hit, deals physical colorless damage and inflicts the Athena status.  During the next Effect Phase, characters with the Athena status will have their Magical and Status Accuracies [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by three steps on the Bonus Tracker.  A Grub will then spawn in the [front row](../../Combat-Rules/Starting-Battles#term-front-row) on the Infiltrator's side and the Athena effect will be removed from the character.|
 
 **Item Table** 
 
