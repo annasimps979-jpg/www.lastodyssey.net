@@ -3,7 +3,7 @@
 ## Police
 The police are deployed against protestors, activists, criminals, and anyone else that the government perceives as threatening the established order.
 
-In [combat](../../Combat-Rules/), police will swap between rounds where they use their [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict status effects, use [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and debuffs, and generally look menacing.
+In [combat](../../Combat-Rules/), police will swap between rounds where they use their [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict [statuses](../../Combat-Rules/Statuses), use [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and debuffs, and generally look menacing.
 
 ### Cop (Normal 1, Human, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
 
@@ -50,7 +50,7 @@ In [combat](../../Combat-Rules/), police will swap between rounds where they use
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Rubber Bullets|Melee|1 AP|Makes a basic physical attack|
-|Tear Gas|Ranged|7 MP, 1 AP|Inflicts the Burn status on a single target with a successful [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).|
+|Tear Gas|Ranged|7 MP, 1 AP|Inflicts the [Burned](../../Combat-Rules/Statuses#term-burned) status on a single target with a successful [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).|
 |Injection|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 MP, 1 AP|Restores 4 HP to a single ally.|
 
 **Item Table** 
@@ -58,7 +58,7 @@ In [combat](../../Combat-Rules/), police will swap between rounds where they use
 |Result|Item|
 |:-|:-|
 |1|Mundane Restore Health|
-|2|Mundane Inflict Burn|
+|2|Mundane Inflict Burned|
 |3|10 cr|
 
 ### Spider Drone (Normal 1, Construct, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
@@ -190,7 +190,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Firebomb|Ranged|1 AP, 5 MP|Makes a fire [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target.|
-|Tinder|Melee|1 AP, 4 MP|Inflicts Burn on a single target with a successful status-inflicting ability roll.|
+|Tinder|Melee|1 AP, 4 MP|Inflicts Burned on a single target with a successful status-inflicting ability roll.|
 |Detonate|All|2 AP|Kills the Arsonist and makes a fire magical attack against every enemy on the battlefield.|
 
 **Item Table** 
@@ -198,7 +198,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |Result|Item|
 |:-|:-|
 |1|Mundane Magical Damage (Fire)|
-|2|Mundane Inflict Burn|
+|2|Mundane Inflict Burned|
 |3|10 cr|
 
 ### Prankster (Normal 1, Fairy, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
@@ -218,7 +218,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Steal|Melee|1 AP|Makes a physical attack roll that, if successful, takes a battle item of the [GM's](../../Extras/Key-Terms#term-gm) choice from the party inventory.  The Prankster may then use it immediately for free.|
-|Practical Joke|Ranged|1 AP, 7 MP|Makes a status-inflicting roll that, on a hit, inflicts the Confused status effect on an enemy.|
+|Practical Joke|Ranged|1 AP, 7 MP|Makes a status-inflicting roll that, on a hit, inflicts the [Confused](../../Combat-Rules/Statuses#term-confused) status on an enemy.|
 |Sand in the Eyes|Ranged|1 AP, 3 MP|Debuffs the Physical Accuracy of a single enemy.|
 |Quick Fingers|Passive|N/A|If an enemy misses the Prankster with a Melee ability, they may immediately use Steal on them without spending any AP.|
 
@@ -278,9 +278,9 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |:-|:-|:-|:-|
 |Ghost Hand|Ranged|1 AP, 3 MP|Makes a shadow magical attack against one [character](../../Extras/Key-Terms#term-character).|
 |Medicine|Ally|1 AP, 5 MP|Heals the target for 7 HP.|
-|Ritual Circle|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|2 AP|Gives every ally excluding the Shaman the Sacrifice status effect.  Once the Ritual Circle is established, the Shaman can spend an additional AP to make one of its enemies part of it as well.|
+|Ritual Circle|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|2 AP|Gives every ally excluding the Shaman the Sacrifice status.  Once the Ritual Circle is established, the Shaman can spend an additional AP to make one of its enemies part of it as well.|
 |Blood Sacrifice|Ally|1 AP|The Shaman immediately kills an ally that has Sacrifice inflicted on it to restore its MP back to full.|
-|Ghost Talk|Passive|N/A|When one of the Shaman's enemies has the Sacrifice status effect and dies, the Shaman heals its MP back to full.|
+|Ghost Talk|Passive|N/A|When one of the Shaman's enemies has the Sacrifice status and dies, the Shaman heals its MP back to full.|
 
 **Item Table** 
 
