@@ -1,6 +1,6 @@
 # Saboteur
 
-The Saboteur specializes in applying [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and negative statuses.
+The Saboteur specializes in applying [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and negative [statuses](../../Combat-Rules/Statuses).
 
 While they are Saboteurs, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 *  Their [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) is increased by an amount equal to their [Body](../../Characters/Attributes-and-Statistics#term-body).
