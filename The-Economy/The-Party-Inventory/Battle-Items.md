@@ -43,7 +43,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Enhancement|Description|
 |:-|:-|
 |All|This item affects all characters on the battlefield.  Multiplies base cost by 2.|
-|Row|This item affects all characters on a single row.  When you use the item, you can choose which row it affects.  Multiplies base cost by 5.|
+|Row|This item affects all characters on a single [row](../../Combat-Rules/Starting-Battles#term-row).  When you use the item, you can choose which row it affects.  Multiplies base cost by 5.|
 |Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target enemies will affect all enemies.  Multiplies base cost by 10.|
 |Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item added together, multiplied by 5.|
 |Delay|When you use this item, it does not trigger immediately.  Instead, its effect happens during the Effect Phase of the round.  Multiplies cost by 0.75, rounded down.|
