@@ -78,7 +78,7 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
-|Cloaking Field|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 10 MP|This ability inflicts the Cloaked status on the Infiltrator, which works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
+|Cloaking Field|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 10 MP|This ability inflicts the Cloaked [status](../../Combat-Rules/Statuses) on the Infiltrator, which works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
 |Implant|Melee|1 AP, 5 MP|Uses a status-inflicting ability that, on a hit, deals physical colorless damage and inflicts the Athena status.  During the next Effect Phase, characters with the Athena status will have their Magical and Status Accuracies [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by three steps on the Bonus Tracker.  A Grub will then spawn in the [front row](../../Combat-Rules/Starting-Battles#term-front-row) on the Infiltrator's side and the Athena effect will be removed from the character.|
 
 **Item Table** 
@@ -115,7 +115,7 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 
 |Result|Item|
 |:-|:-|
-|1|Expert Inflict Fatigue (Multi)|
+|1|Expert Inflict Fatigued (Multi)|
 |2|Expert Debuff Physical Accuracy|
 |3|5000 cr|
 
@@ -137,7 +137,7 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 |:-|:-|:-|:-|
 |Mindstab|Ranged|1 AP, 10 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit and also reduces the target's Magical Attack by one step on the Bonus Tracker.|
 |Dream Eater|Ranged|1 AP, 5 MP|Makes a magical attack against a single target that, on a hit, deals magical colorless damage to their MP instead of their HP or Shell, with all multipliers calculated as normal.  The Illithid then regains an amount of MP equal to the damage the target took to their MP.|
-|Mass Delusion|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Illithid's enemies that inflicts the Confused status on a hit.|
+|Mass Delusion|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Illithid's enemies that inflicts the [Confused](../../Combat-Rules/Statuses#term-confused) status on a hit.|
 |Puppeteer|Ranged|1 AP, 10 MP|Uses a status-inflicting ability on a single target that, on a hit, allows them to force that enemy to take 2 actions of the [GM's](../../Extras/Key-Terms#term-gm) choice.|
 |Brain Eater|Melee|1 AP, 3 MP|The Illithid makes a physical attack that, on a hit, deals physical colorless damage.  The Illithid then immediately regains an amount of HP equal to the damage it dealt with this attack.|
 
@@ -171,7 +171,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Laser|Melee|1 AP|Makes a basic physical attack.|
-|Database|Multi|1 AP, 10 MP|Uses the [Artificer's](../../Characters/Archetypes/Artificer) Multiscan on all of the Eye's enemies.  The next magical attack, status effect, or physical attack dealt to them ignores any of their resistances or immunities to damage or status effects, but not their weaknesses.|
+|Database|Multi|1 AP, 10 MP|Uses the [Artificer's](../../Characters/Archetypes/Artificer) Multiscan on all of the Eye's enemies.  The next magical attack, status, or physical attack dealt to them ignores any of their resistances or immunities to damage or statuses, but not their weaknesses.|
 |Orbital Strike|Multi|1 AP, 15 MP|Makes a magical attack against all of the Eye's enemies that deals magical metal damage on a hit.|
 
 **Item Table** 
@@ -228,7 +228,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |:-|:-|:-|:-|
 |Mech-Arm|Melee|1 AP|Makes a basic physical attack.|
 |Jury-Rig|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 11 MP|The Engineer can transfer up to a total HP, Shell, and MP from one of their allies to another equal to its Magical Attack, so long as they are Construct type [characters](../../Extras/Key-Terms#term-character).|
-|Repairs|Multi|1 AP, 18 MP|Removes all of the status effects and debuffs from the Engineer and all of their allies.|
+|Repairs|Multi|1 AP, 18 MP|Removes all of the statuses and debuffs from the Engineer and all of their allies.|
 
 **Item Table** 
 
@@ -287,7 +287,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |Pistol|Melee|1 AP|Makes a basic physical attack.|
 |Tune Optics|Ally|1 AP, 16 MP|Buffs the Physical Accuracy of a single ally or the Officer by three steps on the Bonus Tracker.|
 |Overclock|Ally|1 AP, 12 MP|Inflicts the Hasted status on a single ally of the Overseer's or on the Overseer.  This works just like the Support's Haste ability.|
-|Airlock|Multi|1 AP, 18 MP|Removes all status effects and debuffs from all of the Overseer's allies and the Overseer themselves.|
+|Airlock|Multi|1 AP, 18 MP|Removes all statuses and debuffs from all of the Overseer's allies and the Overseer themselves.|
 |Finish Off|Special|1 AP|Makes a magical attack against a single target with 10 HP or less.  If the attack hits, the target is reduced to 0 HP.|
 
 **Item Table** 
