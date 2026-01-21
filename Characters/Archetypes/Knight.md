@@ -15,7 +15,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Focus|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|Apply the Focused status effect to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status effect goes away.|
+|Focus|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|Apply the Focused [status](../../Combat-Rules/Statuses) to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status goes away.|
 
 **Rank 2:** You gain +1 Physical Defense.
 
@@ -31,7 +31,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Disciplined Focus|Passive|N/A|While you are Focused, you may spend 2 AP to take the Calm action, which removes the Focused status effect from you.|
+|Disciplined Focus|Passive|N/A|While you are Focused, you may spend 2 AP to take the Calm action, which removes the Focused status from you.|
 
 **Rank 6:** You gain +1 Physical Defense.
 
@@ -39,7 +39,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Enrage|Passive|N/A|Once per round, if you miss an attack while Focused, you may choose to reset your bonus damage back to 2 instead of losing the Focused status effect.|
+|Enrage|Passive|N/A|Once per round, if you miss an attack while Focused, you may choose to reset your bonus damage back to 2 instead of losing the Focused status.|
 
 **Rank 8:** You gain +1 Physical Defense.
 
@@ -53,9 +53,9 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Melee.  While you are Focused, you may use [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) in addition to your basic attack.  Hitting an enemy with a physical attack increases your bonus damage by 1, while missing an enemy with a physical attack removes the Focused status effect.
+**[Striker](../../Characters/Jobs/Striker):** Melee.  While you are Focused, you may use [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) in addition to your basic attack.  Hitting an enemy with a physical attack increases your bonus damage by 1, while missing an enemy with a physical attack removes the Focused status.
 
-**[Caster](../../Characters/Jobs/Caster):** Artillery.  While you are Focused, you may use [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) in addition to your basic attack.  Hitting an enemy with a magical attack increases your bonus damage by 1, while missing an enemy with a magical attack removes the Focused status effect.
+**[Caster](../../Characters/Jobs/Caster):** Artillery.  While you are Focused, you may use [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) in addition to your basic attack.  Hitting an enemy with a magical attack increases your bonus damage by 1, while missing an enemy with a magical attack removes the Focused status.
 
 **[Healer](../../Characters/Jobs/Healer):** Medic.  While you are Focused, you may use your healing abilities.  The damage bonus to your attacks allows you to heal your allies for more [HP](../../Characters/Attributes-and-Statistics#term-hp) equal to your damage bonus with abilities that heal their HP.
 
@@ -63,4 +63,4 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 **Support:** Relentless.  While you are Focused, you gain 1 [Shell](../Combat-Rules/Shells) of your [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) every time you hit an enemy with a physical or magical attack.  If you have a Shell of a different elemental type active, you gain 1 Shell of that elemental type instead.
 
-**Saboteur:** Spy.  While you are Focused, you may use [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) in addition to your basic attack.  Hitting an enemy with a status-inflicting ability increases your bonus damage by 1, while missing an enemy with a status-inflicting ability removes the Focused status effect.
+**Saboteur:** Spy.  While you are Focused, you may use [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) in addition to your basic attack.  Hitting an enemy with a status-inflicting ability increases your bonus damage by 1, while missing an enemy with a status-inflicting ability removes the Focused status.
