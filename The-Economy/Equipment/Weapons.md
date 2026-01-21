@@ -67,7 +67,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 
 |Name|Description|
 |:-|:-|
-|Cursed|When you hit an enemy with this weapon's basic attack, you also inflict the status specified by this upgrade.|
+|Cursed|When you hit an enemy with this weapon's basic attack, you also inflict the [status](../../Combat-Rules/Statuses) specified by this upgrade.|
 |Blunt|This weapon's basic attack is replaced with an ability that makes a Melee physical attack against an enemy.  On a hit, this attack does not do damage, but instead reduces the AP that the enemy can use during its next turn by one.  You can hit an enemy with this attack multiple times per turn, but you cannot reduce its AP below zero.|
 |Ambushing|At the beginning of a [battle](../../Extras/Key-Terms#term-battle), you may make a free basic attack against any target within range of this weapon's basic attack before the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order) is determined.  If your [party](../../Extras/Key-Terms#term-party) has [First Strike](../../Combat-Rules/Starting-Battles#term-first-strike), you can make this attack for free during your First Strike turn in addition to any other [actions](../../Extras/Key-Terms#term-action).|
 |Standard Issue|Weapons with this upgrade can be wielded by any character, regardless of whether or not that character is proficient in using weapons of its type.|
@@ -96,7 +96,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 |Masterwork|This weapon is of unusual quality, even for an Expert weapon.  Physical weapons with this upgrade give a +10 to Physical Attack and a +8 to Magical Attack, Balanced weapons give a +9 to Physical Attack and a +9 to Magical Attack, and Magical weapons give a +8 to Physical Attack and a +10 to Magical Attack.|
 |Explosive|When you hit an enemy with this weapon's basic attack, every other enemy also takes damage as though you had hit them with a basic attack as well.|
 |Holy|When you roll a 1 while making a basic attack with this weapon, you do not calculate damage as usual.  Instead, you automatically deal 99 damage to the target that cannot be reflected, negated, guarded against, absorbed, or otherwise modified, including by normal damage modifiers.  If an enemy's [Shell](../../Combat-Rules/Shells) is broken in this manner, all rules for [Shellbreaking](../../Combat-Rules/Shells#term-shellbroken) still apply.|
-|Corrupted|Every ability that the wielder uses that has an elemental type, status effects included, counts as having the Shadow type.  Whenever you kill an enemy with this weapon, it gains a fixed +1 base damage bonus to all damage done while wielding the weapon that stacks with each kill.  After you hit +99, something happens.|
+|Corrupted|Every ability that the wielder uses that has an elemental type, statuses included, counts as having the Shadow type.  Whenever you kill an enemy with this weapon, it gains a fixed +1 base damage bonus to all damage done while wielding the weapon that stacks with each kill.  After you hit +99, something happens.|
 
 ## Example Weapons
 
