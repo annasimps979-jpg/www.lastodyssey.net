@@ -79,7 +79,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 |:-|:-|:-|:-|
 |Drain Mana|Melee|1 AP|Makes a basic physical attack that damages MP instead of HP and heals the Ghost's MP by half the damage it deals on a hit.|
 |Bonechill|Ranged|1 AP, 5 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that does magical ice damage on a hit.|
-|Cold Fingers|Ranged|1 AP, 7 MP|On a hit, inflicts Frostbite on a single target.|
+|Cold Fingers|Ranged|1 AP, 7 MP|On a hit, inflicts [Frostbitten](../../Combat-Rules/Statuses#term-frostbitten) on a single target.|
 |Nostalgia|Ranged|1 AP, 12 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Slowed on a single target.|
 |Immaterial|Passive|N/A|During the Effect Phase, the Ghost will become Immaterial, which is the equivalent of Hidden.  At the beginning of their turn, this effect disappears.|
 
@@ -88,7 +88,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 |Result|Item|
 |:-|:-|
 |1|Mundane Restore MP|
-|2|Mundane Inflict Frostbite|
+|2|Mundane Inflict Frostbitten|
 |3|10 cr|
 
 ### Statue (Elite 3, Undead, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
@@ -110,8 +110,8 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 |Slash|Melee|1 AP|Makes a basic physical attack.|
 |Hedgetrimmer|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|Makes a basic physical attack against every enemy in the [front row](../../Combat-Rules/Starting-Battles#term-front-row).  May only be used from the front row.|
 |Shield|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 7 MP|The next time the Statue is hit by a physical attack, the damage is negated.|
-|Frontline|Self|1 AP, 10 MP|Inflicts the Guarded status on all of the Statue's allies until the beginning of its next turn.|
-|Living Construct|Passive|N/A|The Statue is immune to all negative status effects.|
+|Frontline|Self|1 AP, 10 MP|Inflicts the Guarded [status](../../Combat-Rules/Statuses) on all of the Statue's allies until the beginning of its next turn.|
+|Living Construct|Passive|N/A|The Statue is immune to all negative statuses.|
 
 **Item Table** 
 
@@ -203,9 +203,9 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |:-|:-|:-|:-|
 |Heal Body|Ally|1 AP, 11 MP|Heals a single target by twice the Empath's Magical Attack.|
 |Mindshield|Self|1 AP, 7 MP|Negates the damage of the next magical attack that hits the Empath.|
-|Clean Slate|Ally|1 AP, 11 MP|Removes all status effects from a single target.|
+|Clean Slate|Ally|1 AP, 11 MP|Removes all statuses from a single target.|
 |Premonition|Multi|1 AP, 10 MP|Buffs the Evasion of the Empath and all of its allies by one step on the Bonus Tracker.|
-|Pain Resonance|Passive|N/A|The Empath starts [battle](../../Extras/Key-Terms#term-battle) with the Resonant status effect.  While an Empath is Resonant, whenever the Empath receives damage, every other character on the field must resist a status-inflicting roll against the Empath or receive the same amount of damage.|
+|Pain Resonance|Passive|N/A|The Empath starts [battle](../../Extras/Key-Terms#term-battle) with the Resonant status.  While an Empath is Resonant, whenever the Empath receives damage, every other character on the field must resist a status-inflicting roll against the Empath or receive the same amount of damage.|
 
 **Item Table** 
 
@@ -234,7 +234,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Staff|Melee|1 AP|Makes a basic physical attack.|
 |Mindhammer|Ranged|1 AP, 3 MP|Makes a magical attack that does magical colorless damage on a hit.|
 |Fling Object|Ranged|1 AP, 5 MP|Works the same as the Striker's Leaping Strike ability.|
-|Mass Anchor|Ranged|1 AP, 7 MP|Attempts to inflict Fatigue on a single enemy.|
+|Mass Anchor|Ranged|1 AP, 7 MP|Attempts to inflict [Fatigued](../../Combat-Rules/Statuses#term-fatigued) on a single enemy using a status-inflicting ability.|
 |Push/Pull|Ranged|1 AP, 5 MP|Makes a status-inflicting ability roll.  On a hit, the Telekinetic can force a single enemy to use the Move [action](../../Extras/Key-Terms#term-action) at no AP cost, unless said enemy is immune to effects that move them.|
 
 **Item Table** 
@@ -242,7 +242,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Result|Item|
 |:-|:-|
 |1|Mundane Magical Colorless Damage|
-|2|Mundane Inflict Fatigue|
+|2|Mundane Inflict Fatigued|
 |3|10 cr|
 
 ### Lord (Elite 3, Angel, Light)
