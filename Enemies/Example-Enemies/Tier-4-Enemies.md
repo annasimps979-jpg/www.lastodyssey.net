@@ -50,7 +50,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hairpin|Melee|1 AP|Makes a basic physical attack.|
-|Veil|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 9 MP|Confers the Protected status on a single ally or on the Dancer.  The element that that ally is Protected from is the same as the Dancer's current [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).|
+|Veil|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 9 MP|Confers the Protected [status](../../Combat-Rules/Statuses) on a single ally or on the Dancer.  The element that that ally is Protected from is the same as the Dancer's current [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).|
 |Copycat|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 10 MP|Uses one of the abilities that the Dancer's enemies used after the end of its last turn.|
 
 **Item Table** 
