@@ -50,7 +50,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Club|Melee|1 AP|Makes a basic physical attack.|
-|Entangle|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 7 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Petrified on a hit.|
+|Entangle|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 7 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts [Petrified](../../Combat-Rules/Statuses#term-petrified) on a hit.|
 |Photosynthesis|Passive|N/A|If the Dryad receives [water](../../Combat-Rules/Elemental-Types#term-water) damage, they will receive the damage as healed HP.  If the Dryad receives [Light](../../Combat-Rules/Elemental-Types#term-light) damage, they will receive the damage as healed MP.|
 
 **Item Table** 
@@ -106,7 +106,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|Melee|1 AP|Makes a basic physical attack.|
-|Tough Bark|Self|1 AP, 7 MP|Inflicts the Guarded status on the Ent until the beginning of its next turn or until after the next time it is hit with a physical attack.|
+|Tough Bark|Self|1 AP, 7 MP|Inflicts the Guarded [status](../../Combat-Rules/Statuses) on the Ent until the beginning of its next turn or until after the next time it is hit with a physical attack.|
 |Regenerate|Self|1 AP, 11 MP|Heals the Ent for an amount of HP equal to twice its Magical Attack.|
 |Photosynthesis|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|If the Ent receives water damage, they will receive the damage as healed HP.  If the Ent receives Light damage, they will receive the damage as healed MP.|
 |Forest Fire|Passive|N/A|If the Ent takes [fire](../../Combat-Rules/Elemental-Types#term-fire) damage from any source, it will not be able to use Regenerate until after its next turn.|
@@ -139,13 +139,13 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Taunt|Ranged|1 AP|Works the same way as the Defender's Taunt.|
 |Counterspell|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|Variable|Works the same way as a Sage's Counterspell.|
 |Sparkles|Self|2 AP|Restores 10 MP to the Pixie.|
-|Revenge Hex|Passive|N/A|When the Pixie is [downed](../../Characters/Attributes-and-Statistics#term-downed), the character responsible must roll to resist Silence versus the Pixie's Status Accuracy.|
+|Revenge Hex|Passive|N/A|When the Pixie is [downed](../../Characters/Attributes-and-Statistics#term-downed), the character responsible must roll to resist [Silenced](../../Combat-Rules/Statuses#term-silenced) versus the Pixie's Status Accuracy.|
 
 **Item Table** 
 
 |Result|Item|
 |:-|:-|
-|1|Cure Silence|
+|1|Cure Silenced|
 |2|Mundane Buff Evasion|
 |3|50 cr|
 
@@ -256,8 +256,8 @@ In combat, dwarves are highly coordinated opponents, with each one focusing on t
 |:-|:-|:-|:-|
 |Dagger|Melee|1 AP|Makes a basic physical attack.|
 |Hip Blade|Self|1 AP, 7 MP|Inflicts the Countering status on the Assassin until the beginning of their next turn.|
-|Poison Dagger|Melee|1 AP, 7 MP|Makes a basic physical attack.  On a hit, the target also receives the Toxin status effect unless they are immune.|
-|Assassin's Mark|Ranged|1 AP|Applies the Hunted status effect to a single enemy.  Works the same as the [Ranger's](../../Characters/Archetypes/Ranger) Mark Target ability.|
+|Poison Dagger|Melee|1 AP, 7 MP|Makes a basic physical attack.  On a hit, the target also receives the Toxin status unless they are immune.|
+|Assassin's Mark|Ranged|1 AP|Applies the Hunted status to a single enemy.  Works the same as the [Ranger's](../../Characters/Archetypes/Ranger) Mark Target ability.|
 |Parkour|Passive|N/A|The Assassin has the Ranger's Forest Walk ability.|
 
 **Item Table** 
@@ -265,7 +265,7 @@ In combat, dwarves are highly coordinated opponents, with each one focusing on t
 |Result|Item|
 |:-|:-|
 |1|Mundane Inflict Toxin|
-|2|Mundane Inflict Silence|
+|2|Mundane Inflict Silenced|
 |3|50 cr|
 
 ### Runecarver (Elite 2, Human, Earth)
