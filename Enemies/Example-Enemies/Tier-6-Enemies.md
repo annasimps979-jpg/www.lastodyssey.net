@@ -259,7 +259,7 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 |Double Time|Multi|1 AP, 25 MP|Hastes the Chieftain and all of their allies.  Works the same as the Support job's Multihaste ability.|
 |Ready Arms|Multi|1 AP, 10 MP|[Buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) the Chieftain and all of their allies' Status Accuracy by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Strategy|Ally|1 AP|Twice per round, the Chieftain can donate an AP to another ally to allow them to act immediately on the Chieftain's turn.|
-|War Leader|Passive|N/A|Any allies of the Chieftain's that act after them in the Initiative Order gain a +1 bonus to all three of their Accuracies.  This does not count as a buff on the Bonus Tracker.|
+|War Leader|Passive|N/A|Any allies of the Chieftain's that act after them in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order) gain a +1 bonus to all three of their Accuracies.  This does not count as a buff on the Bonus Tracker.|
 
 **Item Table** 
 
