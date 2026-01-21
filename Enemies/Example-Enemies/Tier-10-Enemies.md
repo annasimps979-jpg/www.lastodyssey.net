@@ -51,7 +51,7 @@ In [combat](../../Combat-Rules/), the lives of Elite dragons are much more valua
 |:-|:-|:-|:-|
 |Pike|Melee|1 AP|Makes a basic physical attack.|
 |Treat Wound|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 11 MP|Heals a single ally by an amount of HP equal to twice the Attendant's Magical Attack.|
-|Treat Disease|Ally|1 AP, 12 MP|Removes all status effects from a single target.|
+|Treat Disease|Ally|1 AP, 12 MP|Removes all [statuses](../../Combat-Rules/Statuses) from a single target.|
 
 **Item Table** 
 
@@ -108,7 +108,7 @@ In [combat](../../Combat-Rules/), the lives of Elite dragons are much more valua
 |Bite|Melee|1 AP|Makes a basic physical attack.|
 |Thunder Claw|Melee|1 AP, 10 MP|Makes a physical attack against a single target that deals physical thunder damage that is multiplied by 2 in addition to other modifiers.|
 |Thunder Breath|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 15 MP|Makes a physical attack against all of the Warrior's enemies that does physical thunder damage on a hit.|
-|Basilisk|Multi|1 AP, 18 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Warrior's enemies that inflicts Petrified on a hit.|
+|Basilisk|Multi|1 AP, 18 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Warrior's enemies that inflicts [Petrified](../../Combat-Rules/Statuses#term-petrified) on a hit.|
 |Dragon Soul|Passive|N/A|The Warrior cannot be downed by any attack that deals a total damage of less than 20.|
 
 **Item Table** 
@@ -171,7 +171,7 @@ In combat, magi tend to know everything about their opponents, and will play as 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Heal Spell|Multi|1 AP, 15 MP|Heals the White Mage and their allies for an amount equal to twice the White Mage's Magical Attack.|
-|Cure Spell|Multi|1 AP, 18 MP|Removes all status effects and debuffs from the White Mage and their allies.|
+|Cure Spell|Multi|1 AP, 18 MP|Removes all statuses and debuffs from the White Mage and their allies.|
 |Resurrection|Multi|1 AP, 30 MP|Revives all of the White Mage's downed allies back to full HP but no Shell.|
 
 **Item Table** 
@@ -255,7 +255,7 @@ In combat, magi tend to know everything about their opponents, and will play as 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Magic Bullet|Ranged|1 AP, 3 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit.|
-|Haste Spell|Multe|1 AP, 25 MP|Grants the Hasted status effect to the Blue Mage and all of their Allies.|
+|Haste Spell|Multe|1 AP, 25 MP|Grants the Hasted status to the Blue Mage and all of their Allies.|
 |Toughen|Ally|1 AP, 35 MP|Buffs a single target's Physical Attack and Physical Defense by three steps on the Bonus Tracker.|
 |Empower|Ally|1 AP, 35 MP|Buffs a single target's Magical Attack and Magical Defense by three steps on the Bonus Tracker.|
 |Quicken|Ally|1 AP, 35 MP|Buffs a single target's Evasion and Resistance by three steps on the Bonus Tracker.|
