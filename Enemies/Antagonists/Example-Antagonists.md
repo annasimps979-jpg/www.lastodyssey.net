@@ -82,7 +82,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Greatsword|Melee|1 AP|Makes a basic physical attack.|
-|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|Makes a physical attack against all of the War Leader's enemies in the front row that does colorless physical damage on a hit.|
+|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|Makes a physical attack against all of the War Leader's enemies in the [front row](../../Combat-Rules/Starting-Battles#term-front-row) that does colorless physical damage on a hit.|
 |Challenge|Ranged|1 AP|Confers the Taunted status on one of the War Leader's enemies.|
 |Battle Prayer|Ally|1 AP, 9 MP|Bestows the Protected (Colorless) status on the War Leader or one of their allies.|
 |Inspire|Multi|1 AP, 10 MP|Increases the Physical Attack of the War Leader and all of their allies by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
