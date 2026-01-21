@@ -39,7 +39,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Reveal Weakness|Passive|N/A|When you use the Scan ability on an enemy, it inflicts the Scanned status effect.  The next [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hits the enemy will ignore any resistances it has, and then the Scanned status effect is removed.|
+|Reveal Weakness|Passive|N/A|When you use the Scan ability on an enemy, it inflicts the Scanned [status](../../Combat-Rules/Statuses).  The next [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hits the enemy will ignore any resistances it has, and then the Scanned status is removed.|
 
 **Rank 8:** You gain +1 Magical Accuracy.
 
@@ -59,8 +59,8 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 **[Healer](../../Characters/Jobs/Healer):** First Aid.  When you use an item that heals an ally, you may add your Magical Attack to its base healing.
 
-**[Defender](../../Characters/Jobs/Defender):** Optimize Defenses.  If you use the Scan ability on an ally, it inflicts the Optimized status effect on them.  The next physical attack, magical attack, or status-inflicting ability that hits them will ignore any of their weaknesses.  The Optimized status effect is then removed.
+**[Defender](../../Characters/Jobs/Defender):** Optimize Defenses.  If you use the Scan ability on an ally, it inflicts the Optimized status on them.  The next physical attack, magical attack, or status-inflicting ability that hits them will ignore any of their weaknesses.  The Optimized status is then removed.
 
 **Support:** Targeting Systems.  When you use Scan on an ally, they gain a temporary +5 to their [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), Magical, and [Status Accuracies](../../Characters/Attributes-and-Statistics#term-status-accuracy) until the end of their next turn that does not count on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).
 
-**Saboteur:** Monkeywrench.  When you use an item that inflicts a status effect on an enemy, you may subtract your Status Accuracy from the result on the [hit die](../Combat-Rules/Attacking-and-Defending#term-hit-die) to determine if they are hit.
+**Saboteur:** Monkeywrench.  When you use an item that inflicts a status on an enemy, you may subtract your Status Accuracy from the result on the [hit die](../Combat-Rules/Attacking-and-Defending#term-hit-die) to determine if they are hit.
