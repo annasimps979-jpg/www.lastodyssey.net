@@ -108,7 +108,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
-|Hedgetrimmer|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|Makes a basic physical attack against every enemy in the front row.  May only be used from the front row.|
+|Hedgetrimmer|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|Makes a basic physical attack against every enemy in the [front row](../../Combat-Rules/Starting-Battles#term-front-row).  May only be used from the front row.|
 |Shield|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 7 MP|The next time the Statue is hit by a physical attack, the damage is negated.|
 |Frontline|Self|1 AP, 10 MP|Inflicts the Guarded status on all of the Statue's allies until the beginning of its next turn.|
 |Living Construct|Passive|N/A|The Statue is immune to all negative status effects.|
