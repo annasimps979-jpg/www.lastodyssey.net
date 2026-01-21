@@ -22,7 +22,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Dragon Kick|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 10 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack against every enemy in the front row that deals physical fire damage on a hit.|
+|Dragon Kick|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 10 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack against every enemy in the [front row](../../Combat-Rules/Starting-Battles#term-front-row) that deals physical fire damage on a hit.|
 |Gang Up|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Goon's Physical Attack is [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one level on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) for every one of the Goon's allies more than enemies the Goon has remaining.|
 
 **Item Table**
@@ -78,7 +78,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sleep|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 7 MP|Attempts to inflict Fatigued on a single enemy.|
-|Steal|Special|1 AP|This ability can be used on all [characters](../../Extras/Key-Terms#term-character) when the Kitsune is in the front row, and only on the front row when the Kitsune is in the back row.  The Kitsune makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that, on a hit, takes a single item from the [party](../../Extras/Key-Terms#term-party) inventory that the Kitsune can use the Use Item ability to deploy.|
+|Steal|Special|1 AP|This ability can be used on all [characters](../../Extras/Key-Terms#term-character) when the Kitsune is in the front row, and only on the front row when the Kitsune is in the [back row](../../Combat-Rules/Starting-Battles#term-back-row).  The Kitsune makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that, on a hit, takes a single item from the [party](../../Extras/Key-Terms#term-party) inventory that the Kitsune can use the Use Item ability to deploy.|
 |Mock|Ranged|1 AP|Taunts one of the Kitsune's enemies.  Works the same as the Defender's Taunt, except that Taunted [player characters](../../Extras/Key-Terms#term-player-character) that cannot target the Kitsune are not able to act.|
 
 **Item Table** 
@@ -229,7 +229,7 @@ Frost dwellers, if they are attacking, are most likely attempting to defend thei
 |:-|:-|:-|:-|
 |Beak|Melee|1 AP|Makes a basic physical attack.|
 |Diving Attack|Ranged|1 AP, 5 MP|Special|Makes a colorless physical attack against a single target.|
-|Swift Swim|Passive|N/A|The Shrike can spend 1 of its AP per round to act before all other characters.  The other AP has to be used at the proper point in the Initiative order.|
+|Swift Swim|Passive|N/A|The Shrike can spend 1 of its AP per round to act before all other characters.  The other AP has to be used at the proper point in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order).|
 |Air Bladder|Passive|N/A|The Shrike is immune to Frostbitten, ice damage, and water damage.|
 
 **Item Table** 
