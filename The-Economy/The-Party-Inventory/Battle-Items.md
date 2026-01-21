@@ -19,7 +19,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Debuff|9 cr|When used, this item inflicts a [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) of the specified type.  If it is Mundane, it debuffs by one level on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker), if it is Rare it debuffs by two, and if it is Expert it debuffs by three.|
 |Buff|9 cr|When used, this item applies a [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) of the specified type.  If it is Mundane, it buffs by one level on the Bonus Tracker, if it is Rare it buffs by two, and if it is Expert it buffs by three.|
-|Inflict Status|12 cr|When you use this item, make a status-inflicting ability roll against the target's [Resistance](../../Characters/Abilities-and-Statistics#term-resistance) to determine whether or not the specified status is inflicted.  If the item is Mundane, do not subtract anything from the roll.  If the item is Rare, subtract 2 from the roll, and if the Expert then subtract 5 from the roll.|
+|Inflict Status|12 cr|When you use this item, make a status-inflicting ability roll against the target's [Resistance](../../Characters/Abilities-and-Statistics#term-resistance) to determine whether or not the specified [status](../../Combat-Rules/Statuses) is inflicted.  If the item is Mundane, do not subtract anything from the roll.  If the item is Rare, subtract 2 from the roll, and if the Expert then subtract 5 from the roll.|
 |Revive|15 cr|When you use this item, the targeted character is revived from being [downed](../../Characters/Abilities-and-Statistics#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
@@ -28,8 +28,8 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |:-|:-|:-|
 |Scan|10 cr|This item applies the [Artificer's](../../Characters/Archetypes/Artificer) Scan ability to a single target, revealing all current relevant information about it.|
 |Remove Debuffs|15 cr|This item removes all debuffs from a single character.|
-|Remove Status Effect|20 cr|This item removes a status effect of the specified type from a single character.|
-|Negate Resistances|50 cr|This item negates all of a target's elemental and/or status effect resistances until the beginning of the target's next turn.|
+|Remove status|20 cr|This item removes a status of the specified type from a single character.|
+|Negate Resistances|50 cr|This item negates all of a target's elemental and/or status resistances until the beginning of the target's next turn.|
 |Block Physical Damage|100 cr|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
 |Block Magical Damage|400 cr|The next time the target of this item would otherwise take magical damage, they do not take any damage instead.|
 |Disable Attacks|700 cr|The target of this item cannot use any magical attacks, physical attacks, or status-inflicting abilities during their next turn.|
@@ -80,7 +80,7 @@ At times, there is a need to quickly create new items.  If the [GM](../../Extras
 |10|Revive|
 |11|Scan|
 |12|Remove Debuffs|
-|13|Remove Status Effects|
+|13|Remove statuses|
 |14|Negate Resistances|
 |15|Block Physical Damage|
 |16|Block Magical Damage|
