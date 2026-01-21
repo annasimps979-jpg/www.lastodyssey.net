@@ -22,7 +22,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Faerie Fire|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that does magical damage of the Wisp's [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) on a hit.|
-|Curse|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 MP|Attempts to inflict the status associated with the Wisp's element on all enemies on the battlefield.|
+|Curse|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 MP|Attempts to inflict the [status](../../Combat-Rules/Statuse) associated with the Wisp's element on all enemies on the battlefield.|
 |Magic Ward|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 7 MP|Applies 16 points of Shell to a single ally of the Wisp's current elemental type.|
 
 **Item Table** 
@@ -180,7 +180,7 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 |Result|Item|
 |:-|:-|
 |1|Rare Buff Evasion|
-|2|Inflict Frostbite|
+|2|Inflict Frostbitten|
 |3|100 cr|
 
 ### Raider (Normal 6, Dragon, Water)
@@ -235,8 +235,8 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 
 |Result|Item|
 |:-|:-|
-|1|Rare Inflict Toxin|
-|2|Rare Inflict Paralyze|
+|1|Rare Inflict Poisoned|
+|2|Rare Inflict Paralyzed|
 |3|100 cr|
 
 ### Chieftain (Elite 6, Dragon, Water)
@@ -286,7 +286,7 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Drown|Ranged|9 MP|Makes a magical attack against a single target that, on a hit, deals magical water damage that is multiplied by 2 in addition to other modifiers.|
-|Sleet|Multi|1 AP, 18 MP|Uses a status-inflicting ability on every enemy on the battlefield that inflicts Frostbite on a hit.|
+|Sleet|Multi|1 AP, 18 MP|Uses a status-inflicting ability on every enemy on the battlefield that inflicts [Frostbitten](../../Combat-Rules/Statuses#term-frostbitten) on a hit.|
 |Resurrection|Ally|1 AP, 15 MP|Raises a single downed ally of the Prophet's back to half its maximum HP.|
 |Karma|Multi|1 AP, 40 MP|Inflicts the Reflecting status on the Prophet and all of their allies.  The next time they are hit by a magical attack, the damage they take is also automatically dealt to the attacker and the status is removed.|
 |Foretell Doom|Passive|N/A|After the Effect Phase in [battle](../../Extras/Key-Terms#term-battle) passes three times, the Prophet makes a magical attack against all of its enemies that does not cost any MP.  Every hit enemy takes magical water damage that is multiplied by 3 in addition to other modifiers.|
