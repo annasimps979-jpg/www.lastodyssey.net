@@ -79,7 +79,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |:-|:-|:-|:-|
 |Chop|Melee|1 AP|Makes a basic physical attack.|
 |Fury|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|Works the same way as the [Knight's](../../Characters/Archetypes/Knight) Focus [ability](../../Extras/Key-Terms#term-ability) when the Knight has the Melee passive ability active.|
-|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the front row.  On a hit, this attack does colorless physical damage.|
+|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the [front row](../../Combat-Rules/Starting-Battles#term-front-row).  On a hit, this attack does colorless physical damage.|
 
 **Item Table** 
 
