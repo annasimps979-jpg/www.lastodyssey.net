@@ -15,7 +15,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP|Wager up to 5 times your tier [HP](../../Characters/Attributes-and-Statistics#term-hp), [MP](../../Characters/Attributes-and-Statistics#term-mp) and [Shell](../../Combat-Rules/Shells) against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
+|Gamble|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Wager up to 5 times your tier [HP](../../Characters/Attributes-and-Statistics#term-hp), [MP](../../Characters/Attributes-and-Statistics#term-mp) and [Shell](../../Combat-Rules/Shells) against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
 
 **Rank 2:** You gain +1 Status Accuracy.
 
@@ -23,7 +23,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Jubilee|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|2 AP|At the end of the round, the initiative order is called again.|
+|Jubilee|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|2 AP|At the end of the [round](../../Combat-Rules/The-Combat-Round#term-round), the [initiative order](../../Combat-Rules/The-Combat-Round#term-initiative-order) is called again.|
 
 **Rank 4:** You gain +1 Status Accuracy.
 
