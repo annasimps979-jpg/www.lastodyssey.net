@@ -3,7 +3,7 @@
 ## Dragons
 The reptilian lords of the sky are extraordinarily long-lived, and guard their accumulated wealth jealously from interlopers.
 
-In [combat](../../Combat-Rules/), the lives of Elite dragons are much more valuable than those of the Normal tier dragon enemies, meaning that the latter will gladly sacrifice themselves for the former.
+In [combat](../../Combat-Rules/), the lives of Elite dragons are much more valuable than those of their Normal servants, meaning that the latter will gladly sacrifice themselves for the former.
 
 ### Drakeling (Normal 10, Dragon, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
 
