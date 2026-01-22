@@ -15,7 +15,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Focus|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|Apply the Focused [status](../../Combat-Rules/Statuses) to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status goes away.|
+|Focus|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Apply the Focused [status](../../Combat-Rules/Statuses) to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status goes away.|
 
 **Rank 2:** You gain +1 Physical Defense.
 
@@ -23,7 +23,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Cavalry|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Once per round, you may use the Move action on your turn without spending any AP, including when you are Focused.|
+|Cavalry|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Once per [round](../../Combat-Rules/The-Combat-Round#term-round), you may use the [Move](../../Combat-Rules/The-Combat-Round#term-move) action on your [turn](../../Combat-Rules/The-Combat-Round#term-turn) without spending any AP, including when you are Focused.|
 
 **Rank 4:** You gain +1 Physical Defense.
 
@@ -49,7 +49,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Berserk Charge|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 Anima, 2 AP|Applies Focused to your [eidolon](../../Characters/Eidolons#term-eidolon), and may make as many basic attacks as possible until Focused is removed.|
+|Berserk Charge|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 Anima, 2 AP|Applies Focused to your [eidolon](../../Characters/Eidolons#term-eidolon), and may make as many [basic attacks](../../Combat-Rules/The-Combat-Round#term-basic-attack) as possible until Focused is removed.|
 
 ## Talents
 
