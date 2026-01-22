@@ -17,7 +17,7 @@ Some items that [players](../../Extras/Key-Terms#term-player) can purchase do no
 |Bag|0|Mundane 10, Rare 25, Expert 50 cr|Encompasses backpacks, rucksacks, and any other equipment that allows characters to store items.  A character may wear only one Bag at a time.  A Mundane Bag provides 10 extra Carrying Capacity, a Rare Bag provides 25, and an Expert Bag provides 50.|
 |Map|1|Mundane 50, Rare 250, Expert 500 cr|A map of an area reduces the navigation difficulty of traveling the paths that it includes by an amount that depends on its Quality.  Mundane reduces the navigation difficulty by 1, Rare by 3, and Expert by 7.|
 
-_<dfn id = "term-scroll">Scrolls</dfn>_ are single-use magic items that allow player characters to use extra actions during the camping phase that cause effects during the next day.  Each Scroll is single-use, requires one player to use their camping action to activate, and takes effect during the following travel round.  All Scrolls take up 1 Carrying Capacity in the party inventory.
+_<dfn id = "term-scroll">Scrolls</dfn>_ are single-use magic items that allow player characters to use extra actions during the Camping Phase that cause effects during the next day.  Each Scroll is single-use, requires one player to use their camping action to activate, and takes effect during the following travel round.  All Scrolls take up 1 Carrying Capacity in the party inventory.
 
 |Name|Cost|Description|
 |:-|:-|:-|
@@ -26,7 +26,7 @@ _<dfn id = "term-scroll">Scrolls</dfn>_ are single-use magic items that allow pl
 |Scrying|500 cr|Activating this Scroll allows you to automatically succeed at the Scout action.  It can also let you sense danger in the nearby vicinity when not traveling.|
 |Clear Weather|100 cr|If the weather is not a Storm, the next day's weather will be Sunny.|
 |Shadow|1000 cr|If used during travel, the following day's danger rating is reduced by 4.  If used outside of travel, this will obscure the player characters for 1d4 hours or until they do something that reveals their presence.|
-|Forest Walk|1200 cr|This will let player characters bypass a natural hazard without making use of Supplies or a skill challenge.  It can also be used during the camping phase to reduce the navigation difficulty for the following day by 6.  Outside of travel, it can also temporarily clear paths of any naturally occurring difficult terrain, such as thick underbrush or boulders.|
+|Forest Walk|1200 cr|This will let player characters bypass a natural hazard without making use of Supplies or a skill challenge.  It can also be used during the Camping Phase to reduce the navigation difficulty for the following day by 6.  Outside of travel, it can also temporarily clear paths of any naturally occurring difficult terrain, such as thick underbrush or boulders.|
 |Bell|100 cr|Using this during travel will guarantee that an enemy encounter will happen the following day.  Using this outside of travel will alert any hostiles to the players' presence, drawing them into a fight.|
 |Reveal the Path|500 cr|The players will always succeed on their navigation roll during the following day.|
 |Mark|5000 cr|Creates a magical circle on the ground that players can use Recall scrolls to teleport back to.  The presence of a Mark circle is detectable by anyone with magical talent who knows what they are looking for.|
