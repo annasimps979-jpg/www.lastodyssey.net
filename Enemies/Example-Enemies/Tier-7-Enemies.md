@@ -9,7 +9,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |51|19|14|55|3|12|8|7|4|
 
@@ -21,7 +21,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Axe|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Axe|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Two-Handed Chop|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that, on a hit, does [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical damage that is multiplied by 2 in addition to other modifiers.|
 |Disposable|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Fodder will always take damage for any non-Fodder enemies on the battlefield.  If there are multiple Fodder enemies on the battlefield, the GM may choose which one takes the damage.|
 
@@ -51,7 +51,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |:-|:-|:-|:-|
 |Sharp Thingy|Melee|1 AP|Makes a basic physical attack.|
 |Boom|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 9 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
-|Tripwire|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to move will automatically gain the [Petrified](../../Combat-Rules/Statuses#term-petrified) status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Characters/Attributes-and-Statistics#term-downed), the Tripwire leaves.|
+|Tripwire|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to [move](../../Combat-Rules/The-Combat-Round#term-move) will automatically gain the [Petrified](../../Combat-Rules/Statuses#term-petrified) status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Characters/Attributes-and-Statistics#term-downed), the Tripwire leaves.|
 
 **Item Table**
 
@@ -199,7 +199,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Crack Open|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical light damage on a hit.  In addition, each hit allows the Succubus to cast this spell for free against one additional target.|
-|Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the Effect Phase, the [GM](../../Extras/Key-Terms#term-gm) should roll a d10.  If the roll is above a 7, any Charmed [characters](../../Extras/Key-Terms#term-character) on the battlefield will take an extra [action](../../Extras/Key-Terms#term-action) of the GM's choice.|
+|Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the [GM](../../Extras/Key-Terms#term-gm) should roll a d10.  If the roll is above a 7, any Charmed [characters](../../Extras/Key-Terms#term-character) on the battlefield will take an extra [action](../../Extras/Key-Terms#term-action) of the GM's choice.|
 |Soul Eater|Special|1 AP|The Succubus makes a magical attack against a Charmed character that, on a hit, does magical colorless damage.  The Succubus then regains an amount of Shell equal to the amount of damage done to the target.|
 
 **Item Table** 
@@ -228,7 +228,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
 |Fiery Cleave|Multi|1 AP, 10 MP|Makes a physical attack against every enemy in the front row that does physical fire damage to every character it hits.|
-|Contract|Special|1 AP|The Cambion selects an enemy for a contract.  If they agree, the Cambion will expend 11 MP and the enemy will be healed for 20 HP.  If the Cambion is still standing during the Effect Phase of the following round, that same enemy will take 40 damage.|
+|Contract|Special|1 AP|The Cambion selects an enemy for a contract.  If they agree, the Cambion will expend 11 MP and the enemy will be healed for 20 HP.  If the Cambion is still standing during the Effect Phase of the following [round](../../Combat-Rules/The-Combat-Round#term-round), that same enemy will take 40 damage.|
 
 **Item Table** 
 
