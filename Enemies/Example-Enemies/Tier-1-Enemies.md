@@ -3,13 +3,13 @@
 ## Police
 The police are deployed against protestors, activists, criminals, and anyone else that the government perceives as threatening the established order.
 
-In [combat](../../Combat-Rules/), police will swap between rounds where they use their [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict [statuses](../../Combat-Rules/Statuses), use [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and debuffs, and generally look menacing.
+In [combat](../../Combat-Rules/), police will swap between [rounds](../../Combat-Rules/The-Combat-Round#term-round) when they use their [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and rounds where they exert maximum force.  During the first round of [battle](../../Extras/Key-Terms#term-battle), they will not attack but instead sit there and either inflict [statuses](../../Combat-Rules/Statuses), use [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and debuffs, and generally look menacing.
 
 ### Cop (Normal 1, Human, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell]((../../Combat-Rules/Shells))|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell]((../../Combat-Rules/Shells))|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |10|5|4|10|2|4|2|2|1|
 
@@ -21,7 +21,7 @@ In [combat](../../Combat-Rules/), police will swap between rounds where they use
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Truncheon|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|The Cop makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Truncheon|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|The Cop makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Crowd Control|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|The Cop moves a single target's Physical Attack down by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Body Armor|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The first time the Cop is hit by a physical attack, they do not take any damage.|
 
@@ -75,7 +75,7 @@ In [combat](../../Combat-Rules/), police will swap between rounds where they use
 |:-|:-|:-|:-|
 |Pincers|Melee|1 AP|Makes a basic physical attack|
 |Autocannon|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP|Makes a colorless, ranged physical attack against a single target.  The Spider Drone may only use this [ability](../../Extras/Key-Terms#term-ability) once per battle.|
-|Disarm|Melee|1 AP|Makes a colorless physical attack that, if successful, causes the target to drop their weapon.  The target must then spend 1 AP on its turn to pick it back up.|
+|Disarm|Melee|1 AP|Makes a colorless physical attack that, if successful, causes the target to drop their weapon.  The target must then spend 1 AP on its [turn](../../Combat-Rules/The-Combat-Round#term-turn) to pick it back up.|
 
 **Item Table** 
 
@@ -163,7 +163,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |:-|:-|:-|:-|
 |Knife|Melee|1 AP|Makes a basic physical attack.|
 |Poison Dart|Ranged|1 AP, 7 MP|Attempts to inflict Poisoned on an enemy.|
-|Tactical Retreat|Passive|N/A|If the Skirmisher becomes Shellbroken, it will move to the back row immediately for free.|
+|Tactical Retreat|Passive|N/A|If the Skirmisher becomes [Shellbroken](../../Combat-Rules/Shells#term-shellbroken), it will [move](../../Combat-Rules/The-Combat-Round#term-move) to the back row immediately for free.|
 
 **Item Table** 
 
@@ -250,7 +250,7 @@ In combat, goblins are both bullies and cowards.  They will gang up on the weake
 |Gore|Melee|1 AP, 3 MP|Makes a colorless physical attack that deals 2x damage on a hit in addition to other multipliers.
 |Charge|Special|1 AP, 5 MP|Makes a physical attack against an enemy in the back row.  Can only be done if there are no enemies in the [front row](../../Combat-Rules/Starting-Battles#term-front-row).|
 |Enrage|Passive|N/A|If the Boar Rider is Taunted, they will also become Berserk, which is the equivalent of the [Knight's](../../Characters/Archetypes/Knight) Focus ability.|
-|Too Stupid to Die|Passive|N/A|If the Boar Rider is reduced to 0 HP, it will not die until the Effect Phase at the end of the round.|
+|Too Stupid to Die|Passive|N/A|If the Boar Rider is reduced to 0 HP, it will not die until the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) at the end of the round.|
 
 **Item Table** 
 
