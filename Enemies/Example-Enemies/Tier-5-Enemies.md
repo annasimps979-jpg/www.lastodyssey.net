@@ -9,7 +9,7 @@ Test subjects without their masters are very much insane.  They will not use any
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |22|23|11|45|2|6|8|4|4|
 
@@ -21,7 +21,7 @@ Test subjects without their masters are very much insane.  They will not use any
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Pseudopod|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Pseudopod|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Bolt|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target that deals magical damage of the Slime's current [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) on a hit.|
 |Elemental Absorption|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Slime's elemental type is the elemental type of the last magical attack, physical attack, or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hit it.  This can include colorless.  The change triggers before Divide activates.|
 
@@ -79,7 +79,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |:-|:-|:-|:-|
 |Tail|Melee|1 AP|Makes a basic physical attack.|
 |Acid Spit|Ranged|1 AP, 5 MP|Makes a magical attack that does magical [wood](../../Combat-Rules/Elemental-Types#term-wood) damage and inflicts the [Poisoned](../../Combat-Rules/Statuses#term-poisoned) [status](../../Combat-Rules/Statuses) on a hit.|
-|Amniotic Tank|Passive|N/A|When the Spitter is infected with Poisoned, they do not take damage resulting from it but instead are healed for 2 HP during the Effect Phase of every round.|
+|Amniotic Tank|Passive|N/A|When the Spitter is infected with Poisoned, they do not take damage resulting from it but instead are healed for 2 HP during the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) of every [round](../../Combat-Rules/The-Combat-Round#term-round).|
 
 **Item Table** 
 
@@ -171,7 +171,7 @@ Royal Militia are organized, disciplined, and utterly devoted to their task.  Th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
-|Tactics|Ally|1 AP|The Infantry gives 1 AP to another [character](../../Extras/Key-Terms#term-character) on the battlefield that said character can use immediately.  The Infantry can do this up to once per turn.|
+|Tactics|Ally|1 AP|The Infantry gives 1 AP to another [character](../../Extras/Key-Terms#term-character) on the battlefield that said character can use immediately.  The Infantry can do this up to once per [turn](../../Combat-Rules/The-Combat-Round#term-turn).|
 |Hold the Line|Passive|N/A|The Infantry cannot be moved away from the front line for any reason.|
 
 **Item Table** 
