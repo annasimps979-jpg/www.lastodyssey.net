@@ -15,7 +15,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Copycat|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|10 [MP](../../Characters/Attributes-and-Statistics), 1 AP|You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.|
+|Copycat|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|10 [MP](../../Characters/Attributes-and-Statistics), 1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|You may immediately use one of the abilities that one of your allies used between the end of your last [turn](../../Combat-Rules/The-Combat-Round#term-turn) and the beginning of your current turn, counting [held turns](../../Combat-Rules/The-Combat-Round#term-hold-ap).|
 
 **Rank 2:** You gain +1 Evasion.
 
