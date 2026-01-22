@@ -11,7 +11,7 @@ While they are Healers, [player characters](../../Extras/Key-Terms#term-player-c
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Heal|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Restore an amount of [HP](../../Characters/Attributes-and-Statistics#term-hp) to a single target equal to your Magical Attack.|
+|1|Heal|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Restore an amount of [HP](../../Characters/Attributes-and-Statistics#term-hp) to a single target equal to your Magical Attack.|
 |2|Cleanse|Ally|8 MP, 1 AP|Reset the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) for all of a single target's statistics back to +0.|
 |3|Revive|Ally|10 MP, 1 AP|Revive a single [downed](../../Characters/Attributes-and-Statistics#term-downed) target back to 1 HP.|
 |4|Life Aura|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|2 AP|Heal yourself an all allies for 5 HP.|
