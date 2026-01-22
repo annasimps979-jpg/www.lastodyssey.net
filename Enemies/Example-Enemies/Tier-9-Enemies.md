@@ -9,7 +9,7 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |50|35|17|75|3|10|12|8|6|
 
@@ -21,9 +21,9 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic physical attack.|
-|Acid Spit|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that deals magical [wood](../../Combat-Rules/Elemental-Types#term-wood) damage on a hit and also reduces the enemy's Physical Defense by one on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
-|Accelerated Growth|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During each Effect Phase, the Grub's Magical Defense, Physical Defense, and Resistance are [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one on the Bonus Tracker.|
+|Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Acid Spit|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that deals magical [wood](../../Combat-Rules/Elemental-Types#term-wood) damage on a hit and also reduces the enemy's Physical Defense by one on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
+|Accelerated Growth|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During each [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the Grub's Magical Defense, Physical Defense, and Resistance are [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one on the Bonus Tracker.|
 
 **Item Table** 
 
@@ -200,7 +200,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |:-|:-|:-|:-|
 |Shot|Melee|1 AP|Makes a basic physical attack.|
 |Tag|Multi|1 AP, 12 MP|Reduces the Evasion of all of the Trooper's enemies by one level on the Bonus Tracker.|
-|Automatic Fire|Passive|N/A|The Trooper may make one more basic attack per spent AP per subsequent turn it has used a basic attack during.|
+|Automatic Fire|Passive|N/A|The Trooper may make one more basic attack per spent AP per subsequent [turn](../../Combat-Rules/The-Combat-Round#term-turn) it has used a basic attack during.|
 
 **Item Table** 
 
