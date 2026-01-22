@@ -9,7 +9,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |32|38|15|75|3|6|14|6|7|
 
@@ -21,7 +21,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Behold!|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Herald's enemies that inflicts the [Blinded](../../Combat-Rules/Statuses#term-blinded) [status](../../Combat-Rules/Statuses) on a hit.|
 |The First Seal|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When the Herald is [downed](../../Characters/Attributes-and-Statistics#term-downed), all of the Herald's enemies have their Magical Accuracy [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 
@@ -288,7 +288,7 @@ The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  Howe
 |Frenzied|Passive|N/A|Each time the Wight takes damage, its Physical Attack is buffed by one step on the Bonus Tracker.|
 |Drink Blood|Melee|1 AP, 12 MP|The Wight makes a physical attack on a single target.  On a hit, they deal colorless physical damage and regain an amount of HP and MP equal to the damage they dealt.|
 |Entrance|Special|1 AP, 5 MP|Uses a status-inflicting ability that, if it hits, inflicts the Entranced status effect.  Entranced characters cannot act.|
-|It Keeps Coming Back|Passive|N/A|When the Wight is downed, the [GM](../../Extras/Key-Terms#term-gm) should roll a 1d10.  If the roll is a 3 or below, the Wight will be revived at full HP and Shell during the Effect Phase of the same round in which it was downed.|
+|It Keeps Coming Back|Passive|N/A|When the Wight is downed, the [GM](../../Extras/Key-Terms#term-gm) should roll a 1d10.  If the roll is a 3 or below, the Wight will be revived at full HP and Shell during the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) of the same round in which it was downed.|
 
 **Item Table** 
 
