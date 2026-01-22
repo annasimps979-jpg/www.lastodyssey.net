@@ -13,4 +13,4 @@ Arid, hot regions such as canyons, plateaus, or sandy deserts are represented by
 |7-9|Hot|
 |10|Sandstorm|
 
-In the dry air of a Desert region, [characters](../../Extras/Key-Terms#term-character) will lose far more moisture than normal.  To represent this, the [players](../../Extras/Key-Terms#term-player) spend 1 additional unit of Supplies in total during the camping phase or they will all take 1 [injury](../../Combat-Rules/Death-and-Injury#term-injury) due to dehydration.
+In the dry air of a Desert region, [characters](../../Extras/Key-Terms#term-character) will lose far more moisture than normal.  To represent this, the [players](../../Extras/Key-Terms#term-player) must spend 1 additional unit of Supplies in total during the Camping Phase in order to avoid taking an [injury](../../Combat-Rules/Death-and-Injury#term-injury).
