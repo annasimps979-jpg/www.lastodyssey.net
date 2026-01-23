@@ -55,11 +55,11 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 **[Striker](../../Characters/Jobs/Striker):** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your [colorless](../../Combat-Rules/Elemental-Types#term-colorless) [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) into your current elemental type due to Masked.
 
-**[Caster](../../Characters/Jobs/Caster):** School Uniform.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless magical attacks into your current elemental type due to Masked.
+**[Caster](../../Characters/Jobs/Caster):** School Uniform.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) into your current elemental type due to Masked.
 
 **[Healer](../../Characters/Jobs/Healer):** Regal Clothing.  If you use a healing ability due to Mimic or Copycat, you may use it twice instead of once.
 
-**[Defender](../../Characters/Jobs/Defender):** Outdoor Wear.  While you are Masked, you are immune to the effects of physical attacks, [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), and [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) of your current elemental type.
+**[Defender](../../Characters/Jobs/Defender):** Outdoor Wear.  While you are Masked, you are immune to the effects of physical attacks, magical attacks, and [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) of your current elemental type.
 
 **Support:** Casual Dress.  When Masked, your Shell-applying abilities have their elemental type changed to your current elemental type.
 
