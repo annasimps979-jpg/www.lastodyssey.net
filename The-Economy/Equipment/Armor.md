@@ -68,7 +68,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 |Name|Description|
 |:-|:-|
-|Barbed|When an enemy hits you with a [Melee](../../Combat-Rules/Attacking-and-Defending#term-melee) ability while you are wearing this armor, they automatically receive the status specified by this upgrade.|
+|<dfn id = "term-barbed-armor">Barbed</dfn>|When an enemy hits you with a [Melee](../../Combat-Rules/Attacking-and-Defending#term-melee) ability while you are wearing this armor, they automatically receive the status specified by this upgrade.|
 |Enchanted|If you are wearing this armor at the beginning of combat, you automatically gain 20 points of Shell of the specified elemental type of this upgrade.  You still gain this even if your [Health](../../Characters/Attributes-and-Statistics#term-health) is less than 20.  All other rules for Shells apply as normal.|
 |Blessed|You are immune to all debuffs while wearing this armor, and you are also immune to any effects that reduce your [AP](../../Combat-Rules/The-Combat-Round#term-ap) in any capacity.|
 |[Mana](../../Characters/Attributes-and-Statistics#term-mana) Battery|When you begin a battle, you gain 20 temporary MP in addition to your normal MP.  Any remaining amount of this MP goes away at the end of the battle.|
