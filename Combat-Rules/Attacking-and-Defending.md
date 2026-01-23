@@ -19,13 +19,16 @@ The minimum amount of base damage you deal with an attack is 1.  However, the ba
 Some abilities, such as Cleave or Elemental Storm, will target multiple characters at once.  When you make one of these attacks, you only roll the hit die once and subtract the corresponding accuracy bonus from it.  However, to determine whether or not you hit each enemy and whether or not you deal damage if applicable, you should add each enemy's Evasion or Resistance to your roll individually to determine whether or not each enemy is hit.  For example, let's say you have a Physical Accuracy of 3 and a Physical Attack of 2.  You attack two enemies, and roll a 5 on your 1d10, meaning that your accuracy result is a 2 and your damage result is a 7.  The first enemy has an Evasion of 6 and a Physical Defense of 1, so you miss against them.  The second enemy has an Evasion of 2 and a Physical Defense of 3, so your attack hits them with a base damage of 4.
 
 Every ability that you use has an <dfn id = "term-ability-type">ability type</dfn> that specifies its target.  They are as follows:
-*  <dfn id = "term-self-ability">Self</dfn>.  This ability may only target the user.
-*  <dfn id = "term-melee">Melee</dfn>.  This ability may only be used when the user is in the [front row](../Combat-Rules/Starting-Battles#term-front-row), and may only target characters that are in the front row.
-*  <dfn id = "term-ranged">Ranged</dfn>.  This ability is offensive, and may target any character on the battlefield.
-*  <dfn id = "term-ally-ability">Ally</dfn>.  This ability is defensive, and may target any character on the battlefield.
-*  <dfn id = "term-special-ability">Special</dfn>.  The possible targets of this ability are contextual.  Read its description to learn when it can be used.
-*  <dfn id = "term-passive">Passive</dfn>.  This ability cannot be used as an [action](../Extras/Key-Terms#term-action), but instead changes something about the way the character behaves in [combat](../Combat-Rules/).
-*  <dfn id = "term-multi">Multi</dfn>.  This ability targets more than one character on the battlefield.
-*  <dfn id = "term-reaction">Reaction</dfn>.  This ability cannot be used as an action, but triggers automatically when certain conditions are met.
+
+|Type|Description|
+|:-|:-|
+|<dfn id = "term-self-ability">Self</dfn>|This ability may only target the user.|
+|<dfn id = "term-melee">Melee</dfn>|This ability may only be used when the user is in the [front row](../Combat-Rules/Starting-Battles#term-front-row), and may only target characters that are in the front row.|
+|<dfn id = "term-ranged">Ranged</dfn>|This ability is offensive, and may target any character on the battlefield.|
+|<dfn id = "term-ally-ability">Ally</dfn>|This ability is defensive, and may target any character on the battlefield.|
+|<dfn id = "term-special-ability">Special</dfn>|The possible targets of this ability are contextual.  Read its description to learn when it can be used.|
+|<dfn id = "term-passive">Passive</dfn>|This ability cannot be used as an [action](../Extras/Key-Terms#term-action), but instead changes something about the way the character behaves in [combat](../Combat-Rules/).|
+|<dfn id = "term-multi">Multi</dfn>|This ability targets more than one character on the battlefield.|
+|<dfn id = "term-reaction">Reaction</dfn>|This ability cannot be used as an action, but triggers automatically when certain conditions are met.|
 
 Instead of doing lethal damage, [players](../Extras/Key-Terms#term-player) may instead choose to nonlethally _<dfn id = "term-knock-out">knock out</dfn>_ their opponents.  To do so, a player character must declare that they are executing an attack meant to knock an enemy out rather than kill.  The damage of the attack, if it hits, is calculated as though they had rolled a 1 on their attack roll.  If the enemy is [downed](../Characters/Attributes-and-Statistics#term-downed), they will be temporarily incapacitated instead of killed.
