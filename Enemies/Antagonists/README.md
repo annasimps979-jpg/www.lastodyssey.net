@@ -1,6 +1,6 @@
 # Antagonists
 
-Some of the enemies that the [players](../../Extras/Key-Terms#term-player) face are more powerful than ordinary opponents, and can use Anima to break the normal rules of gameplay.  In Last Odyssey, these enemies are referred to as _<dfn id = "term-antagonist">Antagonists</dfn>._  There are two major types of Antagonists:
+Some of the enemies that the [players](../../Extras/Key-Terms#term-player) face are more powerful than ordinary opponents, and can use [Anima](../../Free-Play/Anima#term-anima) to break the normal rules of gameplay.  In Last Odyssey, these enemies are referred to as _<dfn id = "term-antagonist">Antagonists</dfn>._  There are two major types of Antagonists:
 *  _<dfn id = "term-villain">Villains</dfn>_ are driven by their ego to accrue political and social power.  A Villain's defining feature is their _Ambition,_ which is a single goal that motivates everything that they do.
 *  _<dfn id = "term-monster">Monsters</dfn>_ are driven by their instincts to accumulate more territory and raw strength.  The defining feature of a capital-M Monster is their _Domain,_ which is a territory in the overworld where they are able to act outside of normal constraints.
 
