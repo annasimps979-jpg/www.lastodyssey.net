@@ -20,7 +20,7 @@ Enemies differ from player characters in a few important ways.  First, enemies b
 * _<dfn id = "term-dragon">Dragons</dfn>_ are creatures of sheer willpower that usually resemble reptiles.
 * _<dfn id = "term-horror">Horrors</dfn>_ are creatures that are twisted, bent, or otherwise uncategorizable.
 
-An enemy's description in the Monster Manual will list their [tier](../Characters/Character-Creation#term-tier), their creature type, their elemental type, and whether they are Normal, Elite, or an Antagonist for the purposes of XP calculation.  The header for every monster will look like this: ((XP Type) (Tier), (Creature Type), (Elemental Type)).  This will then be followed by their combat statistics and their abilities.
+An enemy's description will list their [tier](../Characters/Character-Creation#term-tier), their creature type, their elemental type, and whether they are Normal, Elite, or an Antagonist for the purposes of XP calculation.  The header for every monster will look like this: ((XP Type) (Tier), (Creature Type), (Elemental Type)).  This will then be followed by their combat statistics and their abilities.
 
 GMs who need to fill combat encounters with enemies for their [campaign](../Extras/Key-Terms#term-campaign) should consult the following sections:
 * [Encounter Creation:](Encounter-Creation) A guide to creating and roleplaying combat encounters.
