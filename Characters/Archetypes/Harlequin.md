@@ -39,7 +39,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Roulette Wheel|Passive|N/A|When you call initiative, you may choose to call that the result will be even or odd instead of a specific number.  If your call is correct, your initiative counts as 1.5x its value, rounded down, and you always win on a tie.  If your call is incorrect, your initiative counts as 0.75x its value, and you always lose on a tie.|
+|Roulette Wheel|Passive|N/A|When you [call Initiative](../../Combat-Rules/Starting-Battles#term-call-initiative), you may choose to call that the result will be even or odd instead of a specific number.  If your call is correct, your [Initiative](../../Characters/Attributes-and-Statistics#term-initiative) counts as 1.5x its value, rounded down, for the purpose of determining the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order), and you will win on a tie.  If your call is incorrect, your Initiative counts as 0.75x its value instead, and you will lose on a tie.|
 
 **Rank 8:** You gain +1 Status Accuracy.
 
@@ -57,7 +57,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 **[Caster](../../Characters/Jobs/Caster):** Rainbow Bolt.  When you use a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), you may roll on the Random Element Table to determine its elemental type.
 
-**[Healer](../../Characters/Jobs/Healer):** Bet Your Life.  When you heal an ally with a Healer ability, have them call a number and then roll a 1d10.  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
+**[Healer](../../Characters/Jobs/Healer):** Bet Your Life.  When you heal an ally with a Healer ability, you can have them call a number and then roll a 1d10.  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
 
 **[Defender](../../Characters/Jobs/Defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../../Extras/Key-Terms#term-gm) rolls the [hit die](../../Combat-Rules/Attacking-and-Defending#term-hit-die).  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
 
