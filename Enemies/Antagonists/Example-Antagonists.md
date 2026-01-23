@@ -133,7 +133,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Sword Arm|Melee|1 AP|Makes a basic physical attack.|
 |Icy Lance|Ranged|1 AP, 8 MP|Makes a physical attack against a single enemy that deals physical Ice damage on a hit.|
 |Frost Blast|Ranged|1 AP, 7 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target that deals magical ice damage that is multiplied by 2 in addition to other modifiers.|
-|Chill|Ranged|1 AP, 7 MP.  Uses a status-inflicting ability against a single target that inflicts the [Frostbitten](../../Combat-Rules/Statuses#term-frostbitten) status on a hit.|
+|Chill|Ranged|1 AP, 7 MP|Uses a status-inflicting ability against a single target that inflicts the [Frostbitten](../../Combat-Rules/Statuses#term-frostbitten) status on a hit.|
 |Cold Snap|Multi|1 AP, 28 MP|Inflicts the Slow status on all of the Revenant's enemies.|
 |Exposure|Ranged|1 AP, 8 MP|Inflicts the Vulnerable (Ice) status on a single one of the Revenant's enemies.|
 |Back From the Dead|Passive|N/A|The Revenant is immune to Ice damage and the Frostbitten status.|
@@ -170,7 +170,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Sadist|Passive|N/A|Whenever the Doctor inflicts damage on an enemy, they also regain an amount of MP equal to the amount of damage they dealt.|
 |Prepared|Passive|N/A|The Doctor has one of each [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) of Rare Elemental Damage item in its inventory.|
 |Target Acquired|Paradigm Action|1 Anima|All of the Doctor's enemies on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
-|Second Chance|Paradigm Action|1 Anima.  Heals and revives all of the Doctor's Allies to full HP and removes all of their current statuses and debuffs.|
+|Second Chance|Paradigm Action|1 Anima|Heals and revives all of the Doctor's Allies to full HP and removes all of their current statuses and debuffs.|
 
 ### Form 2: Torture Rack (Monster 7, Construct, Thunder)
 
