@@ -11,7 +11,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 ## Advancements by Rank
 
-**Rank 1:** Ability.
+**Rank 1:** [Ability](../../Extras/Key-Terms#term-ability).
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
