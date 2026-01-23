@@ -114,7 +114,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Unnatural Resilience|Passive|N/A|The Leshen counts as having 2x resistance to all status-inflicting abilities.|
 |Comeback|Paradigm Action|1 Anima|Raises the Leshen's Physical Attack buff to +7 regardless of its current value.|
 
-### Form 3: Revenant (Villain 5, Undead, [Ice](../../Combat-Rules/Elemental-Types#term-ice))
+### Form 3: Revenant (Villain 5, Undead, Ice)
 
 **Statistics**
 
@@ -172,7 +172,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Target Acquired|Paradigm Action|1 Anima|All of the Doctor's enemies on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
 |Second Chance|Paradigm Action|1 Anima.  Heals and revives all of the Doctor's Allies to full HP and removes all of their current statuses and debuffs.|
 
-### Form 2: Torture Rack (Monster 7, Construct, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
+### Form 2: Torture Rack (Monster 7, Construct, Thunder)
 
 **Statistics**
 
@@ -200,7 +200,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target.|
 |Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](../../Extras/Key-Terms#term-gm) rolls a 1d10.  The target then loses a percentage of their total [Health](../../Characters/Attributes-and-Statistics#term-health) from their combined HP and Shell equal to the result of the roll multiplied by 10.|
 
-### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
+### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
 
 **Statistics**
 
@@ -264,7 +264,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Spin the Bottle|Paradigm Action|1 Anima|The GM rolls a 1d6 and designates a single target.  If the number is a 6, the target of this ability takes a [base](../../Extras/Key-Terms#term-base) amount of magical damage equal to 104.  Otherwise, roll again.  If the number is a 6 this time, the Savior takes damage instead of their target.  Go back and forth until either the Savior or their target take damage.|
 |Reveal the Light|Paradigm Action|1 Anima|The Savior inflicts [Blinded](../../Combat-Rules/Statuses#term-blinded), Slowed, and one level of debuff of Magical Defense on the Bonus Tracker on all of its enemies.  This ability cannot be resisted.|
 
-### Form 2: Unveiled (Villain 10, Horror, [Water](../../Combat-Rules/Elemental-Types#term-water))
+### Form 2: Unveiled (Villain 10, Horror, Water)
 
 **Statistics**
 
