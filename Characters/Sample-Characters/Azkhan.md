@@ -2,31 +2,31 @@
 
 **Concept:** The leader of the Bloody Regiment, a group of extradimensional mercenaries that seek glory above all else.
 
-**Aspiration:** To rise to the status of myth.
+**[Aspiration](../../Characters/Character-Creation#term-aspiration):** To rise to the status of myth.
 
-**Relationships:** Rivalry with Isabella, Protective of the Regiment, Soft Spot for Feerk
+**[Relationships](../../Characters/Character-Creation#term-relationship):** Rivalry with Isabella, Protective of the Regiment, Soft Spot for Feerk
+
+**[Archetype](../../Characters/Archetypes/):** [Commander](../../Characters/Archetypes/Commander)
 
 ## Character Info
 
-### Class Abilities
-
 ### Attributes
 
-|Body|Mind|Spirit|
+|[Body](../../Characters/Attributes-and-Statistics#term-body)|[Mind](../../Characters/Attributes-and-Statistics#term-mind)|[Spirit](../../Characters/Attributes-and-Statistics#term-spirit)|
 |:-|:-|:-|
 |8|7|9|
 
 ### Base Statistics
 
-|Health|Initiative|Mana|Carrying Capacity|Action Points|
+|[Health](../../Characters/Attributes-and-Statistics#term-health)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Carrying Capacity](../../The-Economy/The-Party-Inventory#term-carrying-capacity)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|
 |:-|:-|:-|:-|:-|
 |60|18|60|50|3|
 
-|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|
 |8|5|5|5|
 
-|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |0|10|15|16|17|
 
@@ -34,23 +34,23 @@
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Orders|Ally|1 AP|Grant a free AP to a single ally that can then use it to act during your turn.  You may only use this ability once per round.|
-|Standard Bearer|Passive|N/A|Your allies gain a +1 bonus to their Status, Physical, and Magical Accuracies when they act after you in the initiative order that does not count on the bonus tracker.  If you are downed, this effect does not apply.|
+|Orders|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally)|1 AP|Grant a free AP to a single ally that can then use it to act during your [turn](../../Combat-Rules/The-Combat-Round#term-turn).  You may only use this ability once per [round](../../Combat-Rules/The-Combat-Round#term-round).|
+|Standard Bearer|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Your allies gain a +1 bonus to their Status, Physical, and Magical Accuracies when they act after you in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order) that does not count on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
 |Courier Network|Passive|N/A|You may use Orders twice per round.|
 |Chain of Command|Passive|N/A|Designate one of your party members as your Lieutenant.  While you are downed in battle, that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
-|Flex Debuff (Evasion)|Ranged|6 MP, 1 AP|When you take this power, choose one of the nine character statistics. Using this ability lowers the specified statistic of the target by one level on the Bonus Tracker.|
-|Flex Debilitate (Petrified)|Ranged|14 MP, 1 AP|When you take this power, choose a status effect. Using this ability triggers a status-inflicting ability against a single target that inflicts this status effect on a hit.|
+|Flex Debuff (Evasion)|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|6 MP, 1 AP|When you take this power, choose one of the nine character statistics. Using this ability lowers the specified statistic of the target by one level on the Bonus Tracker.|
+|Flex Debilitate (Petrified)|Ranged|14 MP, 1 AP|When you take this power, choose a [status](../../Combat-Rules/Statuses). Using this ability triggers a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) against a single target that inflicts this status on a hit.|
 |Flex Buff (Physical Attack)|Ally|10 MP, 1 AP|When you take this power, choose one of the nine character statistics. Using this ability raises the specified statistic of the target by one level on the Bonus Tracker.|
-|Earth Strike|Melee|10 MP, 1 AP|Using this ability makes an earth physical attack against a single target.|
-|Fire Strike|Melee|10 MP, 1 AP|Using this ability makes a fire physical attack against a single target.|
-|Fire Bolt|Ranged|10 MP, 1 AP|Using this ability makes a fire magical attack against a single target.|
+|Earth Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|10 MP, 1 AP|Using this ability makes an [earth](../../Combat-Rules/Elemental-Types#term-earth) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) against a single target.|
+|Fire Strike|Melee|10 MP, 1 AP|Using this ability makes a [fire](../../Combat-Rules/Elemental-Types#term-fire) physical attack against a single target.|
+|Fire Bolt|Ranged|10 MP, 1 AP|Using this ability makes a fire [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target.|
 
 ### Inventory
 
-**Equipment:**
-* Obsidian Slab.  Expert Sword (+8 PA, +5 MA).  Heavy.
-* Bonespike Harness.  Expert Heavy (+4 PD, +2 MD).  Barbed (Paralyzed).
-* Head Accessory: Mystical Mask of Focus.  (+1 R, Ability: Focus).
+**[Equipment](../../The-Economy/Equipment):**
+* [Weapon](../../The-Economy/Equipment/Weapons): Obsidian Slab.  [Expert](../../The-Economy/Equipment#term-equipment-quality) [Sword](../../The-Economy/Equipment/Weapons#term-sword) (+8 PA, +5 MA).  Heavy.
+* [Armor](../../The-Economy/Equipment/Armor): Bonespike Harness.  Expert [Heavy](../../The-Economy/Equipment/Armor#term-heavy-armor) (+4 PD, +2 MD).  [Barbed](../../The-Economy/Equipment/Armor#term-barbed-armor) (Paralyzed).
+* Head [Accessory](../../The-Economy/Equipment/Accessories): [Mystical](../../The-Economy/Equipment/Accessories#term-mystical-accessory) Mask of Focus.  (+1 R, Ability: Focus).
 * Arm Accessory: Mystical Ring of Magical Shield.  (+1 R, +1 MD).
 * Arm Accessory: Mystical Ring of Magical Shield.  (+1 R,+1 MD).
 * Neck Accessory: Mystical Choker of Magical Shield.  (+1 R, +1 MD).
@@ -60,7 +60,7 @@
 
 ## Job Info
 
-### Striker
+### [Striker](../../Characters/Jobs/Striker)
 
 **Rank:** 10
 
@@ -78,10 +78,10 @@
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Strike|Melee|3 MP, 1 AP|Make a colorless physical attack that deals 1.5x damage on a hit in addition to other modifiers.|
-|2|Wind Attack|Melee|3 MP, 1 AP|Make a physical attack whose elemental type is the same as your base elemental type.|
+|1|Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|3 MP, 1 AP|Make a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical attack that deals 1.5x damage on a hit in addition to other modifiers.|
+|2|[Wind](../../Combat-Rules/Elemental-Types#term-wind) Attack|Melee|3 MP, 1 AP|Make a physical attack whose [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) is the same as your base elemental type.|
 |3|Power Attack|Melee|5 MP, 1 AP|Make a colorless physical attack.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
-|4|Cleave|Multi|7 MP, 1 AP|Make a colorless, melee physical attack against all enemies in the front row.|
+|4|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|7 MP, 1 AP|Make a colorless, melee physical attack against all enemies in the front row.|
 |5|Leaping Strike|Ranged|5 MP, 1 AP|Make a colorless physical attack against a single target.|
 |6|Wind Cleave|Multi|10 MP, 1 AP|Make a melee physical attack against all enemies in the front row whose elemental type is the same as your base elemental type.|
 |7|Whirlwind|Multi|12 MP, 1 AP|Make a colorless physical attack against all enemies on the battlefield.|
@@ -89,7 +89,7 @@
 |9|Wind Whirlwind|Multi|15 MP, 1 AP|Make a physical attack against all enemies on the battlefield whose elemental type is the same as your base elemental type.|
 |N/A|Vanguard|Passive|N/A|When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and Physical Attack for theirs.|
 
-### Caster
+### [Caster](../../Characters/Jobs/Caster)
 
 **Rank:** 10
 
@@ -110,14 +110,14 @@
 |1|Magic Missile|Ranged|3 MP, 1 AP|Make a colorless magical attack against a single target.|
 |2|Wind Bolt|Ranged|5 MP, 1 AP|Make a magical attack against a single target whose elemental type is the same as your base elemental type.|
 |3|Trained Spellcaster|Passive|N/A|Flex powers that are magical attacks cost 5 MP instead of 10 MP.|
-|4|Magic Chain|Special|8 MP, 1 AP|Make a ranged, colorless magical attack against a single target.  If you break the target's Shell, you may use this ability again against another target without spending any MP or AP.|
+|4|Magic Chain|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|8 MP, 1 AP|Make a ranged, colorless magical attack against a single target.  If you break the target's [Shell](../../Combat-Rules/Shells), you may use this ability again against another target without spending any MP or AP.|
 |5|Magic Burst|Ranged|7 MP, 1 AP|Make a colorless magical attack against a single target.  On a hit, the attack deals 2x damage in addition to other modifiers.|
 |6|Wind Burst|Ranged|9 MP, 1 AP|Make a magical attack against a single target whose elemental type is equal to your elemental type.  On a hit, the attack deals 2x damage in addition to other modifiers.|
 |7|Wind Chain|Special|10 MP, 1 AP|Make a ranged magical attack against a single enemy whose elemental type is your base elemental type.  If you break the target's Shell, you may use this ability again against another target without spending any MP or AP.|
 |8|Magic Storm|Multi|13 MP, 1 AP|Make a colorless magical attack against all enemies on the battlefield.|
 |9|Wind Storm|Multi|15 MP, 1 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.|
 
-### Healer
+### [Healer](../../Characters/Jobs/Healer)
 
 **Rank:** 10
 
@@ -146,7 +146,7 @@
 |9|Treatment|Ally|18 MP, 1 AP|Remove all status effects from a single target, and reset the Bonus Tracker for all of their statistics back to +0.|
 |N/A|Medical Tent|Passive|N/A|When an ally uses a Healer ability using the AP you granted them with Orders, they may substitute your Magical Attack for theirs.|
 
-### Defender
+### [Defender](../../Characters/Jobs/Defender)
 
 **Rank:** 10
 
@@ -165,8 +165,8 @@
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
 |1|Taunt|Ranged|1 AP|Inflict the Taunted status on a single target.  A Taunted character can only use single-target magical attacks, physical attacks, and status-inflicting abilities, and only on you.  It can also use the Move action to move into range of you if needed.  Each character can only be Taunted by a single other character at a time.  If the character cannot reach you by any means, they will act as though they are not Taunted.|
-|2|Guard|Ally|5 MP, 1 AP|Inflict the Guarded status on a single ally, which remains until the beginning of your next turn.  Every time that ally is targeted by a physical attack, magical attack, or status-inflicting ability, you become the target instead.  If they are targeted by a Multi- or All-type ability, the ability is simply negated against them.|
-|3|Shield|Self|7 MP, 1 AP|Inflict the Shielded status effect on yourself.  While you are Shielded, if you are hit by a physical attack the damage dealt to you is automatically reduced to 0 and the Shielded status effect is removed.|
+|2|Guard|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 MP, 1 AP|Inflict the Guarded status on a single ally, which remains until the beginning of your next turn.  Every time that ally is targeted by a physical attack, magical attack, or status-inflicting ability, you become the target instead.  If they are targeted by a Multi ability, the ability is simply negated against them.|
+|3|Shield|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|7 MP, 1 AP|Inflict the Shielded status effect on yourself.  While you are Shielded, if you are hit by a physical attack the damage dealt to you is automatically reduced to 0 and the Shielded status effect is removed.|
 |4|Counter|Self|7 MP, 1 AP|Inflict the Countering status effect on yourself.  While you are Countering, the next time you are hit with a physical attack the attacker takes damage as though they were also a target of the same attack and the Countering status is removed.|
 |5|Multitaunt|Multi|9 MP, 1 AP|Inflict the Taunted status on every enemy on the battlefield.|
 |6|Multiguard|Multi|10 MP, 1 AP|Inflict the Guarded status on all of your allies.|
@@ -175,7 +175,7 @@
 |9|Deathless|Passive|N/A|When you are hit with an attack that would otherwise down you while at anything but 1 HP and 0 Shell, you are instead reduced to 1 HP and 0 Shell.|
 |N/A|Shield Wall|Passive|N/A|When you use the Taunt or Multitaunt abilities, you may direct the target to attack one of your allies instead of you.|
 
-### Support
+### [Support](../../Characters/Jobs/Support)
 
 **Rank:** 10
 
@@ -193,7 +193,7 @@
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Buff (Resistance)|Ally|5 MP, 1 AP|Move the statistic associated with your archetype a single step up the Bonus Tracker for the selected target.|
+|1|Buff ([Resistance](../../Characters/Attributes-and-Statistics#term-resistance))|Ally|5 MP, 1 AP|Move the statistic associated with your archetype a single step up the Bonus Tracker for the selected target.|
 |2|Shell (Wind)|Ally|7 MP, 1 AP|Apply an amount of Shell equal to your Magical Attack of the type of your base elemental type to a single ally.  If they already have a Shell of a different elemental type, its elemental type changes to the elemental type of this ability and increases by the same amount.|
 |3|Protect (Wind)|Ally|9 MP, 1 AP|Apply the Protected status effect to a single target, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or status effects of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
 |4|Multibuff (Resistance)|Multi|10 MP, 1 AP|Move the statistic associated with your archetype a single step up the Bonus Tracker for yourself and all of your allies.|
@@ -204,7 +204,7 @@
 |9|Multihaste|Multi|25 MP, 1 AP|You and all of your allies receive the Hasted status effect during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
 |N/A|Trenches|Passive|N/A|All of your allies gain the bonus from Standard Bearer regardless of their place in the Initiative Order.  This does not apply if you are downed.|
 
-### Saboteur
+### [Saboteur](../../Characters/Jobs/Saboteur)
 
 **Rank:** 5
 
@@ -222,9 +222,9 @@
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Debuff (Status Accuracy)|Ranged|3 MP, 1 AP|Move an enemy down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
-|2|Debilitate (Fatigued)|Ranged|7 MP, 1 AP|Use a status-inflicting ability on a single target that inflicts the status effect associated with your elemental type on a hit.|
-|3|Slow|Ranged|12 MP, 1 AP|The target of this ability receives the Slowed status effect during the Effect Phase of this round. The effect then lasts for three subsequent rounds. While the target is Slowed, they have -1 AP to use per round.|
+|1|Debuff ([Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy))|Ranged|3 MP, 1 AP|Move an enemy down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
+|2|Debilitate ([Fatigued](../../Combat-Rules/Statuses#term-fatigued))|Ranged|7 MP, 1 AP|Use a status-inflicting ability on a single target that inflicts the status effect associated with your elemental type on a hit.|
+|3|Slow|Ranged|12 MP, 1 AP|The target of this ability receives the Slowed [status](../../Combat-Rules/Statuses#term-status) during the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) of this [round](../../Combat-Rules/The-Combat-Round#term-round). The effect then lasts for three subsequent rounds, or until it is removed. While the target is Slowed, they have -1 AP to use per round.|
 |4|Multidebuff (Status Accuracy)|Multi|12 MP, 1 AP|Move all of your enemies down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
 |5|Vulnerability (Wind)|Ranged|8 MP, 1 AP|Inflict the Vulnerable status on a single target.  When a target is Vulnerable, the next time they are hit by an attack of your base elemental type, it affects them as though they had a 2x weakness to that elemental type, and the Vulnerable status is removed.  Characters can be Vulnerable to multiple elemental types at a time.  If a character has a 2x or greater weakness to the elemental type it is Vulnerable to, the Vulnerable status does nothing.|
 
