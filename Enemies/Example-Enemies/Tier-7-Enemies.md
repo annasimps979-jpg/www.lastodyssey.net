@@ -5,7 +5,7 @@ Ork raiding parties are feared by rural folk, and rightfully so.  When they stri
 
 In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of their enemies.  They do this through doing their best to do massive amounts of physical damage, and by purposefully ignoring their own health to maintain their image as invulnerable, rage-filled monsters.
 
-### Fodder (Normal 7, Demon, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
+### Fodder (Normal 7, Demon, Earth)
 
 **Statistics**
 
@@ -154,7 +154,7 @@ The denizens of Hell are many, but they all have one thing in common: their irre
 
 In combat, devils are clever and efficient.  While they are cruel, it is not to the point of impeding their ability to win.  They will use tactics on par with the [player characters](../../Extras/Key-Terms#term-player-character).
 
-### Imp (Normal 7, Demon, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
+### Imp (Normal 7, Demon, Fire)
 
 **Statistics**
 
@@ -182,7 +182,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |2|Taunt|
 |3|500 cr|
 
-### Succubus (Normal 7, Demon, [Light](../../Combat-Rules/Elemental-Types#term-light))
+### Succubus (Normal 7, Demon, Light)
 
 **Statistics**
 
@@ -210,7 +210,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |2|Rare Restore HP (Multi)|
 |3|500 cr|
 
-### Cambion (Normal 7, Demon, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
+### Cambion (Normal 7, Demon, Shadow)
 
 **Statistics**
 
