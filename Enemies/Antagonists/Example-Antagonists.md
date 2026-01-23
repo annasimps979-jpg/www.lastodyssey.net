@@ -8,7 +8,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 **Description:** An underground ruin once home to a lost civilization is now the Domain of the Spider Queen, a Monster whose spawn are the apex predators of its tiny but complex ecosystem.  The Queen herself spins her web throughout the ruin, capturing larger animals and the occasional traveler unwise or unlucky enough to stumble into her Domain.
 
-### Form 1: Webmaster (Monster 1, Animal, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
+### Form 1: Webmaster (Monster 1, Animal, Shadow)
 
 **Statistics**
 
