@@ -49,7 +49,7 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Ascension|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 Anima, 2 AP|Your Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](../../Extras/Key-Terms#term-battle), your magical attacks only cost 5 MP.|
+|Ascension|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 [Anima](../../Free-Play/Anima#term-anima), 2 AP|Your Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](../../Extras/Key-Terms#term-battle), your magical attacks only cost 5 MP.|
 
 ## Talents
 
