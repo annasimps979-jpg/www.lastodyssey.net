@@ -5,7 +5,7 @@ Deep within the labs of the Technomancers, strange creations grow in vats, waiti
 
 Test subjects without their masters are very much insane.  They will not use any tactics to speak of, but will instead attack at random.  [GMs](../../Extras/Key-Terms#term-gm) should use this madness to create tension during fights, saving most the powerful [abilities](../../Extras/Key-Terms#term-ability) for moments where the [players](../../Extras/Key-Terms#term-player) will be caught off guard.
 
-### Slime (Normal 5, Horror, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
+### Slime (Normal 5, Horror, Colorless)
 
 **Statistics**
 
@@ -61,7 +61,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |2|Rare Restore MP|
 |3|100 cr|
 
-### Spitter (Normal 5, Horror, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
+### Spitter (Normal 5, Horror, Wind)
 
 **Statistics**
 
@@ -238,7 +238,7 @@ Royal Militia are organized, disciplined, and utterly devoted to their task.  Th
 |2|Shield|
 |3|100 cr|
 
-### Paladin (Elite 5, Human, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
+### Paladin (Elite 5, Human, Thunder)
 
 **Statistics**
 
