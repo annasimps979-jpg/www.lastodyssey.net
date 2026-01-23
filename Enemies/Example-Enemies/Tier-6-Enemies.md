@@ -155,7 +155,7 @@ Tidewater regions that are not populated by humans or other sentients are usuall
 
 Sahuagin are somewhat physically weak, and as a result will focus on wearing their enemies down and frustrating them in the hopes that they will make stupid mistakes.
 
-### Fisher (Normal 6, Dragon, [Water](../../Combat-Rules/Elemental-Types#term-water))
+### Fisher (Normal 6, Dragon, Water)
 
 **Statistics**
 
