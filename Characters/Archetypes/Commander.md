@@ -1,13 +1,13 @@
 # Commander
 
 The Commander's core virtue is their **Leadership.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
-*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Heavy armor.
-*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Swords.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in [Heavy](../../The-Economy/Equipment/Armor#term-heavy-armor) [armor](../../The-Economy/Equipment/Armor).
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in [Swords](../../The-Economy/Equipment/Weapons#term-sword).
 *  +15 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
 *  As a [Support](../../Characters/Jobs/Support), your [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [abilities](../../Extras/Key-Terms#term-ability) will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
-*  As a [Saboteur](../../Characters/Jobs/Saboteur), your [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) abilities will affect Status Accuracy.
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), your [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) abilities will affect [Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy).
 
 ## Advancements by Rank
 
@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the initiative order that does not count on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
+|Standard Bearer|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order) that does not count on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
 
 **Rank 4:** You gain +1 Resistance.
 
@@ -39,7 +39,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Chain of Command|Passive|N/A|Designate one of your party members as your Lieutenant.  While you are downed in [battle](../../Extras/Key-Terms#term-battle), that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
+|Chain of Command|Passive|N/A|Designate one of your [party](../../Extras/Key-Terms#term-party) members as your Lieutenant.  While you are downed in [battle](../../Extras/Key-Terms#term-battle), that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
 
 **Rank 8:** You gain +1 Resistance.
 
@@ -49,7 +49,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Charge!|[Special](../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 Anima, 2 AP|Grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](../../Extras/Key-Terms#term-statistic) for theirs.|
+|Charge!|[Special](../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 [Anima](../../Free-Play/Anima), 2 AP|Grants all of the [eidolon's](../../Characters/Eidolons) allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](../../Extras/Key-Terms#term-statistic) for theirs.|
 
 ## Talents
 
