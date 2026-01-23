@@ -39,7 +39,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Reveal Weakness|Passive|N/A|When you use the Scan ability on an enemy, it inflicts the Scanned [status](../../Combat-Rules/Statuses).  The next [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hits the enemy will ignore any resistances it has, and then the Scanned status is removed.|
+|Reveal Weakness|Passive|N/A|When you use the Scan ability on an enemy, it inflicts the Scanned [status](../../Combat-Rules/Statuses).  The next [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hits the enemy will ignore any of its elemental resistances, but not any of its elemental weaknesses, and then the Scanned status is removed.|
 
 **Rank 8:** You gain +1 Magical Accuracy.
 
@@ -53,7 +53,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Sniper.  When you use an item that does physical damage to an enemy, you may add your Physical Attack to its [base](../../Extras/Key-Terms#term-base) damage.
+**[Striker](../../Characters/Jobs/Striker):** Sniper.  When you use an item that does physical damage to an enemy, you may add your [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) to its [base](../../Extras/Key-Terms#term-base) damage.
 
 **[Caster](../../Characters/Jobs/Caster):** Magic Ammo.  When you use an item that does magical damage to an enemy, you may add your [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) to its base damage.
 
