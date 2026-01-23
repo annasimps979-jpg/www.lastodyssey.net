@@ -59,7 +59,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 ## Ser Tarbh of Greenhill
 
-**Ambition:** To Kill Every Last Stellish Person Still Breathing.  
+**[Ambition](../../Enemies/Antagonists/Villains#term-ambition):** To Kill Every Last Stellish Person Still Breathing.  
 
 **Description:** Ser Tarbh is a charismatic and boisterous man whose troops are doggedly loyal to him.  Behind the veneer of joy, however, is a deeply traumatized war veteran who has decided to burn his humanity in exchange for revenge against his former enemies, the kingdom of the Stells.
 
