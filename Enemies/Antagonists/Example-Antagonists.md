@@ -218,8 +218,8 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |:-|:-|:-|:-|
 |Cannon|Melee|1 AP|Makes a basic physical attack.|
 |Crush|Melee|1 AP, 5 MP|Makes a physical attack against a single target that deals physical colorless damage on a hit that is multiplied by 2 in addition to other modifiers.|
-|Bake|Multi|1 AP, 15 MP.  Makes a physical attack against all of the Infernal Engine's enemies that deals physical fire damage on a hit.|
-|Shield|Self|1 AP, 7 MP.  Inflicts the Shielded status on the Infernal Engine.  The next time a physical attack hits it, the damage is negated.|
+|Bake|Multi|1 AP, 15 MP|Makes a physical attack against all of the Infernal Engine's enemies that deals physical fire damage on a hit.|
+|Shield|Self|1 AP, 7 MP|Inflicts the Shielded status on the Infernal Engine.  The next time a physical attack hits it, the damage is negated.|
 |Enrage|Ranged|1 AP, 10 MP|Uses a status-inflicting ability that inflicts the Focused status on a single enemy on a hit.  This ability counts as colorless.|
 |Reflect|Self|1 AP, 12 MP|Inflicts the Reflected status on the Infernal Engine.  The next time it is hit with a magical attack, the attack is bounced back at the user instead.|
 |Ingenius Design|Passive|N/A|The Infernal Engine has no elemental weaknesses, only resistances.|
@@ -253,7 +253,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |:-|:-|:-|:-|
 |Caress|Melee|1 AP|Makes a basic physical attack.|
 |Spotlight|Ranged|1 AP, 9 MP|Makes a magical attack against a single enemy that deals magical light damage on a hit that is multiplied by 2 in addition to other modifiers.|
-|Searing Ray|Multi|1 AP, 15 MP.  Makes a magical attack against every enemy on the battlefield that deals magical light damage on a hit.|
+|Searing Ray|Multi|1 AP, 15 MP|Makes a magical attack against every enemy on the battlefield that deals magical light damage on a hit.|
 |Knowledge is Power|Self|1 AP, 16 MP|The Savior buffs its Magical Defense by three steps on the Bonus Tracker.|
 |Power is Everything|Self|1 AP, 7 MP|The Savior restores 26 points of its Shell.|
 |Cure|Ally|1 AP, 12 MP|The Savior removes all statuses from a single target.  If it is advantageous, the Savior will also cast this on its enemies.|
@@ -282,10 +282,10 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |:-|:-|:-|:-|
 |Tentacle|Ranged|1 AP|Makes a basic physical attack against a single target that can force it to Move on a hit for free.|
 |Assault|Multi|1 AP, 15 MP|Makes a physical attack against all of the Unveiled's enemies that deals physical damage of its current elemental type on a hit.|
-|Degrade|Multi|1 AP, 19 MP.  Inflicts the Vulnerable status on all of the Unveiled's enemies that corresponds to its current elemental type.|
+|Degrade|Multi|1 AP, 19 MP|Inflicts the Vulnerable status on all of the Unveiled's enemies that corresponds to its current elemental type.|
 |Humiliate|Multi|1 AP, 18 MP|Uses a status-inflicting ability against all of the Unveiled's enemies that inflicts the status associated with its current elemental type on a hit.|
 |Temporal Distortion|Multi|1 AP, 28 MP|Slows all of the Unveiled's enemies.|
-|The Void Stares Back|Special|1 AP, 20 MP.  Uses any of the abilities that the Unveiled's enemies used between the end of its last [turn](../../Combat-Rules/The-Combat-Round#term-turn) and the beginning of its current turn.|
+|The Void Stares Back|Special|1 AP, 20 MP|Uses any of the abilities that the Unveiled's enemies used between the end of its last [turn](../../Combat-Rules/The-Combat-Round#term-turn) and the beginning of its current turn.|
 |Push Through the Cracks|Ranged|1 AP, 30 MP|The Unveiled targets a single one of its enemies.  Said enemy cannot act and cannot be acted upon until the beginning of the Unveiled's next turn.|
 |Prism|Passive|N/A|When the Unveiled is hit by a form of elemental damage it is weak to, it changes its elemental type to a random new one as determined by the Random Element Table.|
 |Incomprehensible Horror|Passive|N/A|The Unveiled is immune to the Scan ability as well as any equivalent abilities or items.|
