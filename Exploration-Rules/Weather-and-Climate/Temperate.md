@@ -4,7 +4,7 @@ Lands with wet and cool climates, the months of winter and spring in milder regi
 
 **Example [Natural Hazards](../../Exploration-Rules/Hazards-and-Encounters#term-natural-hazard):** a rushing stream, a treacherous bog, a fallen tree.
 
-**Weather Table**
+## Weather Table
 
 |Result|Weather|
 |:-|:-|
