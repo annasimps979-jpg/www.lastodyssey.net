@@ -47,7 +47,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target enemies will affect all enemies.  Multiplies base cost by 10.|
 |Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item added together, multiplied by 5.|
 |Delay|When you use this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down.|
-|Random|When you use this item, it inflicts a random effect based on the element you roll on the Random Element Table.|
+|Random|When you use this item, it inflicts a random effect based on the element you roll on the [Random Element Table](../../Extras/Random-Tables#term-random-element-table).|
 
 ## Example Battle Items
 
@@ -102,6 +102,6 @@ After you've rolled for the item effect, roll a 1d10.  If the result is a 7 or a
 |5|Delay|
 |6|Random|
 
-For the Dual effect, roll again for the item's second effect.  Then, if relevant, roll on the Random Element Table to determine the elemental type of the item's effect.  If the item is a Buff or Debuff item, roll on the Random Statistic Table to see what [statistic](../../Extras/Key-Terms#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](../../Enemies/Example-Enemies/) section or create one of your own of the appropriate tier.
+For the Dual effect, roll again for the item's second effect.  Then, if relevant, roll on the Random Element Table to determine the elemental type of the item's effect.  If the item is a Buff or Debuff item, roll on the [Random Statistic Table](../../Extras/Random-Tables#term-random-statistic-table) to see what [statistic](../../Extras/Key-Terms#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](../../Enemies/Example-Enemies/) section or create one of your own of the appropriate tier.
 
 The last thing to do when creating an item is to calculate its cr value and give it tangible existence in your game world.  It's likely that there is a precedent already for what your players expect certain items to look like, and if so you can just go with that.
