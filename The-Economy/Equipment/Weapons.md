@@ -78,7 +78,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons are those that augment a
 |Name|Description|
 |:-|:-|
 |Reach|This weapon's Melee abilities can hit enemies in the [back row](../../Combat-Rules/Starting-Battles#term-back-row) or the [front row](../../Combat-Rules/Starting-Battles#term-front-row) while the wielder is in the front row, and can also hit enemies in the front row while the wielder is in the back row.|
-|<dfn id = "term-heavy-weapon">Heavy</dfn>|This weapon's basic attack costs 2 AP to use instead of 1, but deals 3x its base damage in addition to other multipliers on a hit.|
+|Heavy|This weapon's basic attack costs 2 AP to use instead of 1, but deals 3x its base damage in addition to other multipliers on a hit.|
 |Primordial|When you make a basic attack while wielding this weapon, you may decide the elemental type of the resulting damage.  However, the damage's elemental type cannot be colorless.|
 |Laser|The damage of this weapon's basic attack ignores the target's Physical Defense.  However, all other abilities or alternate contextual attacks do damage as normal.|
 |Double-Edged|In addition to their usual basic attack, weapons with this upgrade give the wielder a free ability called Double Attack.  When the wielder uses this ability, they make two colorless, Melee, physical attacks against a single target, each one dealing damage multiplied by 1x in addition to other modifiers.|
