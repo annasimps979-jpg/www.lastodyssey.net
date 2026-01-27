@@ -23,13 +23,13 @@ When you use an item, ability, or something else that affects a random [statisti
 
 |Result|Statistic|
 |:-|:-|
-|1|Physical Attack|
-|2|Physical Defense|
-|3|Physical Accuracy|
-|4|Magical Attack|
-|5|Magical Defense|
-|6|Magical Accuracy|
-|7|Evasion|
-|8|Resistance|
-|9|Status Accuracy|
+|1|[Physical Attack](../Characters/Attributes-and-Statistics#term-physical-attack)|
+|2|[Physical Defense](../Characters/Attributes-and-Statistics#term-physical-defense)|
+|3|[Physical Accuracy](../Characters/Attributes-and-Statistics#term-physical-accuracy)|
+|4|[Magical Attack](../Characters/Attributes-and-Statistics#term-magical-attack)|
+|5|[Magical Defense](../Characters/Attributes-and-Statistics#term-magical-defense)|
+|6|[Magical Accuracy](../Characters/Attributes-and-Statistics#term-magical-accuracy)|
+|7|[Evasion](../Characters/Attributes-and-Statistics#term-evasion)|
+|8|[Resistance](../Characters/Attributes-and-Statistics#term-resistance)|
+|9|[Status Accuracy](../Characters/Attributes-and-Statistics#term-status-accuracy)|
 |10|Reroll|
