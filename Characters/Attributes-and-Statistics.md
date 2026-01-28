@@ -4,10 +4,14 @@ The capabilities of a [character](../Extras/Key-Terms#term-character) during [ba
 
 A character's stamina in battle is represented by two scores, their _<dfn id="term-hp">Hit Points</dfn>_ and their _<dfn id="term-mp">Mana Points</dfn>._  Throughout these rules, these will be shortened to <abbr title="hit points">HP</abbr> and <abbr title="mana points">MP</abbr>, respectively.  When a character is hit with an ability that counts as a [physical attack](../Combat-Rules/Attacking-and-Defending#term-physical-attack) or [magical attack](../Combat-Rules/Attacking-and-Defending#term-magical-attack), their HP is reduced by the calculated damage number.  When a character uses an ability that has an MP cost, their MP is reduced by that amount.  Character may never use an ability that costs more than their current MP, and a character's MP and HP can never go below zero.  If a character's HP is reduced to zero, they’re said to have been _<dfn id="term-downed">downed</dfn>._  A downed character cannot act and cannot be the target of more effects.  See [Death and Injury](../Combat-Rules/Death-and-Injury.md) for more details.
 
+## Attributes
+
 The core of a character's capabilities are made up of their attributes, three numbers from 1 to 10 that measure their relative aptitude in a particular domain of action.
 *  A character's _<dfn id="term-body">Body</dfn>_ is a measure of how adept they are at pushing their athletic abilities to the limit, from hand-eye coordination to endurance running.
 *  A character's _<dfn id="term-mind">Mind</dfn>_ is a measure of how quick and able they are at intellectually challenging tasks, from logical debate to solving mathematical puzzles.
 *  A character's _<dfn id="term-spirit">Spirit</dfn>_ is a representation of their strength of personality.  This governs their aptitude for social interactions, as well as their ability to empathize with others.
+
+## Statistics
 
 In [combat](../Combat-Rules/), a character's strengths and weaknesses are represented by 12 numbers known as their statistics.  Each statistic is either tied to a pool that they lose or gain depending on the situation, or a number that determines the probability that different outcomes will occur when they use their abilities in conjunction with the statistics of other characters.
 *  A character's _<dfn id="term-health">Health</dfn>_ is their [base](../Extras/Key-Terms#term-base) maximum HP during combat.  It is equal to their Body times 5 plus the bonus they receive from their class at [tier](../Characters/Character-Creation#term-tier) 1.
