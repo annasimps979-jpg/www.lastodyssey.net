@@ -2,7 +2,7 @@
 
 An _<dfn id = "term-accessory">accessory</dfn>_ is a kind of item that is worn on the body but is not a piece of armor.  There are three types of accessories: Head, Arm, and Loop.  [Characters](../../Extras/Key-Terms#term-character) may wear up to one Head accessory, two Arm accessories (one for both arms), and two Loop accessories (one on their neck and one on their waist) at a time.  Characters of any tier can wear any type of accessory, but characters may only wear a number of accessories at a time equal to their tier divided by two, at a minimum of 1.  This means that tier 1 characters can wear 1 accessory at a time, while tier 10 characters can wear 5 at a time, one on their Head, two on their Arms, and two Loops.
 
-There are no stacking Quality levels for accessories, but there are three unique variants of accessory for each slot.  _<dfn id = "term-lucky-accessory">Lucky</dfn>_ accessories grant a +1 bonus to their wearer's [Evasion](../../Characters/Attributes-and-Statistics#term-evasion), and _<dfn id = "term-mystical-accessory">Mystical</dfn>_ accessories grant a +1 bonus to their [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).  Both Lucky and Mystical accessories can have the same [upgrades](../../The-Economy/Equipment#term-equipment-upgrade) attached to them, one upgrade per accessory.  There are also more powerful _<dfn id = "term-unique-accessory">Unique</dfn>_ accessories, but these do not give you bonuses to your Evasion or Resistance.  In terms of [merchant](../../The-Economy/Merchants) offerings and [quest](../../Free-Play/Quests) rewards, characters will have access to Lucky and Mystical accessories at tiers 1-5, while characters above tier 5 will have access to Uniques as well.
+There are no stacking Quality levels for accessories, but there are three unique types of accessory for each slot.  _<dfn id = "term-lucky-accessory">Lucky</dfn>_ accessories grant a +1 bonus to their wearer's [Evasion](../../Characters/Attributes-and-Statistics#term-evasion), and _<dfn id = "term-mystical-accessory">Mystical</dfn>_ accessories grant a +1 bonus to their [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).  Both Lucky and Mystical accessories can have the same [upgrades](../../The-Economy/Equipment#term-equipment-upgrade) attached to them, one upgrade per accessory.  There are also more powerful _<dfn id = "term-unique-accessory">Unique</dfn>_ accessories, but these do not give you bonuses to your Evasion or Resistance.  In terms of [merchant](../../The-Economy/Merchants) offerings and [quest](../../Free-Play/Quests) rewards, characters will have access to Lucky and Mystical accessories at tiers 1-5, while characters above tier 5 will have access to Uniques as well.
 
 ## Accessory Upgrades
 
@@ -38,7 +38,7 @@ There are no stacking Quality levels for accessories, but there are three unique
 
 ## Example Accessories
 
-|Name|Variant|Slot|Upgrade|
+|Name|Type|Slot|Upgrade|
 |:-|:-|:-|:-|
 |Pilot Goggles|Lucky|Head|Targeting|
 |Soul Gem|Mystical|Loop|Mana Battery|
