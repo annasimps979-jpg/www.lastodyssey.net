@@ -12,7 +12,7 @@ In total, once per tier, a character can take each of the following advancements
 *  Advance a single attribute by 1.
 *  Advance a different attribute by 1.
 *  Unlock a new job or unlock a talent.
-*  Learn a flew power.
+*  Learn a flex power.
 
 ## Advancing Attributes
 When a player chooses to advance one of their character's attributes, they add +1 to either their [Body](../Characters/Attributes-and-Statistics#term-body), their [Mind](../Characters/Attributes-and-Statistics#term-mind), or their [Spirit](../Characters/Attributes-and-Statistics#term-spirit).  The next time they take this improvement during the same tier, they must improve a different attribute.  The maximum value that any of a character's attributes can have is 12.
