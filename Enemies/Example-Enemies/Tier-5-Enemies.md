@@ -258,7 +258,7 @@ Royal Militia are organized, disciplined, and utterly devoted to their task.  Th
 |Falcon Dive|Ranged|1 AP, 8 MP|Makes a physical attack against a single target that does physical thunder damage on a hit.|
 |Cloudsplitter|Multi|1 AP, 10 MP|Makes a melee physical attack against every enemy in the [front row](../../Combat-Rules/Starting-Battles#term-front-row) that does physical thunder damage on a hit.|
 |Challenge|Ranged|1 AP|Applies the Taunted status to a single one of the Paladin's enemies.|
-|Terrifying Combatant|Passive|The Paladin cannot be Slowed or Taunted, and will ignore the Guarded status if applied to any allies.|
+|Terrifying Combatant|Passive|N/A|The Paladin cannot be Slowed or Taunted, and will ignore the Guarded status if applied to any allies.|
 
 **Item Table** 
 
