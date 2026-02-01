@@ -20,4 +20,5 @@ This section outlines the goods and services that player characters will have ac
 * [Equipment:](Equipment/) Weapons, armor, and accessories.
 * [The Party Inventory:](The-Party-Inventory/) Battle items, travel items, and miscellaneous carried objects.
 * [Followers:](Followers) Characters that the [party](../Extras/Key-Terms#term-party) can hire with cr to aid them during [battle](../Extras/Key-Terms#term-battle).
+* [Follower Sheet:](Last-Odyssey-Follower-Sheet.pdf) A sheet for recording and tracking follower statistics.
 * [Merchants:](Merchants) Item vendors and how to create them.
