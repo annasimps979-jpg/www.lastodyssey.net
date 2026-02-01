@@ -22,7 +22,7 @@ _Strikers_ specialize in the Striker job, and carry a [Physical](../The-Economy/
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Beginner|100 cr|3|2|1|2|Mundane|1|1d4 Mundane|
 |Intermediate|500 cr|6|4|2|3|Rare|2|1d4 Rare|
-|Advanced|1000 cr|9|6|3|3|3|Expert|3|1d4 Expert|
+|Advanced|1000 cr|9|6|3|3|Expert|3|1d4 Expert|
 
 _Casters_ specialize in the Caster job, and carry a [Magical](../The-Economy/Equipment/Weapons#term-magical-weapon) weapon of the GM's choice and [Light](../The-Economy/Equipment/Armor#term-light-armor) armor.
 
