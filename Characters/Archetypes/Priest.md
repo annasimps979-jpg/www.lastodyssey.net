@@ -23,7 +23,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Prayer|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) of every [round](../../Combat-Rules/The-Combat-Round#term-round) of [battle](../../Extras/Key-Terms#term-battle), you and your allies regain 1 MP.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed) during the Effect Phase, this effect does not apply.|
+|Prayer|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) of every [round](../../Combat-Rules/The-Combat-Round#term-round) of [battle](../../Extras/Key-Terms#term-battle), you and your allies regain 1 MP.  If you are [downed](../../Combat-Rules/Death-and-Injury#term-downed) during the Effect Phase, this effect does not apply.|
 
 **Rank 4:** You gain +1 Magical Defense.
 
