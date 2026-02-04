@@ -49,7 +49,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Assassinate|Melee|1 [Anima](../../Free-Play/Anima#term-anima), 2 AP|Select an enemy and roll a 1d10.  That enemy loses a percentage of their remaining combined [HP](../../Characters/Attributes-and-Statistics#term-hp) and [Shell](../../Combat-Rules/Shells) equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
+|Assassinate|Melee|1 [Anima](../../Free-Play/Anima#term-anima), 2 AP|Select an enemy and roll [the outcome die](../../Extras/Key-Terms#term-outcome-die).  That enemy loses a percentage of their remaining combined [HP](../../Characters/Attributes-and-Statistics#term-hp) and [Shell](../../Combat-Rules/Shells) equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
 
 ## Talents
 
