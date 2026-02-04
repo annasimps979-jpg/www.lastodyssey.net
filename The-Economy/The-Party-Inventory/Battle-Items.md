@@ -91,7 +91,7 @@ At times, there is a need to quickly create new items.  If the [GM](../../Extras
 
 The result that matches the number you rolled on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Quality.  Mundane items are appropriate for characters of levels 1-4, Rare items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the margin is thin enough that you can get away with going one tier lower or higher.
 
-After you've rolled for the item effect, roll a 1d10.  If the result is a 7 or above, the item does not have any enhancements.  If the result is 1-6, the enhancement is shown on the table below:
+After you've rolled for the item effect, roll the [outcome die](../../Extras/Key-Terms#term-outcome-die).  If the result is a 7 or above, the item does not have any enhancements.  If the result is 1-6, the enhancement is shown on the table below:
 
 |Result|Enhancement|
 |:-|:-|
