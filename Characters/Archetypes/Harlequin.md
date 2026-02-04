@@ -15,7 +15,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Wager up to 5 times your [tier](../../Characters/Character-Creation#term-tier) [HP](../../Characters/Attributes-and-Statistics#term-hp), [MP](../../Characters/Attributes-and-Statistics#term-mp) and [Shell](../../Combat-Rules/Shells) against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
+|Gamble|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Wager up to 5 times your [tier](../../Characters/Character-Creation#term-tier) [HP](../../Characters/Attributes-and-Statistics#term-hp), [MP](../../Characters/Attributes-and-Statistics#term-mp) and [Shell](../../Combat-Rules/Shells) against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll [the outcome die](../Extras/Key-Terms#term-outcome-die).  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
 
 **Rank 2:** You gain +1 Status Accuracy.
 
@@ -57,9 +57,9 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 **[Caster](../../Characters/Jobs/Caster):** Rainbow Bolt.  When you use a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), you may roll on the Random Element Table to determine its elemental type.
 
-**[Healer](../../Characters/Jobs/Healer):** Bet Your Life.  When you heal an ally with a Healer ability, you can have them call a number and then roll a 1d10.  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
+**[Healer](../../Characters/Jobs/Healer):** Bet Your Life.  When you heal an ally with a Healer ability, you can have them call a number and then roll [the outcome die](../Extras/Key-Terms#term-outcome-die).  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
 
-**[Defender](../../Characters/Jobs/Defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../../Extras/Key-Terms#term-gm) rolls the [hit die](../../Combat-Rules/Attacking-and-Defending#term-hit-die).  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
+**[Defender](../../Characters/Jobs/Defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll [the outcome die](../Extras/Key-Terms#term-outcome-die) before the [GM](../../Extras/Key-Terms#term-gm) rolls the [hit die](../../Combat-Rules/Attacking-and-Defending#term-hit-die).  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
 
 **Support:** Random Buff.  When you use a buff ability, you may roll on the [Random Statistic Table](../../Extras/Random-Tables#term-random-statistic-table) to determine which [statistic](../../Extras/Key-Terms#term-statistic) you buff.
 
