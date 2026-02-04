@@ -43,7 +43,7 @@ As characters advance in tier, they will unlock unique capstone abilities that o
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Heal|[Ally](../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP|Heal either the eidolon or a single [party](../Extras/Key-Terms#term-party) member by an amount equal to the eidolon's Magical Attack.  If the ally is [downed](../Characters/Attributes-and-Statistics#term-downed), they are also revived.|
+|Heal|[Ally](../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP|Heal either the eidolon or a single [party](../Extras/Key-Terms#term-party) member by an amount equal to the eidolon's Magical Attack.  If the ally is [downed](../Combat-Rules/Death-and-Injury#term-downed), they are also revived.|
 |Cure|Ally|1 AP|Removes all debuffs and statuses from the eidolon or one of the party members.|
 
 **Defender:**
