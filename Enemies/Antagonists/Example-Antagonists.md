@@ -257,7 +257,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Knowledge is Power|Self|1 AP, 16 MP|The Savior buffs its Magical Defense by three steps on the Bonus Tracker.|
 |Power is Everything|Self|1 AP, 7 MP|The Savior restores 26 points of its Shell.|
 |Cure|Ally|1 AP, 12 MP|The Savior removes all statuses from a single target.  If it is advantageous, the Savior will also cast this on its enemies.|
-|Resurrection|Ally|1 AP, 15 MP|The Savior immediately restores a [downed](../../Characters/Attributes-and-Statistics#term-downed) character to half its maximum HP, rounded down.  This enemy will then gain the Puppet status, and will fight on the Savior's side until the status is removed.
+|Resurrection|Ally|1 AP, 15 MP|The Savior immediately restores a [downed](../../Combat-Rules/Death-and-Injury#term-downed) character to half its maximum HP, rounded down.  This enemy will then gain the Puppet status, and will fight on the Savior's side until the status is removed.
 |Alien Biology|Passive|N/A|The Savior will take damage from abilities and items that heal HP and MP, but will heal due to items that deal damage of any kind.  Damage from all other sources is taken as normal.|
 |They Walk Silently Among Us|Passive|N/A|The Savior is immune to the Scan ability as well as any equivalent abilities or items.|
 |Romance|Paradigm Action|1 Anima|The Savior designates a single one of its enemies as its Lover.  For the rest of the battle, the Lover will receive all damage, statuses, buffs, and debuffs that the Savior does, including Haste and Slow.  This effect cannot be removed by the effects of abilities or items, but the Savior can only have one Lover at a time, meaning that if it designates another Lover the first creature stops being one.|
