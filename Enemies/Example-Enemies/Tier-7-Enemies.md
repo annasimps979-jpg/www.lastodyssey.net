@@ -199,7 +199,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Crack Open|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical light damage on a hit.  In addition, each hit allows the Succubus to cast this spell for free against one additional target.|
-|Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the [GM](../../Extras/Key-Terms#term-gm) should roll a d10.  If the roll is above a 7, any Charmed [characters](../../Extras/Key-Terms#term-character) on the battlefield will take an extra [action](../../Extras/Key-Terms#term-action) of the GM's choice.|
+|Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the [GM](../../Extras/Key-Terms#term-gm) should roll the [outcome die](../../Extras/Key-Terms#term-outcome-die).  If the roll is above a 7, any Charmed [characters](../../Extras/Key-Terms#term-character) on the battlefield will take an extra [action](../../Extras/Key-Terms#term-action) of the GM's choice.|
 |Soul Eater|Special|1 AP|The Succubus makes a magical attack against a Charmed character that, on a hit, does magical colorless damage.  The Succubus then regains an amount of Shell equal to the amount of damage done to the target.|
 
 **Item Table** 
@@ -256,9 +256,9 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Sickle|Melee|1 AP|Makes a basic physical attack.|
 |Test Subject|Ranged|1 AP|The Torturer inflicts the Test Subject status on a single target.  This status can be healed, and only one character can be a Test Subject at a time.  The Torturer's Test Subject receives +1 total damage from all sources.|
-|Wheel of Knives|Special|1 AP, 8 MP|Roll a 1d10 and consult the [Random Element Table](../../Extras/Key-Terms#term-random-element-table).  The Test Subject takes physical damage of the resulting [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
-|Wheel of Pain|Special|1 AP, 5 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's magical attacks.|
-|Wheel of Misfortune|Special|1 AP, 7 MP|The Torturer's Test subject receives a random extra status that cannot be resisted, not even by immunity.  Roll a 1d10 and consult the Torturer's Elemental Table to see which status they receive.  Colorless corresponds to the subject not receiving any damage.|
+|Wheel of Knives|Special|1 AP, 8 MP|Roll on the [Random Element Table](../../Extras/Key-Terms#term-random-element-table).  The Test Subject takes physical damage of the resulting [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
+|Wheel of Pain|Special|1 AP, 5 MP|Roll on the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's magical attacks.|
+|Wheel of Misfortune|Special|1 AP, 7 MP|The Torturer's Test subject receives a random extra status that cannot be resisted, not even by immunity.  Roll on the Random Element Table to see which status they receive.  Colorless corresponds to the subject not receiving any damage.|
 
 **Item Table**
 
