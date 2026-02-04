@@ -107,7 +107,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 |:-|:-|:-|:-|
 |Claws|Melee|1 AP|Makes a basic physical attack.|
 |Fire Wisp|Ranged|1 AP, 10 MP|Makes a magical fire attack against a single enemy.  If this attack breaks their Shell, the attack can bounce to another target.|
-|Smelling Salts|Ally|1 AP, 15 MP|Revives a single [downed](../../Characters/Attributes-and-Statistics#term-downed) character back to half their maximum HP.|
+|Smelling Salts|Ally|1 AP, 15 MP|Revives a single [downed](../../Combat-Rules/Death-and-Injury#term-downed) character back to half their maximum HP.|
 |Bath Salts|Multi|1 AP, 10 MP|Buffs the Magical Attack of the Oni and its allies by one step on the Bonus Tracker.|
 |Soul Eater|Passive|N/A|If any of the Oni's enemies are downed during the Effect Phase, the Oni can drain all of the MP they died with from them.  If they are revived, they will come back with an MP of zero.|
 
