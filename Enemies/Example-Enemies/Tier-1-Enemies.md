@@ -104,7 +104,7 @@ In [combat](../../Combat-Rules/), police will swap between [rounds](../../Combat
 |Fists|Melee|1 AP|Makes a basic colorless physical attack.|
 |Discipline|Ally|1 AP, 5 MP|Buffs the Resistance of a single ally.|
 |Knock Some Sense Into Em|1 AP|Ally|Does 1 damage and restores 5 MP to a single ally.|
-|Faithful|Passive|N/A|If there is a Captain on the battlefield and they are hit by an attack that would otherwise down them, the Lieutenant is hit by the attack instead.|
+|Faithful|Passive|N/A|If there is a Captain on the battlefield and they are hit by an attack that would otherwise [down](../../Combat-Rules/Death-and-Injury#term-downed) them, the Lieutenant is hit by the attack instead.|
 
 **Item Table** 
 
