@@ -228,7 +228,7 @@ In combat, magi tend to know everything about their opponents, and will play as 
 |:-|:-|:-|:-|
 |Armblade|Melee|1 AP|Makes a basic physical attack.|
 |Puppets|Passive|N/A|All of the Homonculi on the battlefield share a common pool of AP equal to the sum of the AP each one has.|
-|Uncanny Movement|Passive|N/A|When the Homonculus makes a physical attack, the [GM](../../Extras/Key-Terms#term-gm) should roll the associated 1d10 twice and choose the result they take.|
+|Uncanny Movement|Passive|N/A|When the Homonculus makes a physical attack, the [GM](../../Extras/Key-Terms#term-gm) should roll the [hit die](../../Combat-Rules/Attacking-and-Defending#term-hit-die) twice and choose the result they take.|
 
 **Item Table** 
 
