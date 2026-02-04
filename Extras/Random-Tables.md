@@ -2,7 +2,7 @@
 
 ## <dfn id = "term-random-element-table">Random Element Table</dfn>
 
-When you use an [item](../The-Economy/The-Party-Inventory/), [ability](../Extras/Key-Terms#term-ability), or something else that has a random [elemental](../Combat-Rules/Elemental-Types#term-elemental-type) effect, roll a 1d10 and consult the table below to determine the result.  If you roll a 10, roll again instead.
+When you use an [item](../The-Economy/The-Party-Inventory/), [ability](../Extras/Key-Terms#term-ability), or something else that has a random [elemental](../Combat-Rules/Elemental-Types#term-elemental-type) effect, roll the [outcome die](../Extras/Key-Terms#term-outcome-die) and consult the table below to determine the result.  If you roll a 10, roll again instead.
 
 |Result|Element|
 |:-|:-|
@@ -19,7 +19,7 @@ When you use an [item](../The-Economy/The-Party-Inventory/), [ability](../Extras
 
 ## <dfn id = "term-random-statistic-table">Random Statistic Table</dfn>
 
-When you use an item, ability, or something else that affects a random [statistic](../Characters/Attributes-and-Statistics#term-statistic), roll a 1d10 and consult the table below to determine the result.  If you roll a 10, roll again instead.
+When you use an item, ability, or something else that affects a random [statistic](../Characters/Attributes-and-Statistics#term-statistic), roll the outcome die and consult the table below to determine the result.  If you roll a 10, roll again instead.
 
 |Result|Statistic|
 |:-|:-|
