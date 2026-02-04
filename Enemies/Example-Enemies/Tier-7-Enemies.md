@@ -51,7 +51,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |:-|:-|:-|:-|
 |Sharp Thingy|Melee|1 AP|Makes a basic physical attack.|
 |Boom|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 9 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
-|Tripwire|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to [move](../../Combat-Rules/The-Combat-Round#term-move) will automatically gain the [Petrified](../../Combat-Rules/Statuses#term-petrified) status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Characters/Attributes-and-Statistics#term-downed), the Tripwire leaves.|
+|Tripwire|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to [move](../../Combat-Rules/The-Combat-Round#term-move) will automatically gain the [Petrified](../../Combat-Rules/Statuses#term-petrified) status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Combat-Rules/Death-and-Injury#term-downed), the Tripwire leaves.|
 
 **Item Table**
 
