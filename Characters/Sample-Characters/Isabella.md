@@ -262,7 +262,7 @@
 |Full Restore|Self|1 Anima, 1 AP|The eidolon removes all status effects from itself and immediately restores itself to full HP.|
 |Shield|Self|1 AP|The eidolon reflects all physical attacks used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all enemies.  Attacks that the eidolon has used against itself simply have their damage negated.|
 |Barrier|Self|1 AP|The eidolon reflects all magical attacks used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all enemies.  Attacks that the eidolon has used against itself simply have their damage negated.|
-|Berserk Charge|Special|1 Anima, 2 AP|Your eidolon applies Focused to itself, and may make as many basic attacks as possible until Focused is removed.|
+|Berserk Charge|Special|1 Anima, 2 AP|Your eidolon applies Focused to itself, and makes 1d10 basic attacks.|
 |Dragonslayer|Melee|1 Anima, 2 AP|Makes a colorless physical attack against a single target.  If the target's HP is at maximum, the attack's damage is multiplied by 4 in addition to other modifiers.  Otherwise, it is multiplied by 2.|
 |Apocalypse|Multi|1 Anima, 2 AP|Make a thunder magical attack against all enemies on the battlefield.  On a hit, it deals 3x damage in addition to other multipliers.|
 |Mirror Shield|Self|1 Anima, 2 AP|Inflict the Mirrored status effect on your eidolon, which goes away at the beginning of its next turn.  While your eidolon is Mirrored, all magical attacks, physical attacks, and status-inflicting abilities are negated and reflected back onto the enemy that used them.|
