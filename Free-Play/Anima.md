@@ -25,6 +25,7 @@ Players can spend Anima in or out of [combat](../Combat-Rules/) in any of the fo
 *  In combat, they may spend 1 Anima to turn any die roll into either a 1 or a 10, with the exception of [calling Initiative](../Combat-Rules/Starting-Battles#term-calling-initiative).
 *  In and out of combat, they can spend 3 Anima to save themselves from True Death.  If so, they will be revived at 1 [HP](../Characters/Attributes-and-Statistics#term-hp) after the danger that threatened their life has passed.  They must do this at the moment of their own death, and they cannot intervene to save any other characters but themselves.
 *  Out of combat, they can spend 1 Anima to automatically succeed on a skill challenge.
+*  Out of combat, they can spend 1 Anima to ask whether or not the situation they are in is dangerous.
 *  Out of combat, they can spend 1 Anima to revive their eidolon to full HP.
 
 ## Scenes
