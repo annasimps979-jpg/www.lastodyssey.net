@@ -1,0 +1,12 @@
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      author: "Anna"
+
+include:
+  - "pages"
+
+liquid:
+  error_mode: "strict"

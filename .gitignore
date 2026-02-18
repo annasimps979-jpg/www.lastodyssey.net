@@ -1,0 +1,130 @@
+# GITIGNORE ####################################################################
+#
+# A “.gitignore” file is used to exclude (or explicitly include as exceptions to
+# an exclusion, etc) select files from being considered as sources of changes to
+# the codbase itself even if they appear on the local filesystem inside the repo
+# clone root directory (at whatever depth).
+#
+# Some files we ignore generically due to knowin’ that they’re detritus from the
+# local operating system that is never material to the source text proper — e.g.
+# the “.DS_Store” files that might get added on Mac OS or similarly “.Thumbs.db”
+# on Windows (note “hidden” files are not inherently excluded). Others are well-
+# known folders added by IDEs, like “/.vscode” (which I believe ya mentioned you
+# were usin’ fer local editin’?). This list ain’t exhaustive by any stretch, but
+# covers cases I figure would be the most likely to potentially arise:
+
+.DS_Store
+.Thumbs.db
+/.vscode/
+
+# During local development, “final” build artifacts (“assets”) land in “/_site/”
+# per _config.yml’s top-level `destination` field; that’s the default value. One
+# will not want to commit these derivative artifacts to the codbase proper:
+
+/_site/
+
+# Given the site is built with Jekyll by way of Bundler, the directories Bundler
+# might add upon running `bundler install` should be ignored by git, too. What’s
+# not this repo’s own source text dunt belong in the repo proper:
+
+/.bundle/
+/vendor/bundle
+
+# In general, one would actually want to commit a “/Gemfile.lock” file generated
+# when using `bundle install` to ensure the same versions of each dependency are
+# actually used fer deployment as one expected and tested in other environments:
+# the “/Gemfile” is the dependency manifest proper, but “/Gemfile.lock” records,
+# one could say, how exactly the “/Gemfile” was last interpreted to ensure there
+# ain’t nondeterministic factors in the mix. One wants builds to be reproducible
+# in a straightforward (input → output) way, yeah? However, because GitHub Pages
+# doesn’t implement a totally open-ended deployment system and has fixed facets,
+# we cannot rightly commit the dependency lockfile in this case. GitHub will use
+# a fixed version of the `pages-gem` dependency, among others, and as far as I’m
+# aware will ignore the `/Gemfile.lock` file altogether, so it’s likely best not
+# to commit it at all; it would just end up misleading, so it should be ignored.
+#
+# Fer more info on this see here: https://github.com/github/pages-gem/issues/768
+#
+# Note that because some dependency versioning is outside one’s one control, the
+# possibility would seem to exist that one day one may need to update `/Gemfile`
+# to reflect changes made on GitHub’s end to get local development to align with
+# what happens in production again. In general I’d expect it not to make much of
+# a difference (if any) in practice if GitHub bumps versions on some deps and it
+# isn’t precisely 1:1 anymore — but if ya run into plausibly related problems in
+# the future, it wouldn’t hurt to realign the `/Gemfile` with what GitHub really
+# uses and `bundle install` fresh. One can introspect fixed-version dependencies
+# of potential relevance to local dev at https://pages.github.com/versions.json.
+
+/Gemfile.lock
+
+# Fer now, let’s also say “.rvmrc” files shouldn’t be committed. This would be a
+# file configuring RVM, Ruby Version Manager, which we haven’t as yet spoken of,
+# but which someone workin’ on this might be usin’ nonetheless, and afaik, one’d
+# not actually want such files committed if usin’ a contemporary version of RVM.
+
+/.rvmrc
+
+# I’m unsure if these directories are presently used by Jekyll or not — but I’ve
+# seen ’em show up in gitignore files fer relatively recent Jekyll codbases, and
+# it dunt hurt to add ’em, so here’s two further cases to ignore that *maybe* do
+# still show up during local dev under at least some conditions:
+
+/.jekyll-cache/
+/.jekyll-metadata
+
+# Sass is a language which compiles to CSS; some people call this “transpiling,”
+# i.e. when the compilation target is itself a high-level textual language which
+# is generally authored by human beings more directly. Though there can be legit
+# reasons to employ “transpiled” tongues, usually it’s done either to permit the
+# use of contemporary language features which some of one’s target runtimes just
+# haven’t implemented yet (i.e. input and output are the same language, with the
+# idea being that eventually, this translation-to-an-older-more-verbose-solution
+# step ceases to be necessary) or to provide some form of static typing (this is
+# seen with TypeScript → ECMAScript/JavaScript, most famously), where the static
+# typing increases the range of unsound cod that can be detected in advance, but
+# isn’t part of the target language proper (and never would be, as it would just
+# be overhead at runtime by definition in any fully dynamic scripting language).
+# However in the Ruby-on-Railsverse, a fever fer “cutesy”, “invented here” langs
+# took hold in the late ’00s and early ’10s fer authoring web platform languages
+# indirectly. Fer CSS, these included Sass, LESS, and Stylus, all of which ended
+# up pretty widely adopted; fer ECMAScript, CoffeeScript alone succeeded, though
+# everyone who used it regretted it immensely in one to three years. As fer HTML
+# itself, the situation was a bit different: any site performing dynamic server-
+# side rendering of HTML was apt to have been using some kind of templating lang
+# to do so already, so the shift wasn’t towards having an intermediate language,
+# but towards having such languages depart syntactically from HTML (instead of a
+# superset approach using `<?processing-instruction nodes?>`, like in PHP). With
+# a tendency to drop closing tags and angle brackets and use semantic whitespace
+# some of the HTML templating tongues of that era interestingly enuf could maybe
+# be described as havin’ unearthed HTML’s earliest ancestry (HTML ← SGML ← GML).
+#
+# Unlike transpilation done fer backwards compatibility or static typing reasons
+# these tongues had no clear raison d’être beyond their shiny ruby-on-railsness,
+# and though they sometimes had merit and served to mark cowpaths which ended up
+# paved, they quickly ossified in place, the “target” languages rapidly becoming
+# more powerful and more expressive, on the whole, then the targetin’ languages.
+# This is why CoffeeScript is now a low-key swear word, an ancient curse invoked
+# knowingly like a one-werd ghost story among survivors ... but with CSS there’s
+# never been a single shocking recknoning event on the order of ES 2015 and many
+# of its authors are very tied to their niche and their tools in ways that leave
+# ’em toilin’ away more or less unaware that they’re now writing terrible CSS in
+# the most convoluted ways imaginable with most often no benefits to be found at
+# all. One ain’t apt to find any documentation encouraging human beings to write
+# CoffeeScript in Jekyll documentation, or related (contemporary) Stack Overflow
+# answers, say ... but cause Jekyll is from deep inside the R-on_R koolaidverse,
+# and because “Sass authors” over there never got the memos about CSS being able
+# to do everything Sass does but *much, much better* now, you will probably find
+# lots of docs that continue to pretend it’s normal to write Sass instead of CSS
+# in 2026 when googlin’ around this topic. Though it’s baked into Jekyll and its
+# pipeine, it is of course optional to use it, and I’d rather strongly encourage
+# one to avoid it and author CSS directly instead. Still, let’s cover all bases,
+# here: during local development, if one does make use of Sass (or perhaps: even
+# if Jekyll kinda “thinks” you have or might? dunno fer sure), one is apt to see
+# a “/.sass-cache/” directory sprout with intermediate asset representations fer
+# faster recompilation or whatever. It’s a transient artifact to be git-ignored.
+
+/.sass-cache/
+
+# That’s it fer now. In the future, there may certainly be more shit you’d wanna
+# add to this list, or stuff to remove from it fer that matter: the “.gitignore”
+# file itself *is* part of the codbase.
