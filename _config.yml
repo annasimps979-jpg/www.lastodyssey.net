@@ -1,12 +1,274 @@
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      author: "Anna"
+# _CONFIG.YML: THE ROOT JEKYLL CONFIGURATION FILE ##############################
+#
+# This is a YAML file. YAML originally stood fer “Yet Another Markup Language” —
+# even though the language in question wasn’t, at least by common definitions, a
+# markup language at all; rather, it was foremost a “data interchange language”,
+# like JSON¹, not a “markup language” like HTML or XML (i.e. languages where the
+# primary content is generally textual natural language that’s bein’ annotated).
+# Tho I dunno the whole story, this is probably part of why the name YAML became
+# retconned into “YAML Ain’t Markup Language”².
+#
+# YAML’s syntax — or the syntax of YAML 1.2.2 anyway — is formally defined here:
+#   https://yaml.org/spec/1.2.2/
+#
+# However, in practice, the YAML in this file (and other YAML files which Jekyll
+# might consume) is formally a subset of what YAML proper permits. YAML was very
+# terribly designed, originally, and its complexity and scope managed to turn it
+# into a real security vulnerability at large, so most contemporary projects are
+# careful to only support the subset of constructs that *dunt* potentially imply
+# evaluation of arbitrary cod durin’ the parsin’ of what oughta be “inert” data.
+# Jekyll, like most things in the Ruby ecosystem, uses a package called SafeYAML
+# to parse and model YAML; see https://github.com/dtao/safe_yaml fer more.
+#
+# Most of the biggest footguns in YAML comes from its flexibility with regard to
+# syntactic representations of strings. In general, quotation marks are optional
+# and strings end up delimited anyway according to arcane rules which align with
+# most people’s human intuitions ... until they dunt, of course — at which point
+# one is apt to no longer have any idea what the fuck is goin’ on. So while it’s
+# generally both safe and conventional to omit quotation marks (or heredoc style
+# delimiters fer multiline blocks of text) fer *keys* (i.e. if a colon follows),
+# I would strongly recommend using explicit delimiters to notate strings fallin’
+# on the right hand side of those colons and those that occur as elements within
+# arrays (i.e. those following a hyphen ... usually).
+#
+# As must as a trashfire as YAML is³, it’s basically okay when one sticks to the
+# basic data types and delimits strings. It’s fine a fine config format, and its
+# friendliness to arbitrary extension is presumably one of the reasons it’s used
+# by Jekyll: tho there are fixed definitions fer how _config.yml properties will
+# be interpreted, it’s clearly intentional that Jekyll plugins (as well as one’s
+# own Liquid templates) will be able to reference it in arbitrary ways; it’s all
+# pretty open-ended.
+#
+# The root data type of the YAML file is an object with string keys. Though it’d
+# be valid in theory to delimit this object with braces ({ ... }), typically one
+# would just begin by writing `property: value` entries at the top level, and no
+# commas are needed between ’em; line breaks are sufficient.
+#
+# ------------------------------------------------------------------------------
+# 1. JSON stands fer “JavaScript Object Notation”. JSON’s a narrow subset, or at
+#    least very near subset but fer one quirk, of the language described by ES’s
+#    nonterminal production `ObjectLiteral`. It permits expression of only a few
+#    literal types: Null (`null`), Boolean (`true`, `false`), Number, aka IEE754
+#    -2008’s binary floating point type, binary64 (`1`, `.1`, `-1`, etc), String
+#    (DOMString; an arbitrary sequence of UTF-16 code units; `"", "foo", "\r\n",
+#    "\uD800\uDC00", etc), integer-indexed arrays (`[ null, "x", "y" ]`, etc) of
+#    lengths less than 0xFFFF_FFFF in practice, and dictionaries mapping strings
+#    to arbitary values (`{ "foo": "bar", "baz": [ null, "x", "y" ] }`, etc). To
+#    represent other data types in JSON, one must carve out a convention fer it,
+#    e.g. `{ "$type": "BigInt", "$data": "1" }` might be a local represention of
+#    the BigInt value `1n`. Today, JSON’s likely the most commonly employed data
+#    interchange language on the web. It’s human readable, it’s relatively terse
+#    (which is good fer network traffic), and it’s readily consumed be ES cod in
+#    the client. However, its “readability” dunt translate into being a pleasure
+#    to *author* or maintain as source text, so outside the ECMAScript ecosystem
+#    it’s a relatively uncommon choice fer configuration files like this one. It
+#    should be noted, however, that YAML developed into a deliberate superset of
+#    JSON, such that every JSON file is consumable as a YAML file that in theory
+#    should have the same semantics.
+#
+# 2. Like “Yet Another...”, recursive acronyms like “YAML Ain’t Markup Language”
+#    are considered delightful by a certain species of dork.
+#
+# 3. See https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell
 
-include:
-  - "pages"
+# DIRECTORY CONFIGURATION ######################################################
+#
+# An annoying thing about Jekyll: it doesn’t (as far as I can tell, anyway) give
+# ya a clean and clear way to indicate the directory or set of directories whose
+# prefixed filepaths should be interpreted as url path segment literals pointin’
+# at an asset derived from the file in question. I am not the first person, it’s
+# turned out, to have gone down the painful path of trying to make this make any
+# sense, which is fortunate given it’s so hard to believe this basic stuff which
+# would keep the codbase hygienic and rational simply ain’t supported.
+#
+# Instead, any filepaths at all under the `source` directory which dunt begin w/
+# U+5F LOW LINE (_, underscore) are interpreted as “literal” by default — modulo
+# those specifically excluded or included by the `include` and `exclude` fields.
+# One can seemingly configure the paths to the various special directories which
+# Jekyll grants unique semantic significance, but oh! o ho ho! it’s all bullshit
+# actually! Per Jekyll’s own documentation, one should seemingly be able to e.g.
+# specify `source: "./pages/` and `loyouts_dir: "./layouts"`, but ... it ain’t a
+# supported combo, lol; the `layouts_dir` MUST be nested within the `source` dir
+# rendering such configuration options more or less entirely, utterly pointless.
+# Thus we will leave all of these options set to their default values — the only
+# values *really* supported in any meaningful sense — but we’ll nonetheless make
+# ’em all explicit here as follows (but with collections_dir as ./_collections):
+
+source          : "."              # The directory this file is in — repo’s root
+collections_dir : "./_collections" # Uhh this shit is weird & yr not usin’ it rn
+data_dir        : "./_data"        # Arbitrary YAML data consumable in templates
+includes_dir    : "./_includes"    # Liquid templates takin’ arbitary parameters
+layouts_dir     : "./_layouts"     # Liquid templates fer documents specifically
+plugins_dir     : "./_plugins"     # Custom Jekyll plugins (these would be Ruby)
+
+# The inverse of `source` is, in a sense, `destination`: the former directory is
+# the “input”, the latter’s the “output”, i.e. it’s where build artifacts end up
+# both during local development and — in theory, anyway? — production, or rather
+# the step prior to deployment when GitHub Pages runs Jekyll on the main branch.
+# By default, `destination` is set to "./_site/", and that’s what we’ll leave it
+# as, too. It is a lil gross that it lives beneath `source`, imo, but it will be
+# ignored by Jekyll *as* source, naturally — and the .gitignore will keep it out
+# of the repo source proper. I hate that the underscore prefix ends up makin’ it
+# look like it belongs to the above sequence; the bogus namespace is misleading.
+# I’m pretty sure github-pages also dunt permit this to be set to anything else?
+
+destination: "./_site"
+
+# This is the default exclusion list. Most of it’s inapplicable or redundant (as
+# Jekyll ignores files which begin with a "." by unless expressly included), but
+# again the goal is to make most of this invisible hidden magical shit explicit.
+
+exclude:
+  - ".sass-cache/"
+  - ".jekyll-cache/"
+  - "gemfiles/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules/"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+
+# Just makin’ defaults explicit again. The important one here is .git (you would
+# never be usin’ SVN: that’s another version control system, git’s predecessor).
+
+keep_files:
+  - ".git"
+  - ".svn"
+
+# BASIC BUILD SHIT #############################################################
+#
+# The `url` and `baseurl` fields are both misnamed. The `url` field really wants
+# an *origin*, which is the scheme, host, and, if it weren’t the special-scheme-
+# default (which is 443 fer https), the port number without userinfo or pathname
+# or query or fragment identifier components, and specifically, the prod origin;
+# during local development, the value specified here will usually be overridden.
+# Note that this bein’ an origin specifically means there must not be a slash at
+# the end; that would actually be a pathname component. Though I tut tut the bad
+# naming or `url`, the naming of `baseurl` merits a full enraged table flip. The
+# field is actually fer an optional prefix sequence of path segments to use like
+# a namespacing prefix to prepend to the paths of all endpoints. Right now you’d
+# want this to be empty. The reason the name is so infuriating to me is that the
+# terms “base url” / “base uri” are fully defined formal terms since pretty much
+# the origin of the web itself and certainly it does not mean this *at all* lol.
+# One need not be pedantic to find this naming failure disastrous: the terms are
+# actually used *correctly* by nearly all devs, which is unusual lol, and worse,
+# an option to *actually* set a default base url (e.g. fer the <base> element in
+# html documents being generated) *would* make sense in this context. It’s sorta
+# like somebody labelled the entrance to a hall of mirrors “emergency exit”. God
+# I do hate the ruby ecosystem lol nevermind this is just a regularass nerdrant.
+# The `encoding` option manages output encoding only afaik. The `theme` option’s
+# fer specifying a theme from one of the jekyll theme plugins, many of which are
+# installed with github-pages by default — probably to facilitate usage by folks
+# who perhaps wouldn’t have the context fer specifying deps via a Gemfile and so
+# on, but i dunno fer sure if that’s why they do it — even tho one would only be
+# usin’ one. Or zero — which is almost certainly the right number, in this case.
+
+baseurl  : ""      # default; the empty string
+encoding : "utf-8" # default, naturally: utf-8’s The (i.e. The Only) Encoding
+theme    : null    # go away! begone! vamoose!
+url      : "https://www.lastodyssey.net"
+
+safe                : true  # not gonna try explainin’ rn. default’s `false` lol
+disable_disk_cache  : false # this must end up `false` if `safe` is `true`, iiuc
+ignore_theme_config : true  # i.e. dunt merge this with a theme’s base _config.
+
+# MARKDOWN CONFIG ##############################################################
+#
+# These options might be static regardless of what we specify on the whole cause
+# it’d probably be a pain fer github-pages to “support” other markdown processor
+# stuff that would probably complicate a bunch of its own tasks in shitty ways —
+# but I ain’t sure yet; I haven’t dug in. I haven't worked out what all of these
+# fields and their defaults actually are yet. One thing we can set afaik is what
+# the `markdown_ext` file extension is. By default it accepts all sorts of shit,
+# weird extensions yr never gonna use, so it makes sense to me to just say it’ll
+# always specifically be `.md`.
+
+markdown     : "kramdown"
+markdown_ext : "md"
+
+# GLOBAL LOCALE CONFIGURATION ##################################################
+#
+# The `timezone` option is part of Jekyll proper; it takes an Olson timezone id.
+# I imagine you would want this to reflect your own timezone fer e.g. timestamps
+# that might appear in asset metadata or be rendered within HTML assets; this is
+# somethin’ set explicitly cause servers GitHub uses to build yr assets fer prod
+# could be (or could be configured as if they were) anywhere on earth.
+#
+# The `lang` field ain’t documented by Jekyll, but iiuc it’s expected by certain
+# jekyll plugins and is presumably supposed to be a BCP or IANA language tag and
+# in this case “en-US” would be appropriate.
+
+lang        : "en-US"
+timezone    : "America/Los_Angeles"
+
+# LIQUID CONFIGURATION #########################################################
+#
+# “Liquid” is the name of the templating engine that jekyll uses to process most
+# source text assets. The files you author aren’t, strictly speakin’, HTML, CSS,
+# markdown, etc, but rather “liquid templates” fer generating the same. Each can
+# have “front matter” that declares local variables that impact how the template
+# will be processed. Liquid templates can be referenced fer inclusion within one
+# another (tho not circularly, I’d assume) in various ways and its interpolation
+# metasyntax is based on doubled braces like so: {{ ... }}. Except where locally
+# disabled, such interpolated spans can occur anywhere one wishes within sources
+# following the optional “front matter” YAML block. That block opens with “---”,
+# i.e. as the first line of the file, and it continues till the next “---” line.
+#
+# You can read more about Liquid here: https://shopify.github.io/liquid/ — there
+# are many features you’re unlikely to have a need fer, but at the same time, it
+# may be the case that reading about some of ’em will give ya ideas about things
+# you just hadn’t realized might be options available to ya, prior to explorin’.
+#
+# Here we’re declaring some global/default configuration fer Liquid. By default,
+# Jekyll uses `error_mode: "warn"` instead of `error_mode: "strict"`. As a solid
+# rule of thumb, whenever one has the option of “strict” vs “anything else” when
+# it comes to “error” handling, there is actually nothing good which could ever,
+# ever come from choosing “anything else”. Exceptions to this are so exceedingly
+# rare that one might think software engineers would have learned by now to stop
+# trying to be clever about this stuff, but they have not. Receiving definitive,
+# unambiguous feedback in the form of “it does not work” is a *good thing* — and
+# a far better thing than receiving ignorable warnings that mean an *assumption*
+# has been made about yr likely intentions — an assumption which might be wrong.
+#
+# There’s a rub, tho. O ho ho, a rub, a rub, a rub! MAYHAPS PER-POSSIBLY BECAUSE
+# (????) Jekyll’s designers decided to leroy jenkins everything by default, it’s
+# turned out over time that lots of shit in the Jekyll ecosystem just sorta like
+# quietly expects to be able to generate total garbage, including some of what’s
+# included by github-pages. It should be possible to satisfy that BS by figurin’
+# out what the missing undocumented configuration they expect “but not really so
+# dunt sweat it homie” is in all such cases. When we do it oughta be possible to
+# enable `strict_variables` — but fer now we’re gonna have to set it to `false`.
+#
+# The `strict_front_matter` field, tho not nested under `liquid`, is more of the
+# same shit; we want it to be `true`, i.e. we want the build to fail if there is
+# a syntax error in a Liquid template’s “front matter” section instead of ?????.
 
 liquid:
-  error_mode: "strict"
+  error_mode       : "strict"
+  strict_filters   : true      # Nothin’ explodes from this bein’ on so far
+  strict_variables : false     # See the notes above
+
+strict_front_matter: true
+
+
+# LIQUID FRONT MATTER DEFAULTS #################################################
+#
+# TODO: Document this shit too once we have more of it sorted out.
+
+defaults:
+  scope:
+    path: ""
+  values:
+    layout: "default"
+
+# LOCAL DEVELOPMENT CONFIGURATION ##############################################
+
+detach : false # i.e. dunt detach the process. this would suck lol.
+port   : 80 # ‘special’ scheme `http`’s default port
+host   : www.lastodyssey.test
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"

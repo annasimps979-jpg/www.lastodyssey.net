@@ -106,4 +106,6 @@
 - [**Extras**](../Extras/)
   -  [Key Terms](../Extras/Key-Terms)
   -  [Random Tables](../Extras/Random-Tables)
-  -  [Table-of-Contents](../Extras/Table-of-Contents)
+  -  [Table of Contents](../Extras/Table-of-Contents)
+  -  [Formation Sheet](../Extras/Last-Odyssey-Formation-Sheet.pdf)
+  -  [Battlemap](../Extras/Last-Odyssey-Battlemap.pdf)
