@@ -1,5 +1,5 @@
 ---
-title: Silly Name
+title: "Silly Name"
 ---
 
 # Last Odyssey SRD
