@@ -18,6 +18,8 @@ The minimum amount of base damage you deal with an attack is 1.  However, the ba
 
 Some abilities, such as Cleave or Elemental Storm, will target multiple characters at once.  When you make one of these attacks, you only roll the hit die once and subtract the corresponding accuracy bonus from it.  However, to determine whether or not you hit each enemy and whether or not you deal damage if applicable, you should add each enemy's Evasion or Resistance to your roll individually to determine whether or not each enemy is hit.  For example, let's say you have a Physical Accuracy of 3 and a Physical Attack of 2.  You attack two enemies, and roll a 5 on the outcome die, meaning that your accuracy result is a 2 and your damage result is a 7.  The first enemy has an Evasion of 6 and a Physical Defense of 1, so you miss against them.  The second enemy has an Evasion of 2 and a Physical Defense of 3, so your attack hits them with a base damage of 4.
 
+## Ability Types
+
 Every ability that you use has an <dfn id = "term-ability-type">ability type</dfn> that specifies its target.  They are as follows:
 
 |Type|Description|
@@ -31,6 +33,10 @@ Every ability that you use has an <dfn id = "term-ability-type">ability type</df
 |<dfn id = "term-multi">Multi</dfn>|This ability targets more than one character on the battlefield.|
 |<dfn id = "term-reaction">Reaction</dfn>|This ability cannot be used as an action, but triggers automatically when certain conditions are met.|
 
+## Leaning In
+
 Sometimes, players may wish to attack allies instead of their enemies.  If so, the rule of thumb is that an ability used on the opposite side of the battlefield as intended works as though its user occupies the opposite side they currently do.  For example, if a player character uses an Ally ability on an enemy, it works as though that enemy were instead their ally.  If the ability in question is a physical attack, magical attack, or status-inflicting ability, the target of the ability may choose to be hit even if the roll on the hit die means that the ability ought to miss.  When brought up elsewhere in the rules, this is referred to as _<dfn id = "term-lean-in">leaning in.</dfn>_  Characters may also choose to lean into an ability used by one of their enemies if they wish.
+
+## Nonlethal Attacks
 
 Instead of doing lethal damage, [players](../Extras/Key-Terms#term-player) may instead choose to nonlethally _<dfn id = "term-knock-out">knock out</dfn>_ their opponents.  To do so, a player character must declare that they are executing an attack meant to knock an enemy out rather than kill.  The damage of the attack, if it hits, is calculated as though they had rolled a 1 on their attack roll.  If the enemy is [downed](../Characters/Attributes-and-Statistics#term-downed), they will be temporarily incapacitated instead of killed.

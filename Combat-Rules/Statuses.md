@@ -11,6 +11,8 @@ When a character successfully hits another with a status-inflicting ability, the
 |2x.|  The status is inflicted when the result of the status-inflicting ability roll is 7 or below instead of 5 or below.|
 |4x.|  The target cannot evade this status.|
 
+## Statuses By Elemental Type
+
 Unless otherwise stated, all statuses inflicted by abilities such as the [Artificer's](../Characters/Archetypes/Artificer) Scan are colorless.  However, there are nine that possess an elemental type, one for each elemental type:
 
 |Element|status|Description|
@@ -24,3 +26,10 @@ Unless otherwise stated, all statuses inflicted by abilities such as the [Artifi
 |[Thunder](../Combat-Rules/Elemental-Types#term-thunder)|<dfn id = "term-paralyzed">Paralyzed</dfn>|Any [physical attacks](../Combat-Rules/Attacking-and-Defending#term-physical-attack) the character makes automatically miss.  This includes basic attacks or counterattacks due to abilities.|
 |[Shadow](../Combat-Rules/Elemental-Types#term-shadow)|<dfn id = "term-silenced">Silenced</dfn>|Any [magical attacks](../Combat-Rules/Attacking-and-Defending#term-magical-attack) the character makes automatically miss.  This includes basic attacks or counterattacks due to abilities.|
 |[Wood](../Combat-Rules/Elemental-Types#term-wood)|<dfn id = "term-poisoned">Poisoned</dfn>|During the [Effect Phase](../Combat-Rules/The-Combat-Round#term-effect-phase) at the end of a round, this character takes damage equal to one tenth of their base maximum [HP](../Characters/Attributes-and-Statistics#term-hp) rounded down, with a minimum damage of 1.|
+
+## Statuses Outside of Combat
+
+At the end of a battle, most [statuses](../Combat-Rules/Statuses) and all [buffs](../Combat-Rules/Buffs-and-Debuffs#term-buff), [debuffs](../Combat-Rules/Buffs-and-Debuffs#term-debuff), [Shells](../Combat-Rules/Shells#term-shell), and other effects are removed from all participating characters, with the exception of [Burned](../Combat-Rules/Statuses#term-burned), [Poisoned](../Combat-Rules/Statuses#term-poisoned), and [Frostbitten](../Combat-Rules/Statuses#term-frostbitten), which instead linger in the following ways:
+*  Burned: Burned remains after combat, but can be healed if treated by a doctor or the [Mend](../Exploration-Rules/The-Travel-Round#term-mend-action) action.
+*  Poisoned: At the end of every [travel round](../Exploration-Rules/The-Travel-Round) during [exploration](../Exploration-Rules/) and every in-game day during [free play](../Free-Play/), Poisoned characters must roll the [outcome die](../Extras/Key-Terms#term-outcome-die) and add their [Resistance](../Characters/Attributes-and-Statistics#term-resistance) to the result.  If the result is below a 5, they take damage equal to one tenth of their max [HP](../Characters/Attributes-and-Statistics#term-hp), rounded down, with a minimum damage of 1.  If the result is above a 5, then they stop taking damage from Poisoned.  Poisoned can be healed if treated by a doctor or the Mend action.  If another battle starts before they are cured then they start taking damage every combat [round](../Combat-Rules/The-Combat-Round#term-round) again, and will start taking damage every day again after the battle is over.  The damage done by Poisoned outside of combat cannot ever cause a character to drop below 1 HP.
+*  Frostbitten: Frostbitten remains after combat, but can be healed if treated by a doctor or the Mend action.

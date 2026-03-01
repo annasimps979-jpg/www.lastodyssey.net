@@ -72,12 +72,12 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 
 |Rating|Items|
 |:-|:-|
-|1|5 [Supplies](../The-Economy/The-Party-Inventory/Travel-Items#term-supplies), Mundane [maps](../The-Economy/The-Party-Inventory/Travel-Items#term-map) of local [paths](../Exploration-Rules/Nodes-and-Paths#term-path).|
-|2|10 Supplies, Mundane maps of local paths.|
-|3|15 Supplies, Rare and Mundane maps of local paths, 1d4 varieties of [Scrolls](../The-Economy/The-Party-Inventory/Travel-Items#term-scroll).|
-|4|20 Supplies, Rare and Mundane maps of local paths, 1d4 varieties of Scrolls.|
-|5|25 Supplies, Expert, Rare, and Mundane maps of local paths, 1d4 Summon Creature items, 1d6 varieties of Scrolls, 1d4 Disable Attacks items.|
-|6|30 Supplies, Expert, Rare, and Mundane maps of local paths, 1d6 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Disable Attacks items.|
+|1|5 [Supplies](../The-Economy/The-Party-Inventory/Travel-Items#term-supplies), Mundane [maps](../The-Economy/The-Party-Inventory/Travel-Items#term-map) of local [paths](../Exploration-Rules/Nodes-and-Paths#term-path), 1d4 Shell items.|
+|2|10 Supplies, Mundane maps of local paths, 1d4 Shell items.|
+|3|15 Supplies, Rare and Mundane maps of local paths, 1d4 varieties of [Scrolls](../The-Economy/The-Party-Inventory/Travel-Items#term-scroll), 1d4 Shell items.|
+|4|20 Supplies, Rare and Mundane maps of local paths, 1d4 varieties of Scrolls, 1d4 Shell items.|
+|5|25 Supplies, Expert, Rare, and Mundane maps of local paths, 1d4 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Shell items.|
+|6|30 Supplies, Expert, Rare, and Mundane maps of local paths, 1d6 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Shell items.|
 
 ### Other Merchants
 

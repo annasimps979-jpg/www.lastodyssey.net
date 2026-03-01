@@ -9,6 +9,8 @@ Each day of travel while the [party](../Extras/Key-Terms#term-party) is followin
 
 Traveling with a caravan is highly advantageous.  However, the drawback is that valuable goods tend to make an enticing target for roving [enemies](../Enemies/).  While traveling along a path with a given caravan, the [danger rating](../Exploration-Rules/Nodes-and-Paths#term-danger-rating) of the path counts as twice the value it would have if the players were to traverse it alone.  This can bring the danger rating of the path above 5.
 
+## Caravan Creation
+
 To create a caravan, the GM should walk through the following steps:
 1.  Determine route.  To save money and time, caravans will travel between the most profitable towns.  Caravans with very long routes will have at least one designated path they could hire the party to accompany them on in a particular direction.
 2.  Calculate the payout.  This is equal to the number of paths they will accompany the caravan on multiplied by 100 multiplied by the current tier for each individual player character.  The salary for the players will generally be paid out at the end of each path.
@@ -19,6 +21,8 @@ To create a caravan, the GM should walk through the following steps:
 Long journeys between major settlements or journeys across otherwise impassable regions are handled by <dfn id = "term-transit-service">transit services</dfn>, which are vehicles or large creatures owned and operated by companies that take a fixed fee to ferry passengers between nodes.  Transit services cover riverboats, airships, marine vessels, and the like.  To make use of a transit service, player characters just need to pay the fee, which depends on the danger rating of the route being followed.  Safe passage will cost 500 cr per person per ride, while a route with a danger rating of 1 will cost 100 per person per ride and a danger rating of 2 will cost 50 cr per person per ride.  Danger ratings higher than 2 are unprofitable, and transit services will not be available in this case.
 
 Transit services whose routes take longer than a day will handle all accommodations for the player characters.  [Resting](../Free-Play/Resting) during this time counts as resting in a tavern, and players will not need to spend Supplies in order to be fed or properly sheltered.  They are also totally unable to take any actions normally associated with a travel round.  The only thing the GM needs to do each day is make an [encounter roll](../Exploration-Rules/The-Travel-Round#term-encounter-roll); if the result corresponds to an enemy encounter based on the danger rating of the roll, the players will have to help fend one off.  Otherwise, days spend in transit are uneventful, and a good chance for player characters to Gossip with passengers.
+
+## Transit Service Creation
 
 To create a new transit service, the GM should walk through the following steps:
 1.  Determine the route the service follows, including how long it will take to ride it.  Typical travel times range from 1 day up to a week.

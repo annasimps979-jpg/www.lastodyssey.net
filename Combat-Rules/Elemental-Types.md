@@ -13,7 +13,11 @@ Player characters, enemies, [eidolons](../Characters/Eidolons#term-eidolon), and
 
 An [ability](../Extras/Key-Terms#term-ability) or [character](../Extras/Key-Terms#term-character) that does not have an elemental type is referred to as _<dfn id = "term-colorless">colorless</dfn>._  Unless they have a [Shell](../Combat-Rules/Shells) active, player characters count as colorless for the purpose of calculating the damage they take from enemy attacks.
 
+## Elemental Damage
+
 All abilities with an elemental type have their effects modified by the elemental type of the target.  For example, the damage that a [physical](../Combat-Rules/Attacking-and-Defending#term-physical-attack) or [magical attack](../Combat-Rules/Attacking-and-Defending#term-magical-attack) does is multiplied by an amount determined by both the elemental type of the attack and the elemental type of the target.  Characters with a Shell active will count as having the Shell's elemental type for the purposes of calculating how much damage they receive.  All elements will have as many types they do more damage to and less damage to, but not always to the same degree.  As an example, Wood does 2x damage against Light, Shadow, and Wind, while Fire does 2x damage against Wood and 4x damage against Ice.
+
+## Elemental Multipliers
 
 When you are trying to determine the damage multiplier for a particular attack, consult the table below by finding the elemental type of the attack listed in the left-hand column and matching it with the elemental type of the target on the top row.  The correct damage multiplier is in the cell at the intersection of the row the attacker's element occupies and the column the defender's element occupies.  If either the attack or the target are colorless, the elemental multiplier is automatically equal to one.  When the resulting damage that a character takes after all multipliers are taken into account is not equal to an integer, round that number down to the nearest integer.  For example, if a character takes 2.5 damage according to the elemental table, this only counts as taking 2 damage in practice.
 

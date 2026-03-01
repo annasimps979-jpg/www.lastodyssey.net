@@ -12,7 +12,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Effect|Base Cost|Description|
 |:-|:-|:-|
 |Restore HP|1 cr|When used, this item restores a fixed amount of [HP](../../Characters/Attributes-and-Statistics#term-hp) to a single [character](../../Extras/Key-Terms#term-character).  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
-|Restore MP|3 cr|When used, this item restores a fixed amount of [MP](../../Characters/Attributes-and-Statistics#term-mp) to a single character.  If it is Mundane, it restores 5 MP, if it is Rare it restores 10, and if it is Expert it restores 20.|
+|Restore MP|3 cr|When used, this item restores a fixed amount of [MP](../../Characters/Attributes-and-Statistics#term-mp) to a single character.  If it is Mundane, it restores 10 MP, if it is Rare it restores 20, and if it is Expert it restores 30.|
 |Physical Damage|5 cr|When used, this item deals [base](../../Extras/Key-Terms#term-base) [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Magical Damage|5 cr|When used, this item deals base colorless magical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Special Damage|7 cr|When used, this item deals base [elemental](../../Combat-Rules/Elemental-Types#term-elemental-type) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
@@ -32,7 +32,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Negate Resistances|50 cr|This item negates all of a target's elemental resistances until the beginning of the target's next [turn](../../Combat-Rules/The-Combat-Round#term-turn).|
 |Block Physical Damage|100 cr|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
 |Block Magical Damage|400 cr|The next time the target of this item would otherwise take magical damage, they do not take any damage instead.|
-|Disable Attacks|700 cr|The target of this item cannot use any [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), or status-inflicting abilities during their next turn.|
+|Shell|10 cr|The target of this item gains 10 Shell of the corresponding elemental type.|
 |Haste|800 cr|The target of this item becomes [Hasted](../../Characters/Jobs/Support).  This still cannot stack with any other applications of Hasted.|
 |Slow|900 cr|The target of this item becomes [Slowed](../../Characters/Jobs/Saboteur).  This still cannot stack with any other applications of Slowed.|
 |Summon Creature|1000x(Tier of summoned creature)|When you use this item, it summons a creature, usually an [enemy](../../Enemies/) of some type, to fight as an ally on your side.  The first time it can take its turn is during the [round](../../Combat-Rules/The-Combat-Round#term-round) after you summoned it, but it can be targeted as soon as it is summoned.|
@@ -84,7 +84,7 @@ At times, there is a need to quickly create new items.  If the [GM](../../Extras
 |14|Negate Resistances|
 |15|Block Physical Damage|
 |16|Block Magical Damage|
-|17|Disable Attacks|
+|17|Shell|
 |18|Haste|
 |19|Slow|
 |20|Summon Creature|

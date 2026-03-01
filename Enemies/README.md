@@ -8,6 +8,8 @@ Each enemy on the battlefield has combat statistics and a set of [abilities](../
 2.  _Hide enemy statistics._  The Scan ability and the mechanics around information assume that players will be ignorant of the current [HP](../Characters/Attributes-and-Statistics#term-hp), [MP](../Characters/Attributes-and-Statistics#term-mp), [Shell](../Combat-Rules/Shells), statistics, and abilities of an enemy unless they put effort into learning them, and thus the GM should not reveal them unless the right conditions are met.
 3.  _Tell players what they've done, and what's been done to them._  GMs should tell them how much damage they are doing to enemies, what [statuses](../Combat-Rules/Statuses) have been inflicted on all characters, and how much damage they are taking.
 
+## Enemy Types
+
 Enemies differ from player characters in a few important ways.  First, enemies begin with a Shell of their [elemental type](../Combat-Rules/Elemental-Types#term-elemental-type) in addition to their [HP](../Characters/Abilities-and-Statistics#term-hp).  Enemies also count as their elemental type for the purpose of calculating the damage they receive.  Finally, each enemy has a _<dfn id = "term-creature-type">creature type</dfn>,_ which is a single word that describes what kind of being it is.  In the base game, there are ten creature types: 
 * _<dfn id = "term-human">Humans</dfn>_ are creatures that are or are approximate to human beings.
 * _<dfn id= "term-construct">Constructs</dfn>_ are creatures that were deliberately created by another being.
@@ -21,6 +23,8 @@ Enemies differ from player characters in a few important ways.  First, enemies b
 * _<dfn id = "term-horror">Horrors</dfn>_ are creatures that are twisted, bent, or otherwise uncategorizable.
 
 An enemy's description will list their [tier](../Characters/Character-Creation#term-tier), their creature type, their elemental type, and whether they are Normal, Elite, or an Antagonist for the purposes of XP calculation.  The header for every monster will look like this: ((XP Type) (Tier), (Creature Type), (Elemental Type)).  This will then be followed by their combat statistics and their abilities.
+
+## List of Sections
 
 GMs who need to fill combat encounters with enemies for their [campaign](../Extras/Key-Terms#term-campaign) should consult the following sections:
 * [Encounter Creation:](Encounter-Creation) A guide to creating and roleplaying combat encounters.
