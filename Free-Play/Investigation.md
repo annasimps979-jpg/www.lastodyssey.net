@@ -8,7 +8,9 @@
 |:-|:-|
 |<dfn id = "term-tracking">Tracking</dfn>|When attempting to find information by making direct use of their character's five senses, the player should roll equal to or under their character's [Body](../Characters/Attributes-and-Statistics#term-body).|
 |<dfn id = "term-research">Research</dfn>|When attempting to find information using technical or academic knowledge such as reading and mathematics, the player should roll equal to or under their character's [Mind](../Characters/Attributes-and-Statistics#term-mind).|
-|<dfn id = "term-gossip">Insight</dfn>|When attempting to find information based on social insight, such as observation of people's expressions and mannerisms, the player should roll equal to or under their character's [Spirit](../Characters/Attributes-and-Statistics#term-spirit).|
+|<dfn id = "term-insight">Insight</dfn>|When attempting to find information based on social insight, such as observation of people's expressions and mannerisms, the player should roll equal to or under their character's [Spirit](../Characters/Attributes-and-Statistics#term-spirit).|
+
+If players do not have any questions in mind, they can participate in a _<dfn id = "term-directionless-investigation">directionless investigation</dfn>._  During a directionless investigation, a player declares what their character does rather than ask any questions of the GM.  They will then learn 1d4 pieces of information of the GM's choice.  Undergoing a directionless investigation also expends the same amount of time that an investigation roll related to the same topic would take.
 
 ## Investigation in Free Play
 
@@ -17,6 +19,10 @@ Whether a [player character's](../Extras/Key-Terms#term-player-character) attemp
 If an [NPC](../Extras/Key-Terms#term-npc) or other player character aids the character whose player is making an investigation roll, each additional investigation roll does not increase the total number of questions asked.  Instead, each of the participants makes the same check separately, and if one of them rolls equal to or under the relevant attribute, they may all ask 2d6 questions in total.  If none of them roll equal to or above the required number, they may only ask 1d6 questions in total instead.
 
 If certain kinds of information are not accessible via a regular investigation roll, players also have the option of earning it as a reward for tasks or directly buying it with [cr](../The-Economy#term-cr).  When taking this option, a question that is common knowledge for people in the area is worth 1 cr, a question that is only answerable by a professional is worth 5 cr, and a question that is rare or unique is worth at least 100 cr, if not more, in addition to the blood, sweat, and tears involved in figuring out whom to ask.  Not everyone can be bribed, of course, but people of influence and people whose professions revolve around knowledge gathering will be happy to accept money in exchange for sharing what they know.
+
+## Investigation During Travel
+
+When contextually appropriate, characters may make one single investigation roll during the Camping Phase of the [travel round](../Exploration-Rules/The-Travel-Round) in addition to the main action they are taking.  For example, if they take the [Watch](../Exploration-Rules/The-Travel-Round#term-watch-action) action, they could make a Tracking roll to use their senses to ask questions about the area around their campsite.  In addition, any time they spend a long time with an NPC during either the [Camping Phase](../Exploration-Rules/The-Travel-Round#term-camping-phase) or an equivalent amount of time, such as when [resting](../Free-Play/Resting), they can always make a directionless investigation to learn a few things the NPC knows.  Learning information in this manner is referred to as _<dfn id = "term-gossip">Gossip</dfn>._
 
 ## What Counts As An Investigation Roll?
 
@@ -27,7 +33,3 @@ Not every question that the players ask will be worthy of an investigation roll.
 *  Questions about [Antagonists](../Enemies/Antagonists/), including their past and present activities, their abilities, how much power and Anima they have accumulated, and what they might be planning.
 *  Questions about Lore, particularly Lore that the source the players are investigating specializes in.
 *  Any other rumors that lead players in the right direction of their current quests.
-
-## Directionless Investigation
-
-If players do not have any questions in mind, they can participate in a _<dfn id = "term-directionless-investigation">directionless investigation</dfn>._  During a directionless investigation, a player declares what their character does rather than ask any questions of the GM.  They will then learn 1d4 pieces of information of the GM's choice.  Undergoing a directionless investigation also expends the same amount of time that an investigation roll related to the same topic would take.
