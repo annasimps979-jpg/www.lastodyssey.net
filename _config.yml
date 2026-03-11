@@ -94,25 +94,12 @@
 # values *really* supported in any meaningful sense — but we’ll nonetheless make
 # ’em all explicit here as follows (but with collections_dir as ./_collections):
 
-source          : "."              # The directory this file is in — repo’s root
-collections_dir : "./_collections" # Uhh this shit is weird & yr not usin’ it rn
-data_dir        : "./_data"        # Arbitrary YAML data consumable in templates
-includes_dir    : "./_includes"    # Liquid templates takin’ arbitary parameters
-layouts_dir     : "./_layouts"     # Liquid templates fer documents specifically
-plugins_dir     : "./_plugins"     # Custom Jekyll plugins (these would be Ruby)
-
-# The inverse of `source` is, in a sense, `destination`: the former directory is
-# the “input”, the latter’s the “output”, i.e. it’s where build artifacts end up
-# both during local development and — in theory, anyway? — production, or rather
-# the step prior to deployment when GitHub Pages runs Jekyll on the main branch.
-# By default, `destination` is set to "./_site/", and that’s what we’ll leave it
-# as, too. It is a lil gross that it lives beneath `source`, imo, but it will be
-# ignored by Jekyll *as* source, naturally — and the .gitignore will keep it out
-# of the repo source proper. I hate that the underscore prefix ends up makin’ it
-# look like it belongs to the above sequence; the bogus namespace is misleading.
-# I’m pretty sure github-pages also dunt permit this to be set to anything else?
-
-destination: "./_site"
+source          : "."            # The directory this file is in — repo’s root
+collections_dir : "_collections" # Uhh this shit is weird & yr not usin’ it rn
+data_dir        : "_data"        # Arbitrary YAML data consumable in templates
+includes_dir    : "_includes"    # Liquid templates takin’ arbitary parameters
+layouts_dir     : "_layouts"     # Liquid templates fer documents specifically
+plugins_dir     : "_plugins"     # Custom Jekyll plugins (these would be Ruby)
 
 # This is the default exclusion list. Most of it’s inapplicable or redundant (as
 # Jekyll ignores files which begin with a "." by unless expressly included), but
@@ -130,12 +117,136 @@ exclude:
   - "vendor/gems/"
   - "vendor/ruby/"
 
+# We must explicitly include ./_subresources because the first character is U+5F
+# LOW LINE (aka underscore), and by default, Jekyll will ignore such file paths,
+# modulo those it grants further special semantics to, and this one isn’t magic;
+# it’s just what I’ve named the directory holding subresources. Those of textual
+# media types will potentially be processed as templates like other source texts
+# located in non-magical (or less magical) Jekyll directories to generate static
+# assets which will, in this case, indeed be served from endpoints at paths that
+# begin with /_subresources/.
+#
+# Subresource fetches are those whose destinations are (ε), audio, audioworklet,
+# font, image, json, manifest, paintworklet, script, style, track, video, xslt,
+# or a handful of other values introduced with relatively young features or that
+# are still considered experimental, even if only in formal or political senses.
+# It’s easier, perhaps, to say which destinations would be fer non-subresources:
+# document, embed, frame, iframe, object, report, serviceworker, sharedworker,
+# worker — and some novel or tentative destinations, once again, but the theme’s
+# now laid out: a subresource fetch is one begun to realize the runtime behavior
+# of another resource. The rest are “entrypoint” fetches which the user agent is
+# directly responsible fer kickin’ off (user-initiated navigation, spinning up a
+# service worker, reporting a security violation, etc) or which, though effected
+# more or less by author code, could nonetheless imply creation of a new “Agent”
+# (ECMAScript formalism sense) that’s not associated with a worklet ... roughly?
+#
+# The files in ./_subresources correspond to resources which are expected to end
+# up being fetched as subresources (i.e. requests with sec-fetch-dest fields set
+# to values like those we enumerated above). To *be* a subresource is a property
+# of concrete instances of fetching at runtime, however, so there’s nothing that
+# strictly guarantees that the static resources generated from these files would
+# exclusively be the response bodies sent in reply to subresource fetches alone.
+# This is almost like pointing out that one can eat tide pods, however: while it
+# is technically true that one could, it ain’t an anticipated tide pod use case.
+#
+# Note that the strings in this array specifically aren’t delimited by quotation
+# marks. Earlier I’d advised that one would generally be best off using explicit
+# string delimiters because the YAML lexical grammar is an absurd eldritch thing
+# which specifically yearns to harm you and those you love and should be feared.
+# Why on earth would I have deliberately encoded these string literals (and only
+# these) without delimiters, then? It turns out Jekyll is doing something insane
+# and has been fer over a decade but closed the issue about it because fixing it
+# was scary and nobody wanted to. No, this ain’t documented anywhere, of course.
+# The implications of this bug, btw, are straight up “eldritch horror”, as there
+# wouldn’t be a way fer a consumer of the parsed YAML to be sensitive to this if
+# the parser and its caller were engaging the source text the least bit soundly.
+
+include:
+  - _subresources
+
+# The inverse of `source` is, in a sense, `destination`: the former directory is
+# the “input”, the latter’s the “output”, i.e. it’s where build artifacts end up
+# both during local development and — in theory, anyway? — production, or rather
+# the step prior to deployment when GitHub Pages runs Jekyll on the main branch.
+# By default, `destination` is set to "./_site/", and that’s what we’ll leave it
+# as, too. It is a lil gross that it lives beneath `source`, imo, but it will be
+# ignored by Jekyll *as* source, naturally — and the .gitignore will keep it out
+# of the repo source proper. I hate that the underscore prefix ends up makin’ it
+# look like it belongs to the above sequence; the bogus namespace is misleading.
+# I’m pretty sure github-pages also dunt permit this to be set to anything else?
+
+destination: "_site"
+
 # Just makin’ defaults explicit again. The important one here is .git (you would
 # never be usin’ SVN: that’s another version control system, git’s predecessor).
 
 keep_files:
   - ".git"
   - ".svn"
+
+# This setting just tells Jekyll not to generate index pages that present a list
+# of links to files and directories within a directory simply because it doesn’t
+# have an index.html or index.md or README.md file. Though such pages are pretty
+# useful during local development sometimes, an index page fer a path that ain’t
+# really anticipatin’ navigation such as /_subresources/ would be weird in prod,
+# and elsewhere it’d more likely suggest a mistake than that one actually wanted
+# such a page to be generated.
+
+show_dir_listing: false
+
+# These boolean-value fields relate to the inclusion or exclusion of posts based
+# on either file paths or their resolved `page` data (e.g. from frontmatter). It
+# remains pretty fuzzy to me how posts and collections relate to one another and
+# at the time of writing these features just ain’t bein’ leveraged anywhere yet.
+# If show_drafts were true, I believe files under ./_drafts/** end be treated as
+# posts / collection members — or something like that. Note that in this case it
+# would seem the directory name is arbitarily hardcoddded; there’s no drafts_dir
+# field, afaict. If future were true, then posts with a `page.date` string which
+# is interpreted as describing a date in the future (i.e. later than system time
+# and taking the timezone setting into account, potentially?) would be included;
+# otherwise they’d stay unpublished — which brings us to yet another iffy naming
+# decision. If unpublished were true, then posts fer which `page.unpublished` is
+# truthy would be included; otherwise they’re omitted. IIUC the idea is that the
+# latter is meant to refer to posts which actually WERE published but which were
+# subsequently, as one might put this in the English language anyway, WITHDRAWN;
+# PUBLISHED works which were WITHDRAWN from FURTHER publication. So if one needs
+# to indicate a post has been withdrawn, one does so by setting page.unpublished
+# to true, presumably via frontmatter, and to indicate a post is unpublished one
+# sets page.date to a date that’s not yet come to pass, if one knows the future,
+# and would dump it in ./_drafts if one does not. Or Something like that. Anyway
+# in all three scenarios it seems very unlikely that we’d want these set to true
+# unless fer the sake of local testing.
+
+future      : false
+show_drafts : false
+unpublished : false
+
+# These settings configure jekyll-readme-index plugin that comes with the GitHub
+# Pages plugin; it’s responsible fer mapping a README.md filename to index.html.
+# These are the default settings apart from the remove_originals property value;
+# it defaults to false and we set it to true. It’s misnamed, of course; it being
+# true does not actually mean the plugin will start removing originals, i.e. the
+# README.md source text files; instead what this boolean controls is whether the
+# build should, in addition to generating index.html assets fer README.md files,
+# also generate a static markdown asset from the same source text with README.md
+# (or whatever matched the pattern) as its name. The static markdown asset would
+# not necessarily be bitwise identical to the original source text file and it’s
+# not a question of whether it oughta be removed; it’s whether to generate it at
+# all. As the answer would obviously be no 99% of the time, the default behavior
+# seems more or less nonsensical. Hilariously, the plugin repo enumerates all of
+# these options but neglects to say what that one and with_frontmatter really do
+# anywhere. I guess we’re just supposed to know ... from their bogus names, lol?
+# I think, but am not the least bit certain, that with_frontmatter might make it
+# so the plugin *only* applies to README.md (etc) files if they include the YAML
+# frontmatter preamble? Unless maybe it excludes those by default and setting it
+# to true includes ’em? Who fucking knows / I guess we’ll learn in time; nothing
+# is actually documented anywhere.
+
+readme_index:
+  enabled:          true
+  readme_pattern:   nil
+  remove_originals: true
+  with_frontmatter: false
 
 # BASIC BUILD SHIT #############################################################
 #
@@ -170,7 +281,7 @@ encoding : "utf-8" # default, naturally: utf-8’s The (i.e. The Only) Encoding
 theme    : null    # go away! begone! vamoose!
 url      : "https://www.lastodyssey.net"
 
-safe                : true  # not gonna try explainin’ rn. default’s `false` lol
+safe                : true  # default is false, but ends up `true` with GH Pages
 disable_disk_cache  : false # this must end up `false` if `safe` is `true`, iiuc
 ignore_theme_config : true  # i.e. dunt merge this with a theme’s base _config.
 
@@ -185,8 +296,14 @@ ignore_theme_config : true  # i.e. dunt merge this with a theme’s base _config
 # weird extensions yr never gonna use, so it makes sense to me to just say it’ll
 # always specifically be `.md`.
 
+highlighter  : "rouge"
 markdown     : "kramdown"
 markdown_ext : "md"
+
+kramdown:
+  entity_output      : "as_char"
+  math_engine        : "mathjax"
+  syntax_highlighter : "rouge"
 
 # GLOBAL LOCALE CONFIGURATION ##################################################
 #
@@ -195,12 +312,7 @@ markdown_ext : "md"
 # that might appear in asset metadata or be rendered within HTML assets; this is
 # somethin’ set explicitly cause servers GitHub uses to build yr assets fer prod
 # could be (or could be configured as if they were) anywhere on earth.
-#
-# The `lang` field ain’t documented by Jekyll, but iiuc it’s expected by certain
-# jekyll plugins and is presumably supposed to be a BCP or IANA language tag and
-# in this case “en-US” would be appropriate.
 
-lang        : "en-US"
 timezone    : "America/Los_Angeles"
 
 # LIQUID CONFIGURATION #########################################################
@@ -252,22 +364,181 @@ liquid:
 
 strict_front_matter: true
 
-
-# LIQUID FRONT MATTER DEFAULTS #################################################
+# TEMPLATE INTERPRETATION & FRONT MATTER DEFAULTS ##############################
 #
-# TODO: Document this shit too once we have more of it sorted out.
+# Source files of common textual media types will generally be treated as Liquid
+# templates if their content begins with the “---” line that begins a YAML block
+# delimited by another such line, even if no other lines appear between them; in
+# Jekyll parlance, this mixed media preamble is called the file’s “frontmatter”.
+# Due to the github-pages plugin, files without such a preamble are processed as
+# liquid templates as well when the file name’s extension is interpreted to mean
+# the file content is markdown (.md) or html (.html). This may be true fer a few
+# other media types / extensions as well; I’m not sure because nothing is really
+# documented; per ruby ecosystem norms, libraries have what are really marketing
+# sites, not documentation per se, so behavior must be discovered through either
+# experimentation or reading source code.
+#
+# The _config.yml root object’s “defaults” field holds an array of objects which
+# can be used to specify the values of “page” property bindings (what Jekyll and
+# Liquid call variables) that would be resolved when referenced in a template if
+# not shadowed either by the values in a narrower entry or by explicit, per-file
+# values set from a frontmatter preamble. Each objects has a “scope” object that
+# filters the range of files it will end up being considered applicable to and a
+# “values” object that declares the values of bindings just like the frontmatter
+# preambles would.
+#
+# Field names of a “values” object and the data types of their values are on the
+# whole arbitrary and constitute an open-ended extension point, but as mentioned
+# above, some will have fixed semantics defined by Jekyll (e.g. “layout”) or one
+# of the active Jekyll plugins. In addition some fields have defaults defined by
+# Jekyll (e.g. “name”) or the plugins implicitly and no, there is no namespacing
+# mechanism at all because, once again, we’re deep within the ruby ecosystem and
+# every programming pattern that had emerged as generations collectively learned
+# tricky lessons the hard way over the decades preceding the anglosphere embrace
+# of Ruby / Ruby On Rails across all prior decades was disregarded as some kinda
+# stody old people stuff, ensuring the cycles of misery might be experienced yet
+# again as if fer the very first time. Combined with the love of “magic” and the
+# failure to define or document behaviors, every naming choice one makes carries
+# a risk of being the one that breaks everything. One might think: “aha! this is
+# possible to mitigate by choosing just one name that seems unlikely to collide,
+# setting it to an object under which we could then nest bindings with arbitrary
+# names without accruing any further collision risks at all,” which would indeed
+# seem be a very smart approach — but the binding-scope-like shadowing behaviors
+# are particular to the “values” objects proper, whether defined here or by some
+# individual file’s frontmatter, and anything nested at greater depths by object
+# or array values gets shadowed as a whole in a type-agnostic way, as opposed to
+# being merged in the “nested scope” fashion so long as all ancestors are of the
+# same type or what have ya. In other words, one can’t do this in _config.yml:
+#
+#   scope:
+#     path: ""
+#     type: "all"
+#   values:
+#     foo:
+#       bar: 1
+#       baz: 2
+#
+# and then do this in frontmatter:
+#
+#   ---
+#   foo:
+#     bar: 3
+#   ---
+#
+# and then reference {{foo.baz}} in the template that follows, because the local
+# frontmatter’s foo object simply does not have a baz property. Therefore one is
+# better off using a naming pattern that incorporates a common namespace prefix:
+#
+#   scope:
+#     path: ""
+#     type: "all"
+#   values:
+#     foo_bar: 1
+#     foo_baz: 2
+#
+# Our namespace substring prefix will be “lo_”. If a field/property name doesn’t
+# begin with that prefix, then you’ll know the field’s semantics are defined (ad
+# hoc, *of course*) by Jekyll or the github-pages plugin (and so on) — and if it
+# does begin with “lo_”, the binding and its semantics are specific to this Last
+# Odyssey codbase in particular and can therefore be changed or expanded so long
+# as one verifies all local source texts referencing it will remain satisfied by
+# the change or updates those usage points to make it so.
+#
+# Concerns related to scoping and shadowing of bindings are particular, at least
+# as far as I’m currently aware, to the bindings referenced in templates through
+# member expressions beginning with the bare identifiers “page” or “layout”. The
+# difference between these is that “layout.foo” would reference the value of the
+# “foo” binding of the /_layouts/* template itself independent of the individual
+# page it’s been called upon to render (and a layout template can evern have its
+# own local frontmatter). I’m not yet certain whether there’s an analogous model
+# in the case of /_includes/* with its own special lefthand side binding or even
+# which specific page and layout bindings an “include” template would receive as
+# part of its own magical ambient arguments at all yet, but we’ll learn soon. In
+# any case, the other lefthand side bindings I’m aware of that aren’t particular
+# to template call sites as far as I’m aware (“site”, “jekyll”, and “theme”) are
+# seemingly global and (perhaps...?) their keys and values are frozen throughout
+# a given build? I wouldn’t be surprised if dynamic shit’s in the mix in some of
+# those places, too, tho, as invariants seem perhaps undervalued in these parts.
+#
+# We can add arbitrary top-level properties to /_config.yml too in cases where a
+# binding is global like that and would never be shadowed. From a template those
+# would end up referenceable with expressions like `site.foo` — but the same old
+# collision potential would exist if we did that, too. Fortunately we can define
+# global (hopefully) static constants by other means which (afaik) will never(?)
+# risk collision: defining ’em in files like /_data/bar.yml. To reference ’em is
+# less concise — `site.data.bar.foo`, there — but on balance this is clearly the
+# best option. Therefore one shouldn’t define constants in the defaults objects.
+#
+# Back to the matter at hand, tho, cause there’s one more key element in the mix
+# to document: the “scope”-keyed objects that filter set of templates to which a
+# given set of “default” values would apply. Their own properties are “path” and
+# “type”, with the former expecting either a glob string or the empty string and
+# the latter expecting either an enumerated string value or a string identifying
+# a “collection” (another potential collision point, but an even worse one lol —
+# nice! way to go! design success! mission accomplished banner on the warship!).
+# The recognized enum values which are of course simply undocumented anywhere in
+# Jekyll’s “documentation” are, afaik, as follows:
+#
+# - all    (can also be indicated by omitting the “type” field altogether)
+# - drafts (of posts)
+# - pages  (everything is presently a page)
+# - posts
+#
+# Currently we only make use of “pages”, not (blog) “posts” and “drafts”, nor do
+# we make of use “collections”, though I suspect we might make use of all of ’em
+# given time. The additional strings corresponding to collections would be those
+# that match the field names of the collections object which is presently empty:
+
+collections: {}
+
+# Note that “pages” includes templates of media types which very decidedly ain’t
+# pages, fer example css files, but only if they include a frontmatter preamble.
+# This is why we set layout: "default" in an entry constrained by a glob pattern
+# limited to pages with the “erb”, “html” and “md” extensions only — but note we
+# first explicitly set layout to nil/null as a global default. That’s needed due
+# to github-pages loading the github-default-layout plugin, which literally just
+# forces us to have to do this to get the actual default Jekyll behavior lol. It
+# is just fuckin’ wild sometimes trying to figure out wtf is happening with this
+# Epcot Fairydust Magic ensuring stuff, uh ... Just Works™? lol. Ruby’s rails to
+# hell are mindbogglingly well paved by something perhaps spiritually similar to
+# intentions — but they’re intentions that thwart interpretation through good vs
+# bad or evil lenses if so and Hey Wait wait up are rails supposed to be PAVED??
+#
+# BTW basically all string interpolation in Jekyll/Liquid is unsound. Nobody has
+# seemingly grasped the nature of the media type problem space in this ecosystem
+# and the sorts of inadvertant punning and errant syntactic boundary risks which
+# plague arbitrary cross-media text interpolation. Built-in filters from both of
+# the libraries are broken in subtle ways and inadequate to the task. Therefore,
+# one must be extremely mindful about the realiity of interpolation in templates
+# — i.e. that there’s literally nothing preventing you from “jailbreaking” token
+# or syntactic boundaries because nothing gets escaped right and all escaping is
+# manual and in many cases just sorta ... not supported lol? The Jekyll solution
+# would be to write a custom plugin that calls Liquid::Template.register_filter,
+# and I actually began writing one earlier that implemented actual interpolation
+# logic that was soundly aligned with specified behaviors and web reality at the
+# right level, i.e. that of lexical grammar goal symbols of specific media types
+# ... but it turned out github-pages specifically disables custom Jekyll plugins
+# so lol it’s all yolo’d and fafo’d naive concatenationism ferever, but at least
+# I (re?)learned a lil ruby today.
 
 defaults:
-  scope:
-    path: ""
-  values:
-    layout: "default"
+  - scope:
+      path: ""
+      type: "all"
+    values:
+      layout: nil
+      locale: "en-US"
+  - scope:
+      path: "**.{erb,html,md}"
+      type: "pages"
+    values:
+      layout: "default"
 
 # LOCAL DEVELOPMENT CONFIGURATION ##############################################
 
-detach : false # i.e. dunt detach the process. this would suck lol.
-port   : 80 # ‘special’ scheme `http`’s default port
-host   : www.lastodyssey.test
+detach : false                  # Dunt detach the process, which would suck.
+port   : 80                     # If this collides or is blocked, try e.g. 8080
+host   : "www.lastodyssey.test" # The .test TLD is reserved fer this purpose.
 
 webrick:
   headers:
