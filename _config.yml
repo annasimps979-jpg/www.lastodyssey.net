@@ -565,10 +565,19 @@ defaults:
       layout : "default"
 
 # LOCAL DEVELOPMENT CONFIGURATION ##############################################
+#
+# The bogus .test TLD is reserved fer such purposes. Though the www subdomain is
+# no longer canonical in production, fer dev I’m leaving it fer now so as not to
+# make ya have to edit yr hosts file again. It ain’t apt to matter in local dev.
+#
+# If one finds port 80 is either already in use or is being blocked by one’s OS,
+# as I think is usually the case on e.g. Mac OS, set it locally to e.g. 8080, or
+# anything thereabouts till findin’ an open one, but dunt commit it as a change.
 
-detach : false              # Whether to detach the process; a definite ‘no’ rn.
-port   : 80                 # If collision or blocked, set locally to e.g. 8080.
-host   : "lastodyssey.test" # The bogus .test TLD is reserved fer such purposes.
+host   : "www.lastodyssey.test"
+port   : 80
+detach : false # i.e. whether to detach the process — leave this false.
+
 
 webrick:
   headers:
