@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 
-<html lang="en-US">
+<html lang="{{page.locale}}">
    <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="color-scheme" content="dark light">
-    <meta name="referrer" content="no-referrer">
-    <title>{{ page.title | escape }}</title>
-    <!-- <link rel="stylesheet" href="/_subresources/css/styles.css"> -->
+    <meta name="color-scheme"            content="light dark">
+    <meta name="description"             content="{{ page.description | default: site.description }}">
+    <meta name="referrer"                content="no-referrer">
+    <meta name="supports-reduced-motion" content="reduce">
+    <meta name="text-scale"              content="scale">
+    <meta name="theme-color"             content="{{site.data.colors.HINT_CHROME_DM}}" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color"             content="{{site.data.colors.HINT_CHROME_LM}}" media="not (prefers-color-scheme: dark)">
+    <meta name="viewport"                content="width=device-width,initial-scale=1">
+
+    <title>{{ page.title | escape }} ⟡ {{ site.title | escape }}</title>
   </head>
   <body>
     <div>
