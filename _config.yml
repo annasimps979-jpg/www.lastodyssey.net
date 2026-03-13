@@ -71,6 +71,36 @@
 #
 # 3. See https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell
 
+# SITE/REPO METADATA ###########################################################
+#
+# By default these would be the GitHub repo’s name and description, but the more
+# I thought about this more obvious it seemed that this made rather little sense
+# — the repo’s description ought to describe the codbase; the site’s description
+# oughta describe the sit. GitHub’s UI presents of repo descriptions prominently
+# in constrained space in a single context in particular, and naturally that has
+# the effect of encouraging writing a different kind of description than what is
+# generally called fer in the kinds of published site-wide metadata that intends
+# to briefly inform total strangers who (more often than not) will be people who
+# *weren’t* specifically looking fer Last Odyssey or its SRD what Last Odyssey &
+# the site are at the most fundamental “this may give you bearings and will help
+# ya decide if ya wanna click this link” level. Such a description may end up in
+# document metadata, JSON-LD poop, structured microdata, the site’s webmanifest,
+# and less directly, in e.g. some shared link previews. Note that using both the
+# abbreviations and expansions of keywords is intentional, and that when it ends
+# up user-facing, it would generally be in contexts where the title appears just
+# above it. Though it won’t be seen in many contexts, I imagine these two simple
+# sentences might resonate with many of the people who’d enjoy what you’ve made.
+
+locale      : "en-US"
+script_dir  : "ltr"
+title       : "Last Odyssey SRD"
+title_full  : "Last Odyssey System Reference Document"
+
+description : >-
+  The SRD (system reference document) of the Last Odyssey FRP (fantasy role-play
+  game / tabletop RPG). Last Odyssey is shared freely on the web so everyone can
+  play.
+
 # DIRECTORY CONFIGURATION ######################################################
 #
 # An annoying thing about Jekyll: it doesn’t (as far as I can tell, anyway) give
@@ -523,24 +553,23 @@ collections: {}
 
 defaults:
   - scope:
-      path: ""
-      type: "all"
+      path   : ""
+      type   : "all"
     values:
-      layout: nil
-      locale: "en-US"
+      layout : nil
+      locale : "en-US"
   - scope:
-      path: "**.{erb,html,md}"
-      type: "pages"
+      path   : "**.{erb,html,md}"
+      type   : "pages"
     values:
-      layout: "default"
+      layout : "default"
 
 # LOCAL DEVELOPMENT CONFIGURATION ##############################################
 
-detach : false                  # Dunt detach the process, which would suck.
-port   : 80                     # If this collides or is blocked, try e.g. 8080
-host   : "www.lastodyssey.test" # The .test TLD is reserved fer this purpose.
+detach : false              # Whether to detach the process; a definite ‘no’ rn.
+port   : 80                 # If collision or blocked, set locally to e.g. 8080.
 host   : "lastodyssey.test" # The bogus .test TLD is reserved fer such purposes.
 
 webrick:
   headers:
-    Access-Control-Allow-Origin: "*"
+    Access-Control-Allow-Origin: "*" # Fer e.g. fetching dest=font in local dev.
