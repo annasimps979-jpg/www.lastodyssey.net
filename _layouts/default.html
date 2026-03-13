@@ -19,6 +19,15 @@
       {%- endif -%}
       {{- site.title | escape -}}
     </title>
+
+    <link
+      href          = "/_subresources/site-dm.webmanifest"
+      media         = "(prefers-color-scheme: dark)"
+      rel           = "manifest">
+    <link
+      href          = "/_subresources/site-lm.webmanifest"
+      media         = "not (prefers-color-scheme: dark)"
+      rel           = "manifest">
   </head>
   <body>
     <div>
