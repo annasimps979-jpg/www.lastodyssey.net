@@ -279,7 +279,7 @@ readme_index:
 baseurl  : ""      # default; the empty string
 encoding : "utf-8" # default, naturally: utf-8’s The (i.e. The Only) Encoding
 theme    : null    # go away! begone! vamoose!
-url      : "https://www.lastodyssey.net"
+url      : "https://lastodyssey.net"
 
 safe                : true  # default is false, but ends up `true` with GH Pages
 disable_disk_cache  : false # this must end up `false` if `safe` is `true`, iiuc
@@ -539,6 +539,7 @@ defaults:
 detach : false                  # Dunt detach the process, which would suck.
 port   : 80                     # If this collides or is blocked, try e.g. 8080
 host   : "www.lastodyssey.test" # The .test TLD is reserved fer this purpose.
+host   : "lastodyssey.test" # The bogus .test TLD is reserved fer such purposes.
 
 webrick:
   headers:
