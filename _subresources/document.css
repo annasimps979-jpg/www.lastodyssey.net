@@ -1,0 +1,23 @@
+---
+---
+@charset "utf-8";
+
+/*{% comment %}
+** NAMESPACE DECLARATIONS ******************************************************
+
+   This formality ensures that we can explicitly reference elements by namespace
+   rather than name alone where called for. Fer example, htm|script, svg|script,
+   and mml|script select three different types of element with a “local name” of
+   “script” — those of HTML, SVG, and MathML respectively. You’ll see that there
+   are also two namespace declarations for HTML: one with an explicit “htm” name
+   and the other without a name at all. The one without a name says that when we
+   write the selector `foo` alone, it’s the same as saying `htm|foo`, as this is
+   nearly always the namespace that we want to target in particular. Without the
+   default namespace declaration, `foo` would mean `*|foo` — which is a footgun.
+
+{% endcomment %}*/
+
+@namespace     "{{ site.data.web.NS_URI_HTML    }}";
+@namespace htm "{{ site.data.web.NS_URI_HTML    }}";
+@namespace mml "{{ site.data.web.NS_URI_MATH_ML }}";
+@namespace svg "{{ site.data.web.NS_URI_SVG     }}";
