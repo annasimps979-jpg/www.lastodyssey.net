@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--> The data here dunt actually declare “synonyms” — not exclusively, anyway —
+<!!-> as it’s a configuration file used to manage search behavior of Google CSE,
+<!-!> i.e. the external sitewide search, by specifying “local” semantic relation
+<-!!> data been either terms that are genuinely synonyms (in Last Odyssey), e.g.
+<!-!> “mana point” and “MP”, or those which aren’t formalized by Last Odyssey at
+<!!-> at all (and which usually dunt appear anywhere in the SRD), but which have
+<!-!> been used in many other RPGs. Fer example, “STR” maps to “physical attack”
+<-!!> here, but STR isn’t a term in Last Odyssey and has been used to mean a lot
+<!-!> of conceptually divergent things across hundreds of other RPGs, so there’s
+<!!-> nothing literal, definitional, or precise about the relationship that it’s
+<!-!> establishing; it just means that when somebody searches the SRD fer “STR,”
+<-!!> returning results related to “physical attack” is very likely to be better
+<!-!> fer that visitor than a small “nothing was found” message presented over a
+<!!-> big blank page with no obvious next steps to take.
+<!-!>
+<-!!> Each <Variant> element says that its text content (which may be a phrase &
+<!-!> at least afaik need not account fer plural forms or conjugations normally)
+<!!-> being searched fer oughta be regarded as having also searched fer the term
+<!-!> attribute value text of its parent <Synonym> element. It’s not commutative
+<-!!> however — which is a rather big clue that <Synonym>/<Synonyms> were poorly
+<!-!> named. In cases where two terms/phrases are not only genuine synonyms from
+<!!-> the Last Odyssey SRD’s perspective but also both appear within the text of
+<!-!> the SRD in multiple places, <Synonym>/<Variant> pairs must appear fer each
+<-!!> to explicitly declare both the foo→bar and bar→foo mappings.
+<!-!>
+<!!-> This is, of course, not comprehensive. It remains to be determined whether
+<!-!> we continue using the Google CSE fer search functionality in the future or
+<-!!> not. It would be possible fer us to do far better by building it in — it’s
+<!-!> nowhere near as difficult as is often imagined to implement refined, real-
+<!!-> time, suggestion-surfacing text search with stemming and weighted salience
+<!-!> and local text snippets as is often imagined and I’ve done it from scratch
+<-!!> without external services multiple times on relatively high traffic sites.
+<!-!> I mention this to boast, mainly; when the full text search I’d implemented
+<!!-> at wistia was first seen by a bunch of people in the office people audibly
+<!-!> gasped lol. I’d already told some of ’em about it but nobody seemed to get
+<-!!> that I was serious what I described; some seemed to think it was gonna end
+<!-!> up downgraded sorta, cause they knew I’d tossed the prior paid third party
+<!!-> out the airlock and was replacing it with something homegrown and the $$$$
+<!-!> bias overrides everything else so saying “real time” etc just didn’t stick
+<-!!> till they saw it fer real. Someone even thought it *wasn’t* real lol, like
+<!-!> it was just a design or proof of concept video or something instead of the
+<!!-> live staging or prod site that they were seein’. Frankly I’ve almost never
+<!-!> seen text search functionality in the wild that met my own standards, lol.
+<-!!> At some point in the last few years they redid the public site(s) entirely
+<!-!> again — my guess: bored and useless wheelspinner office politics stuff, as
+<!!-> that’s where 90% of “redesign” efforts at startups come from practice, but
+<!-!> maybe there were issues with the CMS service, or hell maybe there was shit
+<-!!> I wrote that turned out to be fucked and it was deemed unfixable; i dunno)
+<!-!> and the new site, in addition to being *butt* ugly (like just seriously it
+<!!-> is 100% atrocious and I morbidly wonder if the design came from somebody I
+<!-!> knew there or a later hire) has shitty text search and I know there had to
+<-!!> be someone there who’d known what they had and poured one out fer the real
+<!-!> deal lol. Anyway we presently dunt have a clear path to doin’ that stuff —
+<!!-> bein’ a static site generated with Jekyll by GitHub Pages which then hosts
+<!-!> it, we dunt have a backend to query from client runtime nor can be use the
+<-!!> Jekyll plugin model to collect, parse, extract, process, stem, filter stop
+<!-!> words, index, annotate, & assign weights across the whole corpus even just
+<!!-> to dump a custom index file which the client — a service worker, perhaps —
+<!-!> could load and cache in the BG and consume to the same effect (there isn’t
+<-!!> anywhere near enuf text fer holding the structure in memory to be an issue
+<!-!> but indexedDB is an option if it ever got truly huge) ... as far as I know
+<!!-> to date anyway ... but as you can see, I’ve already thought through what’d
+<!-!> make this impossible thing possible and there’s only one missing link left
+<-!!> in the invisible chain there occupied by reality that I haven’t thought my
+<!-!> way around yet — so who knows?? Fer now tho it’s this Google CSE thing. It
+<!!-> ain’t great but we can improve it in sometimes substantial ways with stuff
+<!-!> like this. There’s other XML-based config I haven’t touched yet.
+<-!!>
+<!-!> The maximum number permitted is said to be 2000, tho it wasn’t clear to me
+<!!-> that means 2000 <Variant> elements or 2000 <Synonym> elements. This file’s
+<!-!> inert on its own, btw; it needs to be sent to Google CSE if it changes and
+<-!!> we dunt have the kind of infrastructure here that’d permit us to spot this
+<!-!> and automate its credentialed upload as a deployment step — and if we ever
+<!!-> did it’d more or less follow that we *wouldn’t* still be using Google CSE.
+<!-->
+
+<Synonyms>
+  <!-- META TERMINOLOGY -->
+
+  <Synonym term="attribute">
+    <Variant>attr</Variant>
+  </Synonym>
+  <Synonym term="statistic">
+    <Variant>stat</Variant>
+    <Variant>metric</Variant>
+  </Synonym>
+
+  <!-- CORE ATTRIBUTES -->
+
+  <Synonym term="body">
+    <Variant>BDY</Variant>
+    <Variant>VIT</Variant>
+    <Variant>vitality</Variant>
+  </Synonym>
+  <Synonym term="mind">
+    <Variant>INT</Variant>
+    <Variant>intellect</Variant>
+    <Variant>intelligence</Variant>
+    <Variant>mental</Variant>
+    <Variant>MND</Variant>
+  </Synonym>
+  <Synonym term="spirit">
+    <Variant>CHA</Variant>
+    <Variant>charisma</Variant>
+    <Variant>CHR</Variant>
+    <Variant>faith</Variant>
+    <Variant>FTH</Variant>
+    <Variant>SPI</Variant>
+    <Variant>spiritual</Variant>
+    <Variant>WIS</Variant>
+    <Variant>wisdom</Variant>
+  </Synonym>
+
+  <!-- VOLATILE STATS -->
+
+  <Synonym term="anima">
+    <Variant>AP</Variant>
+    <Variant>anima points</Variant>
+    <Variant>animus</Variant>
+  </Synonym>
+  <Synonym term="experience">
+    <Variant>XP</Variant>
+  </Synonym>
+  <Synonym term="hit points">
+    <Variant>HP</Variant>
+  </Synonym>
+  <Synonym term="HP">
+    <Variant>health points</Variant>
+    <Variant>hit points</Variant>
+  </Synonym>
+  <Synonym term="mana points">
+    <Variant>MP</Variant>
+  </Synonym>
+  <Synonym term="MP">
+    <Variant>magic points</Variant>
+    <Variant>mana points</Variant>
+    <Variant>skill points</Variant>
+    <Variant>spell points</Variant>
+    <Variant>SP</Variant>
+  </Synonym>
+  <Synonym term="XP">
+    <Variant>EXP</Variant>
+    <Variant>experience</Variant>
+    <Variant>experience points</Variant>
+  </Synonym>
+
+  <!-- ACQUIRED STATS: CORPOREALNESS -->
+
+  <Synonym term="physical accuracy">
+    <Variant>ACC</Variant>
+    <Variant>accuracy</Variant>
+    <Variant>hit %</Variant>
+    <Variant>hit percent</Variant>
+    <Variant>hit rate</Variant>
+  </Synonym>
+  <Synonym term="physical attack">
+    <Variant>ATK</Variant>
+    <Variant>POW</Variant>
+    <Variant>power</Variant>
+    <Variant>STR</Variant>
+    <Variant>strength</Variant>
+  </Synonym>
+  <Synonym term="physical defense">
+    <Variant>CON</Variant>
+    <Variant>constitution</Variant>
+    <Variant>DEF</Variant>
+    <Variant>defense</Variant>
+    <Variant>END</Variant>
+    <Variant>endurance</Variant>
+    <Variant>STA</Variant>
+    <Variant>stamina</Variant>
+  </Synonym>
+
+  <!-- ACQUIRED STATS: PARANORMALITY -->
+
+  <Synonym term="magical accuracy">
+    <Variant>M.ACC</Variant>
+    <Variant>MACC</Variant>
+    <Variant>magic accuracy</Variant>
+  </Synonym>
+  <Synonym term="magical attack">
+    <Variant>M.ATK</Variant>
+    <Variant>MATK</Variant>
+    <Variant>magic attack</Variant>
+    <Variant>MPOW</Variant>
+  </Synonym>
+  <Synonym term="magical defense">
+    <Variant>magic defense</Variant>
+    <Variant>M.DEF</Variant>
+    <Variant>MDEF</Variant>
+    <Variant>MDF</Variant>
+    <Variant>WIL</Variant>
+    <Variant>will</Variant>
+    <Variant>willpower</Variant>
+  </Synonym>
+
+  <!-- ACQUIRED STATS: INOCULABILITY -->
+
+  <Synonym term="resistance">
+    <Variant>FOR</Variant>
+    <Variant>FORT</Variant>
+    <Variant>fortitude</Variant>
+    <Variant>FTD</Variant>
+    <Variant>RES</Variant>
+    <Variant>resilience</Variant>
+  </Synonym>
+  <Synonym term="status accuracy">
+    <Variant>LCK</Variant>
+    <Variant>Luck</Variant>
+  </Synonym>
+
+  <!-- ACQUIRED STATS: REFLEXIVENESS -->
+
+  <Synonym term="evasion">
+    <Variant>AGI</Variant>
+    <Variant>agility</Variant>
+    <Variant>DEX</Variant>
+    <Variant>dexterity</Variant>
+    <Variant>dodge</Variant>
+    <Variant>EV</Variant>
+    <Variant>EVA</Variant>
+    <Variant>evade</Variant>
+    <Variant>reflexes</Variant>
+  </Synonym>
+  <Synonym term="initiative">
+    <Variant>INIT</Variant>
+  </Synonym>
+</Synonyms>

@@ -1,0 +1,6 @@
+---
+---
+{% include site.webmanifest
+    canvas_color = site.data.colors.HINT_CANVAS_LM
+    chrome_color = site.data.colors.HINT_CHROME_LM
+%}
