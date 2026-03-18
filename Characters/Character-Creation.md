@@ -68,7 +68,7 @@ At this point, you should now have enough information to determine your characte
 *  _[Physical Accuracy](../Characters/Attributes-and-Statistics#term-physical-accuracy)_ determines a character's bonus chance to hit with [physical attacks](../Combat-Rules/Attacking-and-Defending#term-physical-attack).  It is equal to (Mind) + (Body).
 *  _[Magical Accuracy](../Characters-Attributes-and-Statistics#term-magical-accuracy)_ determines a character's bonus chance to hit with [magical attacks](../Combat-Rules/Attacking-and-Defending#term-magical-attack).  It is equal to (Spirit) + (Mind).
 *  _[Status Accuracy](../Characters/Attributes-and-Statistics#term-status-accuracy)_ determines a character's chance to hit with [status-inflicting abilities](../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).  It is equal to (Body) + (Spirit).
-*  _[Carrying Capacity](../The-Economy/The-Party-Inventory#term-carrying-capacity)_ determines how many items you can hold in your inventory at once.  It is equal to 10 + (Body)x5.
+*  _[Carrying Capacity](../The-Economy/Items#term-carrying-capacity)_ determines how many items you can hold in your inventory at once.  It is equal to 10 + (Body)x5.
 
 ## Create Eidolon
 At this stage in the process, you should now be ready to create your character's [eidolon](../Characters/Eidolons#term-eidolon).  An eidolon is a being whose appearance in the world is the most powerful manifestation of a character's magic.  Think of them as a combination between a patron saint and a guardian angel.  Each player character has a single eidolon that grows more powerful as they grow more powerful.  In combat, player characters can spend [Anima](../Free-Play/Anima#term-anima) to summon their eidolons.
@@ -86,7 +86,7 @@ Each eidolon has one of six possible archetypes: Striker, Caster, Healer, Defend
 ## Finishing Touches
 At this point in character creation, you have all of the necessary information required to play your character.  Make sure all of it is recorded properly on your character sheet.  In addition, be sure to write down any other relevant character information, such as their height, weight, gender, eye color, backstory, real and apparent age, and other story elements.  In addition, give your character 5 starting Anima out of a maximum of 10.  They will earn more during [Scenes](../Free-Play/Anima#term-scene) over the course of the game.
 
-Finally, all characters receive 10 cr at character creation.  Players may use some or all of this to purchase [battle items](../The-Economy/The-Party-Inventory/Battle-Items).  Whatever amount is left over after they are done purchasing items is carried with them into the beginning of the game.
+Finally, all characters receive 10 cr at character creation.  Players may use some or all of this to purchase [battle items](../The-Economy/Items/Battle-Items).  Whatever amount is left over after they are done purchasing items is carried with them into the beginning of the game.
 
 Before you are finished with your character, you should check--have you:
 1.  Given your character a name and appearance?

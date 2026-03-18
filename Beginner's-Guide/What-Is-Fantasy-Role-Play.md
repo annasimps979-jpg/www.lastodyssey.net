@@ -64,7 +64,7 @@ Nick: It's a good question, no worries.  Signs of ritual offerings...?
 
 Trystan: You see a small amount of dried up, burnt corn on the ground in front of the door.
 
-Monica: Let's burn some corn, then.  I'm guessing that costs some [Supplies](../The-Economy/The-Party-Inventory/Travel-Items#term-supplies).
+Monica: Let's burn some corn, then.  I'm guessing that costs some [Supplies](../The-Economy/Items/Travel-Items#term-supplies).
 
 Trystan: Yep.  Reduce your Supplies by one.
 

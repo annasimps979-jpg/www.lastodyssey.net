@@ -5,7 +5,7 @@ Every [player character](../../Extras/Key-Terms#term-player-character) has a sin
 In Last Odyssey, there are nine archetypes to choose from:
 *  [The Ranger](Ranger): An archetype with extra mobility and physical precision.
 *  [The Thief](Thief): An archetype with the ability to steal and hide in order to control the flow of [battle](../../Extras/Key-Terms#term-battle).
-*  [The Artificer](Artificer): An archetype that can make special use of [battle items](../../The-Economy/The-Party-Inventory/Battle-Items) and learn information about their enemies.
+*  [The Artificer](Artificer): An archetype that can make special use of [battle items](../../The-Economy/Items/Battle-Items) and learn information about their enemies.
 *  [The Sage](Sage): An archetype that specializes in defending against and dealing magical damage.
 *  [The Dancer](Dancer): An archetype that can mimic enemies and change their [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) at will.
 *  [The Priest](Priest): An archetype with the power to heal [MP](../../Characters/Attributes-and-Statistics#term-mp) and help their allies.
