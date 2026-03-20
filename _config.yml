@@ -559,10 +559,15 @@ defaults:
       layout : nil
       locale : "en-US"
   - scope:
+      path   : "_subresources/styles/**"
+      type   : "pages"
+    values:
+      layout : "stylesheet"
+  - scope:
       path   : "**.{erb,html,md}"
       type   : "pages"
     values:
-      layout : "default"
+      layout : "document"
 
 # LOCAL DEVELOPMENT CONFIGURATION ##############################################
 #

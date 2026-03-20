@@ -1,0 +1,30 @@
+# Attributes and Statistics
+
+The capabilities of a [character](/srd/extras/key-terms#term-character) during [battle](/srd/extras/key-terms#term-battle) are represented by their [statistics](/srd/extras/key-terms#term-statistic) and their [abilities](/srd/extras/key-terms#term-ability).  [Player characters](/srd/extras/key-terms#term-player-character) also have a set of three numbers called [attributes](/srd/extras/key-terms#term-attribute) that determine what they can do in and out of combat. The abilities a player character can use are determined by the [job](/srd/characters/jobs) they occupy and its current rank, their [archetype](/srd/characters/archetypes), their [items](/srd/economy/items), their [equipment](/srd/economy/equipment), and whatever [flex powers](/srd/characters/advancement#term-flex-power) they have taken during [character advancement](/srd/characters/advancement).
+
+## Attributes
+
+The core of a character's capabilities is made up of their attributes, three numbers from 1 to 12 that measure their relative aptitude in a particular domain of action.
+*  A character's _<dfn id="term-body">Body</dfn>_ is a measure of how adept they are at pushing their athletic abilities to the limit, from hand-eye coordination to endurance running.
+*  A character's _<dfn id="term-mind">Mind</dfn>_ is a measure of how quick and able they are at intellectually challenging tasks, from logical debate to solving mathematical puzzles.
+*  A character's _<dfn id="term-spirit">Spirit</dfn>_ is a representation of their strength of personality.  This governs their aptitude for social interactions, as well as their ability to empathize with others.
+
+## Statistics
+
+In [combat](/srd/combat), a character's strengths and weaknesses are represented by 12 numbers known as their statistics.  Each statistic is either tied to a pool of points that they lose or gain over the course of the battle, or a number that determines the probability that different outcomes will occur when they use their abilities in conjunction with the statistics of other characters.
+*  A character's _<dfn id="term-health">Health</dfn>_ is their [base](/srd/extras/key-terms#term-base) maximum HP during combat.  It is equal to their Body times 5 plus the bonus they receive from their archetype at [tier](/srd/characters/creation#term-tier) 1.
+*  A character's _<dfn id="term-initiative">Initiative</dfn>_ determines when they act in combat.  The higher their Initiative is, the sooner they act.  Their base Initiative is equal to their Mind times 2 plus the bonus they receive from their archetype at tier 1.
+*  A character's _<dfn id="term-mana">Mana</dfn>_ is their base maximum MP during combat.  It is equal to their Spirit times 5 plus the bonus they receive from their archetype at tier 1.
+*  Any physical attacks a character makes deal an amount of damage that is increased by their _<dfn id="term-physical-attack">Physical Attack</dfn>_ unless otherwise specified.  Their base Physical Attack is equal to the bonus given by their equipped weapon plus the bonus applied by their current job if there is one.
+*  Any magical attacks a character makes deal an amount of damage that is increased by their _<dfn id="term-magical-attack">Magical Attack</dfn>_ unless otherwise specified.  Their base Magical Attack is equal to the bonus given by their equipped weapon plus the bonus applied by their current job if there is one.
+*  Any physical damage a character receives is reduced by their _<dfn id="term-physical-defense">Physical Defense</dfn>._  Their base Physical Defense is equal to the bonus from their equipped armor plus the bonus from their current job if there is one.
+*  Any magical damage a character receives is reduced by their _<dfn id="term-magical-defense">Magical Defense</dfn>._  Their base Magical Defense is equal to the bonus from their equipped armor plus the bonus from their current job if there is one.
+*  A character's _<dfn id="term-evasion">Evasion</dfn>_ reduces the likelihood that they will be hit by either a physical or magical attack.  Their base Evasion is equal to the bonus from their equipped accessories plus the bonus from their current job if there is one.
+*  A character's _Resistance_ increases the likelihood that they will resist [status-inflicting abilties](/srd/combat/attacking-and-defending#term-status-inflicting-ability).  Their base Resistance is equal to the bonus from their equipped accessories plus the bonus from their current job if there is one.
+*  A character's _<dfn id="term-physical-accuracy">Physical Accuracy</dfn>_ increases their likelihood to hit an enemy with a physical attack.  Their base Physical Accuracy is equal to their Mind plus their Body.
+*  A character's _<dfn id="term-magical-accuracy">Magical Accuracy</dfn>_ increases their likelihood to hit an enemy with a magical attack.  Their base Magical Accuracy is equal to their Spirit plus their Mind.
+*  A character's _<dfn id="term-status-accuracy">Status Accuracy</dfn>_ increases their likelihood to inflict negative [statuses](/srd/combat/statuses) on their targets.  Their base Status Accuracy is equal to their Body plus their Spirit.
+
+## HP and MP
+
+A character's stamina in battle is represented by two scores, their _<dfn id="term-hp">Hit Points</dfn>_ and their _<dfn id="term-mp">Mana Points</dfn>._  Throughout these rules, these will be shortened to <abbr title="hit points">HP</abbr> and <abbr title="mana points">MP</abbr>, respectively.  When a character is hit with an ability that counts as a [physical attack](/srd/combat/attacking-and-defending#term-physical-attack) or [magical attack](/srd/combat/attacking-and-defending#term-magical-attack), their HP is reduced by the calculated damage number.  When a character uses an ability that has an MP cost, their MP is reduced by that amount.  Character may never use an ability that costs more than their current MP, and a character's MP and HP can never go below zero.

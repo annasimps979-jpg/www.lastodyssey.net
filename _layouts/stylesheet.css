@@ -1,0 +1,96 @@
+@charset "utf-8";
+
+/* {%- comment -%}
+
+** STYLESHEET LAYOUT ***********************************************************
+
+   This layout is used to grant every stylesheet its @charset magic string right
+   at the start given GitHub Pages affords us no mechanisms fer setting the HTTP
+   content-type response header field value ourselves.
+
+   Note that there is no “charset” at-rule in CSS: @charset "..." is effectively
+   a magic string preamble fer mimesniffing-like behavior that seeks to discover
+   an in-band declaration of the character set and its encoding by peeking ahead
+   in the input stream fer particular patterns within the first so-and-so octets
+   received or whatever. This is also what <meta charset="utf-8"> and its quaint
+   cousin <meta http-equiv="content-type" content="text/html;charset=utf-8"> are
+   really about in HTML, incidentally; to observe what I mean, try adding a very
+   long comment before <meta charset="utf-8"> in a document that includes astral
+   code points after both and watch it break cause it’s really a “fake element”.
+   I mean ... sorta, lol. Tho in CSS, it really is the case that @charset is not
+   even reflected in the CSSOM as an at-rule at all; it’s more like an extrawide
+   BOM (byte-order mark in wide encodings; decidedly iffy lead sentinel value in
+   UTF-8). Another spiritual analog if we look at it from another angle might be
+   the "use strict" directive of an ECMAScript “Directive Prologue”, though that
+   has nothing to do with mime sniffing (or ... does it, actually ...? hm ...!).
+
+   > UTF-8 isn’t actually a character set, btw. UTF means Unicode Transformation
+   > Format. A UTF (UTF-8, UTF-16, etc) and either an explicit endianness or BOM
+   > -sensitive endianness resolution strategy constitutes a character encoding,
+   > but as UTF-8’s code units are simple octets, there is no endianness concern
+   > (though there could nonetheless be a BOM...) and so constitutes an encoding
+   > on its lonesome as well. As UTFs are formats modeling Unicode strings, it’s
+   > implicit that the character set (or abstract character repertoire) would be
+   > that of Unicode if the character encoding is UTF-8, but still: every single
+   > place the werd “charset” shows up in a web platform technology (HTML, HTTP,
+   > MIME, etc) it is literally misnamed, and in a tragically misleading way, as
+   > people have enough trouble as it is developing a sound mental model fer any
+   > of this stuff. It stems from the fact that, once upon a time, *encoding* of
+   > text data was barely a concept or consideration to most programmers working
+   > in the west. Instead there was ISO/IEC 8859-1, Windows, and Mac “codepages”
+   > — *character sets* that were supersets of ASCII that were “encoded” only in
+   > an identity transform sense due to conflating what we would now describe as
+   > code units (terminals of the encoding) and code points (integers which have
+   > been declared representations of specific members of the abstract character
+   > set). So the encoding was like “oh, nah; none fer me, thanks ... I’m good!”
+   > and one just selected from choices between interpretations of the less-than
+   > -128-actually octets whose most significant bits were 1 cause why would one
+   > ever need more than (less than) 128 symbols to write any language, lol. The
+   > early web included a fair number of Japanese users, however, and with time,
+   > Chinese as well, even in the pre-Unicode era, so the wrongness of “charset”
+   > (the info one really needed was the encoding; one only needed the character
+   > set IF the same encoding was used fer multiple character sets — which isn’t
+   > even like a *thing* anymore in 2026, btw). But few people really understood
+   > this and people kept churning out shit where the werd “charset” was misused
+   > fer decades. TBH they probably still are, lol, but terms like “encoding” or
+   > “text encoding” have become much more common in the design of newer APIs in
+   > the last ten or so years, thankfully. Anyway this has nothing whatsoever to
+   > do with anything that’s apt to matter to ya or this file even really lol; I
+   > just barf this shit up endlessly and YMMV anyway, cause it’s only a sketch.
+
+   Yeah I have no excuse fer typing all this. Anna dunt actually read that, lol.
+
+
+** NAMESPACE DECLARATIONS ******************************************************
+
+   This layout also provides a common set of namespace declarations. Though they
+   are real at-rules, they have to show up before any other at-rules or rules as
+   they end up influencing their interpretation. They’re specific to each sheet,
+   and yet one really just wants ’em to be global, so they’re in this wrapper by
+   default. However some CSS style sheets may not include any element selectors,
+   so one can opt-out of includin’ ’em in stylesheets where they’re known to not
+   be material regardless by setting `include_namespaces: false` in frontmatter.
+
+   Though they’re a formality in general, if we didn’t declare ’em, we’d have no
+   way to constrain selectors to only elements with a particular namespace later
+   on in cases where it does turn out to be needed (keeping in mind even just in
+   the three primary namespaces, there are elements that have the same localname
+   values two or three of HTML, SVG, and MathML, like <script> and <title> — and
+   they dunt always have the same semantics or styling needs. In any case I tend
+   to think it’s generally wisem to say only what ya really mean with a selector
+   and not one thing more, so I like to make the *wildcards* explicit by setting
+   the default namespace to HTML’s. 99% of the time, that’s what we really mean.
+
+                                                           {%- endcomment -%} */
+
+{%- assign include_namespaces = page.include_namespaces | default: true -%}
+{%- if include_namespaces -%}
+
+@namespace     "{{ site.data.web.NS_URI_HTML    }}";
+@namespace htm "{{ site.data.web.NS_URI_HTML    }}";
+@namespace mml "{{ site.data.web.NS_URI_MATH_ML }}";
+@namespace svg "{{ site.data.web.NS_URI_SVG     }}";
+
+{%- endif -%}
+
+{{ content }}

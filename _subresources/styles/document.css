@@ -1,0 +1,161 @@
+---
+---
+/* {% comment %}
+
+** DEFAULT STYLESHEET **********************************************************
+
+   This stylesheet corresponds to _layouts/documents.html. Because it is, at the
+   moment, our only “entrypoint” stylesheet, it’s composed from the other narrow
+   stylesheet via naive source text interpolation as opposed to using @import at
+   -rules. In other words, though the other stylesheets are built and could also
+   be referenced as subresources, their separation in the source text is fer the
+   sake of organization and maintainability and at runtime in the client we only
+   load this composite stylesheet right now. But if we do introduce other sheets
+   that act as entrypoints but also depend on some of the same stylesheets we’re
+   effectively just concatenating here, then we’d (probably) wanna change ’em to
+   @imports to minimize source text duplication in the browser cache.
+
+   The “component-like” constituent stylesheet source is divided into two groups
+   in subdirectories, “scopable” and “unscopable” — & never their twain’ts shall
+   meat! The “scopable” stylesheets declare constructs which are valid in @scope
+   at-rule blocks or which could at least be scoped to a ShadowRoot if the whole
+   sheet were placed deep inside its aSS. In other words, a scopable sheet won’t
+   have any at-rules in ’em that declare stuff that’s inherently document scoped
+   and would either be ignored or would break the sheet if one attempted scoping
+   it within any other context. Conversely the “unscopable” stylesheets are only
+   formed from puts-shit-in-a-document-keyed-registry at-rules. The reason fer a
+   split along these lines ain’t so much that I expect to be using @scope shadow
+   dom here (much?) but rather that the “unscopable” sheets not be included more
+   than once via interpolation — which wouldn’t be a problem fer the “scopables”.
+
+                                                             {% endcomment %} */
+{%- include_relative unscopable/fonts.css -%}
+
+{%- include_relative scopable/reset.css -%}
+
+/* TEMPORARY STYLES FER THE JEKYLL-STAGING BRANCH WHILE ACTUAL STYLES PENDING */
+
+@layer temporary {
+  html {
+    background-color        : light-dark(#CCC, #111);
+    color-scheme            : light dark;
+    font-family             : prose;
+    font-variation-settings : "opsz"  8, "wght" 420;
+    height                  : 100%;
+  }
+
+  body {
+    background-color        : light-dark(#EEE, #222);
+    contain                 : inline-size;
+    margin                  : 0 auto;
+    max-inline-size         : 70ch;
+    min-height              : 100%;
+    padding                 : 2ch;
+  }
+
+  main {
+    & p {
+      text-align            : justify;
+    }
+  }
+
+  footer, nav, search {
+    background-color        : blue;
+    color                   : azure;
+    font-size               : 0.75rem;
+    margin-block            : 2ch;
+    padding                 : 2ch;
+    text-align              : center;
+  }
+
+  :where(h1, h2, h3, h4, h5, h6) {
+    font-family             : title;
+    font-variation-settings : "opsz" 80, "wght" 380;
+  }
+
+  header h1 {
+    font-size               : 3rem;
+    margin                  : 0;
+  }
+}
+
+
+
+/*
+
+@property --axis-opsz {
+  inherits      : true;
+  initial-value : auto;
+  syntax        : "auto | <integer>";
+}
+
+@property --axis-wght {
+  inherits      : true;
+  initial-value : auto;
+  syntax        : "auto | <integer>";
+}
+
+@property --prose-opsz {
+  inherits      : true;
+  initial-value : 8;
+  syntax        : "<integer>";
+}
+
+@property --title-opsz {
+  inherits      : true;
+  initial-value : 80;
+  syntax        : "<integer>";
+}
+
+@property --prose-wght {
+  inherits      : true;
+  initial-value : 420;
+  syntax        : "<integer>";
+}
+
+@property --title-wght {
+  inherits      : true;
+  initial-value : 380;
+  syntax        : "<integer>";
+}
+
+:where(*|*, *|*::after, *|*::before) {
+  --prose-opsz: calc(
+      5.990597E-0
+    + 9.828644E-3 *     var(--title-opsz)
+    + 2.509068E-3 * pow(var(--title-opsz), 2)
+    - 3.262996E-5 * pow(var(--title-opsz), 3)
+    + 3.863968E-8 * pow(var(--title-opsz), 4)
+    + 1.658885E-9 * pow(var(--title-opsz), 5));
+
+  --title-opsz: 80;
+  --title-opsz: clamp(0, var(--axis-opsz), 100);
+
+  --font-variation-settings:
+    "opsz" var(--prose-opsz),
+    "wght" var(--prose-wght);
+}
+
+*/
+
+/*
+
+:root {
+  font-family : prose;
+  font-size   : 12pt;
+  line-height : calc(4/3);
+  text-align  : justify;
+}
+
+body {
+  padding: 1ic;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family : title;
+  font-size   : 60px;
+  font-weight : 380;
+  font-optical-sizing: auto;
+}
+
+*/
