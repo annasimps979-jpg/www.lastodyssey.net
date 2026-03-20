@@ -2,19 +2,19 @@
 
 ## <dfn id = "term-random-element-table">Random Element Table</dfn>
 
-When you use an [item](/the-economy/items), [ability](/extras/key-terms#term-ability), or something else that has a random [elemental](/combat-rules/elemental-types#term-elemental-type) effect, roll the [outcome die](/extras/key-terms#term-outcome-die) and consult the table below to determine the result.  If you roll a 10, roll again instead.
+When you use an [item](/economy/items), [ability](/extras/key-terms#term-ability), or something else that has a random [elemental](/combat/elemental-types#term-elemental-type) effect, roll the [outcome die](/extras/key-terms#term-outcome-die) and consult the table below to determine the result.  If you roll a 10, roll again instead.
 
 |Result|Element|
 |:-|:-|
-|1|[Fire](/combat-rules/elemental-types#term-fire)|
-|2|[Water](/combat-rules/elemental-types#term-water)|
-|3|[Earth](/combat-rules/elemental-types#term-earth)|
-|4|[Wind](/combat-rules/elemental-types#term-wind)|
-|5|[Thunder](/combat-rules/elemental-types#term-thunder)|
-|6|[Ice](/combat-rules/elemental-types#term-ice)|
-|7|[Wood](/combat-rules/elemental-types#term-wood)|
-|8|[Light](/combat-rules/elemental-types#term-light)|
-|9|[Shadow](/combat-rules/elemental-types#term-shadow)|
+|1|[Fire](/combat/elemental-types#term-fire)|
+|2|[Water](/combat/elemental-types#term-water)|
+|3|[Earth](/combat/elemental-types#term-earth)|
+|4|[Wind](/combat/elemental-types#term-wind)|
+|5|[Thunder](/combat/elemental-types#term-thunder)|
+|6|[Ice](/combat/elemental-types#term-ice)|
+|7|[Wood](/combat/elemental-types#term-wood)|
+|8|[Light](/combat/elemental-types#term-light)|
+|9|[Shadow](/combat/elemental-types#term-shadow)|
 |10|Reroll|
 
 ## <dfn id = "term-random-statistic-table">Random Statistic Table</dfn>

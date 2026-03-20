@@ -1,0 +1,10 @@
+# Exploration
+
+In Last Odyssey, the wilderness is vast and dangerous.  Human settlements are connected, but oftentimes it is a struggle for ordinary people to journey between them.  In many ways, exploration is much like [combat](/combat), in that it is a structured form of play the game enters and exits at specific points during play in order to resolve a certain section of the narrative.  In this case, when the group is traveling a significant distance, that is, great enough that it would take more than six hours of walking to get there, then this counts as travel.
+
+Each [adventure](/extras/key-terms#term-adventure) the [players](/extras/key-terms#term-player) go on is set in a finite part of a larger world.  The scope and scale of this region of the world is up to the [GM](/extras/key-terms#term-gm), but it almost always takes the form of a set of interconnected locations, each of which will the stage for a particular act of the drama.  At the highest scale relevant for a single adventure in Last Odyssey, this is represented by a map referred to as the _<dfn id = "term-overworld">overworld</dfn>._  In Last Odyssey, the overworld is a series of locations called [nodes](/exploration/nodes-and-paths#term-node) connected by [paths](/exploration/nodes-and-paths#term-path) that are a representation of the world as players will experience it.  It is often helpful to project it onto a geographical map of the region of the world in which the adventure takes place, but it is not strictly necessary so long as GMs have a clear sense of how players will be getting from place to place.
+
+* [Nodes and Paths:](/exploration/nodes-and-paths) The basics of mapping the overworld.
+* [The Travel Round:](/exploration/travel/round) The structure of play during exploration.
+* [Weather and Climate:](/exploration/weather-and-climate) Rules for simulating weather patterns and their effects on travel.
+* [Hazards and Encounters:](/exploration/hazards-and-encounters) Advice for roleplaying the enemy encounters and natural hazards that [player characters](/extras/key-terms#term-player-character) will encounter during the travel round.

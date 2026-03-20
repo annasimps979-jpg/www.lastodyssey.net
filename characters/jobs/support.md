@@ -1,6 +1,6 @@
 # Support
 
-Supports specialize in [buffs](/combat-rules/buffs-and-debuffs#term-buff), [Shells](/combat-rules/shells), and beneficial [statuses](/combat-rules/statuses).
+Supports specialize in [buffs](/combat/buffs-and-debuffs#term-buff), [Shells](/combat/shells), and beneficial [statuses](/combat/statuses).
 
 While they are Supports, [player characters](/extras/key-terms#term-player-character) gain the following bonuses to their [statistics](/extras/key-terms#term-statistic):
 *  Their [Physical Defense](/characters/attributes-and-statistics#term-physical-defense) is increased by an amount equal to their [Body](/characters/attributes-and-statistics#term-body).
@@ -9,13 +9,13 @@ While they are Supports, [player characters](/extras/key-terms#term-player-chara
 
 ## Abilities by Rank
 
-|Rank|Name|[Type](/combat-rules/attacking-and-defending#term-ability-type)|Cost|Description|
+|Rank|Name|[Type](/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Buff|[Ally](/combat-rules/attacking-and-defending#term-ally-ability)|5 [MP](/characters/attributes-and-statistics#term-mp), 1 [AP](/combat-rules/the-combat-round#term-ap)|Move the statistic associated with your [archetype](/characters/archetypes) a single step up the [Bonus Tracker](/combat-rules/buffs-and-debuffs#term-bonus-tracker) for the selected target.|
-|2|Shell|Ally|7 MP, 1 AP|Apply an amount of Shell equal to your Magical Attack of the type of your [base](/extras/key-terms#term-base) [elemental type](/combat-rules/elemental-types#term-elemental-type) to a single ally.  If they already have a Shell of a different elemental type, its elemental type changes to the elemental type of this [ability](/extras/key-terms#term-ability) and increases by the same amount.|
-|3|Protect|Ally|9 MP, 1 AP|Apply the Protected status to a single target, which goes away at the beginning of your next [turn](/combat-rules/the-combat-round#term-turn), not counting held turns.  While a [character](/extras/key-terms#term-character) is Protected, they are immune to receiving damage or statuses of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
-|4|Multibuff|[Multi](/combat-rules/attacking-and-defending#term-multi)|10 MP, 1 AP|Move the statistic associated with your archetype a single step up the Bonus Tracker for yourself and all of your allies.|
-|5|Haste|Ally|12 MP, 1 AP|The target of this ability receives the Hasted status during the [Effect Phase](/combat-rules/the-combat-round#term-effect-phase) of this [round](/combat-rules/the-combat-round#term-round).  The status then lasts for three subsequent rounds, or until it is removed.  While the target is Hasted, they have +1 AP to use per round.|
+|1|Buff|[Ally](/combat/attacking-and-defending#term-ally-ability)|5 [MP](/characters/attributes-and-statistics#term-mp), 1 [AP](/combat/round#term-ap)|Move the statistic associated with your [archetype](/characters/archetypes) a single step up the [Bonus Tracker](/combat/buffs-and-debuffs#term-bonus-tracker) for the selected target.|
+|2|Shell|Ally|7 MP, 1 AP|Apply an amount of Shell equal to your Magical Attack of the type of your [base](/extras/key-terms#term-base) [elemental type](/combat/elemental-types#term-elemental-type) to a single ally.  If they already have a Shell of a different elemental type, its elemental type changes to the elemental type of this [ability](/extras/key-terms#term-ability) and increases by the same amount.|
+|3|Protect|Ally|9 MP, 1 AP|Apply the Protected status to a single target, which goes away at the beginning of your next [turn](/combat/round#term-turn), not counting held turns.  While a [character](/extras/key-terms#term-character) is Protected, they are immune to receiving damage or statuses of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
+|4|Multibuff|[Multi](/combat/attacking-and-defending#term-multi)|10 MP, 1 AP|Move the statistic associated with your archetype a single step up the Bonus Tracker for yourself and all of your allies.|
+|5|Haste|Ally|12 MP, 1 AP|The target of this ability receives the Hasted status during the [Effect Phase](/combat/round#term-effect-phase) of this [round](/combat/round#term-round).  The status then lasts for three subsequent rounds, or until it is removed.  While the target is Hasted, they have +1 AP to use per round.|
 |6|Multishell|Multi|14 MP, 1 AP|Apply an amount of Shell equal to your Magical Attack of the type of your base elemental type to yourself and all of your allies.  If they already have a Shell of a different elemental type, its elemental type changes to the elemental type of this ability and increases by the same amount.|
 |7|Power Buff|Ally|16 MP, 1 AP|Move the statistic associated with your archetype three steps up the Bonus Tracker for the selected target.|
 |8|Multiprotect|Multi|20 MP, 1 AP|Apply the Protected status to yourself and all of your allies, which goes away at the beginning of your next turn, not counting held turns.  While a character is Protected, they are immune to receiving damage or statuses of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|

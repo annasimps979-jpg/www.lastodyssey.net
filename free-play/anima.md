@@ -5,21 +5,21 @@ In Last Odyssey, the [player characters](/extras/key-terms#term-player-character
 ## Using Anima
 Each player character is empowered with magic whose root is the Anima accumulated inside of their souls.  In game terms, this means that they can earn Anima by acting out scenes and spend Anima to gain mechanical advantages.  All player characters can have a maximum of 10 Anima at a time.  Once they accumulate this much, they must spend some in order to earn any more.
 
-Players can spend Anima in or out of [combat](/combat-rules) in any of the following ways:
-*  During travel, they may spend 1 Anima to automatically succeed on a [navigation roll](/exploration-rules/the-travel-round#term-navigation-roll).
-*  In combat, they can spend 3 Anima to take the [Summon Eidolon](/combat-rules/the-combat-round#term-summon-eidolon) [action](/extras/key-terms#term-action).
+Players can spend Anima in or out of [combat](/combat) in any of the following ways:
+*  During travel, they may spend 1 Anima to automatically succeed on a [navigation roll](/exploration/travel/round#term-navigation-roll).
+*  In combat, they can spend 3 Anima to take the [Summon Eidolon](/combat/round#term-summon-eidolon) [action](/extras/key-terms#term-action).
 *  In combat, they must spend 1 Anima per round to keep their eidolon on the field.
-*  In combat, they may spend 1 Anima to turn any die roll into either a 1 or a 10, with the exception of [calling Initiative](/combat-rules/starting-battles#term-calling-initiative).
+*  In combat, they may spend 1 Anima to turn any die roll into either a 1 or a 10, with the exception of [calling Initiative](/combat/starting#term-calling-initiative).
 *  In and out of combat, they can spend 3 Anima to save themselves from True Death.  If so, they will be revived at 1 [HP](/characters/attributes-and-statistics#term-hp) after the danger that threatened their life has passed.  They must do this at the moment of their own death, and they cannot intervene to save any other characters but themselves.
 *  Out of combat, they can spend 1 Anima to automatically succeed on a skill challenge.
 *  Out of combat, they can spend 1 Anima to ask whether or not the situation they are in is dangerous.
 *  Out of combat, they can spend 1 Anima to revive their eidolon to full HP.
 
 ## Earning Anima
-Player characters are agents of change, and when they pursue change they will also accrue the power of Anima.  Earning Anima is what allows [players](/extras/key-terms#term-player) to advance their [tier](/characters/character-creation#term-tier), overcome [skill challenges](/free-play/skill-challenges), and save themselves from [True Death](/free-play/true-death).  In Last Odyssey, players earn Anima in return for putting things that are important to them at risk.  There are five scenarios which a character can initiate to earn Anima:
+Player characters are agents of change, and when they pursue change they will also accrue the power of Anima.  Earning Anima is what allows [players](/extras/key-terms#term-player) to advance their [tier](/characters/creation#term-tier), overcome [skill challenges](/free-play/skill-challenges), and save themselves from [True Death](/free-play/true-death).  In Last Odyssey, players earn Anima in return for putting things that are important to them at risk.  There are five scenarios which a character can initiate to earn Anima:
 *  When a character puts their life at risk for something important to them, they will earn 5 Anima.
-*  When a character puts one of their [Relationships](/characters/character-creation#term-relationship) at risk for something important to them, they will earn 1-3 Anima.
-*  When a character puts one of their [Aspirations](/characters/character-creation#term-aspiration) at risk for something important to them, they will earn 1-3 Anima.
+*  When a character puts one of their [Relationships](/characters/creation#term-relationship) at risk for something important to them, they will earn 1-3 Anima.
+*  When a character puts one of their [Aspirations](/characters/creation#term-aspiration) at risk for something important to them, they will earn 1-3 Anima.
 *  When a character puts something important to them at risk for the sake of one of their Relationships, they will earn 1-3 Anima.
 *  When a character puts something important to them at risk for the sake of one of their Aspirations, they will earn 1-3 Anima.
 

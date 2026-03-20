@@ -1,6 +1,6 @@
 # Healer
 
-_<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](/extras/key-terms#term-ability) that heal, revive, and remove [statuses](/combat-rules/statuses) and [debuffs](/combat-rules/buffs-and-debuffs#term-debuff).
+_<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](/extras/key-terms#term-ability) that heal, revive, and remove [statuses](/combat/statuses) and [debuffs](/combat/buffs-and-debuffs#term-debuff).
 
 While they are Healers, [player characters](/extras/key-terms#term-player-character) gain the following bonuses to their [statistics](/extras/key-terms#term-statistic):
 *  Their [Evasion](/characters/attributes-and-statistics#term-evasion) is increased by an amount equal to their [Body](/characters/attributes-and-statistics#term-body).
@@ -11,10 +11,10 @@ While they are Healers, [player characters](/extras/key-terms#term-player-charac
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Heal|[Ally](/combat-rules/attacking-and-defending#term-ally-ability)|5 [MP](/characters/attributes-and-statistics#term-mp), 1 [AP](/combat-rules/the-combat-round#term-ap)|Restore an amount of [HP](/characters/attributes-and-statistics#term-hp) to a single target equal to your Magical Attack.|
-|2|Cleanse|Ally|8 MP, 1 AP|Reset the [Bonus Tracker](/combat-rules/buffs-and-debuffs#term-bonus-tracker) for all of a single target's statistics back to +0.|
+|1|Heal|[Ally](/combat/attacking-and-defending#term-ally-ability)|5 [MP](/characters/attributes-and-statistics#term-mp), 1 [AP](/combat/round#term-ap)|Restore an amount of [HP](/characters/attributes-and-statistics#term-hp) to a single target equal to your Magical Attack.|
+|2|Cleanse|Ally|8 MP, 1 AP|Reset the [Bonus Tracker](/combat/buffs-and-debuffs#term-bonus-tracker) for all of a single target's statistics back to +0.|
 |3|Revive|Ally|10 MP, 1 AP|Revive a single [downed](/characters/attributes-and-statistics#term-downed) target back to 1 HP.|
-|4|Life Aura|[Multi](/combat-rules/attacking-and-defending#term-multi)|2 AP|Heal yourself an all allies for 5 HP.|
+|4|Life Aura|[Multi](/combat/attacking-and-defending#term-multi)|2 AP|Heal yourself an all allies for 5 HP.|
 |5|Mend|Ally|11 MP, 1 AP|Heal a single target for an amount of HP equal to twice your Magical Attack.|
 |6|Cure|Ally|12 MP, 1 AP|Remove all statuses from a single target.|
 |7|Raise Dead|Ally|15 MP, 1 AP|Revive a single downed target back to half its current maximum HP, rounded down.|
