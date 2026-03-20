@@ -8,7 +8,7 @@ Every FRP requires that participants agree on the principles of a shared world, 
 
 ## Danger, Combat, and Antagonists
 
-In Last Odyssey, the players fight on the side of good against the forces of evil.  Major villains are known as [Antagonists](../Enemies/Antagonists), while minor villains are known as [enemies](../Enemies).  Every session of Last Odyssey will see the players facing down challenges that they will overcome with their own ingenuity and by leaning on their characters' innate abilities.  They will also find themselves solving puzzles, fighting off opponents in combat, and exploring the larger world.  It is the GM's job to create these challenges, and it is the players' job to overcome them.  The point of these challenges is not to guarantee that the players will win or lose, but rather to empower the group to create an engaging story.
+In Last Odyssey, the players fight on the side of good against the forces of evil.  Major villains are known as [Antagonists](/Enemies/Antagonists), while minor villains are known as [enemies](/Enemies).  Every session of Last Odyssey will see the players facing down challenges that they will overcome with their own ingenuity and by leaning on their characters' innate abilities.  They will also find themselves solving puzzles, fighting off opponents in combat, and exploring the larger world.  It is the GM's job to create these challenges, and it is the players' job to overcome them.  The point of these challenges is not to guarantee that the players will win or lose, but rather to empower the group to create an engaging story.
 
 ## A Game About Storytelling
 

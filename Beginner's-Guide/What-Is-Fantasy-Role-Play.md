@@ -28,13 +28,13 @@ Trystan: Right, well, it's a shark as far as you can tell.
 
 Nick: Quirty is gonna take a look around, see if there are any hidden levers.
 
-Trystan: Okay, sure.  I think we can handle this as an [investigation roll](../Free-Play/Investigation#term-investigation-roll).  That would be using your five senses.  What's your [Body](../Characters/Attributes-and-Statistics#term-body) again?
+Trystan: Okay, sure.  I think we can handle this as an [investigation roll](/Free-Play/Investigation#term-investigation-roll).  That would be using your five senses.  What's your [Body](/Characters/Attributes-and-Statistics#term-body) again?
 
-Nick: Quirty's Body [attribute](../Extras/Key-Terms#term-attribute) is 5.
+Nick: Quirty's Body [attribute](/Extras/Key-Terms#term-attribute) is 5.
 
 Trystan: Okay.  Go ahead and make the roll.
 
-(Nick rolls the [outcome die](../Extras/Key-Terms#term-outcome-die).  The result is a 7, meaning that he may ask 1d6 questions of the GM for "free," in the sense that he doesn't have to narrate his character's actions.  He gets 4 questions.)
+(Nick rolls the [outcome die](/Extras/Key-Terms#term-outcome-die).  The result is a 7, meaning that he may ask 1d6 questions of the GM for "free," in the sense that he doesn't have to narrate his character's actions.  He gets 4 questions.)
 
 Nick: Let me think for a minute.  I'm not sure what to ask.
 
@@ -52,7 +52,7 @@ Monica: Wait!  I figured it out!  This is...Shoanna?  The sea god?  What was her
 
 Trystan: Shoshanna.
 
-Monica: Right, sorry, Shoshanna.  I have it written in the [lorebook](../Free-Play/Lore) that Shoshanna takes offerings of burnt corn.  That's what we learned from that weird priest last session.
+Monica: Right, sorry, Shoshanna.  I have it written in the [lorebook](/Free-Play/Lore) that Shoshanna takes offerings of burnt corn.  That's what we learned from that weird priest last session.
 
 Nick: I've only got one more question.
 
@@ -64,7 +64,7 @@ Nick: It's a good question, no worries.  Signs of ritual offerings...?
 
 Trystan: You see a small amount of dried up, burnt corn on the ground in front of the door.
 
-Monica: Let's burn some corn, then.  I'm guessing that costs some [Supplies](../The-Economy/Items/Travel-Items#term-supplies).
+Monica: Let's burn some corn, then.  I'm guessing that costs some [Supplies](/The-Economy/Items/Travel-Items#term-supplies).
 
 Trystan: Yep.  Reduce your Supplies by one.
 
@@ -76,12 +76,12 @@ Trystan: Nothing happens for a minute or two.  Then, you hear a weird keening so
 
 Nick: Nice.
 
-Trystan: Congrats!  You all earn 5 [XP](../Free-Play/Earning-XP) for solving that puzzle.
+Trystan: Congrats!  You all earn 5 [XP](/Free-Play/Earning-XP) for solving that puzzle.
 
 Readers should note that the players spent much of their time talking to one another rather than talking "in character."  At key moments, the players might decide to speak directly from their characters' mouths, but there is no requirement that this be the case.  Remember, the audience for FRP is the GM and the players rather than any external observer.  Whatever immerses you and your group in the fiction should be what you do.  Readers should also note that, at many points, the players engaged in "imperfect" play.  Monica mispronounced "Shoshanna," and Jaden butted in when Nick had the spotlight.  Neither of these two moments ruined the game, however, and the GM and the players were quick and mature enough to reassert their boundaries when they happened.  It's okay to not be perfect, so long as everyone feels respected and is having fun.
 
 ## Combat and Exploration
 
-There are times in Last Odyssey when the rules call for more involved play than free dialogue.  In particular, when the party experiences violent conflict and when they travel great distances, they will simulate this via [combat rounds](../Combat-Rules/The-Combat-Round) and the [travel round](../Exploration-Rules/The-Travel-Round), respectively.  The rules for these will be explained in later sections, but you can think of these like mini-games within the larger game of Last Odyssey.  During both of these mini-games, player freedom is vastly curtailed, and characters are only allowed to take certain actions within specific timeframes.  In practice, combat and travel play out much like a board game.  For each of these, there are rules for determining when and how characters "enter" combat and travel and when they "exit."
+There are times in Last Odyssey when the rules call for more involved play than free dialogue.  In particular, when the party experiences violent conflict and when they travel great distances, they will simulate this via [combat rounds](/Combat-Rules/The-Combat-Round) and the [travel round](/Exploration-Rules/The-Travel-Round), respectively.  The rules for these will be explained in later sections, but you can think of these like mini-games within the larger game of Last Odyssey.  During both of these mini-games, player freedom is vastly curtailed, and characters are only allowed to take certain actions within specific timeframes.  In practice, combat and travel play out much like a board game.  For each of these, there are rules for determining when and how characters "enter" combat and travel and when they "exit."
 
 It is highly recommended that the group use peripherals to better visualize what is occurring.  The Last Odyssey SRD has some free printables you can use for this purpose, including a battlemap and character sheets.

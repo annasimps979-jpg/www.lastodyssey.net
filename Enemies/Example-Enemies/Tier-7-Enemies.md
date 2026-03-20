@@ -3,27 +3,27 @@
 ## Orks
 Ork raiding parties are feared by rural folk, and rightfully so.  When they strike, they strike not just to steal food but also to remind their victims of their presence by inspiring fear, softening them for the next raid.
 
-In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of their enemies.  They do this through doing their best to do massive amounts of physical damage, and by purposefully ignoring their own health to maintain their image as invulnerable, rage-filled monsters.
+In [combat](/Combat-Rules), Orks want to strike terror in the hearts of their enemies.  They do this through doing their best to do massive amounts of physical damage, and by purposefully ignoring their own health to maintain their image as invulnerable, rage-filled monsters.
 
 ### Fodder (Normal 7, Demon, Earth)
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](/Characters/Attributes-and-Statistics#term-hp)|[Shell](/Combat-Rules/Shells)|[Initiative](/Characters/Attributes-and-Statistics#term-initiative)|[Mana](/Characters/Attributes-and-Statistics#term-mana)|[Action Points](/Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](/Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](/Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](/Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](/Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |51|19|14|55|3|12|8|7|4|
 
-|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
+|[Evasion](/Characters/Attributes-and-Statistics#term-evasion)|[Resistance](/Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](/Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](/Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](/Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |1|7|12|2|2|
 
 **Abilities**
 
-|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
+|Name|[Type](/Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Axe|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Two-Handed Chop|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that, on a hit, does [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical damage that is multiplied by 2 in addition to other modifiers.|
-|Disposable|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Fodder will always take damage for any non-Fodder enemies on the battlefield.  If there are multiple Fodder enemies on the battlefield, the GM may choose which one takes the damage.|
+|Axe|[Melee](/Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](/Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](/Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Two-Handed Chop|Melee|1 AP, 5 [MP](/Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that, on a hit, does [colorless](/Combat-Rules/Elemental-Types#term-colorless) physical damage that is multiplied by 2 in addition to other modifiers.|
+|Disposable|[Passive](/Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Fodder will always take damage for any non-Fodder enemies on the battlefield.  If there are multiple Fodder enemies on the battlefield, the GM may choose which one takes the damage.|
 
 **Item Table** 
 
@@ -50,8 +50,8 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sharp Thingy|Melee|1 AP|Makes a basic physical attack.|
-|Boom|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 9 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
-|Tripwire|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to [move](../../Combat-Rules/The-Combat-Round#term-move) will automatically gain the [Petrified](../../Combat-Rules/Statuses#term-petrified) status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](../../Combat-Rules/Death-and-Injury#term-downed), the Tripwire leaves.|
+|Boom|[Ranged](/Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 9 MP|Makes a [magical attack](/Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
+|Tripwire|[Special](/Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 5 MP|The next one of the Goblin's enemies to [move](/Combat-Rules/The-Combat-Round#term-move) will automatically gain the [Petrified](/Combat-Rules/Statuses#term-petrified) status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is [downed](/Combat-Rules/Death-and-Injury#term-downed), the Tripwire leaves.|
 
 **Item Table**
 
@@ -78,8 +78,8 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Chop|Melee|1 AP|Makes a basic physical attack.|
-|Fury|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|Works the same way as the [Knight's](../../Characters/Archetypes/Knight) Focus [ability](../../Extras/Key-Terms#term-ability) when the Knight has the Melee passive ability active.|
-|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the [front row](../../Combat-Rules/Starting-Battles#term-front-row).  On a hit, this attack does colorless physical damage.|
+|Fury|[Self](/Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|Works the same way as the [Knight's](/Characters/Archetypes/Knight) Focus [ability](/Extras/Key-Terms#term-ability) when the Knight has the Melee passive ability active.|
+|Cleave|[Multi](/Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the [front row](/Combat-Rules/Starting-Battles#term-front-row).  On a hit, this attack does colorless physical damage.|
 
 **Item Table** 
 
@@ -109,7 +109,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |Squash|Melee|1 AP, 5 MP|Makes a physical attack that deals physical colorless damage on a hit that is multiplied by 2 in addition to other multipliers.|
 |Boulder|Ranged|1 AP, 10 MP|Makes a physical attack against a single target that does physical earth damage if it hits.|
 |Landslide|Multi|1 AP, 15 MP|Makes a physical attack against every enemy on the battlefield that deals physical earth damage on a hit.|
-|Adaptation|Passive|N/A|When the Cave Troll is hit by a physical attack, their Physical Defense is [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) and their Magical Defense is [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by one step on the Bonus Tracker.  When the Cave Troll is hit by a magical attack, the reverse happens.|
+|Adaptation|Passive|N/A|When the Cave Troll is hit by a physical attack, their Physical Defense is [buffed](/Combat-Rules/Buffs-and-Debuffs#term-buff) by one step on the [Bonus Tracker](/Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) and their Magical Defense is [debuffed](/Combat-Rules/Buffs-and-Debuffs#term-debuff) by one step on the Bonus Tracker.  When the Cave Troll is hit by a magical attack, the reverse happens.|
 
 **Item Table** 
 
@@ -136,7 +136,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Whip|Melee|1 AP|Makes a basic physical attack.|
-|Repression|Multi|1 AP, 18 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Bleak Lord's enemies that inflicts [Silenced](../../Combat-Rules/Statuses#term-silenced) on a hit.|
+|Repression|Multi|1 AP, 18 MP|Uses a [status-inflicting ability](/Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Bleak Lord's enemies that inflicts [Silenced](/Combat-Rules/Statuses#term-silenced) on a hit.|
 |Cleansing Darkness|Multi|1 AP, 18 MP|Removes all statuses and debuffs from the Bleak Lord and all of their allies.|
 |Compel|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, allows the Bleak Lord to give one of their AP to the target and force them to use any action they wish.|
 |Master of the Violent and Cruel|Passive|N/A|All of the Bleak Lord's allies take double damage and do double damage from all sources.|
@@ -152,7 +152,7 @@ In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of th
 ## Devils
 The denizens of Hell are many, but they all have one thing in common: their irrepressible thirst for violence.
 
-In combat, devils are clever and efficient.  While they are cruel, it is not to the point of impeding their ability to win.  They will use tactics on par with the [player characters](../../Extras/Key-Terms#term-player-character).
+In combat, devils are clever and efficient.  While they are cruel, it is not to the point of impeding their ability to win.  They will use tactics on par with the [player characters](/Extras/Key-Terms#term-player-character).
 
 ### Imp (Normal 7, Demon, Fire)
 
@@ -171,8 +171,8 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Nibble|Melee|1 AP|Makes a basic physical attack.|
-|Cigar Toss|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, inflicts the Burned [status](../../Combat-Rules/Statuses) on a single target.|
-|Hat Trick|Ranged|1 AP, 10 MP|The Imp makes a magical attack against a single opponent that allows them to steal an item from the [party](../../Extras/Key-Terms#term-party) inventory.  They may then use this item with the Use Item action.|
+|Cigar Toss|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, inflicts the Burned [status](/Combat-Rules/Statuses) on a single target.|
+|Hat Trick|Ranged|1 AP, 10 MP|The Imp makes a magical attack against a single opponent that allows them to steal an item from the [party](/Extras/Key-Terms#term-party) inventory.  They may then use this item with the Use Item action.|
 
 **Item Table** 
 
@@ -199,7 +199,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Crack Open|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical light damage on a hit.  In addition, each hit allows the Succubus to cast this spell for free against one additional target.|
-|Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the [GM](../../Extras/Key-Terms#term-gm) should roll the [outcome die](../../Extras/Key-Terms#term-outcome-die).  If the roll is above a 7, any Charmed [characters](../../Extras/Key-Terms#term-character) on the battlefield will take an extra [action](../../Extras/Key-Terms#term-action) of the GM's choice.|
+|Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the [Effect Phase](/Combat-Rules/The-Combat-Round#term-effect-phase), the [GM](/Extras/Key-Terms#term-gm) should roll the [outcome die](/Extras/Key-Terms#term-outcome-die).  If the roll is above a 7, any Charmed [characters](/Extras/Key-Terms#term-character) on the battlefield will take an extra [action](/Extras/Key-Terms#term-action) of the GM's choice.|
 |Soul Eater|Special|1 AP|The Succubus makes a magical attack against a Charmed character that, on a hit, does magical colorless damage.  The Succubus then regains an amount of Shell equal to the amount of damage done to the target.|
 
 **Item Table** 
@@ -228,7 +228,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
 |Fiery Cleave|Multi|1 AP, 10 MP|Makes a physical attack against every enemy in the front row that does physical fire damage to every character it hits.|
-|Contract|Special|1 AP|The Cambion selects an enemy for a contract.  If they agree, the Cambion will expend 11 MP and the enemy will be healed for 20 HP.  If the Cambion is still standing during the Effect Phase of the following [round](../../Combat-Rules/The-Combat-Round#term-round), that same enemy will take 40 damage.|
+|Contract|Special|1 AP|The Cambion selects an enemy for a contract.  If they agree, the Cambion will expend 11 MP and the enemy will be healed for 20 HP.  If the Cambion is still standing during the Effect Phase of the following [round](/Combat-Rules/The-Combat-Round#term-round), that same enemy will take 40 damage.|
 
 **Item Table** 
 
@@ -256,7 +256,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Sickle|Melee|1 AP|Makes a basic physical attack.|
 |Test Subject|Ranged|1 AP|The Torturer inflicts the Test Subject status on a single target.  This status can be healed, and only one character can be a Test Subject at a time.  The Torturer's Test Subject receives +1 total damage from all sources.|
-|Wheel of Knives|Special|1 AP, 8 MP|Roll on the [Random Element Table](../../Extras/Key-Terms#term-random-element-table).  The Test Subject takes physical damage of the resulting [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
+|Wheel of Knives|Special|1 AP, 8 MP|Roll on the [Random Element Table](/Extras/Key-Terms#term-random-element-table).  The Test Subject takes physical damage of the resulting [elemental type](/Combat-Rules/Elemental-Types#term-elemental-type) that does [base](/Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
 |Wheel of Pain|Special|1 AP, 5 MP|Roll on the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's magical attacks.|
 |Wheel of Misfortune|Special|1 AP, 7 MP|The Torturer's Test subject receives a random extra status that cannot be resisted, not even by immunity.  Roll on the Random Element Table to see which status they receive.  Colorless corresponds to the subject not receiving any damage.|
 

@@ -3,27 +3,27 @@
 ## Invaders
 Alternate dimensions contain sentients of their own.  While most transdimensional visitors are benign or even benevolent, those that willingly choose to colonize other dimensions often aren't.
 
-Invaders don't follow too many rules in [combat](../../Combat-Rules/), except for one: do whatever the [players](../../Extras/Key-Terms#term-player) expect the least at any given time.
+Invaders don't follow too many rules in [combat](/Combat-Rules), except for one: do whatever the [players](/Extras/Key-Terms#term-player) expect the least at any given time.
 
 ### Grub (Normal 9, Horror, Colorless)
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](/Characters/Attributes-and-Statistics#term-hp)|[Shell](/Combat-Rules/Shells)|[Initiative](/Characters/Attributes-and-Statistics#term-initiative)|[Mana](/Characters/Attributes-and-Statistics#term-mana)|[Action Points](/Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](/Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](/Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](/Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](/Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |50|35|17|75|3|10|12|8|6|
 
-|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
+|[Evasion](/Characters/Attributes-and-Statistics#term-evasion)|[Resistance](/Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](/Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](/Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](/Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |3|8|10|6|6|
 
 **Abilities**
 
-|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
+|Name|[Type](/Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Acid Spit|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that deals magical [wood](../../Combat-Rules/Elemental-Types#term-wood) damage on a hit and also reduces the enemy's Physical Defense by one on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
-|Accelerated Growth|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During each [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the Grub's Magical Defense, Physical Defense, and Resistance are [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one on the Bonus Tracker.|
+|Bite|[Melee](/Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](/Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](/Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Acid Spit|[Ranged](/Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](/Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](/Combat-Rules/Attacking-and-Defending#term-magical-attack) that deals magical [wood](/Combat-Rules/Elemental-Types#term-wood) damage on a hit and also reduces the enemy's Physical Defense by one on the [Bonus Tracker](/Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
+|Accelerated Growth|[Passive](/Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During each [Effect Phase](/Combat-Rules/The-Combat-Round#term-effect-phase), the Grub's Magical Defense, Physical Defense, and Resistance are [buffed](/Combat-Rules/Buffs-and-Debuffs#term-buff) by one on the Bonus Tracker.|
 
 **Item Table** 
 
@@ -50,8 +50,8 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Standard Missile|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit that is multiplied by 2 in addition to other multipliers.|
-|Standard Shell|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 7 MP|Increases or restores the Shell of the Pupil or one of its allies by 18 points.|
-|Implant Eggs|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP|If another character on the battlefield is already [downed](../../Combat-Rules/Death-and-Injury#term-downed), the Pupil can use this [ability](../../Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](../../Extras/Key-Terms#term-battle).|
+|Standard Shell|[Ally](/Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 7 MP|Increases or restores the Shell of the Pupil or one of its allies by 18 points.|
+|Implant Eggs|[Special](/Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP|If another character on the battlefield is already [downed](/Combat-Rules/Death-and-Injury#term-downed), the Pupil can use this [ability](/Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](/Extras/Key-Terms#term-battle).|
 
 **Item Table** 
 
@@ -78,8 +78,8 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
-|Cloaking Field|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 10 MP|This ability inflicts the Cloaked [status](../../Combat-Rules/Statuses) on the Infiltrator, which works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
-|Implant|Melee|1 AP, 5 MP|Uses a status-inflicting ability that, on a hit, deals physical colorless damage and inflicts the Athena status.  During the next Effect Phase, characters with the Athena status will have their Magical and Status Accuracies [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by three steps on the Bonus Tracker.  A Grub will then spawn in the [front row](../../Combat-Rules/Starting-Battles#term-front-row) on the Infiltrator's side and the Athena effect will be removed from the character.|
+|Cloaking Field|[Self](/Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 10 MP|This ability inflicts the Cloaked [status](/Combat-Rules/Statuses) on the Infiltrator, which works the same as the [Thief's](/Characters/Archetypes/Thief) Hide ability.|
+|Implant|Melee|1 AP, 5 MP|Uses a status-inflicting ability that, on a hit, deals physical colorless damage and inflicts the Athena status.  During the next Effect Phase, characters with the Athena status will have their Magical and Status Accuracies [debuffed](/Combat-Rules/Buffs-and-Debuffs#term-debuff) by three steps on the Bonus Tracker.  A Grub will then spawn in the [front row](/Combat-Rules/Starting-Battles#term-front-row) on the Infiltrator's side and the Athena effect will be removed from the character.|
 
 **Item Table** 
 
@@ -107,7 +107,7 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 |:-|:-|:-|:-|
 |Biters|Melee|1 AP|Makes two consecutive basic physical attacks.|
 |Drink Blood|Melee|1 AP, 12 MP|The Swarm makes a physical attack on a single target.  On a hit, they deal colorless physical damage and regain an amount of HP equal to the damage they dealt.|
-|Overwhelm|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 12 MP|Makes a physical attack against all of the Swarm's enemies that deals physical colorless damage on a hit.|
+|Overwhelm|[Multi](/Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 12 MP|Makes a physical attack against all of the Swarm's enemies that deals physical colorless damage on a hit.|
 |Infernal Buzzing|Ranged|1 AP, 10 MP|Reduces the Magical Accuracy of a single target by three steps on the Bonus Tracker.|
 |Agglomerated|Passive|N/A|The Swarm is immune to magical attacks, physical attacks, and status-inflicting abilities that only target a single character.|
 
@@ -137,8 +137,8 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 |:-|:-|:-|:-|
 |Mindstab|Ranged|1 AP, 10 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit and also reduces the target's Magical Attack by one step on the Bonus Tracker.|
 |Dream Eater|Ranged|1 AP, 5 MP|Makes a magical attack against a single target that, on a hit, deals magical colorless damage to their MP instead of their HP or Shell, with all multipliers calculated as normal.  The Illithid then regains an amount of MP equal to the damage the target took to their MP.|
-|Mass Delusion|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Illithid's enemies that inflicts the [Confused](../../Combat-Rules/Statuses#term-confused) status on a hit.|
-|Puppeteer|Ranged|1 AP, 10 MP|Uses a status-inflicting ability on a single target that, on a hit, allows them to force that enemy to take 2 actions of the [GM's](../../Extras/Key-Terms#term-gm) choice.|
+|Mass Delusion|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Illithid's enemies that inflicts the [Confused](/Combat-Rules/Statuses#term-confused) status on a hit.|
+|Puppeteer|Ranged|1 AP, 10 MP|Uses a status-inflicting ability on a single target that, on a hit, allows them to force that enemy to take 2 actions of the [GM's](/Extras/Key-Terms#term-gm) choice.|
 |Brain Eater|Melee|1 AP, 3 MP|The Illithid makes a physical attack that, on a hit, deals physical colorless damage.  The Illithid then immediately regains an amount of HP equal to the damage it dealt with this attack.|
 
 **Item Table** 
@@ -171,7 +171,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Laser|Melee|1 AP|Makes a basic physical attack.|
-|Database|Multi|1 AP, 10 MP|Uses the [Artificer's](../../Characters/Archetypes/Artificer) Multiscan on all of the Eye's enemies.  The next magical attack, status, or physical attack dealt to them ignores any of their resistances or immunities to damage or statuses, but not their weaknesses.|
+|Database|Multi|1 AP, 10 MP|Uses the [Artificer's](/Characters/Archetypes/Artificer) Multiscan on all of the Eye's enemies.  The next magical attack, status, or physical attack dealt to them ignores any of their resistances or immunities to damage or statuses, but not their weaknesses.|
 |Orbital Strike|Multi|1 AP, 15 MP|Makes a magical attack against all of the Eye's enemies that deals magical metal damage on a hit.|
 
 **Item Table** 
@@ -200,7 +200,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |:-|:-|:-|:-|
 |Shot|Melee|1 AP|Makes a basic physical attack.|
 |Tag|Multi|1 AP, 12 MP|Reduces the Evasion of all of the Trooper's enemies by one level on the Bonus Tracker.|
-|Automatic Fire|Passive|N/A|The Trooper may make one more basic attack per spent AP per subsequent [turn](../../Combat-Rules/The-Combat-Round#term-turn) it has used a basic attack during.|
+|Automatic Fire|Passive|N/A|The Trooper may make one more basic attack per spent AP per subsequent [turn](/Combat-Rules/The-Combat-Round#term-turn) it has used a basic attack during.|
 
 **Item Table** 
 
@@ -227,7 +227,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Mech-Arm|Melee|1 AP|Makes a basic physical attack.|
-|Jury-Rig|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 11 MP|The Engineer can transfer up to a total HP, Shell, and MP from one of their allies to another equal to its Magical Attack, so long as they are Construct type [characters](../../Extras/Key-Terms#term-character).|
+|Jury-Rig|[Special](/Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 11 MP|The Engineer can transfer up to a total HP, Shell, and MP from one of their allies to another equal to its Magical Attack, so long as they are Construct type [characters](/Extras/Key-Terms#term-character).|
 |Repairs|Multi|1 AP, 18 MP|Removes all of the statuses and debuffs from the Engineer and all of their allies.|
 
 **Item Table** 

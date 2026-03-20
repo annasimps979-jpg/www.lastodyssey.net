@@ -1,6 +1,6 @@
 # Elemental Types
 
-Player characters, enemies, [eidolons](../Characters/Eidolons#term-eidolon), and many [abilities](../Extras/Key-Terms#term-ability) all have an extra property called their _<dfn id = "term-elemental-type">elemental type</dfn>._  Setting wise, you can think of elemental type as the form in which their magic is expressed.  There are nine elemental types:
+Player characters, enemies, [eidolons](/Characters/Eidolons#term-eidolon), and many [abilities](/Extras/Key-Terms#term-ability) all have an extra property called their _<dfn id = "term-elemental-type">elemental type</dfn>._  Setting wise, you can think of elemental type as the form in which their magic is expressed.  There are nine elemental types:
 *  <dfn id = "term-fire">Fire</dfn> magic channels the power of heat and flames, and often has a reddish color.
 *  <dfn id = "term-water">Water</dfn> magic channels the power of the sea and of storms, and often has a deep blue color.
 *  <dfn id = "term-earth">Earth</dfn> magic channels the power of gravity and solid rock, and often has a brownish color.
@@ -11,11 +11,11 @@ Player characters, enemies, [eidolons](../Characters/Eidolons#term-eidolon), and
 *  <dfn id = "term-light">Light</dfn> magic channels the power of radiation and the sun, and often has a whitish color.
 *  <dfn id = "term-shadow">Shadow</dfn> magic channels the power of darkness and the unknown, and often has a purple-black color.
 
-An [ability](../Extras/Key-Terms#term-ability) or [character](../Extras/Key-Terms#term-character) that does not have an elemental type is referred to as _<dfn id = "term-colorless">colorless</dfn>._  Unless they have a [Shell](../Combat-Rules/Shells) active, player characters count as colorless for the purpose of calculating the damage they take from enemy attacks.
+An [ability](/Extras/Key-Terms#term-ability) or [character](/Extras/Key-Terms#term-character) that does not have an elemental type is referred to as _<dfn id = "term-colorless">colorless</dfn>._  Unless they have a [Shell](/Combat-Rules/Shells) active, player characters count as colorless for the purpose of calculating the damage they take from enemy attacks.
 
 ## Elemental Damage
 
-All abilities with an elemental type have their effects modified by the elemental type of the target.  For example, the damage that a [physical](../Combat-Rules/Attacking-and-Defending#term-physical-attack) or [magical attack](../Combat-Rules/Attacking-and-Defending#term-magical-attack) does is multiplied by an amount determined by both the elemental type of the attack and the elemental type of the target.  Characters with a Shell active will count as having the Shell's elemental type for the purposes of calculating how much damage they receive.  All elements will have as many types they do more damage to and less damage to, but not always to the same degree.  As an example, Wood does 2x damage against Light, Shadow, and Wind, while Fire does 2x damage against Wood and 4x damage against Ice.
+All abilities with an elemental type have their effects modified by the elemental type of the target.  For example, the damage that a [physical](/Combat-Rules/Attacking-and-Defending#term-physical-attack) or [magical attack](/Combat-Rules/Attacking-and-Defending#term-magical-attack) does is multiplied by an amount determined by both the elemental type of the attack and the elemental type of the target.  Characters with a Shell active will count as having the Shell's elemental type for the purposes of calculating how much damage they receive.  All elements will have as many types they do more damage to and less damage to, but not always to the same degree.  As an example, Wood does 2x damage against Light, Shadow, and Wind, while Fire does 2x damage against Wood and 4x damage against Ice.
 
 ## Elemental Multipliers
 
