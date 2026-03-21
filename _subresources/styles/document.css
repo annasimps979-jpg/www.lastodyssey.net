@@ -35,17 +35,77 @@
 
 /* TEMPORARY STYLES FER THE JEKYLL-STAGING BRANCH WHILE ACTUAL STYLES PENDING */
 
+@property --prose-opsz {
+  inherits      : true;
+  initial-value : 14;
+  syntax        : "<integer>";
+}
+
+@property --prose-wght-bold {
+  inherits      : true;
+  initial-value : 666;
+  syntax        : "<integer>";
+}
+
+@property --prose-wght-base {
+  inherits      : true;
+  initial-value : 400;
+  syntax        : "<integer>";
+}
+
+@property --title-opsz {
+  inherits      : true;
+  initial-value : 60;
+  syntax        : "<integer>";
+}
+
+@property --title-wght-bold {
+  inherits      : true;
+  initial-value : 600;
+  syntax        : "<integer>";
+}
+
+@property --title-wght-base {
+  inherits      : true;
+  initial-value : 380;
+  syntax        : "<integer>";
+}
+
+@keyframes thing {
+  from { opacity: 1.00; scale:  99.8%; rotate: -0.15deg; }
+  to   { opacity: 0.95; scale: 100.2%; rotate:  0.15deg; }
+}
+
 @layer temporary {
   html {
-    background-color        : light-dark(#CCC, #111);
+    background-color        : light-dark(#48524A, #0A1112);
+    color                   : light-dark(#0C110F, #E4FAFF);
     color-scheme            : light dark;
     font-family             : prose;
-    font-variation-settings : "opsz"  8, "wght" 420;
+    font-size               : 1.125rem;
+    font-variation-settings : "opsz" var(--prose-opsz),
+                              "wght" var(--prose-wght-base);
     height                  : 100%;
   }
 
+  b, strong {
+    font-variation-settings   : "opsz" var(--prose-opsz),
+                                "wght" var(--prose-wght-bold);
+  }
+
+  :where(h1, h2, h3, h4, h5, h6) {
+    font-family               : title;
+    font-variation-settings   : "opsz" var(--title-opsz),
+                                "wght" var(--title-wght-base);
+
+    & :is(b, strong) {
+      font-variation-settings : "opsz" var(--title-opsz),
+                                "wght" var(--title-wght-bold);
+    }
+  }
+
   body {
-    background-color        : light-dark(#EEE, #222);
+    background-color        : light-dark(#F2F5E4, #0B1915);
     contain                 : inline-size;
     margin                  : 0 auto;
     max-inline-size         : 70ch;
@@ -56,26 +116,58 @@
   main {
     & p {
       text-align            : justify;
+      text-justify          : inter-character;
     }
   }
 
   footer, nav, search {
-    background-color        : blue;
-    color                   : azure;
-    font-size               : 0.75rem;
-    margin-block            : 2ch;
-    padding                 : 2ch;
-    text-align              : center;
-  }
-
-  :where(h1, h2, h3, h4, h5, h6) {
-    font-family             : title;
-    font-variation-settings : "opsz" 80, "wght" 380;
+    animation-direction       : alternate;
+    animation-duration        : 7s;
+    animation-iteration-count : infinite;
+    animation-name            : thing;
+    animation-timing-function : cubic-bezier(0.85, 0.25, 0.33, 1.25);
+    background-color          : #487210;
+    color                     : azure;
+    font-size                 : 0.75rem;
+    font-variation-settings   : initial;
+    letter-spacing            : 0.8px;
+    margin-block              : 1em;
+    padding                   : 1em;
+    text-align                : center;
   }
 
   header h1 {
-    font-size               : 3rem;
-    margin                  : 0;
+    font-size                 : 3rem;
+    margin                    : 0;
+  }
+
+  table {
+    border-collapse         : collapse;
+    font-family             : table;
+    font-optical-sizing     : auto;
+    font-size               : 0.8rem;
+    font-variant-numeric    : tabular-nums;
+    font-variation-settings : initial;
+    font-weight             : 222;
+  }
+
+  td, th {
+    border          : 1px solid color(from currentcolor srgb r g b / 0.25);
+    padding-block   : 0.25rem;
+    padding-inline  : 0.50rem;
+  }
+
+  :any-link {
+    color                     : light-dark(#0F7C92, #66D678);
+    text-decoration-color     : color(from currentcolor srgb r g b / 0.75);
+    text-decoration-skip-ink  : auto;
+    text-decoration-thickness : from-font;
+    text-underline-offset     : 20%;
+    text-underline-position   : from-font;
+  }
+
+  table :any-link {
+    text-underline-offset     : auto;
   }
 }
 
@@ -93,30 +185,6 @@
   inherits      : true;
   initial-value : auto;
   syntax        : "auto | <integer>";
-}
-
-@property --prose-opsz {
-  inherits      : true;
-  initial-value : 8;
-  syntax        : "<integer>";
-}
-
-@property --title-opsz {
-  inherits      : true;
-  initial-value : 80;
-  syntax        : "<integer>";
-}
-
-@property --prose-wght {
-  inherits      : true;
-  initial-value : 420;
-  syntax        : "<integer>";
-}
-
-@property --title-wght {
-  inherits      : true;
-  initial-value : 380;
-  syntax        : "<integer>";
 }
 
 :where(*|*, *|*::after, *|*::before) {

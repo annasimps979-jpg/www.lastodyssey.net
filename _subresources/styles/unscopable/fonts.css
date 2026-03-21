@@ -106,9 +106,6 @@
     "sups" 0,/*{% comment %} Superscript              START 0 {% endcomment %}*/
     "zero" 0;/*{% comment %} Slashed Zero             START 0 {% endcomment %}*/
 
-  font-variation-settings:
-    normal;
-
   unicode-range:
     U+0-2CC, U+2CE-2D7, U+2DA, U+2DC-301, U+303-304, U+308-309, U+323, U+329,
     U+1D00-1DBF, U+1E00-1EFF, U+2000-206F, U+2020, U+20A0-20C0, U+2113, U+2122,
@@ -158,9 +155,6 @@
     "ss03" 0,/*{% comment %} Styl. Set 3: Sensuous 4  START 0 {% endcomment %}*/
     "sups" 0,/*{% comment %} Superscript              START 0 {% endcomment %}*/
     "tnum" 0;/*{% comment %} Tabular Figures          START 0 {% endcomment %}*/
-
-  font-variation-settings:
-    normal;
 }
 
 @font-face {
@@ -206,9 +200,6 @@
     "ss03" 1,/*{% comment %} Styl. Set 3: Sensuous 4  START 0 {% endcomment %}*/
     "sups" 0,/*{% comment %} Superscript              START 0 {% endcomment %}*/
     "tnum" 0;/*{% comment %} Tabular Figures          START 0 {% endcomment %}*/
-
-  font-variation-settings:
-    normal;
 }
 
 @font-face {
