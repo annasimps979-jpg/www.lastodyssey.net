@@ -1,8 +1,8 @@
 # Healer
 
-_<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](/srd/extras/key-terms#term-ability) that heal, revive, and remove [statuses](/srd/combat/statuses) and [debuffs](/srd/combat/buffs-and-debuffs#term-debuff).
+_<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](/srd/key-terms#term-ability) that heal, revive, and remove [statuses](/srd/combat/statuses) and [debuffs](/srd/combat/buffs-and-debuffs#term-debuff).
 
-While they are Healers, [player characters](/srd/extras/key-terms#term-player-character) gain the following bonuses to their [statistics](/srd/extras/key-terms#term-statistic):
+While they are Healers, [player characters](/srd/key-terms#term-player-character) gain the following bonuses to their [statistics](/srd/key-terms#term-statistic):
 *  Their [Evasion](/srd/characters/attributes-and-statistics#term-evasion) is increased by an amount equal to their [Body](/srd/characters/attributes-and-statistics#term-body).
 *  Their [Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack) is increased by an amount equal to their [Mind](/srd/characters/attributes-and-statistics#term-mind).
 *  Their [Magical Attack](/srd/characters/attributes-and-statistics#term-magical-attack) is increased by an amount equal to their [Spirit](/srd/characters/attributes-and-statistics#term-spirit).

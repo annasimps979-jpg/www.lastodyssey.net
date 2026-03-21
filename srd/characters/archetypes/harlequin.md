@@ -6,7 +6,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](/srd/c
 *  +5 [Health](/srd/characters/attributes-and-statistics#term-health)
 *  +10 [Mana](/srd/characters/attributes-and-statistics#term-mana)
 *  +6 [Initiative](/srd/characters/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/extras/key-terms#term-ability) affect [Status Accuracy](/srd/characters/attributes-and-statistics#term-status-accuracy).
+*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) affect [Status Accuracy](/srd/characters/attributes-and-statistics#term-status-accuracy).
 *  As a [Saboteur](/srd/characters/jobs/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities affect [Physical Accuracy](/srd/characters/attributes-and-statistics#term-physical-accuracy).
 
 ## Advancements by Rank
@@ -15,7 +15,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](/srd/c
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|[Ranged](/srd/combat/attacking-and-defending#term-ranged)|1 [AP](/srd/combat/round#term-ap)|Wager up to 5 times your [tier](/srd/characters/creation#term-tier) [HP](/srd/characters/attributes-and-statistics#term-hp), [MP](/srd/characters/attributes-and-statistics#term-mp) and [Shell](/srd/combat/shells) against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll [the outcome die](/srd/extras/key-terms#term-outcome-die).  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
+|Gamble|[Ranged](/srd/combat/attacking-and-defending#term-ranged)|1 [AP](/srd/combat/round#term-ap)|Wager up to 5 times your [tier](/srd/characters/creation#term-tier) [HP](/srd/characters/attributes-and-statistics#term-hp), [MP](/srd/characters/attributes-and-statistics#term-mp) and [Shell](/srd/combat/shells) against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll [the outcome die](/srd/key-terms#term-outcome-die).  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
 
 **Rank 2:** You gain +1 Status Accuracy.
 
@@ -59,8 +59,8 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](/srd/c
 
 **[Healer](/srd/characters/jobs/healer):** Bet Your Life.  When you heal an ally with a Healer ability, you can have them call a number and then roll the outcome die.  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
 
-**[Defender](/srd/characters/jobs/defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll the outcome die before the [GM](/srd/extras/key-terms#term-gm) rolls the [hit die](/srd/combat/attacking-and-defending#term-hit-die).  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
+**[Defender](/srd/characters/jobs/defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll the outcome die before the [GM](/srd/key-terms#term-gm) rolls the [hit die](/srd/combat/attacking-and-defending#term-hit-die).  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
 
-**Support:** Random Buff.  When you use a buff ability, you may roll on the [Random Statistic Table](/srd/extras/random-tables#term-random-statistic-table) to determine which [statistic](/srd/extras/key-terms#term-statistic) you buff.
+**Support:** Random Buff.  When you use a buff ability, you may roll on the [Random Statistic Table](/srd/extras/random-tables#term-random-statistic-table) to determine which [statistic](/srd/key-terms#term-statistic) you buff.
 
 **Saboteur:** Random Debuff.  When you use a debuff ability, you may roll on the Random Statistic Table to determine which statistic you debuff.

@@ -1,6 +1,6 @@
 # Nodes and Paths
 
-There are two basic, interrelated components that make up the overworld: _<dfn id = "term-node">nodes</dfn>,_ which represent the places that [player characters](/srd/extras/key-terms#term-player-character) will be traveling to, and _<dfn id = "term-path">paths</dfn>._  For every location that is a significant distance away from any other location in the [overworld](/srd/exploration) such that [players](/srd/extras/key-terms#term-player) will have to expend travel resources in order to get there, a new node should be placed.  A good rule of thumb is that if players would have to use the travel round rules to get to a new place, then a new node should be made to represent it.
+There are two basic, interrelated components that make up the overworld: _<dfn id = "term-node">nodes</dfn>,_ which represent the places that [player characters](/srd/key-terms#term-player-character) will be traveling to, and _<dfn id = "term-path">paths</dfn>._  For every location that is a significant distance away from any other location in the [overworld](/srd/exploration) such that [players](/srd/key-terms#term-player) will have to expend travel resources in order to get there, a new node should be placed.  A good rule of thumb is that if players would have to use the travel round rules to get to a new place, then a new node should be made to represent it.
 
 ## Paths
 
@@ -16,8 +16,8 @@ When a new node is placed on the map, at least one path should be drawn connecti
 
 ## The Danger Rating
 
-While traveling, players may encounter [enemies](/srd/enemies#term-enemy) or [NPCs](/srd/extras/key-terms#term-npc) on the road.  In addition to the navigation difficulty, each path is also assigned a _<dfn id = "term-danger-rating">danger rating</dfn>,_ which is a number between 0 and 5 that determines how likely it is that they will encounter enemies during their journey, with 0 meaning that it won't happen and 5 meaning that it has a 50% chance of happening.
+While traveling, players may encounter [enemies](/srd/enemies#term-enemy) or [NPCs](/srd/key-terms#term-npc) on the road.  In addition to the navigation difficulty, each path is also assigned a _<dfn id = "term-danger-rating">danger rating</dfn>,_ which is a number between 0 and 5 that determines how likely it is that they will encounter enemies during their journey, with 0 meaning that it won't happen and 5 meaning that it has a 50% chance of happening.
 
 ## Exploration XP
 
-When players either visit a new node, discover an interesting [landmark](/srd/gm-resources/settlements/landmarks), or discover a hidden or otherwise hard-to-reach area, they will earn 1 [Discovery XP](/srd/free-play/earning-xp#term-discovery-xp) for doing so.  If they manage to reach a node that is well-hidden or very difficult to find, they will earn 5 XP instead.
+When players either visit a new node, discover an interesting [landmark](/srd/exploration/settlements/landmarks), or discover a hidden or otherwise hard-to-reach area, they will earn 1 [Discovery XP](/srd/free-play/earning-xp#term-discovery-xp) for doing so.  If they manage to reach a node that is well-hidden or very difficult to find, they will earn 5 XP instead.

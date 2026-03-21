@@ -1,9 +1,9 @@
 # Battle Items
 
-_<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of inventory item that is usable during [combat](/srd/combat).  Some battle items reproduce the effects of an ability such as Heal or Restore Mana, while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](/srd/extras/key-terms#term-party) inventory.  All battle items cost 1 [AP](/srd/combat/round#term-ap) to use unless otherwise specified.
+_<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of inventory item that is usable during [combat](/srd/combat).  Some battle items reproduce the effects of an ability such as Heal or Restore Mana, while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](/srd/key-terms#term-party) inventory.  All battle items cost 1 [AP](/srd/combat/round#term-ap) to use unless otherwise specified.
 
 ## Battle Item Effects
-Each battle item has a discrete effect that it induces during combat.  In theory, multiple items could lead to the same effect.  Rather than having a fixed list of items, Last Odyssey has a fixed set of item effects that could be caused by multiple items.  This is for two reasons.  The first is that the value of an item to the [players](/srd/extras/key-terms#term-player) is determined by what it does, and not what it looks like, and this is reflected in the item's cost.  The second is that the item that produces an effect in one setting may be different to its equivalent in another.  For example, in a sci-fi setting healing items may take the form of injectors or medkits, while in a fantasy setting they could take the form of healing potions or poultices.
+Each battle item has a discrete effect that it induces during combat.  In theory, multiple items could lead to the same effect.  Rather than having a fixed list of items, Last Odyssey has a fixed set of item effects that could be caused by multiple items.  This is for two reasons.  The first is that the value of an item to the [players](/srd/key-terms#term-player) is determined by what it does, and not what it looks like, and this is reflected in the item's cost.  The second is that the item that produces an effect in one setting may be different to its equivalent in another.  For example, in a sci-fi setting healing items may take the form of injectors or medkits, while in a fantasy setting they could take the form of healing potions or poultices.
 
 Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</dfn>,_ how potent that effect is, which is determined by its item Quality, and any enhancements.  There are three Qualities of item: Mundane, Rare, and Expert.  Some items have effects that depend on their Quality, while others do not.  In the rulebook, the former are referred to as _<dfn id = "term-leveled-item-effect">leveled</dfn>,_ while the latter are referred to as _<dfn id = "term-non-leveled-item-effect">non-leveled</dfn>._  If an item is leveled, its effect and its cost are determined by its Quality, whereas non-leveled items do not have a Quality rating.  Each additional level of Quality multiplies the cost of the item by ten.  For example, if the Mundane version of an item costs 5 [cr](/srd/economy#term-cr), then the Rare version will cost 50 cr and the Expert version will cost 500 cr.
 
@@ -11,9 +11,9 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
-|Restore HP|1 cr|When used, this item restores a fixed amount of [HP](/srd/characters/attributes-and-statistics#term-hp) to a single [character](/srd/extras/key-terms#term-character).  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
+|Restore HP|1 cr|When used, this item restores a fixed amount of [HP](/srd/characters/attributes-and-statistics#term-hp) to a single [character](/srd/key-terms#term-character).  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
 |Restore MP|3 cr|When used, this item restores a fixed amount of [MP](/srd/characters/attributes-and-statistics#term-mp) to a single character.  If it is Mundane, it restores 10 MP, if it is Rare it restores 20, and if it is Expert it restores 30.|
-|Physical Damage|5 cr|When used, this item deals [base](/srd/extras/key-terms#term-base) [colorless](/srd/combat/elemental-types#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
+|Physical Damage|5 cr|When used, this item deals [base](/srd/key-terms#term-base) [colorless](/srd/combat/elemental-types#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Magical Damage|5 cr|When used, this item deals base colorless magical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Special Damage|7 cr|When used, this item deals base [elemental](/srd/combat/elemental-types#term-elemental-type) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
@@ -64,7 +64,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Mandragora|N/A|Summon Creature (Dryad)|N/A|4000 cr|
 
 ## Battle Item Generation
-At times, there is a need to quickly create new items.  If the [GM](/srd/extras/key-terms#term-gm) needs to reward the players or their enemies with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, roll a d20 and consult the table below:
+At times, there is a need to quickly create new items.  If the [GM](/srd/key-terms#term-gm) needs to reward the players or their enemies with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, roll a d20 and consult the table below:
 
 |Result|Effect|
 |:-|:-|
@@ -91,7 +91,7 @@ At times, there is a need to quickly create new items.  If the [GM](/srd/extras/
 
 The result that matches the number you rolled on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Quality.  Mundane items are appropriate for characters of levels 1-4, Rare items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the margin is thin enough that you can get away with going one tier lower or higher.
 
-After you've rolled for the item effect, roll the [outcome die](/srd/extras/key-terms#term-outcome-die).  If the result is a 7 or above, the item does not have any enhancements.  If the result is 1-6, the enhancement is shown on the table below:
+After you've rolled for the item effect, roll the [outcome die](/srd/key-terms#term-outcome-die).  If the result is a 7 or above, the item does not have any enhancements.  If the result is 1-6, the enhancement is shown on the table below:
 
 |Result|Enhancement|
 |:-|:-|
@@ -102,6 +102,6 @@ After you've rolled for the item effect, roll the [outcome die](/srd/extras/key-
 |5|Delay|
 |6|Random|
 
-For the Dual effect, roll again for the item's second effect.  Then, if relevant, roll on the Random Element Table to determine the elemental type of the item's effect.  If the item is a Buff or Debuff item, roll on the [Random Statistic Table](/srd/extras/random-tables#term-random-statistic-table) to see what [statistic](/srd/extras/key-terms#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](/srd/enemies/examples) section or create one of your own of the appropriate tier.
+For the Dual effect, roll again for the item's second effect.  Then, if relevant, roll on the Random Element Table to determine the elemental type of the item's effect.  If the item is a Buff or Debuff item, roll on the [Random Statistic Table](/srd/extras/random-tables#term-random-statistic-table) to see what [statistic](/srd/key-terms#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](/srd/enemies/examples) section or create one of your own of the appropriate tier.
 
 The last thing to do when creating an item is to calculate its cr value and give it tangible existence in your game world.  It's likely that there is a precedent already for what your players expect certain items to look like, and if so you can just go with that.

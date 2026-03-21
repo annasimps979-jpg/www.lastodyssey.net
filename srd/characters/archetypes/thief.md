@@ -6,7 +6,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](/srd/char
 *  +10 [Health](/srd/characters/attributes-and-statistics#term-health)
 *  +5 [Mana](/srd/characters/attributes-and-statistics#term-mana)
 *  +6 [Initiative](/srd/characters/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/extras/key-terms#term-ability) will affect [Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack).
+*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack).
 *  As a [Saboteur](/srd/characters/jobs/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Defense](/srd/characters/attributes-and-statistics#term-physical-defense).
 
 ## Advancements by Rank
@@ -15,7 +15,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](/srd/char
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Steal|[Melee](/srd/combat/attacking-and-defending#term-melee)|1 [AP](/srd/combat/round#term-ap)|Select an enemy and roll on their [item table](/srd/combat/ending#term-item-table).  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](/srd/extras/key-terms#term-battle) with this ability.|
+|Steal|[Melee](/srd/combat/attacking-and-defending#term-melee)|1 [AP](/srd/combat/round#term-ap)|Select an enemy and roll on their [item table](/srd/combat/ending#term-item-table).  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](/srd/key-terms#term-battle) with this ability.|
 
 **Rank 2:** You gain +1 Physical Attack.
 
@@ -23,7 +23,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](/srd/char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Hide|[Self](/srd/combat/attacking-and-defending#term-self-ability)|1 AP|You apply the Hidden [status](/srd/combat/statuses) to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next [turn](/srd/combat/round#term-turn), if you act while Hidden, or if you are the only allied [character](/srd/extras/key-terms#term-character) remaining on the battlefield, the Hidden status is removed.|
+|Hide|[Self](/srd/combat/attacking-and-defending#term-self-ability)|1 AP|You apply the Hidden [status](/srd/combat/statuses) to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next [turn](/srd/combat/round#term-turn), if you act while Hidden, or if you are the only allied [character](/srd/key-terms#term-character) remaining on the battlefield, the Hidden status is removed.|
 
 **Rank 4:** You gain +1 Physical Attack.
 
@@ -49,7 +49,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](/srd/char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Assassinate|Melee|1 [Anima](/srd/free-play/anima#term-anima), 2 AP|Select an enemy and roll the [outcome die](/srd/extras/key-terms#term-outcome-die).  That enemy loses a percentage of their remaining combined [HP](/srd/characters/attributes-and-statistics#term-hp) and [Shell](/srd/combat/shells) equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
+|Assassinate|Melee|1 [Anima](/srd/free-play/anima#term-anima), 2 AP|Select an enemy and roll the [outcome die](/srd/key-terms#term-outcome-die).  That enemy loses a percentage of their remaining combined [HP](/srd/characters/attributes-and-statistics#term-hp) and [Shell](/srd/combat/shells) equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
 
 ## Talents
 

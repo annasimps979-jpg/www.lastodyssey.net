@@ -2,7 +2,7 @@
 
 _<dfn id = "term-striker">Striker</dfn>_ specializes in [physical attacks](/srd/combat/attacking-and-defending#term-physical-attack).
 
-While they are Strikers, [player characters](/srd/extras/key-terms#term-player-character) gain the following bonuses to their [statistics](/srd/extras/key-terms#term-statistic):
+While they are Strikers, [player characters](/srd/key-terms#term-player-character) gain the following bonuses to their [statistics](/srd/key-terms#term-statistic):
 *  Their [Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack) is increased by an amount equal to their [Body](/srd/characters/attributes-and-statistics#term-body)
 *  Their [Evasion](/srd/characters/attributes-and-statistics#term-evasion) is increased by an amount equal to their [Mind](/srd/characters/attributes-and-statistics#term-mind).
 *  Their [Physical Defense](/srd/characters/attributes-and-statistics#term-physical-defense) is increased by an amount equal to their [Spirit](/srd/characters/attributes-and-statistics#term-spirit).
@@ -16,7 +16,7 @@ While they are Strikers, [player characters](/srd/extras/key-terms#term-player-c
 |3|Power Attack|Melee|5 MP, 1 AP|Make a colorless physical attack.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
 |4|Cleave|[Multi](/srd/combat/attacking-and-defending#term-multi)|7 MP, 1 AP|Make a colorless, melee physical attack against all enemies in the front row.|
 |5|Leaping Strike|Ranged|5 MP, 1 AP|Make a colorless physical attack against a single target.|
-|6|Elemental Cleave|Multi|10 MP, 1 AP|Make a melee physical attack against all enemies in the front row whose elemental type is the same as your [base](/srd/extras/key-terms#term-base) elemental type.|
+|6|Elemental Cleave|Multi|10 MP, 1 AP|Make a melee physical attack against all enemies in the front row whose elemental type is the same as your [base](/srd/key-terms#term-base) elemental type.|
 |7|Whirlwind|Multi|12 MP, 1 AP|Make a colorless physical attack against all enemies on the battlefield.|
 |8|Elemental Leap|Ranged|8 MP, 1 AP|Make a physical attack against a single target whose elemental type is the same as your base elemental type.|
 |9|Elemental Whirlwind|Multi|15 MP, 1 AP|Make a physical attack against all enemies on the battlefield whose elemental type is the same as your base elemental type.|

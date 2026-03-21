@@ -1,6 +1,6 @@
 # Characters
 
-In Last Odyssey, [characters](/srd/extras/key-terms#term-character) are like JRPG heroes, with strong personalities and detailed mechanics for how they function in combat.  The following section lays out what goes into defining a character in Last Odyssey, and how to create characters for your campaign.
+In Last Odyssey, [characters](/srd/key-terms#term-character) are like JRPG heroes, with strong personalities and detailed mechanics for how they function in combat.  The following section lays out what goes into defining a character in Last Odyssey, and how to create characters for your campaign.
 
 * [Character Creation:](/srd/characters/creation) An overview of the elements of character building.
 * [Archetypes:](/srd/characters/archetypes) Unique sets of abilities that define each character.

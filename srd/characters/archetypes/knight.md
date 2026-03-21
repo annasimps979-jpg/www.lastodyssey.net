@@ -6,7 +6,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](/srd/
 *  +15 [Health](/srd/characters/attributes-and-statistics#term-health)
 *  +10 [Mana](/srd/characters/attributes-and-statistics#term-mana)
 *  +2 [Initiative](/srd/characters/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/extras/key-terms#term-ability) will affect [Physical Defense](/srd/characters/attributes-and-statistics#term-physical-defense).
+*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Defense](/srd/characters/attributes-and-statistics#term-physical-defense).
 *  As a [Saboteur](/srd/characters/jobs/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack).
 
 ## Advancements by Rank
@@ -31,7 +31,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](/srd/
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Disciplined Focus|Passive|N/A|While you are Focused, you may spend 2 AP to take the Calm [action](/srd/extras/key-terms#term-action), which removes the Focused status from you.|
+|Disciplined Focus|Passive|N/A|While you are Focused, you may spend 2 AP to take the Calm [action](/srd/key-terms#term-action), which removes the Focused status from you.|
 
 **Rank 6:** You gain +1 Physical Defense.
 

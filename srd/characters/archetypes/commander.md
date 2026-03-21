@@ -6,7 +6,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](/s
 *  +15 [Health](/srd/characters/attributes-and-statistics#term-health)
 *  +5 [Mana](/srd/characters/attributes-and-statistics#term-mana)
 *  +4 [Initiative](/srd/characters/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/characters/jobs/support), your [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/extras/key-terms#term-ability) will affect [Resistance](/srd/characters/attributes-and-statistics#term-resistance).
+*  As a [Support](/srd/characters/jobs/support), your [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Resistance](/srd/characters/attributes-and-statistics#term-resistance).
 *  As a [Saboteur](/srd/characters/jobs/saboteur), your [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Status Accuracy](/srd/characters/attributes-and-statistics#term-status-accuracy).
 
 ## Advancements by Rank
@@ -39,7 +39,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](/s
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Chain of Command|Passive|N/A|Designate one of your [party](/srd/extras/key-terms#term-party) members as your Lieutenant.  While you are downed in [battle](/srd/extras/key-terms#term-battle), that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
+|Chain of Command|Passive|N/A|Designate one of your [party](/srd/key-terms#term-party) members as your Lieutenant.  While you are downed in [battle](/srd/key-terms#term-battle), that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
 
 **Rank 8:** You gain +1 Resistance.
 
@@ -49,7 +49,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](/s
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Charge!|[Special](/srd/combat/attacking-and-defending#term-special-ability)|1 [Anima](/srd/free-play/anima), 2 AP|Grants all of the [eidolon's](/srd/characters/eidolons) allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](/srd/extras/key-terms#term-statistic) for theirs.|
+|Charge!|[Special](/srd/combat/attacking-and-defending#term-special-ability)|1 [Anima](/srd/free-play/anima), 2 AP|Grants all of the [eidolon's](/srd/characters/eidolons) allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](/srd/key-terms#term-statistic) for theirs.|
 
 ## Talents
 

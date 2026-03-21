@@ -6,7 +6,7 @@ A Ranger's core virtue is their **Focus.**  At [character creation](/srd/charact
 *  +10 [Health](/srd/characters/attributes-and-statistics#term-health)
 *  +10 [Mana](/srd/characters/attributes-and-statistics#term-mana)
 *  +4 [Initiative](/srd/characters/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/extras/key-terms#term-ability) will affect [Physical Accuracy](/srd/characters/attributes-and-statistics#term-physical-accuracy).
+*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Accuracy](/srd/characters/attributes-and-statistics#term-physical-accuracy).
 *  As a [Saboteur](/srd/characters/jobs/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Evasion](/srd/characters/attributes-and-statistics#term-evasion).
 
 ## Advancements by Rank
@@ -61,6 +61,6 @@ A Ranger's core virtue is their **Focus.**  At [character creation](/srd/charact
 
 **[Defender](/srd/characters/jobs/defender):** Forcefield.  You may use the Mark Target ability to apply the Defended status to an ally.  The next time they are hit by a status-inflicting ability, a magical attack, or a physical attack, the damage or status is negated.  Only one ally may be Defended by you at a time.
 
-**Support:** Herbal Medicine.  You may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all debuffs that have been applied to them, although this does not affect the position of any of their [statistics](/srd/extras/key-terms#term-statistic) on the [Bonus Tracker](/srd/combat/buffs-and-debuffs).
+**Support:** Herbal Medicine.  You may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all debuffs that have been applied to them, although this does not affect the position of any of their [statistics](/srd/key-terms#term-statistic) on the [Bonus Tracker](/srd/combat/buffs-and-debuffs).
 
 **Saboteur:** Poison Arrow.  When an enemy is affected by the Lay Trap ability, you may choose to use a single-target status-inflicting ability on them instead of using your basic attack.  When you do so, roll the hit die as though the enemy were Hunted.

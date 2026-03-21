@@ -1,74 +1,50 @@
 ---
 ---
 
-## `/`, Or: _The Divine Path_
+# Welcome
 
- 1. Foo
- 2. Bar
- 3. Baz
- 4. Qux
- 5. Quux
- 6. Corge
- 7. Grault
- 8. Garply
- 9. Waldo
-10. Fr— _(Oh! A visitor! We’ll I’ll be ...!)_
+to the System Reference Document for the Last Odyssey role playing game.  If
+you know what this is already and would like me to get out of your way, go read the
+[playbill](/srd) and start learning about the game.  Every page
+on this website is full of [these hyperlinks](/index) to other relevant pages for 
+your convenience, which means that there is no "correct" order in which to read the rules.  Just pick a page that interests you and get started.
 
-Hello. Hi there. Sorry. _(Clears throat.)_ Welcome to The Divine Path! I mean, I
-think? Ain’t much here to suggest it yet — but it’s just a matter of time. Well,
-while yr waitin’ for whatever expressive, arresting, exciting, and yep, yes, yep
-even <em>mysterious</em> ... something<sup>1</sup> to show up here — way, way up
-here at _the_ most important path, _The Divine Path,_ the lobby, the parlor, the
-traveling circus’s ringmaster’s podium, the reception hall, the bow and curtsey,
-the public garden, the secret invitation, or even a whole <em>looking glass</em>
-to fall thru (to hell with OSHA compliance!), please feel free to head inside at
-yr leisure to browse the [Last Odyssey SRD](/srd).
+On the other hand, if you have no clue what any of this is about, I'd like to
+kindly direct you to the [introductory pages](/srd/intro), where you'll learn
+precisely what Last Odyssey is and how to play it.  Once you've read 
+those, you can also check out the [playbill](/srd).  If you're any type of beginner, whether 
+to RPGs, FRP, Last Odyssey, whatever, you should also know that the purpose of this website 
+is to contain all of the instructions for how to play Last Odyssey in as clear and 
+accessible of a format as possible.  I also tried to err on the side of brevity, which
+means there just isn't a lot of room for extra explanation.  If you're interested 
+in finding a friend or two to answer any burning questions you've got, you can join the
+Pelagic Shard Circus Tent, which is linked at the bottom of this page.
 
-> _An SRD...?_ Oh uh it means ... I think it was “system reference document”? It
-> was something like that, anyway. It’s right down the hall, third door — _What
-> system?_ Oh — sorry lol, I shoulda told ya! Doh! It’s an _FRP!_ Anyway, if you
-> just — _An FRP...?_ Oh gee. _(Nervous chuckle.)_ Well, I _think_ that’s an RPG
-> ... but more like ... more _F?_ Like, instead of _M,_ I guess? _An RPG!?_ Well
-> everyone knows THAT one, lol; it means _**rocket propelled grenade!**_ ... Hey
-> ... that’s the wrong way! The **TTRPG FRP SRD** is _this_ way. Er ... oh well.
-> _(Shouting)_ BYYE! _(Who WAS that, anyway? Never met anyone like ’em before.)_
+Alright, I see you narrowing your eyes at me.  An entire ruleset?  For free?
+What's the catch?  The catch is quite simple: I want you to play this game.<sup>1</sup>
+I'm not entitled to your precious time, and if you'd like you can just close this
+window and never think about me or my humble little role playing game ever again.
+But, since you clicked on this link, and since you read this far, and since you're
+still reading, and you're still reading, and you're still (sorry, just messing with 
+you) reading, then there's _something_ about this system that intrigues you.  In
+which case, go read the rules, find some friends, and get playing.  Then, when you've
+played a session and/or explored the rules enough to find that little thing about
+this you love, get more people to do the same.  Then, get a whole campaign going.  Then...
 
-_(Shrugs —)_
+Well, who knows?
+
+## [View Playbill](/srd)
 
 <div>
-  <ol start=10>
-    <li>Fred</li>
-    <li>Plugh</li>
-    <li>Xyzzy</li>
-    <li>Thud</li>
-    <li><i>(Dozes off in the reception boot)</i></li>
-  </ol>
-
   <hr>
-
   <small>
     <ol>
       <li>
         <p>
-          Nah, not a <em>splash page</em>; it should have the TOC, the footer, etc
-          like the SRD pages do or will so that visitors can get right to business
-          no matter why they’ve arrived. But there will be visitors who dunno what
-          this is at all. Perhaps <em>something</em> about it or something about a
-          link they followed to get here piqued their curiosities ’em reasons they
-          couldn’t even articulate themselves, eh? Couldn’t <em>yet</em>, that is.
-          Maybe help ’em out? <em>Speak in images and in ideas.</em> Address their
-          human imagination DIRECTLY.</em> Use The Voice! Use The Force! Hell, you
-          can go Full Wonka even if ya think you can make it land but whatever you
-          do, HERE’s where ya do it! Dun’t drop strangers on the floor ... they’re
-          the most special guests of all, the guests of honor, the most incredible
-          fruit of The Web: those you’d never otherwise have had a chance to speak
-          to or know at all; strange people you dunt even know you dunt know! They
-          might actually like yr game a lot! But first tell ’em that it’s okay fer
-          ’em to be here! <em>That you want ’em, even!</em> That they’re entirely,
-          totally welcome to hang out in yr basement! <em>Talk to strangers!!</em>
+          An unfortunate caveat to all of this is that my money has to come from somewhere.  If you're interested in supporting me financially, I've got a ko-fi tip jar linked in the footer and a Patreon where you can send 5 bucks a month to me by subscribing (actually, I'll receive $4.50 a month since Patreon takes a 10% cut.  Whoops).  At this early stage, the more financial support I receive, the more time I will have to work on this game and on future games (which may or may not already exist...shhhh), and the more time and effort I'll be able to devote to Pelagic Shard as a whole.  Once I think Last Odyssey is cooked enough to get cut up and brought to the bake sale, I'll also be fundraising for a print run, so if you would like to contribute to that you can follow the Kickstarter page and pledge money when it opens, probably sometime in May or June.
         </p>
         <p>
-          <em>This</em> is yr billboard in the sky.
+        That being said, if I had a choice between you giving me money and you playing the game, I would always choose the latter.  Hopefully you see what I'm getting at.
         </p>
       </li>
     </ol>

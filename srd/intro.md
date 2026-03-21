@@ -10,3 +10,6 @@ Last Odyssey is an FRP, or Fantasy Role Play, game.  If you've never played an F
   - [Players](/srd/intro/advice/players): Some notes on Last Odyssey’s intended playstyle.
   - [GMs](/srd/intro/advice/gms): How to run Last Odyssey so it meets its full potential.
   - [Facilitators](/srd/intro/advice/facilitators): How to meet the social needs that keep a game of Last Odyssey going.
+- How to ...
+  - [Campaign](/srd/intro/advice/campaigns): Example frameworks for your campaign.
+  - [Worldbuild](/srd/intro/advice/worldbuilding): How to make the fiction fit with Last Odyssey's themes.

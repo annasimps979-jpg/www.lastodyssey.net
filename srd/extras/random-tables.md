@@ -2,7 +2,7 @@
 
 ## <dfn id = "term-random-element-table">Random Element Table</dfn>
 
-When you use an [item](/srd/economy/items), [ability](/srd/extras/key-terms#term-ability), or something else that has a random [elemental](/srd/combat/elemental-types#term-elemental-type) effect, roll the [outcome die](/srd/extras/key-terms#term-outcome-die) and consult the table below to determine the result.  If you roll a 10, roll again instead.
+When you use an [item](/srd/economy/items), [ability](/srd/key-terms#term-ability), or something else that has a random [elemental](/srd/combat/elemental-types#term-elemental-type) effect, roll the [outcome die](/srd/key-terms#term-outcome-die) and consult the table below to determine the result.  If you roll a 10, roll again instead.
 
 |Result|Element|
 |:-|:-|

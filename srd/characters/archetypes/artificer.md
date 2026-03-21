@@ -6,7 +6,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](/sr
 *  +10 [Health](/srd/characters/attributes-and-statistics#term-health)
 *  +10 [Mana](/srd/characters/attributes-and-statistics#term-mana)
 *  +4 [Initiative](/srd/characters/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/extras/key-terms#term-ability) will affect [Magical Accuracy](/srd/characters/attributes-and-statistics#term-magical-accuracy).
+*  As a [Support](/srd/characters/jobs/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Magical Accuracy](/srd/characters/attributes-and-statistics#term-magical-accuracy).
 *  As a [Saboteur](/srd/characters/jobs/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Resistance](/srd/characters/attributes-and-statistics#term-resistance).
 
 ## Advancements by Rank
@@ -15,7 +15,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](/sr
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Scan|[Ranged](/srd/combat/attacking-and-defending#term-ranged)|2 [MP](/srd/characters/attributes-and-statistics#term-mp), 1 [AP](/srd/combat/round#term-ap)|Select a target.  You immediately learn its current [HP](/srd/characters/attributes-and-statistics#term-hp), MP, [Shell](/srd/combat/shells), and [elemental type](/srd/combat/elemental-types#term-elemental-type).  Subsequent uses of this ability on the same target will allow you to learn the same information, or allow you to learn the value of its [statistics](/srd/extras/key-terms#term-statistic), its [item table](/srd/combat/ending#term-item-table), or reveal its abilities.|
+|Scan|[Ranged](/srd/combat/attacking-and-defending#term-ranged)|2 [MP](/srd/characters/attributes-and-statistics#term-mp), 1 [AP](/srd/combat/round#term-ap)|Select a target.  You immediately learn its current [HP](/srd/characters/attributes-and-statistics#term-hp), MP, [Shell](/srd/combat/shells), and [elemental type](/srd/combat/elemental-types#term-elemental-type).  Subsequent uses of this ability on the same target will allow you to learn the same information, or allow you to learn the value of its [statistics](/srd/key-terms#term-statistic), its [item table](/srd/combat/ending#term-item-table), or reveal its abilities.|
 
 **Rank 2:** You gain +1 Magical Accuracy.
 
@@ -49,11 +49,11 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](/sr
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Target Acquired|Multi|1 Anima, 2 AP|Use Scan on all enemies on the battlefield.  Every affected enemy will be Scanned for the remainder of the [battle](/srd/extras/key-terms#term-battle) unless the effect is removed by an ability.|
+|Target Acquired|Multi|1 Anima, 2 AP|Use Scan on all enemies on the battlefield.  Every affected enemy will be Scanned for the remainder of the [battle](/srd/key-terms#term-battle) unless the effect is removed by an ability.|
 
 ## Talents
 
-**[Striker](/srd/characters/jobs/striker):** Sniper.  When you use an item that does physical damage to an enemy, you may add your [Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack) to its [base](/srd/extras/key-terms#term-base) damage.
+**[Striker](/srd/characters/jobs/striker):** Sniper.  When you use an item that does physical damage to an enemy, you may add your [Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack) to its [base](/srd/key-terms#term-base) damage.
 
 **[Caster](/srd/characters/jobs/caster):** Magic Ammo.  When you use an item that does magical damage to an enemy, you may add your [Magical Attack](/srd/characters/attributes-and-statistics#term-magical-attack) to its base damage.
 
