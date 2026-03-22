@@ -1,8 +1,8 @@
 # Example Enemies
 
-One hundred example enemies are provided, ten per [tier](/srd/characters/creation#term-tier).
+One hundred example enemies are provided, ten per [tier](/srd/heroes/creation#term-tier).
 Each tier’s enemies are divied into two thematic groups of five; the themes relate them to example
-[lore](/srd/free-play/lore).
+[lore](/srd/discovery/lore).
 
 All example enemies were composed using the [Enemy Creation](/srd/enemies/creation) tools.
 

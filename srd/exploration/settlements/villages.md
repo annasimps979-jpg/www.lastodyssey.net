@@ -10,5 +10,5 @@ When the GM decides a settlement should be a village, they should consider the f
 *  How do the locals feel about outsiders?  Are they mistrustful?  Are they generous?  Do they try to scam or steal from them?
 *  How amenable are the locals to letting the players rest?  Is there a local tavern or family that will take them in, or will they have to sleep in the barn?
 *  What do the townsfolk do to procure food?  They will probably spend a great deal of time farming, fishing, and/or hunting, and if it isn't a festival day they will be busy performing these tasks.  After all, for rural people they are a matter of life or death.
-*  What are the local beliefs of the townsfolk?  Do they follow a mainstream religion, or do they have their own beliefs?  Usually, the answer will be some combination of these two, and asking around about them can teach the players a significant amount of [Lore](/srd/free-play/lore).
+*  What are the local beliefs of the townsfolk?  Do they follow a mainstream religion, or do they have their own beliefs?  Usually, the answer will be some combination of these two, and asking around about them can teach the players a significant amount of [Lore](/srd/discovery/lore).
 *  What local materials are available for the villagers to build their homes with?  Do the locals make their houses out of reeds?  Wood?  Clay?  Imported stone?

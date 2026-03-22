@@ -2,7 +2,7 @@
 
 ## <dfn id = "term-random-element-table">Random Element Table</dfn>
 
-When you use an [item](/srd/economy/items), [ability](/srd/key-terms#term-ability), or something else that has a random [elemental](/srd/combat/elemental-types#term-elemental-type) effect, roll the [outcome die](/srd/key-terms#term-outcome-die) and consult the table below to determine the result.  If you roll a 10, roll again instead.
+When you use an [item](/srd/economy/items), [ability](/srd/key-terms#term-ability), or something else that has a random [elemental](/srd/combat/elemental-types#term-elemental-type) effect, cast the [outcome die](/srd/key-terms#term-outcome-die) and consult the table below to determine the result.  If result is a 10, cast again instead.
 
 |Result|Element|
 |:-|:-|
@@ -15,21 +15,21 @@ When you use an [item](/srd/economy/items), [ability](/srd/key-terms#term-abilit
 |7|[Wood](/srd/combat/elemental-types#term-wood)|
 |8|[Light](/srd/combat/elemental-types#term-light)|
 |9|[Shadow](/srd/combat/elemental-types#term-shadow)|
-|10|Reroll|
+|10|Recast|
 
 ## <dfn id = "term-random-statistic-table">Random Statistic Table</dfn>
 
-When you use an item, ability, or something else that affects a random [statistic](/srd/characters/attributes-and-statistics#term-statistic), roll the outcome die and consult the table below to determine the result.  If you roll a 10, roll again instead.
+When you use an item, ability, or something else that affects a random [statistic](/srd/heroes/attributes-and-statistics#term-statistic), cast the outcome die and consult the table below to determine the result.  If the result is a 10, cast again instead.
 
 |Result|Statistic|
 |:-|:-|
-|1|[Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack)|
-|2|[Physical Defense](/srd/characters/attributes-and-statistics#term-physical-defense)|
-|3|[Physical Accuracy](/srd/characters/attributes-and-statistics#term-physical-accuracy)|
-|4|[Magical Attack](/srd/characters/attributes-and-statistics#term-magical-attack)|
-|5|[Magical Defense](/srd/characters/attributes-and-statistics#term-magical-defense)|
-|6|[Magical Accuracy](/srd/characters/attributes-and-statistics#term-magical-accuracy)|
-|7|[Evasion](/srd/characters/attributes-and-statistics#term-evasion)|
-|8|[Resistance](/srd/characters/attributes-and-statistics#term-resistance)|
-|9|[Status Accuracy](/srd/characters/attributes-and-statistics#term-status-accuracy)|
-|10|Reroll|
+|1|[Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack)|
+|2|[Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense)|
+|3|[Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy)|
+|4|[Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack)|
+|5|[Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense)|
+|6|[Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy)|
+|7|[Evasion](/srd/heroes/attributes-and-statistics#term-evasion)|
+|8|[Resistance](/srd/heroes/attributes-and-statistics#term-resistance)|
+|9|[Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy)|
+|10|Recast|

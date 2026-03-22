@@ -6,7 +6,8 @@ Each [adventure](/srd/key-terms#term-adventure) the [players](/srd/key-terms#ter
 
 * [Nodes and Paths:](/srd/exploration/nodes-and-paths) The basics of mapping the overworld.
 * [Travel:](/srd/exploration/travel) How players get from node to node, and what it costs them.
+*  [Resting:](/srd/exploration/resting) The ways in which players can recover during travel.
 * [Weather and Climate:](/srd/exploration/weather-and-climate) Rules for simulating weather patterns and their effects on travel.
-* [Hazards and Encounters:](/srd/exploration/hazards-and-encounters) Advice for roleplaying the enemy encounters and natural hazards that [player characters](/srd/key-terms#term-player-character) will encounter during the travel round.
+* [Hazards and Encounters:](/srd/exploration/hazards-and-encounters) Advice for roleplaying the enemy encounters and natural hazards that [Heroes](/srd/key-terms#term-hero) will encounter during the travel round.
 * [Settlements:](/srd/exploration/settlements) The kinds of populated areas that dot the worlds of Last Odyssey, and how to create them.
 * [Dungeons:](/srd/exploration/dungeons) Hostile areas, such as castles, lairs, and forgotten caves.

@@ -1,25 +1,25 @@
 # Death and Injury
 
-When a [character](/srd/key-terms#term-character) drops to 0 [HP](/srd/characters/attributes-and-statistics#term-hp) or below during [combat](/srd/combat), they are considered [downed](/srd/characters/attributes-and-statistics#term-downed).  When a character is downed, all of the effects applied to them are removed, including [buffs](/srd/combat/buffs-and-debuffs#term-buff), [debuffs](/srd/combat/buffs-and-debuffs#term-debuff), [Shells](/srd/combat/shells), and [statuses](/srd/combat/statuses), with the exception of [Poisoned](/srd/combat/statuses#term-poisoned), [Frostbitten](/srd/combat/statuses#term-frostbitten), and [Burned](/srd/combat/statuses#term-burned).  They cannot act, and cannot be the target of any [abilities](/srd/key-terms#term-ability), [items](/srd/economy/the-party/inventory/battle), or other effects except those that state that they revive downed characters.  When they are revived during the [battle](/srd/key-terms#term-battle), they take the place they previously occupied in the [Initiative Order](/srd/combat/starting#term-initiative-order), and will act on the first [turn](/srd/combat/round#term-turn) they have after the turn of the character that revived them.  However, when they are downed they also lose the opportunity to act on their held turn regardless of whether or not they are revived before it.
+When a [character](/srd/key-terms#term-character) drops to 0 [HP](/srd/heroes/attributes-and-statistics#term-hp) or below during [combat](/srd/combat), they are considered [downed](/srd/heroes/attributes-and-statistics#term-downed).  When a character is downed, all of the effects applied to them are removed, including [buffs](/srd/combat/buffs-and-debuffs#term-buff), [debuffs](/srd/combat/buffs-and-debuffs#term-debuff), [Shells](/srd/combat/shells), and [statuses](/srd/combat/statuses), with the exception of [Poisoned](/srd/combat/statuses#term-poisoned), [Frostbitten](/srd/combat/statuses#term-frostbitten), and [Burned](/srd/combat/statuses#term-burned).  They cannot act, and cannot be the target of any [abilities](/srd/key-terms#term-ability), [items](/srd/economy/the-party/inventory/battle), or other effects except those that state that they revive downed characters.  When they are revived during the [battle](/srd/key-terms#term-battle), they take the place they previously occupied in the [Initiative Order](/srd/combat/starting#term-initiative-order), and will act on the first [turn](/srd/combat/round#term-turn) they have after the turn of the character that revived them.  However, when they are downed they also lose the opportunity to act on their held turn regardless of whether or not they are revived before it.
 
 ## The Injury Table
 
-If a character's HP is reduced to zero during combat, they’re said to have been _<dfn id="term-downed">downed</dfn>._  A downed character cannot act and cannot be the target of more effects.  If a downed character is not revived before the end of a battle, they will come back to life at 1 HP after the battle is over but at the cost of sustaining an _<dfn id = "term-injury">injury</dfn>._  An injury is a penalty to one of a character's [statistics](/srd/key-terms#term-statistic) that until they are healed.  When this happens, roll a 1d12 and consult the table below to determine the effect.
+If a character's HP is reduced to zero during combat, they’re said to have been _<dfn id="term-downed">downed</dfn>._  A downed character cannot act and cannot be the target of more effects.  If a downed character is not revived before the end of a battle, they will come back to life at 1 HP after the battle is over but at the cost of sustaining an _<dfn id = "term-injury">injury</dfn>._  An injury is a penalty to one of a character's [statistics](/srd/key-terms#term-statistic) that until they are healed.  When this happens, cast 1d12 and consult the table below to determine the effect.
 
 |  Result  |  Injury  |
 |:---------|:---------|
 |1|The character's max HP is reduced by 5.|
-|2|The character's max [MP](/srd/characters/attributes-and-statistics#term-mp) is reduced by 5.|
-|3|The character's [Initiative](/srd/characters/attributes-and-statistics#term-initiative) is reduced by 1.|
-|4|The character's [Physical Attack](/srd/characters/attributes-and-statistics#term-physical-attack) is reduced by 1.|
-|5|The character's [Magical Attack](/srd/characters/attributes-and-statistics#term-magical-attack) is reduced by 1.|
-|6|The character's [Physical Defense](/srd/characters/attributes-and-statistics#term-physical-defense) is reduced by 1.|
-|7|The character's [Magical Defense](/srd/characters/attributes-and-statistics#term-magical-defense) is reduced by 1.|
-|8|The character's [Evasion](/srd/characters/attributes-and-statistics#term-evasion) is reduced by 1.|
-|9|The character's [Resistance](/srd/characters/attributes-and-statistics#term-resistance) is reduced by 1.|
-|10|The character's [Physical Accuracy](/srd/characters/attributes-and-statistics#term-physical-accuracy) is reduced by 1.|
-|11|The character's [Magical Accuracy](/srd/characters/attributes-and-statistics#term-magical-accuracy) is reduced by 1.|
-|12|The character's [Status Accuracy](/srd/characters/attributes-and-statistics#term-status-accuracy) is reduced by 1.|
+|2|The character's max [MP](/srd/heroes/attributes-and-statistics#term-mp) is reduced by 5.|
+|3|The character's [Initiative](/srd/heroes/attributes-and-statistics#term-initiative) is reduced by 1.|
+|4|The character's [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) is reduced by 1.|
+|5|The character's [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) is reduced by 1.|
+|6|The character's [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense) is reduced by 1.|
+|7|The character's [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense) is reduced by 1.|
+|8|The character's [Evasion](/srd/heroes/attributes-and-statistics#term-evasion) is reduced by 1.|
+|9|The character's [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) is reduced by 1.|
+|10|The character's [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy) is reduced by 1.|
+|11|The character's [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy) is reduced by 1.|
+|12|The character's [Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy) is reduced by 1.|
 
 ## Healing Injuries
 
@@ -27,4 +27,4 @@ A character can theoretically sustain an infinite number of injuries in battle. 
 
 ## Injuries Outside of Combat
 
-A character cannot be reduced below 1 HP outside of combat.  However, they can still sustain injuries if they take additional damage while they are at 1 HP.  In general, they will take one additional injury every time they take damage that would make them drop to 0.  The exception to this is when they are killed by either a [Villain](/srd/enemies/antagonists/villains) or [Monster](/srd/enemies/antagonists/monsters) by certain abilities.  If so, then they will instead undergo [True Death](/srd/free-play/true-death), from which there is no coming back.
+A character cannot be reduced below 1 HP outside of combat.  However, they can still sustain injuries if they take additional damage while they are at 1 HP.  In general, they will take one additional injury every time they take damage that would make them drop to 0.  The exception to this is when they are killed by either a [Villain](/srd/anima/antagonists/villains) or [Monster](/srd/anima/antagonists/monsters) by certain abilities.  If so, then they will instead undergo [True Death](/srd/anima/true-death), from which there is no coming back.

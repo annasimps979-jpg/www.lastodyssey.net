@@ -1,6 +1,6 @@
 # Armor
 
-A [character's](/srd/key-terms#term-character) _<dfn id = "term-armor">armor</dfn>_ is a special type of equipment provides a bonus to their [Magical Defense](/srd/characters/attributes-and-statistics#term-magical-defense) and a bonus to their [Physical Defense](/srd/characters/attributes-and-statistics#term-physical-defense).  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during [combat](/srd/combat).  The rules for armor upgrades are identical to the rules for [weapon](/srd/economy/equipment/weapons) upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  There are three varieties of armor, and they also determine the bonuses that characters receive to their [statistics](/srd/key-terms#term-statistic): Cloth armor, Light armor, and Heavy armor.
+A [character's](/srd/key-terms#term-character) _<dfn id = "term-armor">armor</dfn>_ is a special type of equipment provides a bonus to their [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense) and a bonus to their [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense).  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during [combat](/srd/combat).  The rules for armor upgrades are identical to the rules for [weapon](/srd/economy/equipment/weapons) upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  There are three varieties of armor, and they also determine the bonuses that characters receive to their [statistics](/srd/key-terms#term-statistic): Cloth armor, Light armor, and Heavy armor.
 
 ## Cloth Armor
 
@@ -40,15 +40,15 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |:-|:-|
 |Reinforced|When you are hit by a [physical attack](/srd/combat/attacking-and-defending#term-physical-attack) while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the [base](/srd/key-terms#term-base) damage are applied.  At [UV](/srd/economy/equipment#term-upgrade-value) 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
 |Inscribed|When you are hit by a [magical attack](/srd/combat/attacking-and-defending#term-magical-attack) while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
-|Extra Ability|When a character wears armor with this upgrade, they are able to use a single [flex power](/srd/characters/advancement#term-flex-power), [job](/srd/characters/jobs) ability, or [archetype](/srd/characters/archetypes) [ability](/srd/key-terms#term-ability) at its listed [MP](/srd/characters/attributes-and-statistics#term-mp) cost.  At UV 1, the ability is earned at of Rank 1-3 of the job or archetype that can use it, at UV 2 the ability is earned at Rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
+|Extra Ability|When a character wears armor with this upgrade, they are able to use a single [flex power](/srd/heroes/advancement#term-flex-power), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/key-terms#term-ability) at its listed [MP](/srd/heroes/attributes-and-statistics#term-mp) cost.  At UV 1, the ability is earned at rank 1-3 of the role or archetype that can use it, at UV 2 the ability is earned at rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
 |Elemental Resistance|When you wear this armor, you resist damage of the specified [elemental type](/srd/combat/elemental-types#term-elemental-type) based on the value of the upgrade.  At UV 1, damage dealt to you of that elemental type is multiplied by 0.5, at UV 2 it is multiplied by 0.25, and at UV 3 you are completely immune.|
-|Chain Vest|At the beginning of every [battle](/srd/key-terms#term-battle) while wearing this armor, you gain an amount of temporary [HP](/srd/characters/attributes-and-statistics#term-hp) depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, you gain 5 HP, at UV 2 you gain 10, and at UV 3 you have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum [Shell](/srd/combat/shells) you can have during the battle.|
+|Chain Vest|At the beginning of every [battle](/srd/key-terms#term-battle) while wearing this armor, you gain an amount of temporary [HP](/srd/heroes/attributes-and-statistics#term-hp) depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, you gain 5 HP, at UV 2 you gain 10, and at UV 3 you have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum [Shell](/srd/combat/shells) you can have during the battle.|
 
 ### UV 1
 
 |Name|Description|
 |:-|:-|
-|Elemental Type|When you wear armor that has this upgrade, you count as having the specified elemental type when calculating received damage.  This is overridden by archetype abilities like the [Dancer's](/srd/characters/archetypes/dancer) Mask that change your elemental type, and also does not affect any [Shells](/srd/combat/shells) that you receive during battle.  You cannot have more than one of this upgrade on a single piece of armor.|
+|Elemental Type|When you wear armor that has this upgrade, you count as having the specified elemental type when calculating received damage.  This is overridden by archetype abilities like the [Dancer's](/srd/heroes/archetypes/dancer) Mask that change your elemental type, and also does not affect any [Shells](/srd/combat/shells) that you receive during battle.  You cannot have more than one of this upgrade on a single piece of armor.|
 |Invigorating|While you are wearing this armor, you are immune to [debuffs](/srd/combat/buffs-and-debuffs#term-debuff) that affect the specified statistic.  This upgrade cannot stack, but you can have multiple upgrades that make you immune to different debuffs at once.|
 |Weatherproofing|While you are wearing this armor, you are immune to the negative and positive effects of a single type of [weather](/srd/exploration/weather-and-climate).  This cannot stack, but you may be immune to more than one type of weather due to different versions of this upgrade at a time.|
 |Status Resistance|While you are wearing this armor, the probability of an enemy inflicting a particular [status](/srd/combat/statuses) on you is reduced as though you were resistant to the effect's elemental type.  This upgrade does not stack, but you can resist multiple statuses at once with different versions of this upgrade.|
@@ -58,8 +58,8 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 |Name|Description|
 |:-|:-|
-|Flexible|You have a +1 to your [Evasion](/srd/characters/attributes-and-statistics#term-evasion) while you are wearing this armor.|
-|Proofed|You have a +1 to your [Resistance](/srd/characters/attributes-and-statistics#term-resistance) while you are wearing this armor.|
+|Flexible|You have a +1 to your [Evasion](/srd/heroes/attributes-and-statistics#term-evasion) while you are wearing this armor.|
+|Proofed|You have a +1 to your [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) while you are wearing this armor.|
 |Fitted|Characters that do not have the correct proficiency to allow them to wear this armor may still wear it without any penalties.|
 |Plated|When you are hit by an attack that does [colorless](/srd/combat/elemental-types#term-colorless) physical damage, the damage it deals to you is multiplied by 0.5 in addition to any other multipliers.|
 |Status Immunity|When you are wearing armor with this upgrade, you are immune to the specified status.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status.|
@@ -69,18 +69,18 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Name|Description|
 |:-|:-|
 |<dfn id = "term-barbed-armor">Barbed</dfn>|When an enemy hits you with a [Melee](/srd/combat/attacking-and-defending#term-melee) ability while you are wearing this armor, they automatically receive the status specified by this upgrade.|
-|Enchanted|If you are wearing this armor at the beginning of combat, you automatically gain 20 points of Shell of the specified elemental type of this upgrade.  You still gain this even if your [Health](/srd/characters/attributes-and-statistics#term-health) is less than 20.  All other rules for Shells apply as normal.|
+|Enchanted|If you are wearing this armor at the beginning of combat, you automatically gain 20 points of Shell of the specified elemental type of this upgrade.  You still gain this even if your [Health](/srd/heroes/attributes-and-statistics#term-health) is less than 20.  All other rules for Shells apply as normal.|
 |Blessed|You are immune to all debuffs while wearing this armor, and you are also immune to any effects that reduce your [AP](/srd/combat/round#term-ap) in any capacity.|
-|[Mana](/srd/characters/attributes-and-statistics#term-mana) Battery|When you begin a battle, you gain 20 temporary MP in addition to your normal MP.  Any remaining amount of this MP goes away at the end of the battle.|
+|[Mana](/srd/heroes/attributes-and-statistics#term-mana) Battery|When you begin a battle, you gain 20 temporary MP in addition to your normal MP.  Any remaining amount of this MP goes away at the end of the battle.|
 |Mechanical|When you are wearing this armor, you are immune to any statuses that prevent you from using certain [actions](/srd/key-terms#term-action), such as [Silenced](/srd/combat/statuses#term-silenced) or [Frostbitten](/srd/combat/statuses#term-frostbitten).|
 
 ### Unique
 
 |Name|Description|
 |:-|:-|
-|Corrupted|When your character would otherwise undergo [True Death](/srd/free-play/true-death) during combat, something else happens instead.|
+|Corrupted|When your character would otherwise undergo [True Death](/srd/anima/true-death) during combat, something else happens instead.|
 |Druidic|While you are wearing this armor, any healing you do to either yourself or allies is multiplied by 1.5, rounded down.  This applies in or out of combat.|
-|Exoskeleton|If you are wearing this armor at the beginning of a battle, you automatically gain [Hasted](/srd/characters/jobs/support) without having to have it cast on you.  This effect still cannot stack with the effects of the Haste ability.|
+|Exoskeleton|If you are wearing this armor at the beginning of a battle, you automatically gain [Hasted](/srd/heroes/roles/support) without having to have it cast on you.  This effect still cannot stack with the effects of the Haste ability.|
 |Vengeful|When you take physical damage due to an enemy's attack while wearing this armor, the enemy immediately also becomes the target of their physical attack as though they had attacked themselves as well as you.|
 |Conductive|When you take magical damage due to an enemy's attack while wearing this armor, the enemy immediately also becomes the target of their magical attack as though they had attacked themselves as well as you.|
 |Weapons Platform|While you are wearing this armor, you can [swap](/srd/combat/round#term-swap-equipment) weapons and accessories without spending any AP as many times as you like per [turn](/srd/combat/round#term-turn).|
@@ -99,7 +99,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Black Knight's Armor|Unique|Heavy|Corrupted, Plated, Elemental Type (Shadow)|
 
 ## Armor Generation
-To generate a new random piece of armor, first choose the type and the [Quality](/srd/economy/equipment#term-equipment-quality). Then, roll on the table below until you have generated a number of upgrades whose total UV add up to the possible UV of the armor. If you roll a Variable upgrade, give the armor the UV 1 version. If you roll an upgrade that would put the total Upgrade Value of the armor above its maximum, reroll.
+To generate a new random piece of armor, first choose the type and the [Quality](/srd/economy/equipment#term-equipment-quality). Then, cast the [outcome die](/srd/key-terms#term-outcome-die) and compare the result to the table below until you have generated a number of upgrades whose total UV add up to the possible UV of the armor. If the result is a Variable upgrade, give the armor the UV 1 version. If the result is an upgrade that would put the total Upgrade Value of the armor above its maximum, recast the die.
 
 |Result|Upgrade|
 |:-|:-|
