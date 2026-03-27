@@ -10,7 +10,7 @@ To play Last Odyssey, you will need the following materials in some form:
 *  Notes to document your campaign
 *  Pencils and pens
 *  Character sheets
-*  A handful of 10-sided, 4-sided, 6-sided, and 12-sided polyhedral dice
+*  A handful of 4-sided, 6-sided, 8-sided, 10-sided, 12-sided, and 20-sided polyhedral dice.
 
 ## Finding a Group
 When starting a new FRP group, you should have in mind what role you'd like to play in the campaign, whether as a facilitator, a GM, or a player (or more than one role at once).  You should also decide on the level of commitment you'd like from each of your group members.  Will this be a long campaign, a short adventure, or a _one-shot_ that lasts for a single night?

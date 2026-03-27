@@ -1,7 +1,9 @@
 # Example Enemies
 
+*The only proof of a warrior is combat.*
+
 One hundred example enemies are provided, ten per [tier](/srd/heroes/creation#term-tier).
-Each tier’s enemies are divied into two thematic groups of five; the themes relate them to example
+Each tier’s enemies are divided into two thematic groups of five; each theme relates them to example
 [lore](/srd/discovery/lore).
 
 All example enemies were composed using the [Enemy Creation](/srd/enemies/creation) tools.

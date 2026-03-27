@@ -8,8 +8,8 @@ Lands with wet and cool climates, the months of winter and spring in milder regi
 
 |Result|Weather|
 |:-|:-|
-|1-2|[Sunny](/srd/exploration/weather-and-climate#term-sunny)|
-|3-4|[Cloudy](/srd/exploration/weather-and-climate#term-cloudy)|
-|5-7|[Foggy](/srd/exploration/weather-and-climate#term-foggy)|
-|8-9|[Rainy](/srd/exploration/weather-and-climate#term-rainy)|
-|10|[Thunderstorm](/srd/exploration/weather-and-climate#term-thunderstorm)|
+|1-2|[Sunny](/srd/exploration/weather/effects#term-sunny)|
+|3-4|[Cloudy](/srd/exploration/weather/effects#term-cloudy)|
+|5-7|[Foggy](/srd/exploration/weather/effects#term-foggy)|
+|8-9|[Rainy](/srd/exploration/weather/effects#term-rainy)|
+|10|[Thunderstorm](/srd/exploration/weather/storms#term-thunderstorm)|

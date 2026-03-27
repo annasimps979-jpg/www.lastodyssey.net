@@ -8,9 +8,9 @@ Arid, hot regions such as canyons, plateaus, or sandy deserts are represented by
 
 |Result|Weather|
 |:-|:-|
-|1|[Cloudy](/srd/exploration/weather-and-climate#term-cloudy)|
-|2-6|[Bright](/srd/exploration/weather-and-climate#term-bright)|
-|7-9|[Hot](/srd/exploration/weather-and-climate#term-hot)|
-|10|[Sandstorm](/srd/exploration/weather-and-climate#term-sandstorm)|
+|1|[Cloudy](/srd/exploration/weather/effects#term-cloudy)|
+|2-6|[Bright](/srd/exploration/weather/effects#term-bright)|
+|7-9|[Hot](/srd/exploration/weather/effects#term-hot)|
+|10|[Sandstorm](/srd/exploration/weather/storms#term-sandstorm)|
 
 In the dry air of a Desert region, [characters](/srd/key-terms#term-character) will lose far more moisture than normal.  To represent this, the [players](/srd/key-terms#term-player) must spend 1 additional unit of Supplies in total during the [Camping Phase](/srd/exploration/travel/round#term-camping-phase) in order to avoid taking an [injury](/srd/combat/death-and-injury#term-injury).

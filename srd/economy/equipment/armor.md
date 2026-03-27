@@ -8,9 +8,9 @@ Robes, enchanted fabric, and thick clothing all count as _<dfn id = "term-cloth-
 
 |Type|Bonuses|
 |:-|:-|
-|Mundane|+0 Physical Defense, +2 Magical Defense|
-|Rare|+1 Physical Defense, +3 Magical Defense|
-|Expert|+2 Physical Defense, +4 to Magical Defense|
+|Mundane|+0 Physical Defense, +4 Magical Defense|
+|Rare|+2 Physical Defense, +6 Magical Defense|
+|Expert|+4 Physical Defense, +8 to Magical Defense|
 
 ## Light Armor
 
@@ -18,9 +18,9 @@ Leather armor, hardened clothing, and light metal armor all count as _<dfn id = 
 
 |Type|Bonuses|
 |:-|:-|
-|Mundane|+1 Physical Defense, +1 Magical Defense|
-|Rare|+2 Physical Defense, +2 Magical Defense|
-|Expert|+3 Physical Defense, +3 to Magical Defense|
+|Mundane|+2 Physical Defense, +2 Magical Defense|
+|Rare|+4 Physical Defense, +4 Magical Defense|
+|Expert|+6 Physical Defense, +6 to Magical Defense|
 
 ## Heavy Armor
 
@@ -28,9 +28,25 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 |Type|Bonuses|
 |:-|:-|
-|Mundane|+2 Physical Defense, +0 Magical Defense|
-|Rare|+3 Physical Defense, +1 Magical Defense|
-|Expert|+4 Physical Defense, +2 Magical Defense|
+|Mundane|+4 Physical Defense, +0 Magical Defense|
+|Rare|+6 Physical Defense, +2 Magical Defense|
+|Expert|+8 Physical Defense, +4 Magical Defense|
+
+## Armor Pricing
+
+Mundane armor costs 50 cr, Rare armor costs 250 cr, and Expert armor costs 1,250 cr.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
+
+|Quality|Total Upgrade Value|Price|
+|:-|:-|:-|
+|Mundane|0|50|
+|Mundane|1|100|
+|Rare|0|250|
+|Rare|1|500|
+|Rare|2|1000|
+|Expert|0|1250|
+|Expert|1|2500|
+|Expert|2|5000|
+|Expert|3|10000|
 
 ## Armor Upgrades
 
@@ -38,7 +54,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 |Name|Description|
 |:-|:-|
-|Reinforced|When you are hit by a [physical attack](/srd/combat/attacking-and-defending#term-physical-attack) while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the [base](/srd/key-terms#term-base) damage are applied.  At [UV](/srd/economy/equipment#term-upgrade-value) 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
+|Reinforced|When you are hit by a [physical attack](/srd/combat/attacking-and-defending#term-physical-attack) while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the [base](/srd/key-terms#term-base) damage are applied.  At [UV](/srd/economy/equipment/upgrades#term-upgrade-value) 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
 |Inscribed|When you are hit by a [magical attack](/srd/combat/attacking-and-defending#term-magical-attack) while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
 |Extra Ability|When a character wears armor with this upgrade, they are able to use a single [flex power](/srd/heroes/advancement#term-flex-power), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/key-terms#term-ability) at its listed [MP](/srd/heroes/attributes-and-statistics#term-mp) cost.  At UV 1, the ability is earned at rank 1-3 of the role or archetype that can use it, at UV 2 the ability is earned at rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
 |Elemental Resistance|When you wear this armor, you resist damage of the specified [elemental type](/srd/combat/elemental-types#term-elemental-type) based on the value of the upgrade.  At UV 1, damage dealt to you of that elemental type is multiplied by 0.5, at UV 2 it is multiplied by 0.25, and at UV 3 you are completely immune.|
@@ -50,7 +66,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |:-|:-|
 |Elemental Type|When you wear armor that has this upgrade, you count as having the specified elemental type when calculating received damage.  This is overridden by archetype abilities like the [Dancer's](/srd/heroes/archetypes/dancer) Mask that change your elemental type, and also does not affect any [Shells](/srd/combat/shells) that you receive during battle.  You cannot have more than one of this upgrade on a single piece of armor.|
 |Invigorating|While you are wearing this armor, you are immune to [debuffs](/srd/combat/buffs-and-debuffs#term-debuff) that affect the specified statistic.  This upgrade cannot stack, but you can have multiple upgrades that make you immune to different debuffs at once.|
-|Weatherproofing|While you are wearing this armor, you are immune to the negative and positive effects of a single type of [weather](/srd/exploration/weather-and-climate).  This cannot stack, but you may be immune to more than one type of weather due to different versions of this upgrade at a time.|
+|Weatherproofing|While you are wearing this armor, you are immune to the negative and positive effects of a single type of [weather](/srd/exploration/weather).  This cannot stack, but you may be immune to more than one type of weather due to different versions of this upgrade at a time.|
 |Status Resistance|While you are wearing this armor, the probability of an enemy inflicting a particular [status](/srd/combat/statuses) on you is reduced as though you were resistant to the effect's elemental type.  This upgrade does not stack, but you can resist multiple statuses at once with different versions of this upgrade.|
 |Sealed|This armor lets you function in an environment such as vacuum or underwater without suffering any negative effects.  This does not stack, but armors can be sealed to multiple environments at once.|
 

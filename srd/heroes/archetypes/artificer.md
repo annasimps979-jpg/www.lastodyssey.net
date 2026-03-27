@@ -9,41 +9,41 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 *  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Resistance](/srd/heroes/attributes-and-statistics#term-resistance).
 
-## Advancements by Rank
+## Advancements by Tier
 
-**Rank 1:** Ability.
+**Tier 1:** Ability.
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Scan|[Ranged](/srd/combat/attacking-and-defending#term-ranged)|2 [MP](/srd/heroes/attributes-and-statistics#term-mp), 1 [AP](/srd/combat/round#term-ap)|Select a target.  You immediately learn its current [HP](/srd/heroes/attributes-and-statistics#term-hp), MP, [Shell](/srd/combat/shells), and [elemental type](/srd/combat/elemental-types#term-elemental-type).  Subsequent uses of this ability on the same target will allow you to learn the same information, or allow you to learn the value of its [statistics](/srd/key-terms#term-statistic), its [item table](/srd/combat/ending#term-item-table), or reveal its abilities.|
 
-**Rank 2:** You gain +1 Magical Accuracy.
+**Tier 2:** You gain +1 Magical Accuracy.
 
-**Rank 3:** Ability.
+**Tier 3:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Item Specialist|[Passive](/srd/combat/attacking-and-defending#term-passive)|N/A|When you use an ability that costs MP, you may substitute the MP cost of the ability by expending an item whose effect is of the same type as the ability.|
 
-**Rank 4:** You gain +1 Magical Accuracy.
+**Tier 4:** You gain +1 Magical Accuracy.
 
-**Rank 5:** Ability.
+**Tier 5:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Multiscan|[Multi](/srd/combat/attacking-and-defending#term-multi)|10 MP, 1 AP|Target all [enemies](/srd/enemies).  You immediately learn their current HP, MP, Shell, and [elemental type](/srd/combat/elemental-types#term-elemental-type).  Subsequent uses of this ability on all enemies will allow you to learn the same information, or allow you to learn the value of their statistics, their item tables, or reveal the abilities of each one individually.|
 
-**Rank 6:** You gain +1 Magical Accuracy.
+**Tier 6:** You gain +1 Magical Accuracy.
 
-**Rank 7:** Ability.
+**Tier 7:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Reveal Weakness|Passive|N/A|When you use the Scan ability on an enemy, it inflicts the Scanned [status](/srd/combat/statuses).  The next [physical attack](/srd/combat/attacking-and-defending#term-physical-attack), [magical attack](/srd/combat/attacking-and-defending#term-magical-attack), or [status-inflicting ability](/srd/combat/attacking-and-defending#term-status-inflicting-ability) that hits the enemy will ignore any of its elemental resistances, but not any of its elemental weaknesses, and then the Scanned status is removed.|
 
-**Rank 8:** You gain +1 Magical Accuracy.
+**Tier 8:** You gain +1 Magical Accuracy.
 
-**Rank 9:** You gain +1 Magical Accuracy.
+**Tier 9:** You gain +1 Magical Accuracy.
 
 **Capstone:** Ability.
 

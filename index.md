@@ -28,8 +28,8 @@ But, since you clicked on this link, and since you read this far, and since you'
 still reading, and you're still reading, and you're still (sorry, just messing with 
 you) reading, then there's _something_ about this system that intrigues you.  In
 which case, go read the rules, find some friends, and get playing.  Then, when you've
-played a session and/or explored the rules enough to find that little thing about
-this you love, get more people to do the same.  Then, get a whole campaign going.  Then...
+played a session and/or explored the rules enough to find at least one thing about
+this game you love, get more people to do the same.  Then, get a whole campaign going.  Then...
 
 Well, who knows?
 

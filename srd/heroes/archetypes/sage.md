@@ -9,41 +9,41 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 *  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense).
 
-## Advancements by Rank
+## Advancements by Tier
 
-**Rank 1:** Ability.
+**Tier 1:** Ability.
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Grimoire|[Passive](/srd/combat/attacking-and-defending#term-passive)|N/A|In addition to [MP](/srd/heroes/attributes-and-statistics#term-mp), you also have a number of Spell Slots equal to your current tier. When you use a [magical attack](/srd/combat/attacking-and-defending#term-magical-attack) or a [flex power](/srd/heroes/advancement#term-flex-power), you may expend a single Spell Slot instead of paying the MP cost.|
 
-**Rank 2:** You gain +1 Magical Attack.
+**Tier 2:** You gain +1 Magical Attack.
 
-**Rank 3:** Ability.
+**Tier 3:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Counterspell|[Reaction](/srd/combat/attacking-and-defending#term-reaction)|Variable|When an enemy uses a magical attack, you may expend double the MP cost of the attack in order to prevent the enemy from using it.  They will still expend the MP and [AP](/srd/combat/round#term-ap) cost of using the ability as normal.|
 
-**Rank 4:** You gain +1 Magical Attack.
+**Tier 4:** You gain +1 Magical Attack.
 
-**Rank 5:** Ability.
+**Tier 5:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Cantrip|Passive|N/A|You may use the Magic Missile ability for free regardless of what [role](/srd/heroes/roles) you currently play.|
 
-**Rank 6:** You gain +1 Magical Attack.
+**Tier 6:** You gain +1 Magical Attack.
 
-**Rank 7:** Ability.
+**Tier 7:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Wizard Duel|Passive|N/A|When you use Counterspell, you may expend Spell Slots to reduce the MP cost of doing so, at a conversion rate of 1 Spell Slot per 5 MP.|
 
-**Rank 8:** You gain +1 Magical Attack.
+**Tier 8:** You gain +1 Magical Attack.
 
-**Rank 9:** You gain +1 Magical Attack.
+**Tier 9:** You gain +1 Magical Attack.
 
 **Capstone:** Ability.
 

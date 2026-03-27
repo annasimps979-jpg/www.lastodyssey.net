@@ -4,68 +4,68 @@ Over time, players will earn [XP](/srd/discovery/earning-xp#term-xp), which can 
 
 The XP cost of each improvement a player buys is equal to the number of improvements they have already bought at their current tier plus one, multiplied by twice their current tier, as shown in the table below.  For example, at tier 1 the very first improvement a player buys will cost 2 XP, while the last one will cost 12 XP.  Once a Hero has reached tier 10 and then unlocked all of the possible advancements, they may no longer advance in tier.  If a Hero in your [campaign](/srd/key-terms#term-campaign) reaches the maximum possible tier, this means that it's time for the campaign to start wrapping up and/or for that Hero to move on and be changed out for another one.  Every time you advance in tier, you also gain access to the [archetype](/srd/heroes/archetypes) ability or [statistic](/srd/key-terms#term-statistic) bonus of the corresponding rank.
 
-|Tier|Advancement|XP Cost|
-|:-|:-|:-|
-|1|First|2|
-|1|Second|4|
-|1|Third|6|
-|1|Fourth|8|
-|1|Fifth|10|
-|1|Sixth|12|
-|2|First|4|
-|2|Second|8|
-|2|Third|12|
-|2|Fourth|16|
-|2|Fifth|20|
-|2|Sixth|24|
-|3|First|6|
-|3|Second|12|
-|3|Third|18|
-|3|Fourth|24|
-|3|Fifth|30|
-|3|Sixth|36|
-|4|First|8|
-|4|Second|16|
-|4|Third|24|
-|4|Fourth|32|
-|4|Fifth|40|
-|4|Sixth|48|
-|5|First|10|
-|5|Second|20|
-|5|Third|30|
-|5|Fourth|40|
-|5|Fifth|50|
-|5|Sixth|60|
-|6|First|12|
-|6|Second|24|
-|6|Third|36|
-|6|Fourth|48|
-|6|Fifth|60|
-|6|Sixth|72|
-|7|First|14|
-|7|Second|28|
-|7|Third|42|
-|7|Fourth|56|
-|7|Fifth|70|
-|7|Sixth|84|
-|8|First|16|
-|8|Second|32|
-|8|Third|48|
-|8|Fourth|64|
-|8|Fifth|80|
-|8|Sixth|96|
-|9|First|18|
-|9|Second|36|
-|9|Third|54|
-|9|Fourth|72|
-|9|Fifth|90|
-|9|Sixth|108|
-|10|First|20|
-|10|Second|40|
-|10|Third|60|
-|10|Fourth|80|
-|10|Fifth|100|
-|10|Sixth|120|
+|Tier|Advancement|XP Cost|Total XP|
+|:-|:-|:-|:-|
+|1|First|2|2|
+|1|Second|4|6|
+|1|Third|6|12|
+|1|Fourth|8|20|
+|1|Fifth|10|30|
+|1|Sixth|12|42|
+|2|First|4|46|
+|2|Second|8|54|
+|2|Third|12|66|
+|2|Fourth|16|82|
+|2|Fifth|20|102|
+|2|Sixth|24|126|
+|3|First|6|132|
+|3|Second|12|144|
+|3|Third|18|162|
+|3|Fourth|24|186|
+|3|Fifth|30|216|
+|3|Sixth|36|252|
+|4|First|8|260|
+|4|Second|16|276|
+|4|Third|24|300|
+|4|Fourth|32|332|
+|4|Fifth|40|372|
+|4|Sixth|48|420|
+|5|First|10|430|
+|5|Second|20|450|
+|5|Third|30|480|
+|5|Fourth|40|520|
+|5|Fifth|50|570|
+|5|Sixth|60|630|
+|6|First|12|642|
+|6|Second|24|666|
+|6|Third|36|702|
+|6|Fourth|48|750|
+|6|Fifth|60|810|
+|6|Sixth|72|882|
+|7|First|14|896|
+|7|Second|28|924|
+|7|Third|42|966|
+|7|Fourth|56|1022|
+|7|Fifth|70|1092|
+|7|Sixth|84|1176|
+|8|First|16|1192|
+|8|Second|32|1224|
+|8|Third|48|1272|
+|8|Fourth|64|1336|
+|8|Fifth|80|1416|
+|8|Sixth|96|1512|
+|9|First|18|1530|
+|9|Second|36|1566|
+|9|Third|54|1620|
+|9|Fourth|72|1692|
+|9|Fifth|90|1782|
+|9|Sixth|108|1890|
+|10|First|20|1910|
+|10|Second|40|1950|
+|10|Third|60|2010|
+|10|Fourth|80|2090|
+|10|Fifth|100|2190|
+|10|Sixth|120|2310|
 
 When a Hero first advances to a new tier, they also advance the rank of their archetype and gain the corresponding advancement.  While at a given tier, each Hero will take each of advancements listed below one single time.  Once these advancements have been taken, they must advance to the next tier to advance further.
 
@@ -106,7 +106,7 @@ During advancement, players may purchase any of the following flex powers:
 |Flex Proficiency|Passive|N/A|You become [proficient](/srd/heroes/creation#term-weapon-proficiency) in a type of weapon or armor you were not previously proficient in.|
 
 ## Advancing Tier
-Once you have bought one of each of the six tier improvements, your Hero is ready to advance in tier.  To do so, you must spend 3 [Anima](/srd/anima#term-anima) to either summon their [eidolon](/srd/heroes/eidolons#term-eidolon) in battle or to save them from [True Death](/srd/anima/true-death).  Once this has been done, the Hero advances to the next tier, and automatically receives the advancement corresponding to the rank of their archetype equal to their new tier.
+Once you have bought one of each of the six tier improvements, your Hero is ready to advance in tier.  To do so, you must spend 3 [Anima](/srd/anima#term-anima) to either summon their [eidolon](/srd/heroes/eidolons#term-eidolon) in battle or to save them from [True Death](/srd/anima/true-death).  Once this has been done, the Hero advances to the next tier, and automatically gains the archetype ability associated with their new tier.
 
 ## Changing Aspirations and Relationships
 It is inevitable that a Hero's [Aspiration](/srd/heroes/creation#term-aspiration) and [Relationships](/srd/heroes/creation#term-relationship) will change throughout the course of a campaign.  The outcome of a Scene may change a Hero's Relationships or Aspiration, depending on what was risked in order for them to earn Anima.  In addition, whenever player determines that their Hero's Aspiration has changed and/or they have acquired or lost a Relationship, they have the ability to modify them at will.  They should then announce this to the group so that the other players and the [GM](/srd/key-terms#term-gm) can take proper note of the change.

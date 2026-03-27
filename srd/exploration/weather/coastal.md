@@ -8,7 +8,7 @@ Lands with sunny and breezy climates are represented by this type.  The months o
 
 |Result|Weather|
 |:-|:-|
-|1-3|[Sunny](/srd/exploration/weather-and-climate#term-sunny)|
-|4-6|[Cloudy](/srd/exploration/weather-and-climate#term-cloudy)|
-|7-9|[Bright](/srd/exploration/weather-and-climate#term-bright)|
-|10|[Rainy](/srd/exploration/weather-and-climate#term-rainy)|
+|1-3|[Sunny](/srd/exploration/weather/effects#term-sunny)|
+|4-6|[Cloudy](/srd/exploration/weather/effects#term-cloudy)|
+|7-9|[Bright](/srd/exploration/weather/effects#term-bright)|
+|10|[Rainy](/srd/exploration/weather/effects#term-rainy)|

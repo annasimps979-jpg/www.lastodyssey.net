@@ -9,41 +9,41 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 *  As a [Support](/srd/heroes/roles/support), your [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Resistance](/srd/heroes/attributes-and-statistics#term-resistance).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), your [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy).
 
-## Advancements by Rank
+## Advancements by Tier
 
-**Rank 1:** Ability.
+**Tier 1:** Ability.
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Orders|[Ally](/srd/combat/attacking-and-defending#term-ally-ability)|1 AP|Grant a free [AP](/srd/combat/round#term-ap) to a single ally that can then use it to act during your [turn](/srd/combat/round#term-turn).  You may only use this ability once per [round](/srd/combat/round#term-round).|
 
-**Rank 2:** You gain +1 Resistance.
+**Tier 2:** You gain +1 Resistance.
 
-**Rank 3:** Ability.
+**Tier 3:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Standard Bearer|[Passive](/srd/combat/attacking-and-defending#term-passive)|N/A|Your allies gain a +1 bonus to their [Status](/srd/heroes/attributes-and-statistics#term-status-accuracy), [Physical](/srd/heroes/attributes-and-statistics#term-physical-accuracy), and [Magical Accuracies](/srd/heroes/attributes-and-statistics#term-magical-accuracy) when they act after you in the [Initiative Order](/srd/combat/starting#term-initiative-order) that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).  If you are [downed](/srd/combat/death-and-injury#term-downed), this effect does not apply.|
 
-**Rank 4:** You gain +1 Resistance.
+**Tier 4:** You gain +1 Resistance.
 
-**Rank 5:** Ability.
+**Tier 5:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Courier Network|Passive|N/A|You may use Orders twice per round.|
 
-**Rank 6:** You gain +1 Resistance.
+**Tier 6:** You gain +1 Resistance.
 
-**Rank 7:** Ability.
+**Tier 7:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Chain of Command|Passive|N/A|Designate one of your [party](/srd/key-terms#term-party) members as your Lieutenant.  While you are downed in [battle](/srd/key-terms#term-battle), that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
 
-**Rank 8:** You gain +1 Resistance.
+**Tier 8:** You gain +1 Resistance.
 
-**Rank 9:** You gain +1 Resistance.
+**Tier 9:** You gain +1 Resistance.
 
 **Capstone:** Ability.
 

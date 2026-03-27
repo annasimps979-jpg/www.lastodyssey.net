@@ -1,5 +1,7 @@
 # Beginner's Guide
 
+*Alright, everyone: and a one, and a two, and a*
+
 Last Odyssey is an FRP, or Fantasy Role Play, game.  If you've never played an FRP before, or if you'd like to learn a little more about Last Odyssey before diving into the rules, this section is for you.
 
 - What Is...

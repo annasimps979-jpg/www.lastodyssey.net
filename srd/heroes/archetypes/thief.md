@@ -9,41 +9,41 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 *  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense).
 
-## Advancements by Rank
+## Advancements by Tier
 
-**Rank 1:** Ability.
+**Tier 1:** Ability.
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Steal|[Melee](/srd/combat/attacking-and-defending#term-melee)|1 [AP](/srd/combat/round#term-ap)|Select an enemy and cast on their [item table](/srd/combat/ending#term-item-table).  If you obtain an item as a result, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](/srd/key-terms#term-battle) with this ability.|
 
-**Rank 2:** You gain +1 Physical Attack.
+**Tier 2:** You gain +1 Physical Attack.
 
-**Rank 3:** Ability.
+**Tier 3:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hide|[Self](/srd/combat/attacking-and-defending#term-self-ability)|1 AP|You apply the Hidden [status](/srd/combat/statuses) to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next [turn](/srd/combat/round#term-turn), if you act while Hidden, or if you are the only allied [character](/srd/key-terms#term-character) remaining on the battlefield, the Hidden status is removed.|
 
-**Rank 4:** You gain +1 Physical Attack.
+**Tier 4:** You gain +1 Physical Attack.
 
-**Rank 5:** Ability.
+**Tier 5:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pickpocket|[Reaction](/srd/combat/attacking-and-defending#term-reaction)|N/A|When an enemy misses you using a [physical attack](/srd/combat/attacking-and-defending#term-physical-attack), [magical attack](/srd/combat/attacking-and-defending#term-magical-attack), or [status-inflicting ability](/srd/combat/attacking-and-defending#term-status-inflicting-ability), you may use Steal on them immediately without spending any AP.|
 
-**Rank 6:** You gain +1 Physical Attack.
+**Tier 6:** You gain +1 Physical Attack.
 
-**Rank 7:** Ability.
+**Tier 7:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sneak Attack|[Passive](/srd/combat/attacking-and-defending#term-passive)|If you use a physical attack, magical attack, or status-inflicting ability while Hidden, you may cast the [hit die](/srd/combat/attacking-and-defending#term-hit-die) twice and choose the result you prefer.|
 
-**Rank 8:** You gain +1 Physical Attack.
+**Tier 8:** You gain +1 Physical Attack.
 
-**Rank 9:** You gain +1 Physical Attack.
+**Tier 9:** You gain +1 Physical Attack.
 
 **Capstone:** Ability.
 

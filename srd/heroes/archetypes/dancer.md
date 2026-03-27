@@ -9,41 +9,41 @@ The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/cre
 *  As a [Support](/srd/heroes/roles/support), your [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) affect [Evasion](/srd/heroes/attributes-and-statistics#term-evasion).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), your [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities affect [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy).
 
-## Advancements by Rank
+## Advancements by Tier
 
-**Rank 1:** Ability.
+**Tier 1:** Ability.
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Copycat|[Special](/srd/combat/attacking-and-defending#term-special-ability)|10 [MP](/srd/heroes/attributes-and-statistics), 1 [AP](/srd/combat/round#term-ap)|You may immediately use one of the abilities that one of your allies used between the end of your last [turn](/srd/combat/round#term-turn) and the beginning of your current turn, counting [held turns](/srd/combat/round#term-hold-ap).|
 
-**Rank 2:** You gain +1 Evasion.
+**Tier 2:** You gain +1 Evasion.
 
-**Rank 3:** Ability.
+**Tier 3:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Dancer's Mask|[Passive](/srd/combat/attacking-and-defending#term-passive)|N/A|Whenever you use an ability that has an [elemental type](/srd/combat/elemental-types#term-elemental-type), you may obtain the Masked [status](/srd/combat/statuses), which means you now count as having [HP](/srd/heroes/attributes-and-statistics) and [Shell](/srd/combat/shells) of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status from you.|
 
-**Rank 4:** You gain +1 Evasion.
+**Tier 4:** You gain +1 Evasion.
 
-**Rank 5:** Ability.
+**Tier 5:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Mimic|Special|20 MP, 1 AP|You may use one of the abilities that any of your enemies have used between the end of your last turn and the beginning of your current turn, counting held turns.|
 
-**Rank 6:** You gain +1 Evasion.
+**Tier 6:** You gain +1 Evasion.
 
-**Rank 7:** Ability.
+**Tier 7:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Costume Change|[Self](/srd/combat/attacking-and-defending#term-self-ability)|2 AP|You may change your elemental type to an elemental type of your choosing as though you had just used Dancer's Mask.|
 
-**Rank 8:** You gain +1 Evasion.
+**Tier 8:** You gain +1 Evasion.
 
-**Rank 9:** You gain +1 Evasion.
+**Tier 9:** You gain +1 Evasion.
 
 **Capstone:** Ability.
 

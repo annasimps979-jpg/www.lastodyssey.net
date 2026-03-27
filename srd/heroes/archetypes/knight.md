@@ -9,41 +9,41 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 *  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack).
 
-## Advancements by Rank
+## Advancements by Tier
 
-**Rank 1:** Ability.
+**Tier 1:** Ability.
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Focus|[Self](/srd/combat/attacking-and-defending#term-self-ability)|1 [AP](/srd/combat/round#term-ap)|Apply the Focused [status](/srd/combat/statuses) to yourself.  While you are Focused, you may only use your [basic attack](/srd/combat/round#term-basic-attack).  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a [physical attack](/srd/combat/attacking-and-defending#term-physical-attack) or [magical attack](/srd/combat/attacking-and-defending#term-magical-attack).  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status goes away.|
 
-**Rank 2:** You gain +1 Physical Defense.
+**Tier 2:** You gain +1 Physical Defense.
 
-**Rank 3:** Ability.
+**Tier 3:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Cavalry|[Passive](/srd/combat/attacking-and-defending#term-passive)|N/A|Once per [round](/srd/combat/round#term-round), you may use the [Move](/srd/combat/round#term-move) action on your [turn](/srd/combat/round#term-turn) without spending any AP, including when you are Focused.|
 
-**Rank 4:** You gain +1 Physical Defense.
+**Tier 4:** You gain +1 Physical Defense.
 
-**Rank 5:** Ability.
+**Tier 5:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Disciplined Focus|Passive|N/A|While you are Focused, you may spend 2 AP to take the Calm [action](/srd/key-terms#term-action), which removes the Focused status from you.|
 
-**Rank 6:** You gain +1 Physical Defense.
+**Tier 6:** You gain +1 Physical Defense.
 
-**Rank 7:** Ability.
+**Tier 7:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Enrage|Passive|N/A|Once per round, if you miss an attack while Focused, you may choose to reset your bonus damage back to 2 instead of losing the Focused status.|
 
-**Rank 8:** You gain +1 Physical Defense.
+**Tier 8:** You gain +1 Physical Defense.
 
-**Rank 9:** You gain +1 Physical Defense.
+**Tier 9:** You gain +1 Physical Defense.
 
 **Capstone:** Ability.
 

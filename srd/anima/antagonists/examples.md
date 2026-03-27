@@ -194,10 +194,10 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Death Laser|Ranged|1 AP, 8 MP|Makes a physical attack against a single enemy that deals physical thunder damage on a hit.|
 |Soulkill|Ranged|1 AP, 5 MP|The Torture Rack makes a physical attack that, on a hit, deals colorless physical damage to the target's MP instead of its HP or Shell.|
 |Administer Sedative|Ranged|1 AP, 7 MP|The Torture Rack uses a status-inflicting ability that inflicts [Paralyzed](/srd/combat/statuses#term-paralyzed) on a hit.|
-|Experiment|Ranged|1 AP, 7 MP|The Torture Rack uses a status-inflicting ability that inflicts a random status on a hit determined by the [Random Element Table](/srd/extras/random-tables#term-random-element-table).|
+|Experiment|Ranged|1 AP, 7 MP|The Torture Rack uses a status-inflicting ability that inflicts a random status on a hit determined by the [Random Element Table](/srd/combat/random-tables#term-random-element-table).|
 |Deep Cuts|Passive|N/A|If the result on the hit die is a 1 when making a physical attack against one of its enemies, the target will also receive 1 random [injury](/srd/combat/death-and-injury#term-injury).|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all debuffs.|
-|Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target that are determined by the [Random Statistic Table](/srd/extras/random-tables#term-random-statistic-table).|
+|Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target that are determined by the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table).|
 |Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](/srd/key-terms#term-gm) casts the [outcome die](/srd/key-terms#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/attributes-and-statistics#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
 
 ### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)

@@ -9,41 +9,41 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 *  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Evasion](/srd/heroes/attributes-and-statistics#term-evasion).
 
-## Advancements by Rank
+## Advancements by Tier
 
-**Rank 1:** Ability.
+**Tier 1:** Ability.
 
 |Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Mark Target|[Ranged](/srd/combat/attacking-and-defending#term-ranged)|1 [AP](/srd/combat/round#term-ap)|This ability inflicts the Hunted [status](/srd/combat/statuses) on the target.  When you use a [magical attack](/srd/combat/attacking-and-defending#term-magical-attack), [physical attack](/srd/combat/attacking-and-defending#term-physical-attack), or [status-inflicting ability](/srd/combat/attacking-and-defending#term-status-inflicting-ability) on the target, cast the [hit die](/srd/combat/attacking-and-defending#term-hit-die) twice and choose the number you prefer.  This does not apply to attacks that target multiple [enemies](/srd/enemies).  Only one enemy can have the Hunted status inflicted on them per Ranger on your team.  If a Hunted enemy dies due to one of your attacks, you may immediately use Mark Target on another enemy at no AP cost.|
 
-**Rank 2:** You gain +1 Physical Accuracy.
+**Tier 2:** You gain +1 Physical Accuracy.
 
-**Rank 3:** Ability.
+**Tier 3:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Forest Walk|[Passive](/srd/combat/attacking-and-defending#term-passive)|N/A|You are immune to having your movement impaired for any reason, and immune to any effects that force you to move.  You may still voluntarily [move](/srd/combat/round#term-move) due to friendly powers such as the Commander's Order.|
 
-**Rank 4:** You gain +1 Physical Accuracy.
+**Tier 4:** You gain +1 Physical Accuracy.
 
-**Rank 5:** Ability.
+**Tier 5:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Lay Trap|[Special](/srd/combat/attacking-and-defending#term-special-ability)|5 [MP](/srd/heroes/attributes-and-statistics#term-mp), 1 AP|Designate either the front row or the back row of the enemies' side of the battlefield.  The next time an enemy moves into this row, you may either make a [basic attack](/srd/combat/round#term-basic-attack) against them, casting the hit die twice as though they were Hunted, or use Mark Target on them, without spending any AP.|
 
-**Rank 6:** You gain +1 Physical Accuracy.
+**Tier 6:** You gain +1 Physical Accuracy.
 
-**Rank 7:** Ability.
+**Tier 7:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Cripple|Passive|N/A|All allies that attack a Hunted enemy now gain the advantage of Hunted.|
 
-**Rank 8:** You gain +1 Physical Accuracy.
+**Tier 8:** You gain +1 Physical Accuracy.
 
-**Rank 9:** You gain +1 Physical Accuracy.
+**Tier 9:** You gain +1 Physical Accuracy.
 
 **Capstone:** Ability.
 

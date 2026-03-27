@@ -41,13 +41,29 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons are those that augment a
 |Rare|+3 Physical Attack, +5 Magical Attack|
 |Expert|+5 Physical Attack, +7 Magical Attack|
 
+## Weapon Pricing
+
+Mundane weapons cost 10 cr, Rare weapons cost 100 cr, and Expert weapons cost 1,000 cr.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
+
+|Quality|Total Upgrade Value|Price|
+|:-|:-|:-|
+|Mundane|0|10|
+|Mundane|1|20|
+|Rare|0|100|
+|Rare|1|200|
+|Rare|2|400|
+|Expert|0|1000|
+|Expert|1|2000|
+|Expert|2|4000|
+|Expert|3|8000|
+
 ## Weapon Upgrades
 
 ### Variable
 
 |Name|Description|
 |:-|:-|
-|Keen|This upgrade gives a bonus to either your Status, Magical, or Physical Accuracy whose value depends on its [UV](/srd/economy/equipment#term-upgrade-value).  UV 1 gives a +1, UV 2 gives a +3, and UV 3 gives a +5.|
+|Keen|This upgrade gives a bonus to either your Status, Magical, or Physical Accuracy whose value depends on its [UV](/srd/economy/equipment/upgrades#term-upgrade-value).  UV 1 gives a +1, UV 2 gives a +3, and UV 3 gives a +5.|
 |Extra Ability|When a character wields a weapon with this upgrade, they are able to use an extra [flex power](/srd/heroes/character-advancmement#term-flex-power), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/key-terms#term-ability) at its normal [MP](/srd/heroes/attributes-and-statistics#term-mp) cost.  At UV 1, the ability is earned at of rank 1-3 of the role or archetype that can use it, at UV 2 the ability is earned at rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
 |Fast|This upgrade gives a bonus to the wielder's [Initiative](/srd/heroes/attributes-and-statistics#term-initiative).  At UV 1, the bonus is +1, at UV 2 the bonus is +2, and at UV 3 the bonus is +3.|
 |Sharpened|After you hit an enemy with a [physical attack](/srd/combat/attacking-and-defending#term-physical-attack) while wielding a weapon with this upgrade, you can add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +3 extra damage, and UV 3 gives +5 extra damage.|
@@ -95,7 +111,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons are those that augment a
 |Vampiric|When you hit an enemy with a physical attack while wielding this weapon, you also heal an amount of HP equal to the total damage you dealt to that enemy.|
 |Masterwork|This weapon is of unusual quality, even for an Expert weapon.  Physical weapons with this upgrade give a +10 to Physical Attack and a +8 to Magical Attack, Balanced weapons give a +9 to Physical Attack and a +9 to Magical Attack, and Magical weapons give a +8 to Physical Attack and a +10 to Magical Attack.|
 |Explosive|When you hit an enemy with this weapon's basic attack, every other enemy also takes damage as though you had hit them with a basic attack as well.|
-|Holy|When making a basic attack with this weapon, you do not calculate damage as usual.  Instead, you deal 1d100 damage to the target that cannot be reflected, negated, guarded against, absorbed, or otherwise modified, including by normal damage modifiers.  If an enemy's [Shell](/srd/combat/shells) is broken in this manner, all rules for [Shellbreaking](/srd/combat/shells#term-shellbroken) still apply.|
+|Holy|When making a basic attack with this weapon, you do not calculate damage as usual.  Instead, you deal [1d100](/srd/key-terms#term-d100) damage to the target that cannot be reflected, negated, guarded against, absorbed, or otherwise modified, including by normal damage modifiers.  If an enemy's [Shell](/srd/combat/shells) is broken in this manner, all rules for [Shellbreaking](/srd/combat/shells#term-shellbroken) still apply.|
 |Corrupted|Every ability that the wielder uses that has an elemental type, statuses included, counts as having the [shadow](/srd/combat/elemental-types#term-shadow) type.  Whenever you kill an enemy with this weapon, it gains a stacking +1 base damage bonus to all damage done while wielding the weapon that stacks with each kill.  After you hit +99, something happens.|
 
 ## Example Weapons

@@ -1,0 +1,11 @@
+# Equipment Upgrades
+
+In addition to a piece of equipment's basic stats, each one also has a number of attached extra effects known as _<dfn id = "term-equipment-upgrade">upgrades</dfn>,_ each of which has an associated _<dfn id = "term-upgrade-value">Upgrade Value</dfn>,_ or <abbr title = "upgrade value">UV number</abbr> for short.  The total sum of all of the UV numbers of the upgrades to a given weapon or armor set can never be greater than its total Upgrade Value.  Mundane equipment has a UV of 1, Rare equipment has a UV of 2, and Expert equipment has a UV of 3.  Unique weapons and armor count as having UV numbers of 3 as well, but have additional unique upgrades that distinguish them from all other pieces of equipment.
+
+## Equipment by Tier
+
+Mundane equipment is meant to be used by Heroes of [tier](/srd/heroes/creation#term-tier) 1-4, Rare equipment is meant to be used by Heroes of levels 4-6, Expert equipment is meant to be used by Heroes of levels 7-9, and Unique equipment is meant to be acquired by Heroes of levels 9-10.  The exception to this rule is accessories, which do not have UV numbers but instead each possess a single upgrade that either counts as Partial or Total.  Accessories with _<dfn id = "term-partial-upgrade">Partial</dfn>_ upgrades give bonuses to a character's Evasion or Resistance, while accessories with _<dfn id = "term-total-upgrade">Total</dfn>_ upgrades do not.
+
+## Upgrade Pricing
+
+To remove an upgrade from a piece of equipment costs 100 [cr](/srd/economy/currency#term-cr) times the total [Upgrade Value](/srd/economy/equipment/upgrades#term-upgrade-value) it takes up on the equipment.  To add an upgrade to a piece of equipment costs an amount of cr equal to the difference between what the equipment would cost with the upgrade and what the equipment would cost without it, plus 500 cr, 1000 cr, or 5000 cr if the upgrade has an Upgrade Value of 1, 2, or 3, respectively.  Regardless of how it's done, upgrading a piece of equipment is a painstaking process, and will take a number of days equal to 1d4 multiplied by the UV of the upgrade.  Professionals capable of producing precisely the upgrade that players want are rare, and finding one for more powerful upgrades is an appropriate goal for a [quest](/srd/discovery/quests).
