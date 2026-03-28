@@ -1,19 +1,19 @@
 # Weapons
 
-Each [character](/srd/key-terms#term-character) can wield a single weapon at a time during [combat](/srd/combat), and may swap out their current weapon for another one they are proficient in during combat with the [Swap Weapon](/srd/combat/round#term-swap-equipment) action.  All weapons give bonuses to a character's [base](/srd/key-terms#term-base) [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) and their base [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) while they are being wielded.  The values of these bonuses are determined by the weapon's [Quality](/srd/economy/equipment#term-equipment-quality) and weapon type.  A weapon's _<dfn id = "term-weapon-type">weapon type</dfn>_ determines the base bonuses it gives to the wielder's Physical Attack and Magical Attack.  There are three categories of weapon type: Balanced, Physical, and Magical, and three Qualities, Mundane, Rare, and Expert.  There are also Unique weapons, which are Expert weapons with a single extra weapon upgrade that is not available to any other type.  Each individual weapon type grants an additional unique +1 bonus to a single [statistic](/srd/key-terms#term-statistic) while a character is wielding them that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).  There are 9 weapon types in total:
-*  _<dfn id = "term-lance">Lances</dfn>_ grant a +1 bonus to the [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense) of their wielder.
-*  _<dfn id = "term-sword">Swords</dfn>_ grant a +1 bonus to the Physical Attack of their wielder.
-*  _<dfn id = "term-bow">Bows</dfn>_ grant a +1 bonus to the [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy) of their wielder.
-*  _<dfn id = "term-gun">Guns</dfn>_ grant a +1 bonus to the [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy) of their wielder.
-*  _<dfn id = "term-dagger">Daggers</dfn>_ grant a +1 bonus to the [Evasion](/srd/heroes/attributes-and-statistics#term-evasion) of their wielder.
-*  _<dfn id = "term-claw">Claws</dfn>_ grant a +1 bonus to the [Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy) of their wielder.
-*  _<dfn id = "term-staff">Staves</dfn>_ grant a +1 bonus to the Magical Attack of their wielder.
-*  _<dfn id = "term-fan">Fans</dfn>_ grant a +1 bonus to the [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense) of their wielder.
-*  _<dfn id = "term-scepter">Scepters</dfn>_ grant a +1 bonus to the [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) of their wielder.
+Each [character](/srd/key-terms#term-character) can wield a single weapon at a time during [combat](/srd/combat), and may swap out their current weapon for another one they are proficient in during combat with the [Swap Weapon](/srd/combat/round#term-swap-equipment) action.  All weapons give bonuses to a character's [base](/srd/key-terms#term-base) [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) and their base [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) while they are being wielded.  The values of these bonuses are determined by the weapon's [Quality](/srd/economy/equipment#term-equipment-quality) and weapon type.  A weapon's _<dfn id = "term-weapon-type">weapon type</dfn>_ determines the base bonuses it gives to the wielder's Physical Attack and Magical Attack.  There are three categories of weapon type: Balanced, Physical, and Magical, and three Qualities, Mundane, Rare, and Expert.  There are also Unique weapons, which are Expert weapons with a single extra weapon upgrade that is not available to any other type.  Each individual weapon type grants an additional unique +1 bonus to a single [statistic](/srd/key-terms#term-statistic) while a character is wielding them that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).  There are 9 weapon types in total, each of which grants a bonus to a different statistic:
+* _<dfn id = "term-sword">Swords</dfn>_ grant a +1 bonus to the [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense) of their wielder.
+* _<dfn id = "term-dagger">Daggers</dfn>_ grant a +1 bonus to the [Evasion](/srd/heroes/attributes-and-statistics#term-evasion) of their wielder.
+* _<dfn id = "term-gauntlet">Gauntlets</dfn>_ grant a +1 bonus to the [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy) of their wielder.
+* _<dfn id = "term-staff">Staves</dfn>_ grant a +1 bonus to the Magical Attack of their wielder.
+* _<dfn id = "term-fan">Fans</dfn>_ grant a +1 bonus to the [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense) of their wielder.
+* _<dfn id = "term-scepter">Scepters</dfn>_ grant a +1 bonus to the [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) of their wielder.
+* _<dfn id = "term-lance">Lances</dfn>_ grant a +1 bonus to the [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy) of their wielder.
+* _<dfn id = "term-hammer">Hammers</dfn>_ grant a +1 bonus to the Physical Attack of their wielder.
+* _<dfn id = "term-claw">Claws</dfn>_ grant a +1 bonus to the [Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy) of their wielder.
 
 ## Physical Weapons 
 
-_<dfn id = "term-physical-weapon">Physical</dfn>_ weapons are those that augment a character's physical attacks more than their magical attacks.  Lances, Swords, and Bows count as having the Physical weapon type.
+_<dfn id = "term-physical-weapon">Physical</dfn>_ weapons are those that augment a character's physical attacks more than their magical attacks.  Lances, Swords, and Hammers count as having the Physical weapon type.
 
 |Quality|Bonuses|
 |:-|:-|
@@ -23,7 +23,7 @@ _<dfn id = "term-physical-weapon">Physical</dfn>_ weapons are those that augment
 
 ## Balanced Weapons
 
-_<dfn id = "term-balanced-weapon">Balanced</dfn>_ weapons are those that provide a balance between magical and physical offense.  Guns, Daggers, and Claws count as as having the Balanced weapon type.
+_<dfn id = "term-balanced-weapon">Balanced</dfn>_ weapons are those that provide a balance between magical and physical offense.  Gauntlets, Daggers, and Claws count as as having the Balanced weapon type.
 
 |Quality|Bonuses|
 |:-|:-|
@@ -118,11 +118,11 @@ Mundane weapons cost 10 cr, Rare weapons cost 100 cr, and Expert weapons cost 1,
 
 |Name|Quality|Type|Upgrades|
 |:-|:-|:-|:-|
-|Hunting Bow|Mundane|Bow|Slayer (Animal)|
+|Wulfhammer|Mundane|Hammer|Slayer (Animal)|
 |Dragon's Fan|Mundane|Fan|Elemental (Fire)|
 |Shiv|Mundane|Dagger|Light|
 |Pikeman's Trusty Lance|Rare|Lance|Standard Issue|
-|Cavalier's Rifle|Rare|Gun|Keen (Physical), Sharpened 1|
+|Machinist's Fist|Rare|Gauntlet|Keen (Physical), Sharpened 1|
 |Seelie Court Rapier|Expert|Sword|Primordial|
 |Demon Claws|Expert|Claws|Double-Edged|
 |Headmaster's Staff|Expert|Staff|Cursed (Scanned), Extra Ability (Magic Bolt)|

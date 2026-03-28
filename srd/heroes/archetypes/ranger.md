@@ -1,8 +1,8 @@
 # Ranger
 
 A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
-*  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Light](/srd/economy/equipment/weapons#term-light-armor) [armor](/srd/economy/equipment/armor).
-*  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Bows](/srd/economy/equipment/weapons#term-bow).
+*  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Light](/srd/economy/equipment/armor#term-light-armor) [armor](/srd/economy/equipment/armor).
+*  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Swords](/srd/economy/equipment/weapons#term-sword).
 *  +10 [Health](/srd/heroes/attributes-and-statistics#term-health)
 *  +10 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
 *  +4 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)

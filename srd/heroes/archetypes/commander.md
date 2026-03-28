@@ -2,7 +2,7 @@
 
 The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Heavy](/srd/economy/equipment/armor#term-heavy-armor) [armor](/srd/economy/equipment/armor).
-*  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Swords](/srd/economy/equipment/weapons#term-sword).
+*  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Hammers](/srd/economy/equipment/weapons#term-hammer).
 *  +15 [Health](/srd/heroes/attributes-and-statistics#term-health)
 *  +5 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
 *  +4 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
