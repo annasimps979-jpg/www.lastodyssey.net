@@ -2,7 +2,7 @@
 
 ## <dfn id = "term-random-element-table">Random Element Table</dfn>
 
-When you use an [item](/srd/economy/items), [ability](/srd/key-terms#term-ability), or something else that has a random [elemental](/srd/combat/elemental-types#term-elemental-type) effect, cast the [outcome die](/srd/key-terms#term-outcome-die) and consult the table below to determine the result.  If result is a 10, cast again instead.
+When a [character](/srd/key-terms#term-character) uses an [item](/srd/economy/items), [ability](/srd/key-terms#term-ability), or something else that has a random [elemental](/srd/combat/elemental-types#term-elemental-type) effect, cast the [outcome die](/srd/key-terms#term-outcome-die) and consult the table below to determine the result.  If result is a 10, cast again instead.
 
 |Result|Element|
 |:-|:-|
@@ -19,7 +19,7 @@ When you use an [item](/srd/economy/items), [ability](/srd/key-terms#term-abilit
 
 ## <dfn id = "term-random-statistic-table">Random Statistic Table</dfn>
 
-When you use an item, ability, or something else that affects a random [statistic](/srd/heroes/attributes-and-statistics#term-statistic), cast the outcome die and consult the table below to determine the result.  If the result is a 10, cast again instead.
+When a character uses an item, ability, or something else that affects a random [statistic](/srd/heroes/attributes-and-statistics#term-statistic), cast the outcome die and consult the table below to determine the result.  If the result is a 10, cast again instead.
 
 |Result|Statistic|
 |:-|:-|

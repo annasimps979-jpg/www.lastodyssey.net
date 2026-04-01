@@ -6,61 +6,61 @@ The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/cre
 *  +10 [Health](/srd/heroes/attributes-and-statistics#term-health)
 *  +10 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
 *  +4 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), your [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) affect [Evasion](/srd/heroes/attributes-and-statistics#term-evasion).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), your [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities affect [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy).
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) affect [Evasion](/srd/heroes/attributes-and-statistics#term-evasion).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities affect [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy).
 
 ## Advancements by Tier
 
 **Tier 1:** Ability.
 
-|Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
+|Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Copycat|[Special](/srd/combat/attacking-and-defending#term-special-ability)|10 [MP](/srd/heroes/attributes-and-statistics), 1 [AP](/srd/combat/round#term-ap)|You may immediately use one of the abilities that one of your allies used between the end of your last [turn](/srd/combat/round#term-turn) and the beginning of your current turn, counting [held turns](/srd/combat/round#term-hold-ap).|
+|Copycat|[Special](/srd/combat/attacks#term-special-ability)|10 [MP](/srd/heroes/attributes-and-statistics), 1 [AP](/srd/combat/round#term-ap)|The Dancer uses one of the abilities that one of their allies used between the end of the Dancer's last [turn](/srd/combat/round#term-turn) and the beginning of their current turn, counting [held turns](/srd/combat/round#term-hold-ap).|
 
-**Tier 2:** You gain +1 Evasion.
+**Tier 2:** The Dancer gains +1 Evasion.
 
 **Tier 3:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Dancer's Mask|[Passive](/srd/combat/attacking-and-defending#term-passive)|N/A|Whenever you use an ability that has an [elemental type](/srd/combat/elemental-types#term-elemental-type), you may obtain the Masked [status](/srd/combat/statuses), which means you now count as having [HP](/srd/heroes/attributes-and-statistics) and [Shell](/srd/combat/shells) of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status from you.|
+|Dancer's Mask|[Passive](/srd/combat/attacks#term-passive)|N/A|Whenever the Dancer uses an ability that has an [elemental type](/srd/combat/elemental-types#term-elemental-type), they may obtain the Masked [status](/srd/combat/statuses), which means they now count as having [HP](/srd/heroes/attributes-and-statistics) and [Shell](/srd/combat/shells) of that elemental type for the purpose of calculating received damage.  While the Dancer is Masked, they may use the Unmask ability, which costs 1 AP and removes the Masked status from themselves.|
 
-**Tier 4:** You gain +1 Evasion.
+**Tier 4:** The Dancer gains +1 Evasion.
 
 **Tier 5:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Mimic|Special|20 MP, 1 AP|You may use one of the abilities that any of your enemies have used between the end of your last turn and the beginning of your current turn, counting held turns.|
+|Mimic|Special|20 MP, 1 AP|The Dancer uses one of the abilities that any of their enemies have used between the end of the Dancer's last turn and the beginning of their current turn, counting held turns.|
 
-**Tier 6:** You gain +1 Evasion.
+**Tier 6:** The Dancer gains +1 Evasion.
 
 **Tier 7:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Costume Change|[Self](/srd/combat/attacking-and-defending#term-self-ability)|2 AP|You may change your elemental type to an elemental type of your choosing as though you had just used Dancer's Mask.|
+|Costume Change|[Self](/srd/combat/attacks#term-self-ability)|2 AP|The Dancer may change their elemental type to an elemental type of their choosing.  While they have this new elemental type, it counts as [innate](/srd/heroes/creation#term-innate-elemental-type), and they have the Masked status.|
 
-**Tier 8:** You gain +1 Evasion.
+**Tier 8:** The Dancer gains +1 Evasion.
 
-**Tier 9:** You gain +1 Evasion.
+**Tier 9:** The Dancer gains +1 Evasion.
 
 **Capstone:** Ability.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Tango|Special|1 Anima, 2 AP|Immediately use all of the abilities that your enemies have used between the end of its last turn and the beginning of its current turn.  You may choose the targets of all of these abilities at will.|
+|Tango|Special|1 Anima, 2 AP|The eidolon uses all of the abilities that their enemies have used between the end of its last turn and the beginning of its current turn.  The eidolon may choose the targets of all of these abilities at will.|
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your [colorless](/srd/combat/elemental-types#term-colorless) [physical attacks](/srd/combat/attacking-and-defending#term-physical-attack) into your current elemental type due to Masked.
+**[Striker](/srd/heroes/roles/striker):** Athletic Outfit.  The Dancer's Mask ability also makes the elemental type of all of their [colorless](/srd/combat/elemental-types#term-colorless) [physical attacks](/srd/combat/attacks#term-physical-attack) into their current elemental type due to Masked.
 
-**[Caster](/srd/heroes/roles/caster):** School Uniform.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless [magical attacks](/srd/combat/attacking-and-defending#term-magical-attack) into your current elemental type due to Masked.
+**[Caster](/srd/heroes/roles/caster):** School Uniform.  The Dancer's Mask ability also makes the elemental type of all of their colorless [magical attacks](/srd/combat/attacks#term-magical-attack) into their current elemental type due to Masked.
 
-**[Healer](/srd/heroes/roles/healer):** Regal Clothing.  If you use a healing ability due to Mimic or Copycat, you may use it twice instead of once.
+**[Healer](/srd/heroes/roles/healer):** Regal Clothing.  If the Dancer uses a healing ability due to Mimic or Copycat, they may use it twice instead of once.
 
-**[Defender](/srd/heroes/roles/defender):** Outdoor Wear.  While you are Masked, you are immune to the effects of physical attacks, magical attacks, and [status-inflicting abilities](/srd/combat/attacking-and-defending#term-status-inflicting-ability) of your current elemental type.
+**[Defender](/srd/heroes/roles/defender):** Outdoor Wear.  While the Dancer is Masked, they are immune to the effects of physical attacks, magical attacks, and [status-inflicting abilities](/srd/combat/attacks#term-status-inflicting-ability) of their current elemental type.
 
-**Support:** Casual Dress.  When Masked, your Shell-applying abilities have their elemental type changed to your current elemental type.
+**Support:** Casual Dress.  When Masked, the Dancer's Shell-applying abilities have their elemental type changed to the Dancer's current elemental type.
 
-**Saboteur:** Covert Jumpsuit.  While you are Masked, your status-inflicting abilities have their elemental type changed to your current elemental type.
+**Saboteur:** Covert Jumpsuit.  While the Dancer is Masked, their status-inflicting abilities have their elemental type changed to the Dancer's current elemental type.

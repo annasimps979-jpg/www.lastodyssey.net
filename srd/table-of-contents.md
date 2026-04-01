@@ -60,7 +60,7 @@
 - [**Combat**](/srd/combat)
   - [Starting Battles](/srd/combat/starting)
   - [The Combat Round](/srd/combat/round)
-  - [Attacking and Defending](/srd/combat/attacking-and-defending)
+  - [Attacks](/srd/combat/attacks)
   - [Elemental Types](/srd/combat/elemental-types)
   - [Shells](/srd/combat/shells)
   - [Buffs and Debuffs](/srd/combat/buffs-and-debuffs)

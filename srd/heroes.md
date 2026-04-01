@@ -2,7 +2,7 @@
 
 *That would be you.*
 
-In Last Odyssey, each [player](/srd) plays one of the protagonists of the story.  These [characters](/srd/key-terms#term-character) are special, and are known as [Heroes](/srd/key-terms#term-hero).  Heroes are like JRPG protagonists, with strong personalities and detailed mechanics for how they function in combat.  The following section lays out what precisely defines a Hero within Last Odyssey, and how to create them for your campaign.
+In Last Odyssey, each [player](/srd) plays one of the protagonists of the story.  These [characters](/srd/key-terms#term-character) are special, and are known as [Heroes](/srd/key-terms#term-hero).  Heroes are like JRPG protagonists, with strong personalities and detailed mechanics for how they function in combat.  The following section lays out what precisely defines a Hero within Last Odyssey, and how to create them for a campaign.
 
 - How They Are Made
     - [Hero Creation:](/srd/heroes/creation) An overview of the elements of character building.
@@ -14,5 +14,5 @@ In Last Odyssey, each [player](/srd) plays one of the protagonists of the story.
     - [Eidolons:](/srd/heroes/eidolons) The expressions of a character's Anima made manifest.
     - [Hero Advancement:](/srd/heroes/advancement) How Heroes grow stronger.
 - Keeping the Record
-    - [Character Sheet:](/srd/heroes/last-odyssey-fillable-character-sheet.pdf) A record of all of the relevant numbers, names, and objects that your Hero carries with them.
-    - [Sample Characters:](/srd/heroes/examples) Ready-made Heroes for your campaign.
+    - [Character Sheet:](/srd/heroes/last-odyssey-fillable-character-sheet.pdf) A record of all of the relevant numbers, names, and objects that a Hero carries with them.
+    - [Sample Characters:](/srd/heroes/examples) Ready-made Heroes for any campaign.

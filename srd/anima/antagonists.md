@@ -14,4 +14,4 @@ Some of the enemies that the [players](/srd/key-terms#term-player) face are more
     - [Monsters:](/srd/anima/antagonists/monsters) Antagonists that occupy a space in the overworld called their [Domain](/srd/anima/antagonists/monsters#term-domain) and seek to gather Anima in order to expand it.
     - [Villains:](/srd/anima/antagonists/villains) Antagonists that accumulate Anima for the purpose of doggedly pursuing a single [Ambition](/srd/anima/antagonists/villains#term-ambition).
 - At Large
-    - [Examples:](/srd/anima/antagonists/examples) Ready-made combat and story information for Antagonists to include in your [campaign](/srd/key-terms#term-campaign).
+    - [Examples:](/srd/anima/antagonists/examples) Ready-made combat and story information for Antagonists to include in [campaigns](/srd/key-terms#term-campaign).

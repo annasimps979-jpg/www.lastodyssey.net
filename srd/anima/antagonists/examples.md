@@ -24,12 +24,12 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Leg Stab|[Melee](/srd/combat/attacking-and-defending#term-melee)|1 [AP](/srd/combat/round#term-ap)|Makes a [basic](/srd/combat/round#term-basic-attack) [physical attack](/srd/combat/attacking-and-defending#term-physical-attack).|
-|Magic Spear|[Ranged](/srd/combat/attacking-and-defending#term-ranged)|1 AP, 3 [MP](/srd/heroes/attributes-and-statistics#term-mp)|Makes a magical attack that inflicts [colorless](/srd/combat/elemental-types#term-colorless) magical damage on a  hit.|
-|Bind|Ranged|1 AP, 7 MP|Uses a [status-inflicting ability](/srd/combat/attacking-and-defending#term-status-inflicting-ability) that inflicts Petrify on a hit.|
-|Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the [Petrified](/srd/combat/statuses#term-petrified) [status](/srd/combat/statuses), the Webmaster deals magical [earth](/srd/combat/elemental-types#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to cast the [hit die](/srd/combat/attacking-and-defending#term-hit-die).|
-|Antimagic Field|[Special](/srd/combat/attacking-and-defending#term-special-ability)|Variable|The Webmaster can use the [Sage's](/srd/heroes/archetypes/sage) Counterspell ability.|
-|Eggs|[Passive](/srd/combat/attacking-and-defending#term-passive)|N/A|The Webmaster begins the [battle](/srd/key-terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
+|Leg Stab|[Melee](/srd/combat/attacks#term-melee)|1 [AP](/srd/combat/round#term-ap)|The Webmaster makes a [basic](/srd/combat/round#term-basic-attack) [physical attack](/srd/combat/attacks#term-physical-attack).|
+|Magic Spear|[Ranged](/srd/combat/attacks#term-ranged)|1 AP, 3 [MP](/srd/heroes/attributes-and-statistics#term-mp)|The Webmaster makes a magical attack that inflicts [colorless](/srd/combat/elemental-types#term-colorless) magical damage on a  hit.|
+|Bind|Ranged|1 AP, 7 MP|The Webmaster uses a [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability) that inflicts Petrify on a hit.|
+|Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the [Petrified](/srd/combat/statuses#term-petrified) [status](/srd/combat/statuses), the Webmaster deals magical [earth](/srd/combat/elemental-types#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to cast the [hit die](/srd/combat/attacks#term-hit-die).|
+|Antimagic Field|[Special](/srd/combat/attacks#term-special-ability)|Variable|The Webmaster can use the [Sage's](/srd/heroes/archetypes/sage) Counterspell ability.|
+|Eggs|[Passive](/srd/combat/attacks#term-passive)|N/A|The Webmaster begins the [battle](/srd/key-terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
 |Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 HP and no defenses.  If the Egg is still present during the next [Effect Phase](/srd/combat/round#term-effect-phase), it hatches into a Spiderling enemy that joins the Initative order during the next [combat round](/srd/combat/round).|
 |Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to [Move](/srd/combat/round#term-move) instead of 1.  The Ranger's Forest Walk counteracts this effect.|
 
@@ -49,11 +49,11 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Dry Bite|Melee|1 AP|Makes a basic physical attack.|
+|Dry Bite|Melee|1 AP|The Tarantula makes a basic physical attack.|
 |Pounce|Ranged|1 AP, 5 MP|The Tarantula makes a physical attack that deals colorless physical damage on a hit.|
 |Poison Bite|Melee|1 AP, 5 MP|The Tarantula makes a physical attack that deals colorless physical damage on a hit and applies the Toxin status.|
-|Harden|[Self](/srd/combat/attacking-and-defending#term-self-ability)|1 AP, 5 MP|The Tarantula [buffs](/srd/combat/buffs-and-debuffs#term-buff) its Physical Defense by 1 step on the Bonus Tracker.|
-|Frenzy|Self|1 AP|Applies the Focused status to the Tarantula.|
+|Harden|[Self](/srd/combat/attacks#term-self-ability)|1 AP, 5 MP|The Tarantula [buffs](/srd/combat/buffs-and-debuffs#term-buff) its Physical Defense by 1 step on the Bonus Tracker.|
+|Frenzy|Self|1 AP|The Tarantula gains the [Focused](/srd/heroes/archetypes/knight) status.|
 |Hunter's Frenzy|Passive|N/A|The Tarantula can still use any abilities that count as physical attacks when it is Focused.|
 |Spines|Passive|N/A|When the Tarantula is hit by a physical attack, the Tarantula will counterattack them with a free status-inflicting ability that deals [Poisoned](/srd/combat/statuses#term-poisoned) on a hit.|
 
@@ -81,12 +81,12 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Greatsword|Melee|1 AP|Makes a basic physical attack.|
-|Cleave|[Multi](/srd/combat/attacking-and-defending#term-multi)|1 AP, 7 MP|Makes a physical attack against all of the War Leader's enemies in the [front row](/srd/combat/starting#term-front-row) that does colorless physical damage on a hit.|
+|Greatsword|Melee|1 AP|The War Leader makes a basic physical attack.|
+|Cleave|[Multi](/srd/combat/attacks#term-multi)|1 AP, 7 MP|The War Leader makes a physical attack against all of their enemies in the [front row](/srd/combat/starting#term-front-row) that does colorless physical damage on a hit.|
 |Challenge|Ranged|1 AP|Confers the Taunted status on one of the War Leader's enemies.|
 |Battle Prayer|Ally|1 AP, 9 MP|Bestows the Protected (Colorless) status on the War Leader or one of their allies.|
 |Inspire|Multi|1 AP, 10 MP|Increases the Physical Attack of the War Leader and all of their allies by one step on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).|
-|Command|Ally|1 AP|This ability works the same as the Commander's Orders ability.  The War Leader can use it once per battle.|
+|Command|Ally|1 AP|This ability works the same as the [Commander's](/srd/heroes/archetypes/commander) Orders ability.  The War Leader can use it once per battle.|
 |Lead By Example|Passive|N/A|While the War Leader is on the battlefield, any allies will share all of its buffs and [debuffs](/srd/combat/buffs-and-debuffs#term-debuff) on the Bonus Tracker.|
 |Dragonslayer|[Paradigm Action](/srd/anima/antagonists/paradigm#term-paradigm-action)|1 [Anima](/srd/anima#term-anima)|The War Leader makes a physical attack that deals 4x physical colorless damage on a hit against enemies with full HP.  If an enemy is not at full HP, the attack deals 2x damage instead.|
 
@@ -107,9 +107,9 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Gore|Melee|1 AP|Makes a basic physical attack.|
-|Growth Surge|Multi|1 AP, 12 MP|Makes a physical attack against all of the Leshen's enemies that does physical wood damage on a hit.|
-|Shrug Off Fatigue|Self|1 AP, 8 MP|Removes all debuffs from the Leshen.|
-|Mend the Flesh|Self|1 AP, 11 MP|Restores 20 HP to the Leshen.|
+|Growth Surge|Multi|1 AP, 12 MP|The Leshen makes a physical attack against all of their enemies on the field that does physical wood damage on a hit.|
+|Shrug Off Fatigue|Self|1 AP, 8 MP|The Leshen removes all debuffs from itself.|
+|Mend the Flesh|Self|1 AP, 11 MP|The Leshen restores 20 HP to itself.|
 |Easily Provoked|Passive|N/A|When the Leshen is Taunted, it also becomes Focused.|
 |Unnatural Resilience|Passive|N/A|The Leshen counts as having 2x resistance to all status-inflicting abilities.|
 |Comeback|Paradigm Action|1 Anima|Raises the Leshen's Physical Attack buff to +7 regardless of its current value.|
@@ -130,16 +130,16 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Sword Arm|Melee|1 AP|Makes a basic physical attack.|
-|Icy Lance|Ranged|1 AP, 8 MP|Makes a physical attack against a single enemy that deals physical Ice damage on a hit.|
-|Frost Blast|Ranged|1 AP, 7 MP|Makes a [magical attack](/srd/combat/attacking-and-defending#term-magical-attack) against a single target that deals magical ice damage that is multiplied by 2 in addition to other modifiers.|
-|Chill|Ranged|1 AP, 7 MP|Uses a status-inflicting ability against a single target that inflicts the [Frostbitten](/srd/combat/statuses#term-frostbitten) status on a hit.|
-|Cold Snap|Multi|1 AP, 28 MP|Inflicts the Slow status on all of the Revenant's enemies.|
-|Exposure|Ranged|1 AP, 8 MP|Inflicts the Vulnerable (Ice) status on a single one of the Revenant's enemies.|
+|Sword Arm|Melee|1 AP|The Revenant makes a basic physical attack.|
+|Icy Lance|Ranged|1 AP, 8 MP|The Revenant makes a physical attack against a single enemy that deals physical Ice damage on a hit.|
+|Frost Blast|Ranged|1 AP, 7 MP|The Revenant makes a [magical attack](/srd/combat/attacks#term-magical-attack) against a single target that deals magical ice damage that is multiplied by 2 in addition to other modifiers.|
+|Chill|Ranged|1 AP, 7 MP|The Revenant uses a status-inflicting ability against a single target that inflicts the [Frostbitten](/srd/combat/statuses#term-frostbitten) status on a hit.|
+|Cold Snap|Multi|1 AP, 28 MP| The Revenant inflicts the Slow status on all of their enemies.|
+|Exposure|Ranged|1 AP, 8 MP|The Revnant inflicts the Vulnerable (Ice) status on a single target.|
 |Back From the Dead|Passive|N/A|The Revenant is immune to Ice damage and the Frostbitten status.|
 |Empty Husk|Passive|N/A|The Revenant cannot have its MP drained from any source.|
 |Single-Minded|Passive|N/A|The Revenant is immune to being Taunted.|
-|Apocalypse|Paradigm Action|1 Anima|Makes a magical attack against all of the Leshen's enemies that deals magical ice damage that is multiplied by 3 in addition to other modifiers.|
+|Apocalypse|Paradigm Action|1 Anima|The Revnant makes a magical attack against all of its enemies that deals magical ice damage that is multiplied by 3 in addition to other modifiers.|
 
 ## Doctor Strazio
 **Domain:** Forbidden Laboratory.  
@@ -162,15 +162,15 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Scalpel|Melee|1 AP|Makes a basic physical attack.|
-|Soulrend|Special|1 AP, 10 MP|Makes a magical attack against a single enemy that does magical wind damage on a hit.  If this attack breaks the target's Shell, the Doctor can use this ability again immediately on another enemy without needing to spend additional AP and MP.|
-|Treatment|Multi|1 AP, 18 MP|Removes all statuses and debuffs from the Doctor and all of their allies.|
+|Scalpel|Melee|1 AP|The Doctor makes a basic physical attack.|
+|Soulrend|Special|1 AP, 10 MP|The Doctor makes a magical attack against a single enemy that does magical wind damage on a hit.  If this attack breaks the target's Shell, the Doctor can use this ability again immediately on another enemy without needing to spend additional AP and MP.|
+|Treatment|Multi|1 AP, 18 MP|The Doctor removes all statuses and debuffs from themselves and all of their allies.|
 |Recharge|Ally|1 AP, 5 MP|Restores 30 MP to a single one of the Doctor's allies.  The Doctor cannot use this ability on themselves.|
-|Time Dilation|Multi|1 AP, 25 MP|Hastes the Doctor and all of its allies.|
+|Time Dilation|Multi|1 AP, 25 MP|The Doctor uses [Haste](/srd/heroes/jobs/support) on itself and all of its allies.|
 |Sadist|Passive|N/A|Whenever the Doctor inflicts damage on an enemy, they also regain an amount of MP equal to the amount of damage they dealt.|
 |Prepared|Passive|N/A|The Doctor has one of each [elemental type](/srd/combat/elemental-types#term-elemental-type) of Rare Elemental Damage item in its inventory.|
 |Target Acquired|Paradigm Action|1 Anima|All of the Doctor's enemies on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
-|Second Chance|Paradigm Action|1 Anima|Heals and revives all of the Doctor's Allies to full HP and removes all of their current statuses and debuffs.|
+|Second Chance|Paradigm Action|1 Anima|The Doctor heals and revives all of their allies to full HP and removes all of their current statuses and debuffs.|
 
 ### Form 2: Torture Rack (Monster 7, Construct, Thunder)
 
@@ -188,17 +188,17 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Buzzsaw|Melee|1 AP|Makes a basic physical attack.|
-|Electroshock|Melee|1 AP, 3 MP|Makes a physical attack against a single enemy that deals physical thunder damage on a hit.|
-|EM Field|Multi|1 AP, 10 MP|Makes a physical attack against every enemy in the front row that deals physical thunder damage on a hit.|
-|Death Laser|Ranged|1 AP, 8 MP|Makes a physical attack against a single enemy that deals physical thunder damage on a hit.|
+|Buzzsaw|Melee|1 AP|The Torture Rack makes a basic physical attack.|
+|Electroshock|Melee|1 AP, 3 MP|The Torture Rack makes a physical attack against a single enemy that deals physical thunder damage on a hit.|
+|EM Field|Multi|1 AP, 10 MP|The Torture Rack makes a physical attack against every enemy in the front row that deals physical thunder damage on a hit.|
+|Death Laser|Ranged|1 AP, 8 MP|The Torture Rack makes a physical attack against a single enemy that deals physical thunder damage on a hit.|
 |Soulkill|Ranged|1 AP, 5 MP|The Torture Rack makes a physical attack that, on a hit, deals colorless physical damage to the target's MP instead of its HP or Shell.|
 |Administer Sedative|Ranged|1 AP, 7 MP|The Torture Rack uses a status-inflicting ability that inflicts [Paralyzed](/srd/combat/statuses#term-paralyzed) on a hit.|
 |Experiment|Ranged|1 AP, 7 MP|The Torture Rack uses a status-inflicting ability that inflicts a random status on a hit determined by the [Random Element Table](/srd/combat/random-tables#term-random-element-table).|
-|Deep Cuts|Passive|N/A|If the result on the hit die is a 1 when making a physical attack against one of its enemies, the target will also receive 1 random [injury](/srd/combat/death-and-injury#term-injury).|
+|Deep Cuts|Passive|N/A|If the result on the hit die is a 1 when the Torture Rack makes a physical attack against one of its enemies, the target will also receive 1 random [injury](/srd/combat/death-and-injury#term-injury).|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all debuffs.|
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target that are determined by the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table).|
-|Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](/srd/key-terms#term-gm) casts the [outcome die](/srd/key-terms#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/attributes-and-statistics#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
+|Assassinate|Paradigm Action|1 Anima|The Torture Rack designates an enemy, and the [GM](/srd/key-terms#term-gm) casts the [outcome die](/srd/key-terms#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/attributes-and-statistics#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
 
 ### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
 
@@ -216,11 +216,11 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Cannon|Melee|1 AP|Makes a basic physical attack.|
-|Crush|Melee|1 AP, 5 MP|Makes a physical attack against a single target that deals physical colorless damage on a hit that is multiplied by 2 in addition to other modifiers.|
-|Bake|Multi|1 AP, 15 MP|Makes a physical attack against all of the Infernal Engine's enemies that deals physical fire damage on a hit.|
-|Shield|Self|1 AP, 7 MP|Inflicts the Shielded status on the Infernal Engine.  The next time a physical attack hits it, the damage is negated.|
-|Enrage|Ranged|1 AP, 10 MP|Uses a status-inflicting ability that inflicts the Focused status on a single enemy on a hit.  This ability counts as colorless.|
+|Cannon|Melee|1 AP|The Infernal Engine makes a basic physical attack.|
+|Crush|Melee|1 AP, 5 MP|The Infernal Engine makes a physical attack against a single target that deals physical colorless damage on a hit that is multiplied by 2 in addition to other modifiers.|
+|Bake|Multi|1 AP, 15 MP|The Infernal Engine makes a physical attack against all of its enemies that deals fire damage on a hit.|
+|Shield|Self|1 AP, 7 MP|The Infernal Engine inflicts the [Shielded](/srd/heroes/jobs/defender).  The next time a physical attack hits it, the damage is negated.|
+|Enrage|Ranged|1 AP, 10 MP|The Infernal Engine uses a status-inflicting ability that inflicts the Focused status on a single enemy on a hit.  This ability counts as colorless.|
 |Reflect|Self|1 AP, 12 MP|Inflicts the Reflected status on the Infernal Engine.  The next time it is hit with a magical attack, the attack is bounced back at the user instead.|
 |Ingenius Design|Passive|N/A|The Infernal Engine has no elemental weaknesses, only resistances.|
 |Soul-Powered Construct|Passive|N/A|If the Infernal Engine runs out of MP, it instantly dies.|
@@ -251,9 +251,9 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Caress|Melee|1 AP|Makes a basic physical attack.|
-|Spotlight|Ranged|1 AP, 9 MP|Makes a magical attack against a single enemy that deals magical light damage on a hit that is multiplied by 2 in addition to other modifiers.|
-|Searing Ray|Multi|1 AP, 15 MP|Makes a magical attack against every enemy on the battlefield that deals magical light damage on a hit.|
+|Caress|Melee|1 AP|The Savior makes a basic physical attack.|
+|Spotlight|Ranged|1 AP, 9 MP|The Savior makes a magical attack against a single enemy that deals magical light damage on a hit that is multiplied by 2 in addition to other modifiers.|
+|Searing Ray|Multi|1 AP, 15 MP|The Savior makes a magical attack against every enemy on the battlefield that deals magical light damage on a hit.|
 |Knowledge is Power|Self|1 AP, 16 MP|The Savior buffs its Magical Defense by three steps on the Bonus Tracker.|
 |Power is Everything|Self|1 AP, 7 MP|The Savior restores 26 points of its Shell.|
 |Cure|Ally|1 AP, 12 MP|The Savior removes all statuses from a single target.  If it is advantageous, the Savior will also cast this on its enemies.|
@@ -280,10 +280,10 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Tentacle|Ranged|1 AP|Makes a basic physical attack against a single target that can force it to Move on a hit for free.|
-|Assault|Multi|1 AP, 15 MP|Makes a physical attack against all of the Unveiled's enemies that deals physical damage of its current elemental type on a hit.|
-|Degrade|Multi|1 AP, 19 MP|Inflicts the Vulnerable status on all of the Unveiled's enemies that corresponds to its current elemental type.|
-|Humiliate|Multi|1 AP, 18 MP|Uses a status-inflicting ability against all of the Unveiled's enemies that inflicts the status associated with its current elemental type on a hit.|
+|Tentacle|Ranged|1 AP|The Unveiledakes a basic physical attack against a single target that can force it to Move on a hit for free.|
+|Assault|Multi|1 AP, 15 MP|The Unveiled makes a physical attack against all of the Unveiled's enemies that deals physical damage of its current elemental type on a hit.|
+|Degrade|Multi|1 AP, 19 MP|The Unveiled inflicts a form of the Vulnerable status on all of its enemies enemies that corresponds to its current elemental type.|
+|Humiliate|Multi|1 AP, 18 MP|The Unveiled uses a status-inflicting ability against all of its enemies that inflicts the status associated with its current elemental type on a hit.|
 |Temporal Distortion|Multi|1 AP, 28 MP|Slows all of the Unveiled's enemies.|
 |The Void Stares Back|Special|1 AP, 20 MP|Uses any of the abilities that the Unveiled's enemies used between the end of its last [turn](/srd/combat/round#term-turn) and the beginning of its current turn.|
 |Push Through the Cracks|Ranged|1 AP, 30 MP|The Unveiled targets a single one of its enemies.  Said enemy cannot act and cannot be acted upon until the beginning of the Unveiled's next turn.|

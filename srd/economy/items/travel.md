@@ -22,8 +22,8 @@ _<dfn id = "term-scroll">Scrolls</dfn>_ are single-use items that allow Heroes t
 |Name|Cost|Description|
 |:-|:-|:-|
 |Stormbreaker|250 cr|This Scroll can only be used during a [Storm](/srd/exploration/weather/storms#term-storm).  When determining the day's weather, the [GM](/srd/key-terms#term-gm) must recast the die until the result is something other than a Storm.|
-|Divine Weather|100 cr|Activating this Scroll allows you to automatically succeed at the [Divine](/srd/exploration/travel/round#term-divine-action) action.|
-|Scrying|500 cr|Activating this Scroll allows you to automatically succeed at the [Scout](/srd/exploration/travel/round#term-scout-action) action.  It can also let you sense danger in the nearby vicinity when not traveling.|
+|Divine Weather|100 cr|Activating this Scroll allows the user to automatically succeed at the [Divine](/srd/exploration/travel/round#term-divine-action) action.|
+|Scrying|500 cr|Activating this Scroll allows the user to automatically succeed at the [Scout](/srd/exploration/travel/round#term-scout-action) action.  It can also let them sense danger in the nearby vicinity when not traveling.|
 |Clear Weather|100 cr|If the weather is not a Storm, the next day's weather will be [Sunny](/srd/exploration/weather/effects#term-sunny).  This Scroll cannot be used during a Storm.|
 |Shadow|1000 cr|If used during travel, the following day's [danger rating](/srd/exploration/nodes-and-paths#term-danger-rating) is reduced by 4.  If used outside of travel, this will obscure the Heroes for 1d4 hours or until they do something that would reveal their presence.|
 |Forest Walk|1200 cr|This will let Heroes bypass a [natural hazard](/srd/exploration/hazards-and-encounters#term-natural-hazard) without making use of Supplies or a [skill challenge](/srd/discovery/skill-challenges).  It can also be used during the Camping Phase to reduce the navigation difficulty for the following day by 6.  Outside of travel, it can also temporarily clear paths of any naturally occurring difficult terrain, such as thick underbrush or muddy ground.|

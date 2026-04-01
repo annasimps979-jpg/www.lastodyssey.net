@@ -8,7 +8,7 @@ In Last Odyssey, the [party](/srd/key-terms#term-party) will have to rely on goo
     - [Currency:](/srd/economy/currency) The basic unit of exchange for all goods and services, and how players can acquire it.
     - [Merchants:](/srd/economy/merchants) Item vendors and how to create them.
 - Inventory
-    - [Inventory:](/srd/economy/inventory) What you can carry, and how much.
+    - [Inventory:](/srd/economy/inventory) What can be carried, and how much.
     - [Equipment:](/srd/economy/equipment) Weapons, armor, and accessories.
     - [Items:](/srd/economy/items) Battle items, travel items, and miscellaneous carried objects.
 - Hirelings

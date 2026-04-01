@@ -21,8 +21,14 @@
 *  An _<dfn id="term-action">action</dfn>_ is a single, discrete thing that a character does during play.  Depending on what phase of gameplay you are in, characters are allowed to take different actions.
 *  _<dfn id="term-ability" title="ability">Abilities</dfn>_ are discrete actions that characters can take during combat that supplement the actions that all characters can take.
 
+## Base Numbers
+
 Throughout these rules you will sometimes see numbers such as damage or statistics as well as properties such as a character's elemental type be referred to as _<dfn id="term-base">base</dfn>_ numbers.  A number that is _base_ has not been modified by any situation-specific bonuses or penalties.  For example, the base damage of an attack is the damage that it would do to its target if there were no elemental or type modifiers involved, while the base [Evasion](/srd/heroes/attributes-and-statistics#term-evasion) of a character is what their Evasion is without any applied buffs, debuffs, status effects, or other situational modifiers.  See the [Combat Rules](/srd/combat) for more details.
 
+## Dice Nomenclature
+
 Many elements of Last Odyssey require its participants to cast polyhedral dice.  This book uses a shorthand common in FRP to refer to which die or dice ought to be cast.  A group of dice is represented by the number of dice cast, and then the letter "d," and then the number of sides that each die has.  For example, "2d6" means "two six-sided dice," "1d20" means "one twenty-sided die," and so on.  To "cast 3d4," then, is to pick up and cast three four-sided dice.  The most important dice in Last Odyssey are the d10, the d6, and the d4, although each type is used at one point or another.  There is one exception to this, however.  At times, you may be asked to roll <dfn id = "term-d100">1d100.</dfn>  As there is no viable 100-sided die, to do this you must roll 2d10.  One of these dice will count as the number in the 10s place, and the other in the 1s place.  For example, a result of an "8" and a "9" means a number of 89.  A 10 counts as a zero in the corresponding place, except when you have rolled two 10s, in which case you have rolled 100.
+
+## The Outcome Die
 
 During gameplay, the outcome of something a character does will often be uncertain.  When this is the case, the person playing that character casts a 1d10 called the _<dfn id = "term-outcome-die">outcome die</dfn>,_ which will then determine the outcome of their actions depending on the context in which it is cast.  There are many different contexts in which the outcome die is cast, but it is always a 1d10.

@@ -14,18 +14,18 @@ An eidolon's combat abilities do not cost [MP](/srd/heroes/attributes-and-statis
 *  An eidolon's _[Health](/srd/heroes/attributes-and-statistics#term-health)_ is their summoner's (Body + [Spirit](/srd/heroes/attributes-and-statistics#term-spirit) + [Tier](/srd/heroes/creation#term-tier))x5.
 *  An eidolon's _Physical Attack_ is their summoner's (Body) + (Tier) + (Archetype Bonus).
 *  An eidolon's _Magical Attack_ is their summoner's (Mind) + (Tier) + (Archetype Bonus).
-*  An eidolon's _[Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense)_ is their character's (Body) + (Tier) + (Archetype Bonus).
-*  An eidolon's _[Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense)_ is their character's (Spirit) + (Tier) + (Archetype Bonus).
+*  An eidolon's _[Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense)_ is their summoner's (Body) + (Tier) + (Archetype Bonus).
+*  An eidolon's _[Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense)_ is their summoner's (Spirit) + (Tier) + (Archetype Bonus).
 *  An eidolon's _[Evasion](/srd/heroes/attributes-and-statistics#term-evasion)_ is their summoner's (Mind) + (Tier) + (Archetype Bonus).
 *  An eidolon's _[Resistance](/srd/heroes/attributes-and-statistics#term-resistance)_ is their summoner's (Spirit) + (Tier) + (Archetype Bonus).
 *  An eidolon's _[Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy), [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy),_ and _[Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy)_ are their summoner's (Mind) + (Body) + (Spirit).
 
 As Heroes advance in tier, they will unlock unique capstone abilities that only their eidolons can use.  In addition, a Hero's eidolon may also use two basic abilities and two abilities determined by its archetype.  All eidolons have the following abilities:
 
-|Name|[Type](/srd/combat/attacking-and-defending#term-ability-type)|Cost|Description|
+|Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Attack|[Melee](/srd/combat/attacking-and-defending#term-melee)|1 AP|Make a [colorless](/srd/combat/elemental-types#term-colorless) [physical attack](/srd/combat/attacking-and-defending#term-physical-attack) against a single target.|
-|Full Restore|[Self](/srd/combat/attacking-and-defending#term-self-ability)|1 Anima, 1 AP|The eidolon removes all statuses from itself and immediately restores itself to full HP.|
+|Attack|[Melee](/srd/combat/attacks#term-melee)|1 AP|The eidolon makes a [colorless](/srd/combat/elemental-types#term-colorless) [physical attack](/srd/combat/attacks#term-physical-attack) against a single target.|
+|Full Restore|[Self](/srd/combat/attacks#term-self-ability)|1 Anima, 1 AP|The eidolon removes all statuses from itself and immediately restores itself to full HP.|
 
 ## Abilities by Archetype
 
@@ -33,22 +33,22 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Cleave|[Multi](/srd/combat/attacking-and-defending#term-multi)|1 AP|Make a colorless physical attack against all enemies in the [front row](/srd/combat/starting#term-front-row).|
-|Elemental Strike|Melee|1 AP|Make a physical attack against a single enemy whose elemental type is the same as the user's elemental type.|
+|Cleave|[Multi](/srd/combat/attacks#term-multi)|1 AP|The eidolon makes a colorless physical attack against all enemies in the [front row](/srd/combat/starting#term-front-row).|
+|Elemental Strike|Melee|1 AP|The eidolon makes a physical attack against a single enemy whose elemental type is the same as the user's elemental type.|
 
 **Caster:**
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Magic Blast|[Ranged](/srd/combat/attacking-and-defending#term-ranged)|1 AP|Make a colorless [magical attack](/srd/combat/attacking-and-defending#term-magical-attack) against a single enemy.|
-|Elemental Blast|Ranged|1 AP|Makes a magical attack whose elemental type is the same as the user's elemental type against a single enemy.|
+|Magic Blast|[Ranged](/srd/combat/attacks#term-ranged)|1 AP|The eidolon makes a colorless [magical attack](/srd/combat/attacks#term-magical-attack) against a single enemy.|
+|Elemental Blast|Ranged|1 AP|The eidolon makes a magical attack whose elemental type is the same as the user's elemental type against a single enemy.|
 
 **Healer:**
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Heal|[Ally](/srd/combat/attacking-and-defending#term-ally-ability)|1 AP|Heal either the eidolon or a single [party](/srd/key-terms#term-party) member by an amount equal to the eidolon's Magical Attack.  If the ally is [downed](/srd/combat/death-and-injury#term-downed), they are also revived.|
-|Cure|Ally|1 AP|Removes all debuffs and statuses from the eidolon or one of the party members.|
+|Heal|[Ally](/srd/combat/attacks#term-ally-ability)|1 AP|The eidolon heals either itself or a single [party](/srd/key-terms#term-party) member by an amount equal to the eidolon's Magical Attack.  If the ally is [downed](/srd/combat/death-and-injury#term-downed), they are also revived.|
+|Cure|Ally|1 AP|The eidolon removes all debuffs and statuses from itself or one of the party members.|
 
 **Defender:**
 
@@ -61,12 +61,12 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Enhance|Ally|1 AP|Bring the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker) of the statistic that the eidolon's summoner's [archetype](/srd/heroes/archetypes) buffs to +7 for a single target.  Once the eidolon disappears, all targets of Enhance will be Hasted for three subsequent rounds as though the eidolon has Hasted them on the round it disappeared.|
-|Shell|Ally|2 AP|Put the maximum possible Shell of its elemental type on the eidolon or one of its allies.|
+|Enhance|Ally|1 AP|The eidolon brings the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker) of the statistic that the eidolon's summoner's [archetype](/srd/heroes/archetypes) buffs to +7 for a single target.  Once the eidolon disappears, all targets of Enhance will be Hasted for three subsequent rounds as though the eidolon has Hasted them on the round it disappeared.|
+|Shell|Ally|2 AP|The eidolon puts the maximum possible Shell of its elemental type on itself or one of the members of its summoner's party.|
 
 **Saboteur:**
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Reduce|Ranged|1 AP|Bring the Bonus Tracker of the statistic that their summoner's archetype debuffs to -7 for a single target and apply Slowed as though the eidolon had used the Slow ability on them.|
-|Sabotage|Ranged|1 AP|Use a [status-inflicting ability](/srd/combat/attacking-and-defending#term-status-inflicting-ability) against a single target.  If it succeeds, inflict the status associated with their elemental type on the target.|
+|Reduce|Ranged|1 AP|The eidolon brings the Bonus Tracker of the statistic that their summoner's archetype debuffs to -7 for a single target and apply Slowed as though the eidolon had used the Slow ability on them.|
+|Sabotage|Ranged|1 AP|The eidolon uses a [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability) against a single target.  If it succeeds, inflict the status associated with their elemental type on the target.|

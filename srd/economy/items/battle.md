@@ -19,8 +19,8 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Debuff|9 cr|When used, this item inflicts a [debuff](/srd/combat/buffs-and-debuffs#term-debuff) of the specified type.  If it is Mundane, it debuffs by one level on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker), if it is Rare it debuffs by two, and if it is Expert it debuffs by three.|
 |Buff|9 cr|When used, this item applies a [buff](/srd/combat/buffs-and-debuffs#term-buff) of the specified type.  If it is Mundane, it buffs by one level on the Bonus Tracker, if it is Rare it buffs by two, and if it is Expert it buffs by three.|
-|Inflict Status|12 cr|When you use this item, use a [status-inflicting ability](/srd/combat/attacking-and-defending#term-status-inflicting-ability) against the target's [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) to determine whether or not the specified [status](/srd/combat/statuses) is inflicted.  If the item is Mundane, do not subtract anything from the result.  If the item is Rare, subtract 2 from the result, and if the Expert then subtract 5 from the result.|
-|Revive|15 cr|When you use this item, the targeted character is revived from being [downed](/srd/combat/death-and-injury#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
+|Inflict Status|12 cr|When a character uses this item, it activates a [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability) against the target's [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the hit die.  If the item is Rare, subtract 2 from the result, and if the Expert then subtract 5 from the result.|
+|Revive|15 cr|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/death-and-injury#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
 
@@ -35,7 +35,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Shell|10 cr|The target of this item gains 10 Shell of the corresponding elemental type.|
 |Haste|800 cr|The target of this item becomes [Hasted](/srd/heroes/roles/support).  This still cannot stack with any other applications of Hasted.|
 |Slow|900 cr|The target of this item becomes [Slowed](/srd/heroes/roles/saboteur).  This still cannot stack with any other applications of Slowed.|
-|Summon Creature|1000x(Tier of summoned creature)|When you use this item, it summons a creature, usually an [enemy](/srd/enemies) of some type, to fight as an ally on your side.  The first time it can take its turn is during the [round](/srd/combat/round#term-round) after you summoned it, but it can be targeted as soon as it is summoned.|
+|Summon Creature|1000x(Tier of summoned creature)|When a character uses this item, it summons a creature, usually an [enemy](/srd/enemies) of some type, to fight as an ally on their side.  The first time it can take its turn is during the [round](/srd/combat/round#term-round) after it was summoned, but it can be targeted as soon as it is summoned.|
 
 ## Item Enhancements
 In addition to their base effects, some items have special effects called _<dfn id = "term-item-enhancement">enhancements</dfn>_ that change when and how they can be used and whom they target on the battlefield.  Most items will have only one enhancement, since enhancements that change their target are mutually exclusive, but some extremely rare items could have multiple.  Each enhancement to an item multiplies its base cost by an amount given in the enhancement description.  The possible enhancements are as follows:
@@ -43,11 +43,11 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Enhancement|Description|
 |:-|:-|
 |All|This item affects all characters on the battlefield.  Multiplies base cost by 2.|
-|Row|This item affects all characters on a single [row](/srd/combat/starting#term-row).  When you use the item, you can choose which row it affects.  Multiplies base cost by 5.|
+|Row|This item affects all characters on a single [row](/srd/combat/starting#term-row).  When a character uses this item, they may choose which row it affects.  Multiplies base cost by 5.|
 |Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target enemies will affect all enemies.  Multiplies base cost by 10.|
 |Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item added together, multiplied by 5.|
-|Delay|When you use this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](/srd/combat/round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down.|
-|Random|When you use this item, it inflicts a random effect based on your result on the [Random Element Table](/srd/combat/random-tables#term-random-element-table).|
+|Delay|When a character uses this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](/srd/combat/round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down.|
+|Random|When a character uses this item, it inflicts a random effect based on casting a result from the [Random Element Table](/srd/combat/random-tables#term-random-element-table).|
 
 ## Example Battle Items
 
@@ -89,9 +89,9 @@ At times, there is a need to quickly create new items.  If the [GM](/srd/key-ter
 |19|Slow|
 |20|Summon Creature|
 
-The result that matches the result on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Quality.  Mundane items are appropriate for characters of levels 1-4, Rare items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the margin is thin enough that you can get away with going one tier lower or higher.
+The result that matches the result on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Quality.  Mundane items are appropriate for characters of levels 1-4, Rare items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the margin is thin enough that items of one tier higher or lower are still effective.
 
-After you've determined the item's effect, cast the [outcome die](/srd/key-terms#term-outcome-die).  If the result is a 7 or above, the item does not have any enhancements.  If the result is 1-6, the enhancement is shown on the table below:
+After the item's effect has been determined, cast the [outcome die](/srd/key-terms#term-outcome-die).  If the result is a 7 or above, the item does not have any enhancements.  If the result is 1-6, the enhancement is shown on the table below:
 
 |Result|Enhancement|
 |:-|:-|
@@ -102,6 +102,6 @@ After you've determined the item's effect, cast the [outcome die](/srd/key-terms
 |5|Delay|
 |6|Random|
 
-For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the elemental type of the item's effect.  If the item is a Buff or Debuff item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/key-terms#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](/srd/enemies/examples) section or create one of your own of the appropriate tier.
+For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the elemental type of the item's effect.  If the item is a Buff or Debuff item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/key-terms#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](/srd/enemies/examples) section or create one of the appropriate tier.
 
-The last thing to do when creating an item is to calculate its cr value and give it tangible existence in your game world.  It's likely that there is a precedent already for what your players expect certain items to look like, and if so you can just go with that.
+The last thing to do when creating an item is to calculate its cr value and give it tangible existence in the game world.  A good rule of thumb is that an item should have a means by which character activate it, a physical form, and a container, such as a glass vial or a ball of clay.
