@@ -4,8 +4,8 @@ _<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](/srd/key-terms
 
 While they are Healers, [Heroes](/srd/key-terms#term-hero) gain the following bonuses to their [statistics](/srd/key-terms#term-statistic):
 *  Their [Evasion](/srd/heroes/attributes-and-statistics#term-evasion) is increased by an amount equal to their [Body](/srd/heroes/attributes-and-statistics#term-body).
-*  Their [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) is increased by an amount equal to their [Mind](/srd/heroes/attributes-and-statistics#term-mind).
-*  Their [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) is increased by an amount equal to their [Spirit](/srd/heroes/attributes-and-statistics#term-spirit).
+*  Their [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) is increased by an amount equal to their [Mind](/srd/heroes/attributes-and-statistics#term-mind).
+*  Their [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) is increased by an amount equal to their [Spirit](/srd/heroes/attributes-and-statistics#term-spirit).
 
 ## Abilities by Rank
 

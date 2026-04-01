@@ -23,10 +23,10 @@ When a character uses an item, ability, or something else that affects a random 
 
 |Result|Statistic|
 |:-|:-|
-|1|[Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack)|
+|1|[Physical Attack](/srd/heroes/attributes-and-statistics#term-strike)|
 |2|[Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense)|
 |3|[Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy)|
-|4|[Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack)|
+|4|[Magical Attack](/srd/heroes/attributes-and-statistics#term-spell)|
 |5|[Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense)|
 |6|[Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy)|
 |7|[Evasion](/srd/heroes/attributes-and-statistics#term-evasion)|

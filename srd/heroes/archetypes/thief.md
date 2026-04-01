@@ -6,7 +6,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 *  +10 [Health](/srd/heroes/attributes-and-statistics#term-health)
 *  +5 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
 *  +6 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack).
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense).
 
 ## Advancements by Tier
@@ -31,7 +31,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Pickpocket|[Reaction](/srd/combat/attacks#term-reaction)|N/A|When an enemy misses the Thief using a [physical attack](/srd/combat/attacks#term-physical-attack), [magical attack](/srd/combat/attacks#term-magical-attack), or [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability), they may use Steal on them immediately without spending any AP.|
+|Pickpocket|[Reaction](/srd/combat/attacks#term-reaction)|N/A|When an enemy misses the Thief using a [strike](/srd/combat/attacks#term-strike), [spell](/srd/combat/attacks#term-spell), or [sleight](/srd/combat/attacks#term-sleight), they may use Steal on them immediately without spending any AP.|
 
 **Tier 6:** The Thief gains +1 Physical Attack.
 
@@ -39,7 +39,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Sneak Attack|[Passive](/srd/combat/attacks#term-passive)|If the Thief uses a physical attack, magical attack, or status-inflicting ability while Hidden, their player may cast the [hit die](/srd/combat/attacks#term-hit-die) twice and choose the result they prefer.|
+|Sneak Attack|[Passive](/srd/combat/attacks#term-passive)|If the Thief uses a strike, spell, or sleight while Hidden, their player may cast the [hit die](/srd/combat/attacks#term-hit-die) twice and choose the result they prefer.|
 
 **Tier 8:** The Thief gains +1 Physical Attack.
 
@@ -55,7 +55,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 
 **[Striker](/srd/heroes/roles/striker):** Lifesteal.  When the Thief uses Steal on an enemy and the result of the die is a 4, they drain an amount of HP from the target equal to their current Physical Attack and give it to themselves.
 
-**[Caster](/srd/heroes/roles/caster):** Manasteal.  When the Thief uses Steal on an enemy and the result is a 4 on the item table, they drain an amount of [MP](/srd/heroes/attributes-and-statistics#term-mp) from the target equal to their current [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) and give it to themselves.
+**[Caster](/srd/heroes/roles/caster):** Manasteal.  When the Thief uses Steal on an enemy and the result is a 4 on the item table, they drain an amount of [MP](/srd/heroes/attributes-and-statistics#term-mp) from the target equal to their current [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) and give it to themselves.
 
 **[Healer](/srd/heroes/roles/healer):** Night Shift.  The Thief may use their Healer abilities while Hidden without losing the Hidden status.
 

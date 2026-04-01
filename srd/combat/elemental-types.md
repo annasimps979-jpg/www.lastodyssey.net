@@ -15,7 +15,7 @@ An [ability](/srd/key-terms#term-ability) or [character](/srd/key-terms#term-cha
 
 ## Elemental Damage
 
-All abilities with an elemental type have their effects modified by the elemental type of the target.  For example, the damage that a [physical](/srd/combat/attacks#term-physical-attack) or [magical attack](/srd/combat/attacks#term-magical-attack) does is multiplied by an amount determined by both the elemental type of the attack and the elemental type of the target.  Characters with a Shell active will count as having the Shell's elemental type for the purposes of calculating how much damage they receive.  All elements will have as many types they do more damage to and less damage to, but not always to the same degree.  As an example, Wood does 2x damage against Light, Shadow, and Wind, while Fire does 2x damage against Wood and 4x damage against Ice.
+All abilities with an elemental type have their effects modified by the elemental type of the target.  For example, the damage that a [physical](/srd/combat/attacks#term-strike) or [spell](/srd/combat/attacks#term-spell) does is multiplied by an amount determined by both the elemental type of the attack and the elemental type of the target.  Characters with a Shell active will count as having the Shell's elemental type for the purposes of calculating how much damage they receive.  All elements will have as many types they do more damage to and less damage to, but not always to the same degree.  As an example, Wood does 2x damage against Light, Shadow, and Wind, while Fire does 2x damage against Wood and 4x damage against Ice.
 
 ## Elemental Multipliers
 

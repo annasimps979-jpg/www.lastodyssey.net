@@ -27,7 +27,7 @@ Next, the party will choose their Heroes' [archetypes](/srd/heroes/archetypes), 
 
 At Hero creation, a character's archetype determines the following traits:
 *  Armor Proficiency: A Hero's _<dfn id="term-armor-proficiency">armor proficiency</dfn>_ is what type of [armor](/srd/economy/equipment/armor) they can wear.  At Hero creation, the Hero starts with a [Mundane](/srd/economy/equipment#term-equipment-quality) piece of that type of armor equipped.
-*  Weapon Proficiency: A Hero's _<dfn id="term-weapon-proficiency">weapon proficiency</dfn>_ is what type of [weapon](/srd/economy/equipment/weapons) they can wield.  At Hero creation, the Hero starts with a Mundane version of that type of weapon equipped.  Make sure to note down what statistic the Hero's weapon gives them a bonus to in addition to [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) and [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack).
+*  Weapon Proficiency: A Hero's _<dfn id="term-weapon-proficiency">weapon proficiency</dfn>_ is what type of [weapon](/srd/economy/equipment/weapons) they can wield.  At Hero creation, the Hero starts with a Mundane version of that type of weapon equipped.  Make sure to note down what statistic the Hero's weapon gives them a bonus to in addition to [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) and [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell).
 *  [Buff](/srd/combat/buffs-and-debuffs#term-buff): Archetype sets the statistic that the Hero buffs when they play the [Support](/srd/heroes/roles/support) [role](/srd/heroes/roles).  Later on, they will also gain permanent bonuses to it as they advance in tier.
 *  [Debuff](/srd/combat/buffs-and-debuffs#term-debuff): This sets the statistic that the Hero debuffs when they play the [Saboteur](/srd/heroes/roles/saboteur) role.
 *  Stat Bonuses: A Hero's archetype grants them fixed bonuses to their Health, Initiative, and Mana.
@@ -70,9 +70,9 @@ At this point, the players should now have enough information to determine their
 *  _[Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense)_ determines the base reduction to the magical damage a Hero takes.  It is equal to (Armor Bonus) + (Role Bonus if applicable).
 *  _Evasion_ determines the base reduction to enemies' chance to hit a Hero when they attack.  It is equal to (Accessory Bonus if applicable) + (Role Bonus if applicable).
 *  _Resistance_ determines the base reduction to enemies' chance to inflict a status on a Hero.  It is equal to (Accessory Bonus if applicable) + (Role Bonus if applicable).
-*  _[Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy)_ determines a Hero's bonus chance to hit with [physical attacks](/srd/combat/attacks#term-physical-attack).  It is equal to (Mind) + (Body).
-*  _[Magical Accuracy](/srd/heroes-attributes-and-statistics#term-magical-accuracy)_ determines a Hero's bonus chance to hit with [magical attacks](/srd/combat/attacks#term-magical-attack).  It is equal to (Spirit) + (Mind).
-*  _[Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy)_ determines a Hero's chance to hit with [status-inflicting abilities](/srd/combat/attacks#term-status-inflicting-ability).  It is equal to (Body) + (Spirit).
+*  _[Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy)_ determines a Hero's bonus chance to hit with [strikes](/srd/combat/attacks#term-strike).  It is equal to (Mind) + (Body).
+*  _[Magical Accuracy](/srd/heroes-attributes-and-statistics#term-magical-accuracy)_ determines a Hero's bonus chance to hit with [spells](/srd/combat/attacks#term-spell).  It is equal to (Spirit) + (Mind).
+*  _[Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy)_ determines a Hero's chance to hit with [status-inflicting abilities](/srd/combat/attacks#term-sleight).  It is equal to (Body) + (Spirit).
 *  _[Carrying Capacity](/srd/economy/items#term-carrying-capacity)_ determines how many items a Hero can hold in their inventory at once.  It is equal to 10 + (Body)x5.
 
 ## Create Eidolon

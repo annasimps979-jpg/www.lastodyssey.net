@@ -7,7 +7,7 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 *  +10 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
 *  +2 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
 *  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike).
 
 ## Advancements by Tier
 
@@ -15,7 +15,7 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Focus|[Self](/srd/combat/attacks#term-self-ability)|1 [AP](/srd/combat/round#term-ap)|The Knight applies the Focused [status](/srd/combat/statuses) to themselves.  While they are Focused, they may only use their [basic attack](/srd/combat/round#term-basic-attack).  The Knight also gain a flat +2 bonus to the damage they deal when they hit an enemy with a [physical attack](/srd/combat/attacks#term-physical-attack) or [magical attack](/srd/combat/attacks#term-magical-attack).  Every time they hit an enemy, this bonus increases by 1.  When they miss, the Focused status goes away.|
+|Focus|[Self](/srd/combat/attacks#term-self-ability)|1 [AP](/srd/combat/round#term-ap)|The Knight applies the Focused [status](/srd/combat/statuses) to themselves.  While they are Focused, they may only use their [basic attack](/srd/combat/round#term-basic-attack).  The Knight also gain a flat +2 bonus to the damage they deal when they hit an enemy with a [strike](/srd/combat/attacks#term-strike) or [spell](/srd/combat/attacks#term-spell).  Every time they hit an enemy, this bonus increases by 1.  When they miss, the Focused status goes away.|
 
 **Tier 2:** The Knight gains +1 Physical Defense.
 
@@ -53,14 +53,14 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Melee.  While the Knight is Focused, they may use physical attacks in addition to their basic attack.  Hitting an enemy with a physical attack increases their bonus damage by 1, while missing an enemy with a physical attack removes the Focused status.
+**[Striker](/srd/heroes/roles/striker):** Melee.  While the Knight is Focused, they may use strikes in addition to their basic attack.  Hitting an enemy with a strike increases their bonus damage by 1, while missing an enemy with a strike removes the Focused status.
 
-**[Caster](/srd/heroes/roles/caster):** Artillery.  While the Knight is Focused, they may use magical attacks in addition to their basic attack.  Hitting an enemy with a magical attack increases their bonus damage by 1, while missing an enemy with a magical attack removes the Focused status.
+**[Caster](/srd/heroes/roles/caster):** Artillery.  While the Knight is Focused, they may use spells in addition to their basic attack.  Hitting an enemy with a spell increases their bonus damage by 1, while missing an enemy with a spell removes the Focused status.
 
 **[Healer](/srd/heroes/roles/healer):** Medic.  While the Knight is Focused, they may use healing abilities.  Abilities that restore [HP](/srd/heroes/attributes-and-statistics#term-hp) will heal for additional HP equal to their current damage bonus.
 
-**[Defender](/srd/heroes/roles/defender):** Tower.  While the Knight is Focused, they may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and they take reduced damage from physical and magical attacks equal to their current damage bonus.
+**[Defender](/srd/heroes/roles/defender):** Tower.  While the Knight is Focused, they may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and they take reduced damage from physical and spells equal to their current damage bonus.
 
-**Support:** Mystic.  While the Knight is Focused, they gain 1 [Shell](/srd/combat/shells) of their [elemental type](/srd/combat/elemental-types#term-elemental-type) every time they hit an enemy with a physical or magical attack.  If they have a Shell of a different elemental type active, they gain 1 Shell of that elemental type instead.
+**Support:** Mystic.  While the Knight is Focused, they gain 1 [Shell](/srd/combat/shells) of their [elemental type](/srd/combat/elemental-types#term-elemental-type) every time they hit an enemy with a physical or spell.  If they have a Shell of a different elemental type active, they gain 1 Shell of that elemental type instead.
 
-**Saboteur:** Spy.  While the Knight is Focused, they may use [status-inflicting abilities](/srd/combat/attacks#term-status-inflicting-ability) in addition to their basic attack.  Hitting an enemy with a status-inflicting ability increases their bonus damage by 1, while missing an enemy with a status-inflicting ability removes the Focused status.
+**Saboteur:** Spy.  While the Knight is Focused, they may use [status-inflicting abilities](/srd/combat/attacks#term-sleight) in addition to their basic attack.  Hitting an enemy with a sleight increases their bonus damage by 1, while missing an enemy with a sleight removes the Focused status.

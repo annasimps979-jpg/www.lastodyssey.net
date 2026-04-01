@@ -10,7 +10,7 @@ An eidolon's [elemental type](/srd/combat/elemental-types#term-elemental-type) i
 At the beginning of each [round](/srd/combat/round#term-round) after an eidolon is summoned, their summoner must either spend 1 Anima to keep them on the field or else the eidolon is unsummoned and the Initiative Order goes back to normal.  If the eidolon drops to 0 [HP](/srd/heroes/attributes-and-statistics#term-hp), they are also unsummoned, and will revert back to 1 HP after the [battle](/srd/key-terms#term-battle) is over.  When an eidolon is unsummoned, whatever HP they had remains until it is healed by their summoner, but they lose all other effects, including [buffs](/srd/combat/buffs-and-debuffs#term-buff), [debuffs](/srd/combat/buffs-and-debuffs#term-debuff), [Shells](/srd/combat/shells), and [statuses](/srd/combat/statuses).
 
 ## Eidolons in Combat
-An eidolon's combat abilities do not cost [MP](/srd/heroes/attributes-and-statistics#term-mp).  In addition, eidolons act in lieu of their summoner during their summoner's turn in the Initiative Order.  Therefore, they do not have Mana or Initiative, but otherwise they share the same statistics that all [Heroes](/srd/key-terms#term-hero) have.  Each of their statistics also receives a bonus given by their _eidolon archetype,_ which is the same as the bonus to a Hero's statistics from the corresponding [role](/srd/heroes/roles) of the same name.  For example, an eidolon that is a Striker gets a bonus to their [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) equal to their summoner's [Body](/srd/heroes/attributes-and-statistics#term-body), an eidolon that is a Caster gets a bonus to their [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) equal to their summoner's [Mind](/srd/heroes/attributes-and-statistics#term-mind), and so on.  The formulae for their statistics are as follows:
+An eidolon's combat abilities do not cost [MP](/srd/heroes/attributes-and-statistics#term-mp).  In addition, eidolons act in lieu of their summoner during their summoner's turn in the Initiative Order.  Therefore, they do not have Mana or Initiative, but otherwise they share the same statistics that all [Heroes](/srd/key-terms#term-hero) have.  Each of their statistics also receives a bonus given by their _eidolon archetype,_ which is the same as the bonus to a Hero's statistics from the corresponding [role](/srd/heroes/roles) of the same name.  For example, an eidolon that is a Striker gets a bonus to their [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) equal to their summoner's [Body](/srd/heroes/attributes-and-statistics#term-body), an eidolon that is a Caster gets a bonus to their [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) equal to their summoner's [Mind](/srd/heroes/attributes-and-statistics#term-mind), and so on.  The formulae for their statistics are as follows:
 *  An eidolon's _[Health](/srd/heroes/attributes-and-statistics#term-health)_ is their summoner's (Body + [Spirit](/srd/heroes/attributes-and-statistics#term-spirit) + [Tier](/srd/heroes/creation#term-tier))x5.
 *  An eidolon's _Physical Attack_ is their summoner's (Body) + (Tier) + (Archetype Bonus).
 *  An eidolon's _Magical Attack_ is their summoner's (Mind) + (Tier) + (Archetype Bonus).
@@ -24,7 +24,7 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Attack|[Melee](/srd/combat/attacks#term-melee)|1 AP|The eidolon makes a [colorless](/srd/combat/elemental-types#term-colorless) [physical attack](/srd/combat/attacks#term-physical-attack) against a single target.|
+|Attack|[Melee](/srd/combat/attacks#term-melee)|1 AP|The eidolon makes a [colorless](/srd/combat/elemental-types#term-colorless) [strike](/srd/combat/attacks#term-strike) against a single target.|
 |Full Restore|[Self](/srd/combat/attacks#term-self-ability)|1 Anima, 1 AP|The eidolon removes all statuses from itself and immediately restores itself to full HP.|
 
 ## Abilities by Archetype
@@ -33,15 +33,15 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Cleave|[Multi](/srd/combat/attacks#term-multi)|1 AP|The eidolon makes a colorless physical attack against all enemies in the [front row](/srd/combat/starting#term-front-row).|
-|Elemental Strike|Melee|1 AP|The eidolon makes a physical attack against a single enemy whose elemental type is the same as the user's elemental type.|
+|Cleave|[Multi](/srd/combat/attacks#term-multi)|1 AP|The eidolon makes a colorless strike against all enemies in the [front row](/srd/combat/starting#term-front-row).|
+|Elemental Strike|Melee|1 AP|The eidolon makes a strike against a single enemy whose elemental type is the same as the user's elemental type.|
 
 **Caster:**
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Magic Blast|[Ranged](/srd/combat/attacks#term-ranged)|1 AP|The eidolon makes a colorless [magical attack](/srd/combat/attacks#term-magical-attack) against a single enemy.|
-|Elemental Blast|Ranged|1 AP|The eidolon makes a magical attack whose elemental type is the same as the user's elemental type against a single enemy.|
+|Magic Blast|[Ranged](/srd/combat/attacks#term-ranged)|1 AP|The eidolon makes a colorless [spell](/srd/combat/attacks#term-spell) against a single enemy.|
+|Elemental Blast|Ranged|1 AP|The eidolon makes a spell whose elemental type is the same as the user's elemental type against a single enemy.|
 
 **Healer:**
 
@@ -54,8 +54,8 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Shield|Self|1 AP|The eidolon reflects all physical attacks used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all enemies.  Attacks that the eidolon has used against itself simply have their damage negated.|
-|Barrier|Self|1 AP|The eidolon reflects all magical attacks used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all enemies.  Attacks that the eidolon has used against itself simply have their damage negated.|
+|Shield|Self|1 AP|The eidolon reflects all strikes used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all enemies.  Attacks that the eidolon has used against itself simply have their damage negated.|
+|Barrier|Self|1 AP|The eidolon reflects all spells used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all enemies.  Attacks that the eidolon has used against itself simply have their damage negated.|
 
 **Support:**
 
@@ -69,4 +69,4 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Reduce|Ranged|1 AP|The eidolon brings the Bonus Tracker of the statistic that their summoner's archetype debuffs to -7 for a single target and apply Slowed as though the eidolon had used the Slow ability on them.|
-|Sabotage|Ranged|1 AP|The eidolon uses a [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability) against a single target.  If it succeeds, inflict the status associated with their elemental type on the target.|
+|Sabotage|Ranged|1 AP|The eidolon uses a [sleight](/srd/combat/attacks#term-sleight) against a single target.  If it succeeds, inflict the status associated with their elemental type on the target.|

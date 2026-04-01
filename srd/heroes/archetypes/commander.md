@@ -53,9 +53,9 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Vanguard.  When an ally makes a [physical attack](/srd/combat/attacks#term-physical-attack) using the AP the Commander granted them with Orders, they may substitute the Commander's Physical Accuracy and [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) for their own.
+**[Striker](/srd/heroes/roles/striker):** Vanguard.  When an ally makes a [strike](/srd/combat/attacks#term-strike) using the AP the Commander granted them with Orders, they may substitute the Commander's Physical Accuracy and [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) for their own.
 
-**[Caster](/srd/heroes/roles/caster):** Siege Engineer.  When an ally makes a [magical attack](/srd/combat/attacks#term-magical-attack) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Accuracy and [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) for their own.
+**[Caster](/srd/heroes/roles/caster):** Siege Engineer.  When an ally makes a [spell](/srd/combat/attacks#term-spell) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Accuracy and [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) for their own.
 
 **[Healer](/srd/heroes/roles/healer):** Medical Tent.  When an ally uses a Healer ability using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Attack for their own.
 
@@ -63,4 +63,4 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 **Support:** Trenches.  All of the Commander's allies gain the bonus from Standard Bearer regardless of their place in the Initiative Order.  This does not apply if the Commander is downed.
 
-**Saboteur:** Spymaster.  When an ally uses a [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability) using the AP the Commander granted them with Orders, they may substitute the Commander's Status Accuracy for their own.
+**Saboteur:** Spymaster.  When an ally uses a [sleight](/srd/combat/attacks#term-sleight) using the AP the Commander granted them with Orders, they may substitute the Commander's Status Accuracy for their own.

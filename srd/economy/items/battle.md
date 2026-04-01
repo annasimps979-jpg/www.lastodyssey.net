@@ -19,7 +19,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Debuff|9 cr|When used, this item inflicts a [debuff](/srd/combat/buffs-and-debuffs#term-debuff) of the specified type.  If it is Mundane, it debuffs by one level on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker), if it is Rare it debuffs by two, and if it is Expert it debuffs by three.|
 |Buff|9 cr|When used, this item applies a [buff](/srd/combat/buffs-and-debuffs#term-buff) of the specified type.  If it is Mundane, it buffs by one level on the Bonus Tracker, if it is Rare it buffs by two, and if it is Expert it buffs by three.|
-|Inflict Status|12 cr|When a character uses this item, it activates a [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability) against the target's [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the hit die.  If the item is Rare, subtract 2 from the result, and if the Expert then subtract 5 from the result.|
+|Inflict Status|12 cr|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the hit die.  If the item is Rare, subtract 2 from the result, and if the Expert then subtract 5 from the result.|
 |Revive|15 cr|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/death-and-injury#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
@@ -59,7 +59,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Shark Tooth Charm|Rare|Special Damage (Water)|N/A|70 cr|
 |Smelling Salts|Rare|Revive|Row|750 cr|
 |Poison Dart|Rare|Inflict Toxin|Delay|90 cr|
-|Experimental Combat Stim|Expert|Buff [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack)/Buff [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy)|Dual|9000 cr|
+|Experimental Combat Stim|Expert|Buff [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike)/Buff [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy)|Dual|9000 cr|
 |Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 cr|
 |Mandragora|N/A|Summon Creature (Dryad)|N/A|4000 cr|
 

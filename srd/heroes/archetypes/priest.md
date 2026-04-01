@@ -7,7 +7,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 *  +15 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
 *  +2 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
 *  As a [Support](/srd/heroes/roles/support), their [abilities](/srd/key-terms#term-ability) will [buff](/srd/combat/buffs-and-debuffs#term-buff) [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their abilities will [debuff](/srd/combat/buffs-and-debuffs#term-debuff) [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their abilities will [debuff](/srd/combat/buffs-and-debuffs#term-debuff) [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell).
 
 ## Advancements by Tier
 
@@ -53,7 +53,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Bludgeon.  The Priest may deal damage to MP instead of [HP](/srd/heroes/attributes-and-statistics#term-hp) with their physical attacks when the target is [Shellbroken](/srd/combat/shells#term-shellbroken).
+**[Striker](/srd/heroes/roles/striker):** Bludgeon.  The Priest may deal damage to MP instead of [HP](/srd/heroes/attributes-and-statistics#term-hp) with their strikes when the target is [Shellbroken](/srd/combat/shells#term-shellbroken).
 
 **[Caster](/srd/heroes/roles/caster):** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all enemies that they heal the Priest's allies' MP for.
 

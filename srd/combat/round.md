@@ -19,7 +19,7 @@ On a character's turn, they are limited to performing the following actions:
 
 |Name|Cost|Description|
 |:-|:-|:-|
-|<dfn id = "term-basic-attack">Basic Attack</dfn>|1 AP|The character makes a [colorless](/srd/combat/elemental-types#term-colorless) [physical attack](/srd/combat/attacks#term-physical-attack) against a single enemy.  By default, this counts as a [Melee](/srd/combat/attacks#term-melee) ability.|
+|<dfn id = "term-basic-attack">Basic Attack</dfn>|1 AP|The character makes a [colorless](/srd/combat/elemental-types#term-colorless) [strike](/srd/combat/attacks#term-strike) against a single enemy.  By default, this counts as a [Melee](/srd/combat/attacks#term-melee) ability.|
 |<dfn id = "term-use-ability">Use Ability</dfn>|Variable|The character uses one of the abilities they have currently available per their archetype and role.|
 |<dfn id = "term-use-item">Use Item</dfn>|1 AP|The character uses one of the items in their inventory on a target or targets of their choice.  All [battle items](/srd/economy/items/battle) are single-use unless otherwise specified.|
 |<dfn id = "term-move">Move</dfn>|1 AP|The character moves from the front row to the back row, or from the back row to the front row of their respective side.|

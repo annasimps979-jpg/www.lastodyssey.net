@@ -49,17 +49,17 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Spin the Revolver|Ranged|1 Anima, 2 AP|The Harlequin's player chooses an enemy and casts 1d6.  If the result is a 6, the enemy takes damage equal to quadruple their [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  The outcome die is recast until either the eidolon or the target have taken damage.|
+|Spin the Revolver|Ranged|1 Anima, 2 AP|The Harlequin's player chooses an enemy and casts 1d6.  If the result is a 6, the enemy takes damage equal to quadruple their [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  The outcome die is recast until either the eidolon or the target have taken damage.|
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Random Strike.  When the Harlequin uses a [physical attack](/srd/combat/attacks#term-physical-attack), their player may cast on the [Random Element Table](/srd/combat/random-tables#term-random-element-table) to determine its [elemental type](/srd/combat/elemental-types#term-elemental-type).
+**[Striker](/srd/heroes/roles/striker):** Random Strike.  When the Harlequin uses a [strike](/srd/combat/attacks#term-strike), their player may cast on the [Random Element Table](/srd/combat/random-tables#term-random-element-table) to determine its [elemental type](/srd/combat/elemental-types#term-elemental-type).
 
-**[Caster](/srd/heroes/roles/caster):** Rainbow Bolt.  When the Harlequin uses a [magical attack](/srd/combat/attacks#term-magical-attack), their player may cast on the Random Element Table to determine its elemental type.
+**[Caster](/srd/heroes/roles/caster):** Rainbow Bolt.  When the Harlequin uses a [spell](/srd/combat/attacks#term-spell), their player may cast on the Random Element Table to determine its elemental type.
 
 **[Healer](/srd/heroes/roles/healer):** Bet Your Life.  When the Harlequin heals an ally with a Healer ability, their player may call a number and then cast the outcome die.  If the result is less than what they called, the amount of healing the character receives is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing the character receives is increased by the number they called.
 
-**[Defender](/srd/heroes/roles/defender):** Call Bluff.  When a Taunted enemy attacks the Harlequin with a physical or magical attack, their player may cast the outcome die before the [GM](/srd/key-terms#term-gm) casts the [hit die](/srd/combat/attacks#term-hit-die).  If the result is less than theirs, the attack misses.  Otherwise, if the attack hits, the Harlequin takes double damage.
+**[Defender](/srd/heroes/roles/defender):** Call Bluff.  When a Taunted enemy attacks the Harlequin with a physical or spell, their player may cast the outcome die before the [GM](/srd/key-terms#term-gm) casts the [hit die](/srd/combat/attacks#term-hit-die).  If the result is less than theirs, the attack misses.  Otherwise, if the attack hits, the Harlequin takes double damage.
 
 **Support:** Random Buff.  When the Harlequin uses a buff, their player may cast on the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to determine which [statistic](/srd/key-terms#term-statistic) the ability affects.
 

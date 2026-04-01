@@ -15,7 +15,7 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Mark Target|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Ranger inflicts the Hunted [status](/srd/combat/statuses) on the target.  When they use a [magical attack](/srd/combat/attacks#term-magical-attack), [physical attack](/srd/combat/attacks#term-physical-attack), or [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability) on the target, their player casts the [hit die](/srd/combat/attacks#term-hit-die) twice and chooses the number they prefer.  This does not apply to attacks that target multiple [enemies](/srd/enemies).  Only one enemy can have the Hunted status inflicted on them per Ranger in the [party](/srd/key-terms#term-party).  If a Hunted enemy dies due to one of the Ranger's attacks, they may immediately use Mark Target on another enemy at no AP cost.|
+|Mark Target|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Ranger inflicts the Hunted [status](/srd/combat/statuses) on the target.  When they use a [spell](/srd/combat/attacks#term-spell), [strike](/srd/combat/attacks#term-strike), or [sleight](/srd/combat/attacks#term-sleight) on the target, their player casts the [hit die](/srd/combat/attacks#term-hit-die) twice and chooses the number they prefer.  This does not apply to attacks that target multiple [enemies](/srd/enemies).  Only one enemy can have the Hunted status inflicted on them per Ranger in the [party](/srd/key-terms#term-party).  If a Hunted enemy dies due to one of the Ranger's attacks, they may immediately use Mark Target on another enemy at no AP cost.|
 
 **Tier 2:** The Ranger gains +1 Physical Accuracy.
 
@@ -53,14 +53,14 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** True Strike.  When the Ranger uses a physical attack against a Hunted enemy, they may remove the Hunted status in order to guarantee that their target is hit regardless of the result of the hit die.
+**[Striker](/srd/heroes/roles/striker):** True Strike.  When the Ranger uses a strike against a Hunted enemy, they may remove the Hunted status in order to guarantee that their target is hit regardless of the result of the hit die.
 
-**[Caster](/srd/heroes/roles/caster):** Detonate.  When an enemy triggers the effect of Lay Trap, the Ranger may use a single-target magical attack against them rather than a basic attack.  When they do so, their player may cast the hit die twice and choose between the two results.
+**[Caster](/srd/heroes/roles/caster):** Detonate.  When an enemy triggers the effect of Lay Trap, the Ranger may use a single-target spell against them rather than a basic attack.  When they do so, their player may cast the hit die twice and choose between the two results.
 
-**[Healer](/srd/heroes/roles/healer):** Rescuscitate.  The Ranger may use their Mark Target ability to apply the Watched status to one of their allies. When a Watched character drops to 0 [HP](/srd/heroes/attributes-and-statistics#term-hp) or below, the Watched status is removed, and they regain an amount of HP equal to the Ranger's [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) when the status was applied.  Only one ally may be Watched by the Ranger at a time.
+**[Healer](/srd/heroes/roles/healer):** Rescuscitate.  The Ranger may use their Mark Target ability to apply the Watched status to one of their allies. When a Watched character drops to 0 [HP](/srd/heroes/attributes-and-statistics#term-hp) or below, the Watched status is removed, and they regain an amount of HP equal to the Ranger's [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) when the status was applied.  Only one ally may be Watched by the Ranger at a time.
 
-**[Defender](/srd/heroes/roles/defender):** Forcefield.  The Ranger may use the Mark Target ability to apply the Defended status to an ally.  The next time a Defended character is hit by a status-inflicting ability, a magical attack, or a physical attack, the damage or status is negated.  Only one ally may be Defended by the Ranger at a time.
+**[Defender](/srd/heroes/roles/defender):** Forcefield.  The Ranger may use the Mark Target ability to apply the Defended status to an ally.  The next time a Defended character is hit by a sleight, a spell, or a strike, the damage or status is negated.  Only one ally may be Defended by the Ranger at a time.
 
 **Support:** Herbal Medicine.  The Ranger may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all debuffs that have been applied to them, although this does not affect the position of any of their [statistics](/srd/key-terms#term-statistic) on the [Bonus Tracker](/srd/combat/buffs-and-debuffs).
 
-**Saboteur:** Poison Arrow.  When an enemy is affected by the Lay Trap ability, the Ranger may use a single-target status-inflicting ability on them instead of their basic attack.  When they do so, their player casts the hit die as though the enemy were Hunted.
+**Saboteur:** Poison Arrow.  When an enemy is affected by the Lay Trap ability, the Ranger may use a single-target sleight on them instead of their basic attack.  When they do so, their player casts the hit die as though the enemy were Hunted.

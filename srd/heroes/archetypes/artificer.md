@@ -39,7 +39,7 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Reveal Weakness|Passive|N/A|When the Artificer uses the Scan ability on an enemy, it inflicts the Scanned [status](/srd/combat/statuses).  The next [physical attack](/srd/combat/attacks#term-physical-attack), [magical attack](/srd/combat/attacks#term-magical-attack), or [status-inflicting ability](/srd/combat/attacks#term-status-inflicting-ability) that hits the enemy will ignore any of its elemental resistances, but not any of its elemental weaknesses, and then the Scanned status is removed.|
+|Reveal Weakness|Passive|N/A|When the Artificer uses the Scan ability on an enemy, it inflicts the Scanned [status](/srd/combat/statuses).  The next [strike](/srd/combat/attacks#term-strike), [spell](/srd/combat/attacks#term-spell), or [sleight](/srd/combat/attacks#term-sleight) that hits the enemy will ignore any of its elemental resistances, but not any of its elemental weaknesses, and then the Scanned status is removed.|
 
 **Tier 8:** The Artificer gains +1 Magical Accuracy.
 
@@ -53,13 +53,13 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Sniper.  When the Artificer uses an item that does physical damage to an enemy, they may add their [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) to its [base](/srd/key-terms#term-base) damage.
+**[Striker](/srd/heroes/roles/striker):** Sniper.  When the Artificer uses an item that does physical damage to an enemy, they may add their [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) to its [base](/srd/key-terms#term-base) damage.
 
-**[Caster](/srd/heroes/roles/caster):** Magic Ammo.  When the Artificer uses an item that does magical damage to an enemy, they may add their [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) to its base damage.
+**[Caster](/srd/heroes/roles/caster):** Magic Ammo.  When the Artificer uses an item that does magical damage to an enemy, they may add their [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) to its base damage.
 
 **[Healer](/srd/heroes/roles/healer):** First Aid.  When the Artificer uses an item that heals an ally, they may add their Magical Attack to its base healing.
 
-**[Defender](/srd/heroes/roles/defender):** Optimize Defenses.  If the Artificer uses the ability on an ally, they receive the Optimized status.  The next physical attack, magical attack, or status-inflicting ability that hits them will ignore any of their weaknesses, and the Optimized status is then removed.
+**[Defender](/srd/heroes/roles/defender):** Optimize Defenses.  If the Artificer uses the ability on an ally, they receive the Optimized status.  The next strike, spell, or sleight that hits them will ignore any of their weaknesses, and the Optimized status is then removed.
 
 **Support:** Targeting Systems.  When the Artificer uses Scan on an ally, they gain a temporary +5 to their [Physical](/srd/heroes/attributes-and-statistics#term-physical-accuracy), Magical, and [Status Accuracies](/srd/heroes/attributes-and-statistics#term-status-accuracy) until the end of their next [turn](/srd/combat/round#term-turn) that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).
 

@@ -11,8 +11,8 @@ If a character's HP is reduced to zero during combat, they’re said to have bee
 |1|The character's max HP is reduced by 5.|
 |2|The character's max [MP](/srd/heroes/attributes-and-statistics#term-mp) is reduced by 5.|
 |3|The character's [Initiative](/srd/heroes/attributes-and-statistics#term-initiative) is reduced by 1.|
-|4|The character's [Physical Attack](/srd/heroes/attributes-and-statistics#term-physical-attack) is reduced by 1.|
-|5|The character's [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) is reduced by 1.|
+|4|The character's [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) is reduced by 1.|
+|5|The character's [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) is reduced by 1.|
 |6|The character's [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense) is reduced by 1.|
 |7|The character's [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense) is reduced by 1.|
 |8|The character's [Evasion](/srd/heroes/attributes-and-statistics#term-evasion) is reduced by 1.|

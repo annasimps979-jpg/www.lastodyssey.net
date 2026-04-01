@@ -53,13 +53,13 @@ The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/cre
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Athletic Outfit.  The Dancer's Mask ability also makes the elemental type of all of their [colorless](/srd/combat/elemental-types#term-colorless) [physical attacks](/srd/combat/attacks#term-physical-attack) into their current elemental type due to Masked.
+**[Striker](/srd/heroes/roles/striker):** Athletic Outfit.  The Dancer's Mask ability also makes the elemental type of all of their [colorless](/srd/combat/elemental-types#term-colorless) [strikes](/srd/combat/attacks#term-strike) into their current elemental type due to Masked.
 
-**[Caster](/srd/heroes/roles/caster):** School Uniform.  The Dancer's Mask ability also makes the elemental type of all of their colorless [magical attacks](/srd/combat/attacks#term-magical-attack) into their current elemental type due to Masked.
+**[Caster](/srd/heroes/roles/caster):** School Uniform.  The Dancer's Mask ability also makes the elemental type of all of their colorless [spells](/srd/combat/attacks#term-spell) into their current elemental type due to Masked.
 
 **[Healer](/srd/heroes/roles/healer):** Regal Clothing.  If the Dancer uses a healing ability due to Mimic or Copycat, they may use it twice instead of once.
 
-**[Defender](/srd/heroes/roles/defender):** Outdoor Wear.  While the Dancer is Masked, they are immune to the effects of physical attacks, magical attacks, and [status-inflicting abilities](/srd/combat/attacks#term-status-inflicting-ability) of their current elemental type.
+**[Defender](/srd/heroes/roles/defender):** Outdoor Wear.  While the Dancer is Masked, they are immune to the effects of attacks of their current elemental type.
 
 **Support:** Casual Dress.  When Masked, the Dancer's Shell-applying abilities have their elemental type changed to the Dancer's current elemental type.
 

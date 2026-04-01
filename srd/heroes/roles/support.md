@@ -5,7 +5,7 @@ Supports specialize in [buffs](/srd/combat/buffs-and-debuffs#term-buff), [Shells
 While they are Supports, [Heroes](/srd/key-terms#term-hero) gain the following bonuses to their [statistics](/srd/key-terms#term-statistic):
 *  Their [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense) is increased by an amount equal to their [Body](/srd/heroes/attributes-and-statistics#term-body).
 *  Their [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense) is increased by an amount equal to their [Mind](/srd/heroes/attributes-and-statistics#term-mind).
-*  Their [Magical Attack](/srd/heroes/attributes-and-statistics#term-magical-attack) is increased by an amount equal to their [Spirit](/srd/heroes/attributes-and-statistics#term-spirit).
+*  Their [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) is increased by an amount equal to their [Spirit](/srd/heroes/attributes-and-statistics#term-spirit).
 
 ## Abilities by Rank
 
