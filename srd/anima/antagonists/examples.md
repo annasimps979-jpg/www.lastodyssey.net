@@ -25,7 +25,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Leg Stab|[Melee](/srd/combat/attacks#term-melee)|1 [AP](/srd/combat/round#term-ap)|The Webmaster makes a [basic](/srd/combat/round#term-basic-attack) [strike](/srd/combat/attacks#term-strike).|
-|Magic Spear|[Ranged](/srd/combat/attacks#term-ranged)|1 AP, 3 [MP](/srd/heroes/attributes-and-statistics#term-mp)|The Webmaster makes a spell that inflicts [colorless](/srd/combat/elemental-types#term-colorless) magical damage on a  hit.|
+|Magic Spear|[Ranged](/srd/combat/attacks#term-ranged)|1 AP, 3 [MP](/srd/heroes/attributes-and-statistics#term-mp)|The Webmaster uses a spell that inflicts [colorless](/srd/combat/elemental-types#term-colorless) magical damage on a  hit.|
 |Bind|Ranged|1 AP, 7 MP|The Webmaster uses a [sleight](/srd/combat/attacks#term-sleight) that inflicts Petrify on a hit.|
 |Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the [Petrified](/srd/combat/statuses#term-petrified) [status](/srd/combat/statuses), the Webmaster deals magical [earth](/srd/combat/elemental-types#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to cast the [hit die](/srd/combat/attacks#term-hit-die).|
 |Antimagic Field|[Special](/srd/combat/attacks#term-special-ability)|Variable|The Webmaster can use the [Sage's](/srd/heroes/archetypes/sage) Counterspell ability.|
@@ -132,14 +132,14 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |:-|:-|:-|:-|
 |Sword Arm|Melee|1 AP|The Revenant makes a basic strike.|
 |Icy Lance|Ranged|1 AP, 8 MP|The Revenant makes a strike against a single enemy that deals physical Ice damage on a hit.|
-|Frost Blast|Ranged|1 AP, 7 MP|The Revenant makes a [spell](/srd/combat/attacks#term-spell) against a single target that deals magical ice damage that is multiplied by 2 in addition to other modifiers.|
+|Frost Blast|Ranged|1 AP, 7 MP|The Revenant uses a [spell](/srd/combat/attacks#term-spell) against a single target that deals magical ice damage that is multiplied by 2 in addition to other modifiers.|
 |Chill|Ranged|1 AP, 7 MP|The Revenant uses a sleight against a single target that inflicts the [Frostbitten](/srd/combat/statuses#term-frostbitten) status on a hit.|
 |Cold Snap|Multi|1 AP, 28 MP| The Revenant inflicts the Slow status on all of their enemies.|
-|Exposure|Ranged|1 AP, 8 MP|The Revnant inflicts the Vulnerable (Ice) status on a single target.|
+|Exposure|Ranged|1 AP, 8 MP|The Revenant inflicts the Vulnerable (Ice) status on a single target.|
 |Back From the Dead|Passive|N/A|The Revenant is immune to Ice damage and the Frostbitten status.|
 |Empty Husk|Passive|N/A|The Revenant cannot have its MP drained from any source.|
 |Single-Minded|Passive|N/A|The Revenant is immune to being Taunted.|
-|Apocalypse|Paradigm Action|1 Anima|The Revnant makes a spell against all of its enemies that deals magical ice damage that is multiplied by 3 in addition to other modifiers.|
+|Apocalypse|Paradigm Action|1 Anima|The Revenant uses a spell against all of its enemies that deals magical ice damage that is multiplied by 3 in addition to other modifiers.|
 
 ## Doctor Strazio
 **Domain:** Forbidden Laboratory.  
@@ -163,7 +163,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Scalpel|Melee|1 AP|The Doctor makes a basic strike.|
-|Soulrend|Special|1 AP, 10 MP|The Doctor makes a spell against a single enemy that does magical wind damage on a hit.  If this attack breaks the target's Shell, the Doctor can use this ability again immediately on another enemy without needing to spend additional AP and MP.|
+|Soulrend|Special|1 AP, 10 MP|The Doctor uses a spell against a single enemy that does magical wind damage on a hit.  If this attack breaks the target's Shell, the Doctor can use this ability again immediately on another enemy without needing to spend additional AP and MP.|
 |Treatment|Multi|1 AP, 18 MP|The Doctor removes all statuses and debuffs from themselves and all of their allies.|
 |Recharge|Ally|1 AP, 5 MP|Restores 30 MP to a single one of the Doctor's allies.  The Doctor cannot use this ability on themselves.|
 |Time Dilation|Multi|1 AP, 25 MP|The Doctor uses [Haste](/srd/heroes/jobs/support) on itself and all of its allies.|
@@ -224,7 +224,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Reflect|Self|1 AP, 12 MP|Inflicts the Reflected status on the Infernal Engine.  The next time it is hit with a spell, the attack is bounced back at the user instead.|
 |Ingenius Design|Passive|N/A|The Infernal Engine has no elemental weaknesses, only resistances.|
 |Soul-Powered Construct|Passive|N/A|If the Infernal Engine runs out of MP, it instantly dies.|
-|Apocalypse|Paradigm Action|1 Anima|The Infernal Engine makes a spell against all of its enemies that deals magical fire damage multiplied by 3 in addition to other modifiers.|
+|Apocalypse|Paradigm Action|1 Anima|The Infernal Engine uses a spell against all of its enemies that deals magical fire damage multiplied by 3 in addition to other modifiers.|
 |Ascension|Paradigm Action|1 Anima|The Infernal Engine's MP refills to maximum, and all of its abilities only cost 5 MP for the rest of the battle.|
 
 ## The Overmind
@@ -252,8 +252,8 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Caress|Melee|1 AP|The Savior makes a basic strike.|
-|Spotlight|Ranged|1 AP, 9 MP|The Savior makes a spell against a single enemy that deals magical light damage on a hit that is multiplied by 2 in addition to other modifiers.|
-|Searing Ray|Multi|1 AP, 15 MP|The Savior makes a spell against every enemy on the battlefield that deals magical light damage on a hit.|
+|Spotlight|Ranged|1 AP, 9 MP|The Savior uses a spell against a single enemy that deals magical light damage on a hit that is multiplied by 2 in addition to other modifiers.|
+|Searing Ray|Multi|1 AP, 15 MP|The Savior uses a spell against every enemy on the battlefield that deals magical light damage on a hit.|
 |Knowledge is Power|Self|1 AP, 16 MP|The Savior buffs its Magical Defense by three steps on the Bonus Tracker.|
 |Power is Everything|Self|1 AP, 7 MP|The Savior restores 26 points of its Shell.|
 |Cure|Ally|1 AP, 12 MP|The Savior removes all statuses from a single target.  If it is advantageous, the Savior will also cast this on its enemies.|

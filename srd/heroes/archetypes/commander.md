@@ -55,7 +55,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 **[Striker](/srd/heroes/roles/striker):** Vanguard.  When an ally makes a [strike](/srd/combat/attacks#term-strike) using the AP the Commander granted them with Orders, they may substitute the Commander's Physical Accuracy and [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) for their own.
 
-**[Caster](/srd/heroes/roles/caster):** Siege Engineer.  When an ally makes a [spell](/srd/combat/attacks#term-spell) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Accuracy and [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) for their own.
+**[Caster](/srd/heroes/roles/caster):** Siege Engineer.  When an ally uses a [spell](/srd/combat/attacks#term-spell) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Accuracy and [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) for their own.
 
 **[Healer](/srd/heroes/roles/healer):** Medical Tent.  When an ally uses a Healer ability using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Attack for their own.
 

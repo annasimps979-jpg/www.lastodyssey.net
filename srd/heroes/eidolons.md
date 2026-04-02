@@ -41,7 +41,7 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Magic Blast|[Ranged](/srd/combat/attacks#term-ranged)|1 AP|The eidolon makes a colorless [spell](/srd/combat/attacks#term-spell) against a single enemy.|
-|Elemental Blast|Ranged|1 AP|The eidolon makes a spell whose elemental type is the same as the user's elemental type against a single enemy.|
+|Elemental Blast|Ranged|1 AP|The eidolon uses a spell whose elemental type is the same as the user's elemental type against a single enemy.|
 
 **Healer:**
 

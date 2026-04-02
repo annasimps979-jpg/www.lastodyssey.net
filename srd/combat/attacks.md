@@ -30,7 +30,7 @@ Every ability has an <dfn id = "term-ability-type">ability type</dfn> that speci
 
 Sometimes, the total Evasion or Resistance of the target of an ability is great enough that there is no chance that the ability will hit them.  For status-inflicting abilities, this means that they cannot be hit.  For magical and physical, attacks, however, a result of 1 will still lead to a hit.  If the resulting damage would be 0, it is still 0.
 
-The minimum amount of base damage a character deals with an attack is 1.  However, the base damage they deal is not equal to the final damage the enemy takes.  Instead, the final damage they take is equal to the base damage of the attack multiplied by any relevant modifiers and then rounded to the nearest integer.  When a [character](/srd/key-terms#term-character) makes a spell against an opponent that has a Shell active, they do double damage.  Likewise, when a character makes a strike against an opponent that does not have a Shell active, they also do double damage.
+The minimum amount of base damage a character deals with an attack is 1.  However, the base damage they deal is not equal to the final damage the enemy takes.  Instead, the final damage they take is equal to the base damage of the attack multiplied by any relevant modifiers and then rounded to the nearest integer.  When a [character](/srd/key-terms#term-character) uses a spell against an opponent that has a Shell active, they do double damage.  Likewise, when a character makes a strike against an opponent that does not have a Shell active, they also do double damage.
 
 ## Multi Attacks
 
