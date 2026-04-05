@@ -2,70 +2,114 @@
 
 Over time, players will earn [XP](/srd/discovery/earning-xp#term-xp), which can be spent to make their [Heroes](/srd/key-terms#term-player-character) more powerful by increasing their [attributes](/srd/key-terms#term-attribute) and unlocking new [abilities](/srd/key-terms#term-ability).  A Hero's level of advancement in relation to other characters is represented by its [tier](/srd/heroes/creation#term-tier).  [Players](/srd/key-terms#term-player) can spend XP on four distinct improvements to their Hero: unlocking a new [role](/srd/heroes/roles) or unlocking a talent for one they already have, taking what's known as a flex power, adding 1 to one of their attributes, and advancing 3 total ranks in any roles they are currently have access to.  The last two of these can be done twice per tier, while the first two can only be done once.  To learn more about how Heroes earn XP, see the [Earning XP](/srd/discovery/earning-xp) section.
 
-The XP cost of each improvement a player buys is equal to the number of improvements they have already bought at their current tier plus one, multiplied by twice their current tier, as shown in the table below.  For example, at tier 1 the very first improvement a player buys will cost 2 XP, while the last one will cost 12 XP.  Once a Hero has reached tier 10 and then unlocked all of the possible advancements, they may no longer advance in tier.  If a Hero in the [campaign](/srd/key-terms#term-campaign) reaches the maximum possible tier, this means that it's time for the campaign to start wrapping up and/or for that Hero to move on and be changed out for another one.  Every time a Hero advances in tier, they also gain access to the [archetype](/srd/heroes/archetypes) ability or [statistic](/srd/key-terms#term-statistic) bonus of the corresponding rank.
+The XP cost of each improvement a player buys is equal to the tier at which they are buying the improvement multiplied by the number they have bought this tier plus one.  For example, at tier 1 the very first improvement a player buys will cost 1 XP, while the last one will cost 6 XP.  Once a Hero has reached tier 10 and then unlocked all of the possible advancements, they may no longer advance in tier.  If a Hero in the [campaign](/srd/key-terms#term-campaign) reaches the maximum possible tier, this means that it's time for the campaign to start wrapping up and/or for that Hero to move on and be changed out for another one.  Every time a Hero advances in tier, they also gain access to the [archetype](/srd/heroes/archetypes) ability or [statistic](/srd/key-terms#term-statistic) bonus of the corresponding rank.
 
-|Tier|Advancement|XP Cost|Total XP|
-|:-|:-|:-|:-|
-|1|First|2|2|
-|1|Second|4|6|
-|1|Third|6|12|
-|1|Fourth|8|20|
-|1|Fifth|10|30|
-|1|Sixth|12|42|
-|2|First|4|46|
-|2|Second|8|54|
-|2|Third|12|66|
-|2|Fourth|16|82|
-|2|Fifth|20|102|
-|2|Sixth|24|126|
-|3|First|6|132|
-|3|Second|12|144|
-|3|Third|18|162|
-|3|Fourth|24|186|
-|3|Fifth|30|216|
-|3|Sixth|36|252|
-|4|First|8|260|
-|4|Second|16|276|
-|4|Third|24|300|
-|4|Fourth|32|332|
-|4|Fifth|40|372|
-|4|Sixth|48|420|
-|5|First|10|430|
-|5|Second|20|450|
-|5|Third|30|480|
-|5|Fourth|40|520|
-|5|Fifth|50|570|
-|5|Sixth|60|630|
-|6|First|12|642|
-|6|Second|24|666|
-|6|Third|36|702|
-|6|Fourth|48|750|
-|6|Fifth|60|810|
-|6|Sixth|72|882|
-|7|First|14|896|
-|7|Second|28|924|
-|7|Third|42|966|
-|7|Fourth|56|1022|
-|7|Fifth|70|1092|
-|7|Sixth|84|1176|
-|8|First|16|1192|
-|8|Second|32|1224|
-|8|Third|48|1272|
-|8|Fourth|64|1336|
-|8|Fifth|80|1416|
-|8|Sixth|96|1512|
-|9|First|18|1530|
-|9|Second|36|1566|
-|9|Third|54|1620|
-|9|Fourth|72|1692|
-|9|Fifth|90|1782|
-|9|Sixth|108|1890|
-|10|First|20|1910|
-|10|Second|40|1950|
-|10|Third|60|2010|
-|10|Fourth|80|2090|
-|10|Fifth|100|2190|
-|10|Sixth|120|2310|
+<table>
+    <caption>Advancement Cost in XP</caption>
+        <tr>
+            <td></td>
+            <td colspan=6><b>Advancement</b></td>
+        </tr>
+        <tr>
+            <td><b>Tier</b></td>
+            <td>1st</td>
+            <td>2nd</td>
+            <td>3rd</td>
+            <td>4th</td>
+            <td>5th</td>
+            <td>6th</td>
+        </tr>
+        <tr>
+            <td>1st</td>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>2nd</td>
+            <td>2</td>
+            <td>4</td>
+            <td>6</td>
+            <td>8</td>
+            <td>10</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td>3rd</td>
+            <td>3</td>
+            <td>6</td>
+            <td>9</td>
+            <td>12</td>
+            <td>15</td>
+            <td>18</td>
+        </tr>
+        <tr>
+            <td>4th</td>
+            <td>4</td>
+            <td>8</td>
+            <td>12</td>
+            <td>16</td>
+            <td>20</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>5th</td>
+            <td>5</td>
+            <td>10</td>
+            <td>15</td>
+            <td>20</td>
+            <td>25</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>6th</td>
+            <td>6</td>
+            <td>12</td>
+            <td>18</td>
+            <td>24</td>
+            <td>30</td>
+            <td>36</td>
+        </tr>
+        <tr>
+            <td>7th</td>
+            <td>7</td>
+            <td>14</td>
+            <td>21</td>
+            <td>28</td>
+            <td>35</td>
+            <td>42</td>
+        </tr>
+        <tr>
+            <td>8th</td>
+            <td>8</td>
+            <td>16</td>
+            <td>32</td>
+            <td>40</td>
+            <td>48</td>
+            <td>56</td>
+        </tr>
+        <tr>
+            <td>9th</td>
+            <td>9</td>
+            <td>18</td>
+            <td>27</td>
+            <td>36</td>
+            <td>45</td>
+            <td>54</td>
+        </tr>
+        <tr>
+            <td>10th</td>
+            <td>10</td>
+            <td>20</td>
+            <td>30</td>
+            <td>40</td>
+            <td>50</td>
+            <td>60</td>
+        </tr>
+</table>
 
 When a Hero first advances to a new tier, they also advance the rank of their archetype and gain the corresponding advancement.  While at a given tier, each Hero will take each of advancements listed below one single time.  Once these advancements have been taken, they must advance to the next tier to advance further.
 

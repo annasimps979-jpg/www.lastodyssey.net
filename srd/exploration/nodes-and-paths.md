@@ -20,4 +20,4 @@ While traveling, players may encounter [enemies](/srd/enemies#term-enemy) or [NP
 
 ## Exploration XP
 
-When players either visit a new node, discover an interesting [landmark](/srd/exploration/settlements/landmarks), or discover a hidden or otherwise hard-to-reach area, they will earn 1 [Discovery XP](/srd/discovery/earning-xp#term-discovery-xp) for doing so.  If they manage to reach a node that is well-hidden or very difficult to find, they will earn 5 XP instead.
+When players either visit a new node, discover an interesting [landmark](/srd/exploration/settlements/landmarks), or discover a hidden or otherwise hard-to-reach area, they will earn 1 [Discovery XP](/srd/discovery/earning-xp#term-discovery-xp) for doing so.  If they manage to reach a node that is secret or otherwise concealed, they will earn 5 XP instead.
