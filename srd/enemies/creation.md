@@ -4,7 +4,7 @@
 
 ## Enemy Properties
 
-*  The _<dfn id = "term-enemy-type">enemy type</dfn>_ of an enemy is a measure of its power relative to its [tier](/srd/heroes/creation#term-tier).  _<dfn id = "term-normal-enemy">Normal</dfn>_ enemies are about as powerful as a Hero, _<dfn id = "term-elite-enemy">Elite</dfn>_ enemies are a match for the entire [party](/srd/key-terms#term-party), and _Antagonists_ are powerful bosses that are a serious challenge for any party.
+*  The _<dfn id = "term-power-level">power level</dfn>_ of an enemy is a measure of its power relative to its [tier](/srd/heroes/creation#term-tier).  _<dfn id = "term-normal-enemy">Normal</dfn>_ enemies are about as powerful as a Hero, _<dfn id = "term-elite-enemy">Elite</dfn>_ enemies are a match for the entire [party](/srd/key-terms#term-party), and [Antagonists](/srd/anima/antagonists) are powerful bosses that are a serious challenge for any party.
 *  The _<dfn id = "term-creature-type">creature type</dfn>_ of an enemy is a single word that best describes the type of living being they are in the context of the setting.  There are a few special items, such as weapons with the Slayer feature, that interact with an enemy's creature type.
 *  An enemy's _elemental type_ determines the damage that different elemental attacks do to them.
 *  An enemy's _tier_ indirectly determines their [combat](/srd/combat) [statistics](/srd/heroes/attributes-and-statistics#term-statistic) by setting the number of [attribute](/srd/key-terms#term-attribute) points available to allocate to determine their statistics.
@@ -15,7 +15,7 @@
 
 ## Setting Attributes
 
-When creating a new enemy, the GM must spend a fixed amount of points on each of these attributes that depends on the enemy's tier and its enemy type.  At tier 1, Normal enemies have 6 points to distribute, Elite enemies have 8, and each [Form](/srd/anima/antagonists/defeat#term-form) of an Antagonist has 10.  Each additional tier grants 2 more points to Normal enemies, 3 more points to Elite enemies, and 4 more points to Antagonists.  The minimum value that an enemy can have in each of their attributes is 0.  The maximum value that a Normal enemy can have in a given attribute is 10, the maximum value an Elite can have is 15, and the maximum that an Antagonist can have is 20.  In addition to attribute points, the Health, Mana, and Initiative of all enemies are adjusted by a number called the enemy's _<dfn id = "term-tier-multiplier">tier multiplier</dfn>._  The tier multipliers for a Normal enemy are 5 for their Health and Mana and 1 for their Initiative, Elites have multipliers of 10 for their Health and Mana and 2 for their Initiative, and Antagonists have 20 for their Health and Mana and 2 for their Initiative.
+When creating a new enemy, the GM must spend a fixed amount of points on each of these attributes that depends on the enemy's tier and its power level.  At tier 1, Normal enemies have 6 points to distribute, Elite enemies have 8, and each [Form](/srd/anima/antagonists/defeat#term-form) of an Antagonist has 10.  Each additional tier grants 2 more points to Normal enemies, 3 more points to Elite enemies, and 4 more points to Antagonists.  The minimum value that an enemy can have in each of their attributes is 0.  The maximum value that a Normal enemy can have in a given attribute is 10, the maximum value an Elite can have is 15, and the maximum that an Antagonist can have is 20.  In addition to attribute points, the Health, Mana, and Initiative of all enemies are adjusted by a number called the enemy's _<dfn id = "term-tier-multiplier">tier multiplier</dfn>._  The tier multipliers for a Normal enemy are 5 for their Health and Mana and 1 for their Initiative, Elites have multipliers of 10 for their Health and Mana and 2 for their Initiative, and Antagonists have 20 for their Health and Mana and 2 for their Initiative.
 
 ## Calculating Statistics
 
@@ -46,7 +46,7 @@ After an enemy's combat statistics and abilities have been determined, they are 
 ## Summary
 
 In total, GMs creating a new enemy should complete the following steps:
-1.  Determine its tier and enemy type.
+1.  Determine its tier and power level.
 2.  Determine its creature type.'
 3.  Determine its elemental type.
 4.  Determine its attributes.

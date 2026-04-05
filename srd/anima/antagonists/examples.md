@@ -63,7 +63,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 **Description:** Ser Tarbh is a charismatic and boisterous man whose troops are doggedly loyal to him.  Behind the veneer of joy, however, is a deeply traumatized war veteran who has decided to burn his humanity in exchange for revenge against his former enemies, the kingdom of the Stells.
 
-**[Eidolon](/srd/heroes/eidolons#term-eidolon):** Hill Giant (Striker, Earth, Tier 3, Body 7, Mind 1, Spirit 1).
+**[Eidolon](/srd/heroes/eidolons#term-eidolon):** Hill Giant (Earth).
 
 ### Form 1: War Leader (Villain 3, Human, Colorless)
 
@@ -233,7 +233,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 **Description:** The Overmind is a millennia-old psychic whose original body has been replaced over time with writhing fleshgrafts and horrifying cybernetics that allow it to project its will into the minds of even its most distant subjects.  The weight of so much psychic influence has rendered it quite mad, making it a threat that must be stopped before it destroys the known universe.
 
-**Eidolon:** Mindeater (Saboteur, [Light](/srd/combat/elemental-types#term-light), Body 5, Mind 15, Spirit 7, Debuffs Magical Attack).
+**Eidolon:** Mindeater ([Light](/srd/combat/elemental-types#term-light)).
 
 ### Form 1: Savior (Villain 9, Angel, Light)
 

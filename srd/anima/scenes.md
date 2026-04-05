@@ -11,7 +11,7 @@ A Scene ends once sufficient context for the central character's sacrifice is es
 ## What Counts as a Scene?
 
 Because Scenes are special forms of story resolution, they cannot trigger as a part of [combat](/srd/combat), or any other structured form of task resolution.  For example, if a character is doing something that counts as a skill challenge, they cannot also earn Anima.  With this in mind, there are five scenarios which are always valid opportunities for a Scene:
-*  When a character puts their life at risk for something important to them, they will earn 5 Anima.
+*  When a character puts their life at risk for something important to them, they will earn 5 Anima.  Characters without an [Aspiration](/srd/heroes/creation#term-aspiration) may not do this.
 *  When a character puts one of their [Relationships](/srd/heroes/creation#term-relationship) at risk for something important to them, they will earn 1-3 Anima.
 *  When a character puts one of their [Aspirations](/srd/heroes/creation#term-aspiration) at risk for something important to them, they will earn 1-3 Anima.
 *  When a character puts something important to them at risk for the sake of one of their Relationships, they will earn 1-3 Anima.

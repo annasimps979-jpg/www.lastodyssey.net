@@ -1,4 +1,4 @@
-# Enemy Types
+# Creature Types
 
 Enemies differ from Heroes in a few important ways.  First, enemies begin with a Shell of their [elemental type](/srd/combat/elemental-types#term-elemental-type) in addition to their [HP](/srd/heroes/abilities-and-statistics#term-hp).  Enemies also count as their elemental type for the purpose of calculating the damage they receive.  Finally, each enemy has a _<dfn id = "term-creature-type">creature type</dfn>,_ which is a single word that describes what kind of being it is.  In the base game, there are ten creature types:
 * _<dfn id = "term-human">Humans</dfn>_ are creatures that are or are approximate to human beings.
