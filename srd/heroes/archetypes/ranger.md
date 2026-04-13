@@ -3,11 +3,11 @@
 A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Light](/srd/economy/equipment/armor#term-light-armor) [armor](/srd/economy/equipment/armor).
 *  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Swords](/srd/economy/equipment/weapons#term-sword).
-*  +10 [Health](/srd/heroes/attributes-and-statistics#term-health)
-*  +10 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
-*  +4 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Evasion](/srd/heroes/attributes-and-statistics#term-evasion).
+*  +10 [Health](/srd/heroes/numbers#term-health)
+*  +10 [Mana](/srd/heroes/numbers#term-mana)
+*  +4 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Evasion](/srd/heroes/numbers#term-evasion).
 
 ## Advancements by Tier
 
@@ -31,7 +31,7 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Lay Trap|[Special](/srd/combat/attacks#term-special-ability)|5 [MP](/srd/heroes/attributes-and-statistics#term-mp), 1 AP|The Ranger designates either the front row or the back row of the enemies' side of the battlefield.  The next time an enemy moves into this row, the Ranger may either make a [basic attack](/srd/combat/round#term-basic-attack) against them, casting the hit die twice as though they were Hunted, or use Mark Target on them, without spending any AP.|
+|Lay Trap|[Special](/srd/combat/attacks#term-special-ability)|5 [MP](/srd/heroes/numbers#term-mp), 1 AP|The Ranger designates either the front row or the back row of the enemies' side of the battlefield.  The next time an enemy moves into this row, the Ranger may either make a [basic attack](/srd/combat/round#term-basic-attack) against them, casting the hit die twice as though they were Hunted, or use Mark Target on them, without spending any AP.|
 
 **Tier 6:** The Ranger gains +1 Physical Accuracy.
 
@@ -57,7 +57,7 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 **[Caster](/srd/heroes/roles/caster):** Detonate.  When an enemy triggers the effect of Lay Trap, the Ranger may use a single-target spell against them rather than a basic attack.  When they do so, their player may cast the hit die twice and choose between the two results.
 
-**[Healer](/srd/heroes/roles/healer):** Rescuscitate.  The Ranger may use their Mark Target ability to apply the Watched status to one of their allies. When a Watched character drops to 0 [HP](/srd/heroes/attributes-and-statistics#term-hp) or below, the Watched status is removed, and they regain an amount of HP equal to the Ranger's [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) when the status was applied.  Only one ally may be Watched by the Ranger at a time.
+**[Healer](/srd/heroes/roles/healer):** Rescuscitate.  The Ranger may use their Mark Target ability to apply the Watched status to one of their allies. When a Watched character drops to 0 [HP](/srd/heroes/numbers#term-hp) or below, the Watched status is removed, and they regain an amount of HP equal to the Ranger's [Magical Attack](/srd/heroes/numbers#term-spell) when the status was applied.  Only one ally may be Watched by the Ranger at a time.
 
 **[Defender](/srd/heroes/roles/defender):** Forcefield.  The Ranger may use the Mark Target ability to apply the Defended status to an ally.  The next time a Defended character is hit by a sleight, a spell, or a strike, the damage or status is negated.  Only one ally may be Defended by the Ranger at a time.
 

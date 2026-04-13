@@ -6,9 +6,9 @@
 
 |Type|Description|
 |:-|:-|
-|<dfn id = "term-tracking">Tracking</dfn>|When attempting to find information by making direct use of their character's five senses, the player should receive a result equal to or under their character's [Body](/srd/heroes/attributes-and-statistics#term-body).|
-|<dfn id = "term-research">Research</dfn>|When attempting to find information using technical or academic knowledge such as reading and mathematics, the player should receive a result equal to or under their character's [Mind](/srd/heroes/attributes-and-statistics#term-mind).|
-|<dfn id = "term-insight">Insight</dfn>|When attempting to find information based on social insight, such as observation of people's expressions and mannerisms, the player should receive a result equal to or under their character's [Spirit](/srd/heroes/attributes-and-statistics#term-spirit).|
+|<dfn id = "term-tracking">Tracking</dfn>|When attempting to find information by making direct use of their character's five senses, the player should receive a result equal to or under their character's [Body](/srd/heroes/numbers#term-body).|
+|<dfn id = "term-research">Research</dfn>|When attempting to find information using technical or academic knowledge such as reading and mathematics, the player should receive a result equal to or under their character's [Mind](/srd/heroes/numbers#term-mind).|
+|<dfn id = "term-insight">Insight</dfn>|When attempting to find information based on social insight, such as observation of people's expressions and mannerisms, the player should receive a result equal to or under their character's [Spirit](/srd/heroes/numbers#term-spirit).|
 
 If players do not have any questions in mind, they can participate in a _<dfn id = "term-directionless-investigation">directionless investigation</dfn>._  During a directionless investigation, a player declares what their character does rather than ask any questions of the GM.  They will then learn 1d4 pieces of information of the GM's choice.  Undergoing a directionless investigation also expends the same amount of time that a normal investigation related to the same topic would take.
 
@@ -27,7 +27,7 @@ When contextually appropriate, characters may make one single investigation duri
 ## What Counts As An Investigation?
 
 Not every question that the players ask will be worthy of an investigation.  If a piece of information is common knowledge or it is reasonable that a player would know it due to their particular background, the GM should simply provide it to the players directly.  However, there are several categories of question that will always require an investigation to answer.  These are:
-*  Questions about local enemies, such as information about their [creature](/srd/enemies/creation#term-creature-type) and [elemental types](/srd/combat/elemental-types#term-elemental-type), [statistics](/srd/key-terms#term-statistic), [abilities](/srd/key-terms#term-ability), and [item tables](/srd/combat/ending#term-item-table).
+*  Questions about local enemies, such as information about their [creature](/srd/enemies/creation#term-creature-type) and [elements](/srd/combat/elements#term-element), [statistics](/srd/key-terms#term-statistic), [abilities](/srd/key-terms#term-ability), and [item tables](/srd/combat/ending#term-item-table).
 *  Questions about nearby [paths](/srd/exploration/nodes-and-paths#term-path), such as their [danger rating](/srd/exploration/nodes-and-paths#term-danger-rating), their [navigation difficulty](/srd/exploration/nodes-and-paths#term-navigation-difficulty), how long they are, where they lead, and what weather players might encounter along the way.
 *  Questions about local goods and services, including what [merchants](/srd/economy/merchants) and [followers](/srd/economy/followers) are in the area and where to find [items](/srd/economy/items) and [equipment](/srd/economy/equipment).
 *  Questions about [Antagonists](/srd/anima/antagonists), including their past and present activities, their abilities, how much power and Anima they have accumulated, and what they might be planning.

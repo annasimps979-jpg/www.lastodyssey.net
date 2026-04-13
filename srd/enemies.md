@@ -4,7 +4,7 @@
 
 In Last Odyssey, every [character](/srd/key-terms#term-character) that is capable of fighting the [Heroes](/srd/key-terms#term-hero) in [combat](/srd/combat) is called an _<dfn id = "term-enemy">enemy</dfn>._  Not every [NPC](/srd/key-terms#term-npc) is an enemy, but any NPCs that also have a set of corresponding combat [statistics](/srd/key-terms#term-statistic) and give the Heroes [XP](/srd/heroes/advancement#term-experience-points) when they die count.
 
-An enemy's description will list their [tier](/srd/heroes/creation#term-tier), their creature type, their elemental type, and whether they are Normal, Elite, or an Antagonist for the purposes of XP calculation.  The header for every monster will look like this: ((XP Type) (Tier), (Creature Type), (Elemental Type)).  This will then be followed by their combat statistics and their abilities.
+An enemy's description will list their [tier](/srd/heroes/creation#term-tier), their creature type, their element, and whether they are Normal, Elite, or an Antagonist for the purposes of XP calculation.  The header for every monster will look like this: ((XP Type) (Tier), (Creature Type), (Element)).  This will then be followed by their combat statistics and their abilities.
 
 - Differentiate
     - [Creature Types:](/srd/enemies/types) How each enemy is classified.

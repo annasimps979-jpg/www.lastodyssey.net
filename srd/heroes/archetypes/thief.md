@@ -3,11 +3,11 @@
 The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Light](/srd/economy/equipment/armor#term-light-armor) [armor](/srd/economy/equipment/armor).
 *  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Daggers](/srd/economy/equipment/weapons#term-dagger).
-*  +10 [Health](/srd/heroes/attributes-and-statistics#term-health)
-*  +5 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
-*  +6 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense).
+*  +10 [Health](/srd/heroes/numbers#term-health)
+*  +5 [Mana](/srd/heroes/numbers#term-mana)
+*  +6 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Attack](/srd/heroes/numbers#term-strike).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Defense](/srd/heroes/numbers#term-physical-defense).
 
 ## Advancements by Tier
 
@@ -49,18 +49,18 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Assassinate|Melee|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon's player selects an enemy and casts the [outcome die](/srd/key-terms#term-outcome-die).  That enemy loses a percentage of their remaining combined [HP](/srd/heroes/attributes-and-statistics#term-hp) and [Shell](/srd/combat/shells) equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
+|Assassinate|Melee|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon's player selects an enemy and casts the [outcome die](/srd/key-terms#term-outcome-die).  That enemy loses a percentage of their remaining combined [HP](/srd/heroes/numbers#term-hp) and [Shell](/srd/combat/shells) equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
 
 ## Talents
 
 **[Striker](/srd/heroes/roles/striker):** Lifesteal.  When the Thief uses Steal on an enemy and the result of the die is a 4, they drain an amount of HP from the target equal to their current Physical Attack and give it to themselves.
 
-**[Caster](/srd/heroes/roles/caster):** Manasteal.  When the Thief uses Steal on an enemy and the result is a 4 on the item table, they drain an amount of [MP](/srd/heroes/attributes-and-statistics#term-mp) from the target equal to their current [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) and give it to themselves.
+**[Caster](/srd/heroes/roles/caster):** Manasteal.  When the Thief uses Steal on an enemy and the result is a 4 on the item table, they drain an amount of [MP](/srd/heroes/numbers#term-mp) from the target equal to their current [Magical Attack](/srd/heroes/numbers#term-spell) and give it to themselves.
 
 **[Healer](/srd/heroes/roles/healer):** Night Shift.  The Thief may use their Healer abilities while Hidden without losing the Hidden status.
 
 **[Defender](/srd/heroes/roles/defender):** Ninja Bodyguard.  The Thief may use Guard, Shield, Counter, and Reflect without losing the Hidden status.  If any of the effects of these abilities are triggered while they are Hidden, they lose the Hidden status.
 
-**Support:** Shellsteal.  When the Thief uses Steal on an enemy and receives a 4 on their item table, the Thief drains an amount of Shell from the target equal to their current Magical Attack and gives it to themselves.  Their current Shell will then become the [elemental type](/srd/combat/elemental-types#term-elemental-type) of the drained Shell.
+**Support:** Shellsteal.  When the Thief uses Steal on an enemy and receives a 4 on their item table, the Thief drains an amount of Shell from the target equal to their current Magical Attack and gives it to themselves.  Their current Shell will then become the [element](/srd/combat/elements#term-element) of the drained Shell.
 
-**Saboteur:** Infection.  When the Thief uses Steal on an enemy and receives a 4 on their item table, they inflict the status on the target associated with the Thief's elemental type.  If the target is immune to this status, this talent does not apply.
+**Saboteur:** Infection.  When the Thief uses Steal on an enemy and receives a 4 on their item table, they inflict the status on the target associated with the Thief's element.  If the target is immune to this status, this talent does not apply.

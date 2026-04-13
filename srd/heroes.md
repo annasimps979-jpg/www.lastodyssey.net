@@ -7,7 +7,7 @@ In Last Odyssey, each [player](/srd) plays one of the protagonists of the story.
 - How They Are Made
     - [Hero Creation:](/srd/heroes/creation) An overview of the elements of character building.
 - How They Are Classified
-    -[Attributes and Statistics:](/srd/heroes/attributes-and-statistics) The mechanical heart of every character.
+    - [Numbers:](/srd/heroes/numbers) The mechanical heart of every character.
     - [Archetypes:](/srd/heroes/archetypes) Unique sets of abilities that distinguish each Hero.
     - [Roles:](/srd/heroes/Roles) A Hero's proficiencies during battle.
 - What Comes In Their Wake

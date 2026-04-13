@@ -4,7 +4,7 @@ All transactions that take place between [characters](/srd/key-terms#term-charac
 
 ## Barter
 
-If players do not want to or are not able to directly exchange currency--for example, in a very poor or out of the way settlement--they can also engage in direct barter.  The way barter works is quite simple.  If the players are able to offer the equivalent cr value for an item in other items or above, they can exchange their items for one.  Exchanging an item for a lesser cr value is difficult, and requires either deception or a good relationship with the person being bartered with, and is handled with a [Mind](/srd/heroes/attributes-and-statistics#term-mind) [skill challenge](/srd/discovery/skill-challenges).
+If players do not want to or are not able to directly exchange currency--for example, in a very poor or out of the way settlement--they can also engage in direct barter.  The way barter works is quite simple.  If the players are able to offer the equivalent cr value for an item in other items or above, they can exchange their items for one.  Exchanging an item for a lesser cr value is difficult, and requires either deception or a good relationship with the person being bartered with, and is handled with a [Mind](/srd/heroes/numbers#term-mind) [skill challenge](/srd/discovery/skill-challenges).
 
 ## Earning Money
 

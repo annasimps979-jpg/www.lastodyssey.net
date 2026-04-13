@@ -28,7 +28,7 @@ Trystan: Right, well, it's a shark as far as you can tell.
 
 Nick: Quirty is gonna take a look around, see if there are any hidden levers.
 
-Trystan: Okay, sure.  I think we can handle this as an [investigation](/srd/discovery/investigation#term-investigation).  That would be using your five senses.  What's your [Body](/srd/heroes/attributes-and-statistics#term-body) again?
+Trystan: Okay, sure.  I think we can handle this as an [investigation](/srd/discovery/investigation#term-investigation).  That would be using your five senses.  What's your [Body](/srd/heroes/numbers#term-body) again?
 
 Nick: Quirty's Body [attribute](/srd/key-terms#term-attribute) is 5.
 

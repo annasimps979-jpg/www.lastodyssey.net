@@ -9,5 +9,5 @@ The _<dfn id = "term-role">role</dfn>_ a Hero plays determines the part they pla
     - [Caster:](/srd/heroes/roles/caster) An offensive role focused on doing damage to the entire battlefield.
     - [Healer:](/srd/heroes/roles/healer) A defensive role focused on healing and removing [statuses](/srd/combat/statuses) from allies.
     - [Defender:](/srd/heroes/roles/defender) A defensive role focused on drawing enemy attacks and negating received damage.
-    - [Support:](/srd/heroes/roles/support) A defensive role focused on [buffing](/srd/combat/buffs-and-debuffs#term-buff) allies and protecting them from [elemental](/srd/combat/elemental-types#term-elemental-type) damage.
+    - [Support:](/srd/heroes/roles/support) A defensive role focused on [buffing](/srd/combat/buffs-and-debuffs#term-buff) allies and protecting them from [elemental](/srd/combat/elements#term-element) damage.
     - [Saboteur:](/srd/heroes/roles/saboteur) An offensive role focused on [debuffing](/srd/combat/buffs-and-debuffs#term-debuff) enemies and making them vulnerable to elemental damage.

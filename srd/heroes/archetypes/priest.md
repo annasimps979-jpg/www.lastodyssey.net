@@ -3,11 +3,11 @@
 The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Cloth](/srd/economy/equipment/armor#term-cloth-armor) [armor](/srd/economy/equipment/armor).
 *  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Scepters](/srd/economy/equipment/weapons#term-scepter).
-*  +10 [Health](/srd/heroes/attributes-and-statistics#term-health)
-*  +15 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
-*  +2 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [abilities](/srd/key-terms#term-ability) will [buff](/srd/combat/buffs-and-debuffs#term-buff) [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their abilities will [debuff](/srd/combat/buffs-and-debuffs#term-debuff) [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell).
+*  +10 [Health](/srd/heroes/numbers#term-health)
+*  +15 [Mana](/srd/heroes/numbers#term-mana)
+*  +2 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [abilities](/srd/key-terms#term-ability) will [buff](/srd/combat/buffs-and-debuffs#term-buff) [Magical Defense](/srd/heroes/numbers#term-magical-defense).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their abilities will [debuff](/srd/combat/buffs-and-debuffs#term-debuff) [Magical Attack](/srd/heroes/numbers#term-spell).
 
 ## Advancements by Tier
 
@@ -15,7 +15,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Restore [MP](/srd/heroes/attributes-and-statistics#term-mp)|[Ally](/srd/combat/attacks#term-ally-ability)|5 MP, 1 [AP](/srd/combat/round#term-ap)|The Priest restores the MP of an ally apart from themselves or any other Priests by an amount equal to their Magical Attack.|
+|Restore [MP](/srd/heroes/numbers#term-mp)|[Ally](/srd/combat/attacks#term-ally-ability)|5 MP, 1 [AP](/srd/combat/round#term-ap)|The Priest restores the MP of an ally apart from themselves or any other Priests by an amount equal to their Magical Attack.|
 
 **Tier 2:** The Priest gains +1 Magical Defense.
 
@@ -53,7 +53,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Bludgeon.  The Priest may deal damage to MP instead of [HP](/srd/heroes/attributes-and-statistics#term-hp) with their strikes when the target is [Shellbroken](/srd/combat/shells#term-shellbroken).
+**[Striker](/srd/heroes/roles/striker):** Bludgeon.  The Priest may deal damage to MP instead of [HP](/srd/heroes/numbers#term-hp) with their strikes when the target is [Shellbroken](/srd/combat/shells#term-shellbroken).
 
 **[Caster](/srd/heroes/roles/caster):** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all enemies that they heal the Priest's allies' MP for.
 

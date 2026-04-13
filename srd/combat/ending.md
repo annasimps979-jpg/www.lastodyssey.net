@@ -1,6 +1,6 @@
 # Ending Combat
 
-A [battle](/srd/key-terms#term-battle) is over when one of the two opposing sides has no active [characters](/srd/key-terms#term-character) remaining on the field, or when one of the sides has successfully fled.  If the [players](/srd/key-terms#term-player) have all been [downed](/srd/heroes/attributes-and-statistics#term-downed) or killed, the [party](/srd/key-terms#term-party) will lose something important before they come to.  For example, a group of robbers might steal all of their [cr](/srd/economy/currency#term-cr), a group of wolves might eat all of their [Supplies](/srd/economy/items/travel), and a [Monster](/srd/anima/antagonists/monsters) might kidnap them and drag them into their lair.
+A [battle](/srd/key-terms#term-battle) is over when one of the two opposing sides has no active [characters](/srd/key-terms#term-character) remaining on the field, or when one of the sides has successfully fled.  If the [players](/srd/key-terms#term-player) have all been [downed](/srd/heroes/numbers#term-downed) or killed, the [party](/srd/key-terms#term-party) will lose something important before they come to.  For example, a group of robbers might steal all of their [cr](/srd/economy/currency#term-cr), a group of wolves might eat all of their [Supplies](/srd/economy/items/travel), and a [Monster](/srd/anima/antagonists/monsters) might kidnap them and drag them into their lair.
 
 ## Battle XP
 

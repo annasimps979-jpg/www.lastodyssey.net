@@ -11,15 +11,15 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
-|Restore HP|1 cr|When used, this item restores a fixed amount of [HP](/srd/heroes/attributes-and-statistics#term-hp) to a single [character](/srd/key-terms#term-character).  If it is Mundane, it restores 10 HP, if it is Rare it restores 20, and if it is Expert it restores 30.|
-|Restore MP|3 cr|When used, this item restores a fixed amount of [MP](/srd/heroes/attributes-and-statistics#term-mp) to a single character.  If it is Mundane, it restores 10 MP, if it is Rare it restores 20, and if it is Expert it restores 30.|
-|Physical Damage|5 cr|When used, this item deals [base](/srd/key-terms#term-base) [colorless](/srd/combat/elemental-types#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
+|Restore HP|1 cr|When used, this item restores a fixed amount of [HP](/srd/heroes/numbers#term-hp) to a single [character](/srd/key-terms#term-character).  If it is Mundane, it restores 10 HP, if it is Rare it restores 20, and if it is Expert it restores 30.|
+|Restore MP|3 cr|When used, this item restores a fixed amount of [MP](/srd/heroes/numbers#term-mp) to a single character.  If it is Mundane, it restores 10 MP, if it is Rare it restores 20, and if it is Expert it restores 30.|
+|Physical Damage|5 cr|When used, this item deals [base](/srd/key-terms#term-base) [colorless](/srd/combat/elements#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Magical Damage|5 cr|When used, this item deals base colorless magical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
-|Special Damage|7 cr|When used, this item deals base [elemental](/srd/combat/elemental-types#term-elemental-type) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
+|Special Damage|7 cr|When used, this item deals base [elemental](/srd/combat/elements#term-element) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Debuff|9 cr|When used, this item inflicts a [debuff](/srd/combat/buffs-and-debuffs#term-debuff) of the specified type.  If it is Mundane, it debuffs by one level on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker), if it is Rare it debuffs by two, and if it is Expert it debuffs by three.|
 |Buff|9 cr|When used, this item applies a [buff](/srd/combat/buffs-and-debuffs#term-buff) of the specified type.  If it is Mundane, it buffs by one level on the Bonus Tracker, if it is Rare it buffs by two, and if it is Expert it buffs by three.|
-|Inflict Status|12 cr|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/attributes-and-statistics#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the hit die.  If the item is Rare, subtract 2 from the result, and if the Expert then subtract 5 from the result.|
+|Inflict Status|12 cr|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the hit die.  If the item is Rare, subtract 2 from the result, and if the Expert then subtract 5 from the result.|
 |Revive|15 cr|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/death-and-injury#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
@@ -32,7 +32,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Negate Resistances|50 cr|This item negates all of a target's elemental resistances until the beginning of the target's next [turn](/srd/combat/round#term-turn).|
 |Block Physical Damage|100 cr|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
 |Block Magical Damage|400 cr|The next time the target of this item would otherwise take magical damage, they do not take any damage instead.|
-|Shell|10 cr|The target of this item gains 10 Shell of the corresponding elemental type.|
+|Shell|10 cr|The target of this item gains 10 Shell of the corresponding element.|
 |Haste|800 cr|The target of this item becomes [Hasted](/srd/heroes/roles/support).  This still cannot stack with any other applications of Hasted.|
 |Slow|900 cr|The target of this item becomes [Slowed](/srd/heroes/roles/saboteur).  This still cannot stack with any other applications of Slowed.|
 |Summon Creature|1000x(Tier of summoned creature)|When a character uses this item, it summons a creature, usually an [enemy](/srd/enemies) of some type, to fight as an ally on their side.  The first time it can take its turn is during the [round](/srd/combat/round#term-round) after it was summoned, but it can be targeted as soon as it is summoned.|
@@ -59,7 +59,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Shark Tooth Charm|Rare|Special Damage (Water)|N/A|70 cr|
 |Smelling Salts|Rare|Revive|Row|750 cr|
 |Poison Dart|Rare|Inflict Toxin|Delay|90 cr|
-|Experimental Combat Stim|Expert|Buff [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike)/Buff [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy)|Dual|9000 cr|
+|Experimental Combat Stim|Expert|Buff [Physical Attack](/srd/heroes/numbers#term-strike)/Buff [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|Dual|9000 cr|
 |Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 cr|
 |Mandragora|N/A|Summon Creature (Dryad)|N/A|4000 cr|
 
@@ -102,6 +102,6 @@ After the item's effect has been determined, cast the [outcome die](/srd/key-ter
 |5|Delay|
 |6|Random|
 
-For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the elemental type of the item's effect.  If the item is a Buff or Debuff item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/key-terms#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](/srd/enemies/examples) section or create one of the appropriate tier.
+For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the element of the item's effect.  If the item is a Buff or Debuff item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/key-terms#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](/srd/enemies/examples) section or create one of the appropriate tier.
 
 The last thing to do when creating an item is to calculate its cr value and give it tangible existence in the game world.  A good rule of thumb is that an item should have a means by which character activate it, a physical form, and a container, such as a glass vial or a ball of clay.

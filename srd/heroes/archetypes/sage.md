@@ -3,11 +3,11 @@
 The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Cloth](/srd/economy/equipment/armor#term-cloth-armor) [armor](/srd/economy/equipment/armor).
 *  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Staves](/srd/economy/equipment/weapons#term-staff).
-*  +5 [Health](/srd/heroes/attributes-and-statistics#term-health)
-*  +15 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
-*  +4 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense).
+*  +5 [Health](/srd/heroes/numbers#term-health)
+*  +15 [Mana](/srd/heroes/numbers#term-mana)
+*  +4 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Magical Attack](/srd/heroes/numbers#term-spell).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Magical Defense](/srd/heroes/numbers#term-magical-defense).
 
 ## Advancements by Tier
 
@@ -15,7 +15,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Grimoire|[Passive](/srd/combat/attacks#term-passive)|N/A|In addition to [MP](/srd/heroes/attributes-and-statistics#term-mp), the Sage also has a number of Spell Slots equal to their current tier. When they use a [spell](/srd/combat/attacks#term-spell) or a [flex power](/srd/heroes/advancement#term-flex-power), they may expend a single Spell Slot instead of paying the MP cost.|
+|Grimoire|[Passive](/srd/combat/attacks#term-passive)|N/A|In addition to [MP](/srd/heroes/numbers#term-mp), the Sage also has a number of Spell Slots equal to their current tier. When they use a [spell](/srd/combat/attacks#term-spell) or a [flex power](/srd/heroes/advancement#term-flex-power), they may expend a single Spell Slot instead of paying the MP cost.|
 
 **Tier 2:** The Sage gains +1 Magical Attack.
 
@@ -61,6 +61,6 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 **[Defender](/srd/heroes/roles/defender):** Arcane Shield.  The Sage may use Counterspell to negate enemy strikes.  Negating an enemy's [basic attack](/srd/combat/round#term-basic-attack) costs 5 MP.
 
-**Support:** Ward.  The Sage may use Counterspell to negate enemy debuffs and [status-inflicting abilities](/srd/combat/attacks#term-sleight).
+**Support:** Ward.  The Sage may use Counterspell to negate enemy debuffs and [sleights](/srd/combat/attacks#term-sleight).
 
 **Saboteur:** Curse.  The Sage may use Counterspell to negate enemy buffs and enemy healing abilities such as those that restore HP or MP and those that revive other enemies.

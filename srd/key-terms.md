@@ -23,7 +23,7 @@
 
 ## Base Numbers
 
-Throughout these rules you will sometimes see numbers such as damage or statistics as well as properties such as a character's elemental type be referred to as _<dfn id="term-base">base</dfn>_ numbers.  A number that is _base_ has not been modified by any situation-specific bonuses or penalties.  For example, the base damage of an attack is the damage that it would do to its target if there were no elemental or type modifiers involved, while the base [Evasion](/srd/heroes/attributes-and-statistics#term-evasion) of a character is what their Evasion is without any applied buffs, debuffs, status effects, or other situational modifiers.  See the [Combat Rules](/srd/combat) for more details.
+Throughout these rules you will sometimes see numbers such as damage or statistics as well as properties such as a character's element be referred to as _<dfn id="term-base">base</dfn>_ numbers.  A number that is _base_ has not been modified by any situation-specific bonuses or penalties.  For example, the base damage of an attack is the damage that it would do to its target if there were no elemental or type modifiers involved, while the base [Evasion](/srd/heroes/numbers#term-evasion) of a character is what their Evasion is without any applied buffs, debuffs, status effects, or other situational modifiers.  See the [Combat Rules](/srd/combat) for more details.
 
 ## Dice Nomenclature
 

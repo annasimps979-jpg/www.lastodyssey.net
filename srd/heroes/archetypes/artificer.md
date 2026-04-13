@@ -3,11 +3,11 @@
 The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Heavy](/srd/economy/equipment/armor#term-heavy-armor) [armor](/srd/economy/equipment/armor).
 *  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Gauntlets](/srd/economy/equipment/weapons#term-gauntlet).
-*  +10 [Health](/srd/heroes/attributes-and-statistics#term-health)
-*  +10 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
-*  +4 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Resistance](/srd/heroes/attributes-and-statistics#term-resistance).
+*  +10 [Health](/srd/heroes/numbers#term-health)
+*  +10 [Mana](/srd/heroes/numbers#term-mana)
+*  +4 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Resistance](/srd/heroes/numbers#term-resistance).
 
 ## Advancements by Tier
 
@@ -15,7 +15,7 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Scan|[Ranged](/srd/combat/attacks#term-ranged)|2 [MP](/srd/heroes/attributes-and-statistics#term-mp), 1 [AP](/srd/combat/round#term-ap)|The Artificer selects a single target.  They immediately learn its current [HP](/srd/heroes/attributes-and-statistics#term-hp), MP, [Shell](/srd/combat/shells), and [elemental type](/srd/combat/elemental-types#term-elemental-type).  Subsequent uses of this ability on the same target will allow the Artificer to learn the same information, or allow them to learn the value of its [statistics](/srd/key-terms#term-statistic), its [item table](/srd/combat/ending#term-item-table), or reveal its abilities.|
+|Scan|[Ranged](/srd/combat/attacks#term-ranged)|2 [MP](/srd/heroes/numbers#term-mp), 1 [AP](/srd/combat/round#term-ap)|The Artificer selects a single target.  They immediately learn its current [HP](/srd/heroes/numbers#term-hp), MP, [Shell](/srd/combat/shells), and [element](/srd/combat/elements#term-element).  Subsequent uses of this ability on the same target will allow the Artificer to learn the same information, or allow them to learn the value of its [statistics](/srd/key-terms#term-statistic), its [item table](/srd/combat/ending#term-item-table), or reveal its abilities.|
 
 **Tier 2:** The Artificer gains +1 Magical Accuracy.
 
@@ -31,7 +31,7 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Multiscan|[Multi](/srd/combat/attacks#term-multi)|10 MP, 1 AP|The Artificer targets all [enemies](/srd/enemies), and immediately learns their current HP, MP, Shell, and [elemental type](/srd/combat/elemental-types#term-elemental-type).  Subsequent uses of this ability on all enemies will allow them to learn the same information, or allow them to learn the value of their enemies' statistics, their item tables, or reveal the abilities of each one individually.|
+|Multiscan|[Multi](/srd/combat/attacks#term-multi)|10 MP, 1 AP|The Artificer targets all [enemies](/srd/enemies), and immediately learns their current HP, MP, Shell, and [element](/srd/combat/elements#term-element).  Subsequent uses of this ability on all enemies will allow them to learn the same information, or allow them to learn the value of their enemies' statistics, their item tables, or reveal the abilities of each one individually.|
 
 **Tier 6:** The Artificer gains +1 Magical Accuracy.
 
@@ -53,14 +53,14 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Sniper.  When the Artificer uses an item that does physical damage to an enemy, they may add their [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) to its [base](/srd/key-terms#term-base) damage.
+**[Striker](/srd/heroes/roles/striker):** Sniper.  When the Artificer uses an item that does physical damage to an enemy, they may add their [Physical Attack](/srd/heroes/numbers#term-strike) to its [base](/srd/key-terms#term-base) damage.
 
-**[Caster](/srd/heroes/roles/caster):** Magic Ammo.  When the Artificer uses an item that does magical damage to an enemy, they may add their [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) to its base damage.
+**[Caster](/srd/heroes/roles/caster):** Magic Ammo.  When the Artificer uses an item that does magical damage to an enemy, they may add their [Magical Attack](/srd/heroes/numbers#term-spell) to its base damage.
 
 **[Healer](/srd/heroes/roles/healer):** First Aid.  When the Artificer uses an item that heals an ally, they may add their Magical Attack to its base healing.
 
 **[Defender](/srd/heroes/roles/defender):** Optimize Defenses.  If the Artificer uses the ability on an ally, they receive the Optimized status.  The next strike, spell, or sleight that hits them will ignore any of their weaknesses, and the Optimized status is then removed.
 
-**Support:** Targeting Systems.  When the Artificer uses Scan on an ally, they gain a temporary +5 to their [Physical](/srd/heroes/attributes-and-statistics#term-physical-accuracy), Magical, and [Status Accuracies](/srd/heroes/attributes-and-statistics#term-status-accuracy) until the end of their next [turn](/srd/combat/round#term-turn) that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).
+**Support:** Targeting Systems.  When the Artificer uses Scan on an ally, they gain the Targeting status, which grants a temporary +3 to their [Physical](/srd/heroes/numbers#term-physical-accuracy), Magical, and [Status Accuracies](/srd/heroes/numbers#term-status-accuracy) until the end of their next [turn](/srd/combat/round#term-turn) that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).
 
 **Saboteur:** Monkeywrench.  When the Artificer uses an item that inflicts a status on an enemy, they may subtract their Status Accuracy from the result on the [hit die](/srd/combat/attacks#term-hit-die) to determine if the target is hit.

@@ -12,11 +12,11 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 **Statistics**
 
-|[HP](/srd/heroes/attributes-and-statistics#term-hp)|[Shell](/srd/combat/shells)|[Initiative](/srd/heroes/attributes-and-statistics#term-initiative)|[Mana](/srd/heroes/attributes-and-statistics#term-mana)|[Action Points](/srd/combat/round#term-ap)|[Physical Attack](/srd/heroes/attributes-and-statistics#term-strike)|[Magical Attack](/srd/heroes/attributes-and-statistics#term-spell)|[Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense)|[Magical Defense](/srd/heroes/attributes-and-statistics#term-magical-defense)|
+|[HP](/srd/heroes/numbers#term-hp)|[Shell](/srd/combat/shells)|[Initiative](/srd/heroes/numbers#term-initiative)|[Mana](/srd/heroes/numbers#term-mana)|[Action Points](/srd/combat/round#term-ap)|[Physical Attack](/srd/heroes/numbers#term-strike)|[Magical Attack](/srd/heroes/numbers#term-spell)|[Physical Defense](/srd/heroes/numbers#term-physical-defense)|[Magical Defense](/srd/heroes/numbers#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |12|18|8|30|2|4|4|2|2|
 
-|[Evasion](/srd/heroes/attributes-and-statistics#term-evasion)|[Resistance](/srd/heroes/attributes-and-statistics#term-resistance)|[Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/attributes-and-statistics#term-magical-accuracy)|[Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy)|
+|[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |4|2|4|8|8|
 
@@ -25,9 +25,9 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Leg Stab|[Melee](/srd/combat/attacks#term-melee)|1 [AP](/srd/combat/round#term-ap)|The Webmaster makes a [basic](/srd/combat/round#term-basic-attack) [strike](/srd/combat/attacks#term-strike).|
-|Magic Spear|[Ranged](/srd/combat/attacks#term-ranged)|1 AP, 3 [MP](/srd/heroes/attributes-and-statistics#term-mp)|The Webmaster uses a spell that inflicts [colorless](/srd/combat/elemental-types#term-colorless) magical damage on a  hit.|
+|Magic Spear|[Ranged](/srd/combat/attacks#term-ranged)|1 AP, 3 [MP](/srd/heroes/numbers#term-mp)|The Webmaster uses a spell that inflicts [colorless](/srd/combat/elements#term-colorless) magical damage on a  hit.|
 |Bind|Ranged|1 AP, 7 MP|The Webmaster uses a [sleight](/srd/combat/attacks#term-sleight) that inflicts Petrify on a hit.|
-|Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the [Petrified](/srd/combat/statuses#term-petrified) [status](/srd/combat/statuses), the Webmaster deals magical [earth](/srd/combat/elemental-types#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to cast the [hit die](/srd/combat/attacks#term-hit-die).|
+|Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the [Petrified](/srd/combat/statuses#term-petrified) [status](/srd/combat/statuses), the Webmaster deals magical [earth](/srd/combat/elements#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to cast the [hit die](/srd/combat/attacks#term-hit-die).|
 |Antimagic Field|[Special](/srd/combat/attacks#term-special-ability)|Variable|The Webmaster can use the [Sage's](/srd/heroes/archetypes/sage) Counterspell ability.|
 |Eggs|[Passive](/srd/combat/attacks#term-passive)|N/A|The Webmaster begins the [battle](/srd/key-terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
 |Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 HP and no defenses.  If the Egg is still present during the next [Effect Phase](/srd/combat/round#term-effect-phase), it hatches into a Spiderling enemy that joins the Initative order during the next [combat round](/srd/combat/round).|
@@ -111,7 +111,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Shrug Off Fatigue|Self|1 AP, 8 MP|The Leshen removes all debuffs from itself.|
 |Mend the Flesh|Self|1 AP, 11 MP|The Leshen restores 20 HP to itself.|
 |Easily Provoked|Passive|N/A|When the Leshen is Taunted, it also becomes Focused.|
-|Unnatural Resilience|Passive|N/A|The Leshen counts as having 2x resistance to all status-inflicting abilities.|
+|Unnatural Resilience|Passive|N/A|The Leshen counts as having 2x resistance to all sleights.|
 |Comeback|Paradigm Action|1 Anima|Raises the Leshen's Physical Attack buff to +7 regardless of its current value.|
 
 ### Form 3: Revenant (Villain 5, Undead, Ice)
@@ -168,7 +168,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Recharge|Ally|1 AP, 5 MP|Restores 30 MP to a single one of the Doctor's allies.  The Doctor cannot use this ability on themselves.|
 |Time Dilation|Multi|1 AP, 25 MP|The Doctor uses [Haste](/srd/heroes/jobs/support) on itself and all of its allies.|
 |Sadist|Passive|N/A|Whenever the Doctor inflicts damage on an enemy, they also regain an amount of MP equal to the amount of damage they dealt.|
-|Prepared|Passive|N/A|The Doctor has one of each [elemental type](/srd/combat/elemental-types#term-elemental-type) of Rare Elemental Damage item in its inventory.|
+|Prepared|Passive|N/A|The Doctor has one of each [element](/srd/combat/elements#term-element) of Rare Elemental Damage item in its inventory.|
 |Target Acquired|Paradigm Action|1 Anima|All of the Doctor's enemies on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
 |Second Chance|Paradigm Action|1 Anima|The Doctor heals and revives all of their allies to full HP and removes all of their current statuses and debuffs.|
 
@@ -198,7 +198,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Deep Cuts|Passive|N/A|If the result on the hit die is a 1 when the Torture Rack makes a strike against one of its enemies, the target will also receive 1 random [injury](/srd/combat/death-and-injury#term-injury).|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all debuffs.|
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target that are determined by the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table).|
-|Assassinate|Paradigm Action|1 Anima|The Torture Rack designates an enemy, and the [GM](/srd/key-terms#term-gm) casts the [outcome die](/srd/key-terms#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/attributes-and-statistics#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
+|Assassinate|Paradigm Action|1 Anima|The Torture Rack designates an enemy, and the [GM](/srd/key-terms#term-gm) casts the [outcome die](/srd/key-terms#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/numbers#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
 
 ### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
 
@@ -233,7 +233,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 
 **Description:** The Overmind is a millennia-old psychic whose original body has been replaced over time with writhing fleshgrafts and horrifying cybernetics that allow it to project its will into the minds of even its most distant subjects.  The weight of so much psychic influence has rendered it quite mad, making it a threat that must be stopped before it destroys the known universe.
 
-**Eidolon:** Mindeater ([Light](/srd/combat/elemental-types#term-light)).
+**Eidolon:** Mindeater ([Light](/srd/combat/elements#term-light)).
 
 ### Form 1: Savior (Villain 9, Angel, Light)
 
@@ -281,16 +281,16 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Tentacle|Ranged|1 AP|The Unveiledakes a basic strike against a single target that can force it to Move on a hit for free.|
-|Assault|Multi|1 AP, 15 MP|The Unveiled makes a strike against all of the Unveiled's enemies that deals physical damage of its current elemental type on a hit.|
-|Degrade|Multi|1 AP, 19 MP|The Unveiled inflicts a form of the Vulnerable status on all of its enemies enemies that corresponds to its current elemental type.|
-|Humiliate|Multi|1 AP, 18 MP|The Unveiled uses a sleight against all of its enemies that inflicts the status associated with its current elemental type on a hit.|
+|Assault|Multi|1 AP, 15 MP|The Unveiled makes a strike against all of the Unveiled's enemies that deals physical damage of its current element on a hit.|
+|Degrade|Multi|1 AP, 19 MP|The Unveiled inflicts a form of the Vulnerable status on all of its enemies enemies that corresponds to its current element.|
+|Humiliate|Multi|1 AP, 18 MP|The Unveiled uses a sleight against all of its enemies that inflicts the status associated with its current element on a hit.|
 |Temporal Distortion|Multi|1 AP, 28 MP|Slows all of the Unveiled's enemies.|
 |The Void Stares Back|Special|1 AP, 20 MP|Uses any of the abilities that the Unveiled's enemies used between the end of its last [turn](/srd/combat/round#term-turn) and the beginning of its current turn.|
 |Push Through the Cracks|Ranged|1 AP, 30 MP|The Unveiled targets a single one of its enemies.  Said enemy cannot act and cannot be acted upon until the beginning of the Unveiled's next turn.|
-|Prism|Passive|N/A|When the Unveiled is hit by a form of elemental damage it is weak to, it changes its elemental type to a random new one as determined by the Random Element Table.|
+|Prism|Passive|N/A|When the Unveiled is hit by a form of elemental damage it is weak to, it changes its element to a random new one as determined by the Random Element Table.|
 |Incomprehensible Horror|Passive|N/A|The Unveiled is immune to the Scan ability as well as any equivalent abilities or items.|
 |Devourer of Souls|Passive|N/A|Whenever the Unveiled downs an enemy, it also drains that enemy of all of its MP and restores the same amount of MP to itself.|
 |Devourer of Worlds|Passive|N/A|The Unveiled cannot be downed by damage from sources other than damage that it has an elemental weakness to.|
-|Mirror Shield|Paradigm Action|1 Anima|Until the beginning of the Unveiled's next turn, all attacks and status-inflicting abilities used against it are negated and reflected back onto the user.|
+|Mirror Shield|Paradigm Action|1 Anima|Until the beginning of the Unveiled's next turn, all attacks and sleights used against it are negated and reflected back onto the user.|
 |Tango|Paradigm Action|1 Anima|The Unveiled uses every ability that its enemies have used since the end of its last turn.|
 |Doom|Paradigm Action|1 Anima|The Unveiled selects a single target.  After 1d4 [rounds](/srd/combat/round#term-round), the target will be downed.  There is no way to prevent this apart from ending the battle.|

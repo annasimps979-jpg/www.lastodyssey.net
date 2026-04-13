@@ -3,11 +3,11 @@
 The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Heavy](/srd/economy/equipment/armor#term-heavy-armor) [armor](/srd/economy/equipment/armor).
 *  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Hammers](/srd/economy/equipment/weapons#term-hammer).
-*  +15 [Health](/srd/heroes/attributes-and-statistics#term-health)
-*  +5 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
-*  +4 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Resistance](/srd/heroes/attributes-and-statistics#term-resistance).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy).
+*  +15 [Health](/srd/heroes/numbers#term-health)
+*  +5 [Mana](/srd/heroes/numbers#term-mana)
+*  +4 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Resistance](/srd/heroes/numbers#term-resistance).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Status Accuracy](/srd/heroes/numbers#term-status-accuracy).
 
 ## Advancements by Tier
 
@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|[Passive](/srd/combat/attacks#term-passive)|N/A|The Commander's allies gain a +1 bonus to their [Status](/srd/heroes/attributes-and-statistics#term-status-accuracy), [Physical](/srd/heroes/attributes-and-statistics#term-physical-accuracy), and [Magical Accuracies](/srd/heroes/attributes-and-statistics#term-magical-accuracy) when they act after the Commander in the [Initiative Order](/srd/combat/starting#term-initiative-order) that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).  If the Commander is [downed](/srd/combat/death-and-injury#term-downed), this effect does not apply.|
+|Standard Bearer|[Passive](/srd/combat/attacks#term-passive)|N/A|The Commander's allies gain a +1 bonus to their [Status](/srd/heroes/numbers#term-status-accuracy), [Physical](/srd/heroes/numbers#term-physical-accuracy), and [Magical Accuracies](/srd/heroes/numbers#term-magical-accuracy) when they act after the Commander in the [Initiative Order](/srd/combat/starting#term-initiative-order) that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).  If the Commander is [downed](/srd/combat/death-and-injury#term-downed), this effect does not apply.|
 
 **Tier 4:** The Commander gains +1 Resistance.
 
@@ -53,9 +53,9 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Vanguard.  When an ally makes a [strike](/srd/combat/attacks#term-strike) using the AP the Commander granted them with Orders, they may substitute the Commander's Physical Accuracy and [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike) for their own.
+**[Striker](/srd/heroes/roles/striker):** Vanguard.  When an ally makes a [strike](/srd/combat/attacks#term-strike) using the AP the Commander granted them with Orders, they may substitute the Commander's Physical Accuracy and [Physical Attack](/srd/heroes/numbers#term-strike) for their own.
 
-**[Caster](/srd/heroes/roles/caster):** Siege Engineer.  When an ally uses a [spell](/srd/combat/attacks#term-spell) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Accuracy and [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell) for their own.
+**[Caster](/srd/heroes/roles/caster):** Siege Engineer.  When an ally uses a [spell](/srd/combat/attacks#term-spell) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Accuracy and [Magical Attack](/srd/heroes/numbers#term-spell) for their own.
 
 **[Healer](/srd/heroes/roles/healer):** Medical Tent.  When an ally uses a Healer ability using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Attack for their own.
 

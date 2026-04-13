@@ -3,11 +3,11 @@
 The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroes/creation), they receive the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Heavy](/srd/economy/equipment/armor#term-heavy-armor) [armor](/srd/economy/equipment/armor).
 *  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Lances](/srd/economy/equipment/weapons#term-lance).
-*  +15 [Health](/srd/heroes/attributes-and-statistics#term-health)
-*  +10 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
-*  +2 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Defense](/srd/heroes/attributes-and-statistics#term-physical-defense).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Attack](/srd/heroes/attributes-and-statistics#term-strike).
+*  +15 [Health](/srd/heroes/numbers#term-health)
+*  +10 [Mana](/srd/heroes/numbers#term-mana)
+*  +2 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Defense](/srd/heroes/numbers#term-physical-defense).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Attack](/srd/heroes/numbers#term-strike).
 
 ## Advancements by Tier
 
@@ -57,10 +57,10 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 
 **[Caster](/srd/heroes/roles/caster):** Artillery.  While the Knight is Focused, they may use spells in addition to their basic attack.  Hitting an enemy with a spell increases their bonus damage by 1, while missing an enemy with a spell removes the Focused status.
 
-**[Healer](/srd/heroes/roles/healer):** Medic.  While the Knight is Focused, they may use healing abilities.  Abilities that restore [HP](/srd/heroes/attributes-and-statistics#term-hp) will heal for additional HP equal to their current damage bonus.
+**[Healer](/srd/heroes/roles/healer):** Medic.  While the Knight is Focused, they may use healing abilities.  Abilities that restore [HP](/srd/heroes/numbers#term-hp) will heal for additional HP equal to their current damage bonus.
 
 **[Defender](/srd/heroes/roles/defender):** Tower.  While the Knight is Focused, they may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and they take reduced damage from physical and spells equal to their current damage bonus.
 
-**Support:** Mystic.  While the Knight is Focused, they gain 1 [Shell](/srd/combat/shells) of their [elemental type](/srd/combat/elemental-types#term-elemental-type) every time they hit an enemy with a physical or spell.  If they have a Shell of a different elemental type active, they gain 1 Shell of that elemental type instead.
+**Support:** Mystic.  While the Knight is Focused, they gain 1 [Shell](/srd/combat/shells) of their [element](/srd/combat/elements#term-element) every time they hit an enemy with a physical or spell.  If they have a Shell of a different element active, they gain 1 Shell of that element instead.
 
-**Saboteur:** Spy.  While the Knight is Focused, they may use [status-inflicting abilities](/srd/combat/attacks#term-sleight) in addition to their basic attack.  Hitting an enemy with a sleight increases their bonus damage by 1, while missing an enemy with a sleight removes the Focused status.
+**Saboteur:** Spy.  While the Knight is Focused, they may use [sleights](/srd/combat/attacks#term-sleight) in addition to their basic attack.  Hitting an enemy with a sleight increases their bonus damage by 1, while missing an enemy with a sleight removes the Focused status.

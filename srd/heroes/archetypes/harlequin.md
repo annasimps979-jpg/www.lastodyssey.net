@@ -3,11 +3,11 @@
 The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Light](/srd/economy/equipment/armor#term-light-armor) [armor](/srd/economy/equipment/armor).
 *  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Claws](/srd/economy/equipment/weapons#term-claw).
-*  +5 [Health](/srd/heroes/attributes-and-statistics#term-health)
-*  +10 [Mana](/srd/heroes/attributes-and-statistics#term-mana)
-*  +6 [Initiative](/srd/heroes/attributes-and-statistics#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) affect [Status Accuracy](/srd/heroes/attributes-and-statistics#term-status-accuracy).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities affect [Physical Accuracy](/srd/heroes/attributes-and-statistics#term-physical-accuracy).
+*  +5 [Health](/srd/heroes/numbers#term-health)
+*  +10 [Mana](/srd/heroes/numbers#term-mana)
+*  +6 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) affect [Status Accuracy](/srd/heroes/numbers#term-status-accuracy).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities affect [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy).
 
 ## Advancements by Tier
 
@@ -15,7 +15,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers up to 5 times their [tier](/srd/heroes/creation#term-tier) [HP](/srd/heroes/attributes-and-statistics#term-hp), [MP](/srd/heroes/attributes-and-statistics#term-mp) and [Shell](/srd/combat/shells) against an enemy, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/key-terms#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
+|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers up to 5 times their [tier](/srd/heroes/creation#term-tier) [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) against an enemy, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/key-terms#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
 
 **Tier 2:** The Harlequin gains +1 Status Accuracy.
 
@@ -39,7 +39,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Roulette Wheel|Passive|N/A|When the group [calls Initiative](/srd/combat/starting#term-call-initiative), the Harlequin's player may choose to call that the result will be even or odd instead of a specific number.  If their call is correct, the Harlequin's [Initiative](/srd/heroes/attributes-and-statistics#term-initiative) counts as 1.5x its value, rounded down, for the purpose of determining the [Initiative Order](/srd/combat/starting#term-initiative-order), and the Harlequin will win on a tie.  If the player's call is incorrect, the Harlequin's Initiative counts as 0.75x its value instead, and they will lose on a tie.|
+|Roulette Wheel|Passive|N/A|When the group [calls Initiative](/srd/combat/starting#term-call-initiative), the Harlequin's player may choose to call that the result will be even or odd instead of a specific number.  If their call is correct, the Harlequin's [Initiative](/srd/heroes/numbers#term-initiative) counts as 1.5x its value, rounded down, for the purpose of determining the [Initiative Order](/srd/combat/starting#term-initiative-order), and the Harlequin will win on a tie.  If the player's call is incorrect, the Harlequin's Initiative counts as 0.75x its value instead, and they will lose on a tie.|
 
 **Tier 8:** The Harlequin gains +1 Status Accuracy.
 
@@ -49,13 +49,13 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Spin the Revolver|Ranged|1 Anima, 2 AP|The Harlequin's player chooses an enemy and casts 1d6.  If the result is a 6, the enemy takes damage equal to quadruple their [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/attributes-and-statistics#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  The outcome die is recast until either the eidolon or the target have taken damage.|
+|Spin the Revolver|Ranged|1 Anima, 2 AP|The Harlequin's player chooses an enemy and casts 1d6.  If the result is a 6, the enemy takes damage equal to quadruple their [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/numbers#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  The outcome die is recast until either the eidolon or the target have taken damage.|
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Random Strike.  When the Harlequin uses a [strike](/srd/combat/attacks#term-strike), their player may cast on the [Random Element Table](/srd/combat/random-tables#term-random-element-table) to determine its [elemental type](/srd/combat/elemental-types#term-elemental-type).
+**[Striker](/srd/heroes/roles/striker):** Random Strike.  When the Harlequin uses a [strike](/srd/combat/attacks#term-strike), their player may cast on the [Random Element Table](/srd/combat/random-tables#term-random-element-table) to determine its [element](/srd/combat/elements#term-element).
 
-**[Caster](/srd/heroes/roles/caster):** Rainbow Bolt.  When the Harlequin uses a [spell](/srd/combat/attacks#term-spell), their player may cast on the Random Element Table to determine its elemental type.
+**[Caster](/srd/heroes/roles/caster):** Rainbow Bolt.  When the Harlequin uses a [spell](/srd/combat/attacks#term-spell), their player may cast on the Random Element Table to determine its element.
 
 **[Healer](/srd/heroes/roles/healer):** Bet Your Life.  When the Harlequin heals an ally with a Healer ability, their player may call a number and then cast the outcome die.  If the result is less than what they called, the amount of healing the character receives is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing the character receives is increased by the number they called.
 
