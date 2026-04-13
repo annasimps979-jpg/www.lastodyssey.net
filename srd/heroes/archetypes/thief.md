@@ -6,7 +6,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 *  +10 [Health](/srd/heroes/numbers#term-health)
 *  +5 [Mana](/srd/heroes/numbers#term-mana)
 *  +6 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Attack](/srd/heroes/numbers#term-strike).
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) will affect [Physical Attack](/srd/heroes/numbers#term-strike).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Defense](/srd/heroes/numbers#term-physical-defense).
 
 ## Advancements by Tier
@@ -15,7 +15,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Steal|[Melee](/srd/combat/attacks#term-melee)|1 [AP](/srd/combat/round#term-ap)|The Thief's player selects an enemy and casts on the enemy's [item table](/srd/combat/ending#term-item-table).  If the Thief obtains an item as a result, they may use it immediately without spending any AP or they may put it in their [inventory](/srd/economy/items#term-inventory) if they have enough Carrying Capacity.  The Thief may only obtain one item per enemy per [battle](/srd/key-terms#term-battle) with this ability.|
+|Steal|[Melee](/srd/combat/attacks#term-melee)|1 [AP](/srd/combat/round#term-ap)|The Thief's player selects an enemy and casts on the enemy's [item table](/srd/combat/ending#term-item-table).  If the Thief obtains an item as a result, they may use it immediately without spending any AP or they may put it in their [inventory](/srd/economy/items#term-inventory) if they have enough Carrying Capacity.  The Thief may only obtain one item per enemy per [battle](/srd/glossary#term-battle) with this ability.|
 
 **Tier 2:** The Thief gains +1 Physical Attack.
 
@@ -23,7 +23,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Hide|[Self](/srd/combat/attacks#term-self-ability)|1 AP|The Thief applies the Hidden [status](/srd/combat/statuses) to themselves.  While they are Hidden, they cannot be the target of any single-target enemy abilities.  At the beginning of their next [turn](/srd/combat/round#term-turn), if they act while Hidden, or if they are the only allied [character](/srd/key-terms#term-character) remaining on the battlefield, the Hidden status is removed.|
+|Hide|[Self](/srd/combat/attacks#term-self-ability)|1 AP|The Thief applies the Hidden [status](/srd/combat/statuses) to themselves.  While they are Hidden, they cannot be the target of any single-target enemy abilities.  At the beginning of their next [turn](/srd/combat/round#term-turn), if they act while Hidden, or if they are the only allied [character](/srd/glossary#term-character) remaining on the battlefield, the Hidden status is removed.|
 
 **Tier 4:** The Thief gains +1 Physical Attack.
 
@@ -49,7 +49,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Assassinate|Melee|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon's player selects an enemy and casts the [outcome die](/srd/key-terms#term-outcome-die).  That enemy loses a percentage of their remaining combined [HP](/srd/heroes/numbers#term-hp) and [Shell](/srd/combat/shells) equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
+|Assassinate|Melee|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon's player selects an enemy and casts the [outcome die](/srd/glossary#term-outcome-die).  That enemy loses a percentage of their remaining combined [HP](/srd/heroes/numbers#term-hp) and [Shell](/srd/combat/shells) equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
 
 ## Talents
 

@@ -1,6 +1,6 @@
 # Example Antagonists
 
-Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-terms#term-campaign) in Last Odyssey will often revolve around a handful of Antagonists.  Here are a few examples that are ready-made for the GM to use in their game.
+Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/glossary#term-campaign) in Last Odyssey will often revolve around a handful of Antagonists.  Here are a few examples that are ready-made for the GM to use in their game.
 
 ## The Spider Queen
 
@@ -29,7 +29,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Bind|Ranged|1 AP, 7 MP|The Webmaster uses a [sleight](/srd/combat/attacks#term-sleight) that inflicts Petrify on a hit.|
 |Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the [Petrified](/srd/combat/statuses#term-petrified) [status](/srd/combat/statuses), the Webmaster deals magical [earth](/srd/combat/elements#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to cast the [hit die](/srd/combat/attacks#term-hit-die).|
 |Antimagic Field|[Special](/srd/combat/attacks#term-special-ability)|Variable|The Webmaster can use the [Sage's](/srd/heroes/archetypes/sage) Counterspell ability.|
-|Eggs|[Passive](/srd/combat/attacks#term-passive)|N/A|The Webmaster begins the [battle](/srd/key-terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
+|Eggs|[Passive](/srd/combat/attacks#term-passive)|N/A|The Webmaster begins the [battle](/srd/glossary#term-battle) with 3 Eggs that can be used to create Spiderlings.|
 |Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 HP and no defenses.  If the Egg is still present during the next [Effect Phase](/srd/combat/round#term-effect-phase), it hatches into a Spiderling enemy that joins the Initative order during the next [combat round](/srd/combat/round).|
 |Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to [Move](/srd/combat/round#term-move) instead of 1.  The Ranger's Forest Walk counteracts this effect.|
 
@@ -198,7 +198,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Deep Cuts|Passive|N/A|If the result on the hit die is a 1 when the Torture Rack makes a strike against one of its enemies, the target will also receive 1 random [injury](/srd/combat/death-and-injury#term-injury).|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all debuffs.|
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target that are determined by the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table).|
-|Assassinate|Paradigm Action|1 Anima|The Torture Rack designates an enemy, and the [GM](/srd/key-terms#term-gm) casts the [outcome die](/srd/key-terms#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/numbers#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
+|Assassinate|Paradigm Action|1 Anima|The Torture Rack designates an enemy, and the [GM](/srd/glossary#term-gm) casts the [outcome die](/srd/glossary#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/numbers#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
 
 ### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
 
@@ -261,7 +261,7 @@ Entire [adventures](/srd/key-terms#term-adventure) or even [campaigns](/srd/key-
 |Alien Biology|Passive|N/A|The Savior will take damage from abilities and items that heal HP and MP, but will heal due to items that deal damage of any kind.  Damage from all other sources is taken as normal.|
 |They Walk Silently Among Us|Passive|N/A|The Savior is immune to the Scan ability as well as any equivalent abilities or items.|
 |Romance|Paradigm Action|1 Anima|The Savior designates a single one of its enemies as its Lover.  For the rest of the battle, the Lover will receive all damage, statuses, buffs, and debuffs that the Savior does, including Haste and Slow.  This effect cannot be removed by the effects of abilities or items, but the Savior can only have one Lover at a time, meaning that if it designates another Lover the first creature stops being one.|
-|Spin the Bottle|Paradigm Action|1 Anima|The GM casts 1d6 and designates a single target.  If the number is a 6, the target of this ability takes a [base](/srd/key-terms#term-base) amount of magical damage equal to 104.  Otherwise, cast again.  If the number is a 6 this time, the Savior takes damage instead of their target.  Go back and forth until either the Savior or their target take damage.|
+|Spin the Bottle|Paradigm Action|1 Anima|The GM casts 1d6 and designates a single target.  If the number is a 6, the target of this ability takes a [base](/srd/glossary#term-base) amount of magical damage equal to 104.  Otherwise, cast again.  If the number is a 6 this time, the Savior takes damage instead of their target.  Go back and forth until either the Savior or their target take damage.|
 |Reveal the Light|Paradigm Action|1 Anima|The Savior inflicts [Blinded](/srd/combat/statuses#term-blinded), Slowed, and one level of debuff of Magical Defense on the Bonus Tracker on all of its enemies.  This ability cannot be resisted.|
 
 ### Form 2: Unveiled (Villain 10, Horror, Water)

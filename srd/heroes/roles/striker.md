@@ -2,7 +2,7 @@
 
 _<dfn id = "term-striker">Strikers</dfn>_ specialize in [strikes](/srd/combat/attacks#term-strike).
 
-While they are Strikers, [Heroes](/srd/key-terms#term-hero) gain the following bonuses to their [statistics](/srd/key-terms#term-statistic):
+While they are Strikers, [Heroes](/srd/glossary#term-hero) gain the following bonuses to their [statistics](/srd/glossary#term-statistic):
 *  Their [Physical Attack](/srd/heroes/numbers#term-strike) is increased by an amount equal to their [Body](/srd/heroes/numbers#term-body)
 *  Their [Evasion](/srd/heroes/numbers#term-evasion) is increased by an amount equal to their [Mind](/srd/heroes/numbers#term-mind).
 *  Their [Physical Defense](/srd/heroes/numbers#term-physical-defense) is increased by an amount equal to their [Spirit](/srd/heroes/numbers#term-spirit).
@@ -16,7 +16,7 @@ While they are Strikers, [Heroes](/srd/key-terms#term-hero) gain the following b
 |3|Power Strike|Melee|5 MP, 1 AP|The Striker makes a colorless strike.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
 |4|Cleave|[Multi](/srd/combat/attacks#term-multi)|7 MP, 1 AP|The Striker makes a colorless, melee strike against all enemies in the front row.|
 |5|Leaping Strike|Ranged|5 MP, 1 AP|The Striker makes a colorless strike against a single target.|
-|6|Elemental Cleave|Multi|10 MP, 1 AP|The Striker makes a melee strike against all enemies in the front row whose element is the same as their [base](/srd/key-terms#term-base) element.|
+|6|Elemental Cleave|Multi|10 MP, 1 AP|The Striker makes a melee strike against all enemies in the front row whose element is the same as their [base](/srd/glossary#term-base) element.|
 |7|Whirlwind|Multi|12 MP, 1 AP|The Striker makes a colorless strike against all enemies on the battlefield.|
 |8|Elemental Leap|Ranged|8 MP, 1 AP|The Striker makes a strike against a single target whose element is the same as their base element.|
 |9|Elemental Whirlwind|Multi|15 MP, 1 AP|The Striker makes a strike against all enemies on the battlefield whose element is the same as their base element.|

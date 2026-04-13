@@ -1,6 +1,6 @@
 # Storms
 
-_<dfn id = "term-storm">Storms</dfn>_ are special types of weather that last for multiple days if triggered.  During the [Navigation Phase](/srd/exploration/travel/round#term-navigation-phase) the following day after a Storm has occurred, the weather is not determined as normal.  Instead, the [GM](/srd/key-terms#term-gm) casts 1d4 and adds 6 to determine the result on the weather table for that day.  There are three types of Storms: Thunderstorms, Snowstorms, and Sandstorms.
+_<dfn id = "term-storm">Storms</dfn>_ are special types of weather that last for multiple days if triggered.  During the [Navigation Phase](/srd/exploration/travel/round#term-navigation-phase) the following day after a Storm has occurred, the weather is not determined as normal.  Instead, the [GM](/srd/glossary#term-gm) casts 1d4 and adds 6 to determine the result on the weather table for that day.  There are three types of Storms: Thunderstorms, Snowstorms, and Sandstorms.
 
 |Storm|Effect|
 |:-|:-|

@@ -1,6 +1,6 @@
 # The Nine Elements
 
-Heroes, enemies, [eidolons](/srd/heroes/eidolons#term-eidolon), and many [abilities](/srd/key-terms#term-ability) all have an extra property called their _<dfn id = "term-element">element</dfn>._  Metaphysically, elements are the forms in which magic is expressed.  There are nine elements in total:
+Heroes, enemies, [eidolons](/srd/heroes/eidolons#term-eidolon), and many [abilities](/srd/glossary#term-ability) all have an extra property called their _<dfn id = "term-element">element</dfn>._  Metaphysically, elements are the forms in which magic is expressed.  There are nine elements in total:
 *  <dfn id = "term-fire">Fire</dfn> magic channels the power of heat and flames, and often has a reddish color.
 *  <dfn id = "term-water">Water</dfn> magic channels the power of the sea and of storms, and often has a deep blue color.
 *  <dfn id = "term-earth">Earth</dfn> magic channels the power of gravity and solid rock, and often has a brownish color.
@@ -11,7 +11,7 @@ Heroes, enemies, [eidolons](/srd/heroes/eidolons#term-eidolon), and many [abilit
 *  <dfn id = "term-light">Light</dfn> magic channels the power of radiation and the sun, and often has a whitish color.
 *  <dfn id = "term-shadow">Shadow</dfn> magic channels the power of darkness and the unknown, and often has a purple-black color.
 
-An [ability](/srd/key-terms#term-ability) or [character](/srd/key-terms#term-character) that does not have an element is referred to as _<dfn id = "term-colorless">colorless</dfn>._  Unless they have a [Shell](/srd/combat/shells) active, Heroes count as colorless for the purpose of calculating the damage they take from enemy attacks.
+An [ability](/srd/glossary#term-ability) or [character](/srd/glossary#term-character) that does not have an element is referred to as _<dfn id = "term-colorless">colorless</dfn>._  Unless they have a [Shell](/srd/combat/shells) active, Heroes count as colorless for the purpose of calculating the damage they take from enemy attacks.
 
 ## Elemental Damage
 

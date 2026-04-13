@@ -6,7 +6,7 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 *  +10 [Health](/srd/heroes/numbers#term-health)
 *  +10 [Mana](/srd/heroes/numbers#term-mana)
 *  +4 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy).
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) will affect [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Evasion](/srd/heroes/numbers#term-evasion).
 
 ## Advancements by Tier
@@ -15,7 +15,7 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Mark Target|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Ranger inflicts the Hunted [status](/srd/combat/statuses) on the target.  When they use a [spell](/srd/combat/attacks#term-spell), [strike](/srd/combat/attacks#term-strike), or [sleight](/srd/combat/attacks#term-sleight) on the target, their player casts the [hit die](/srd/combat/attacks#term-hit-die) twice and chooses the number they prefer.  This does not apply to attacks that target multiple [enemies](/srd/enemies).  Only one enemy can have the Hunted status inflicted on them per Ranger in the [party](/srd/key-terms#term-party).  If a Hunted enemy dies due to one of the Ranger's attacks, they may immediately use Mark Target on another enemy at no AP cost.|
+|Mark Target|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Ranger inflicts the Hunted [status](/srd/combat/statuses) on the target.  When they use a [spell](/srd/combat/attacks#term-spell), [strike](/srd/combat/attacks#term-strike), or [sleight](/srd/combat/attacks#term-sleight) on the target, their player casts the [hit die](/srd/combat/attacks#term-hit-die) twice and chooses the number they prefer.  This does not apply to attacks that target multiple [enemies](/srd/enemies).  Only one enemy can have the Hunted status inflicted on them per Ranger in the [party](/srd/glossary#term-party).  If a Hunted enemy dies due to one of the Ranger's attacks, they may immediately use Mark Target on another enemy at no AP cost.|
 
 **Tier 2:** The Ranger gains +1 Physical Accuracy.
 
@@ -61,6 +61,6 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 **[Defender](/srd/heroes/roles/defender):** Forcefield.  The Ranger may use the Mark Target ability to apply the Defended status to an ally.  The next time a Defended character is hit by a sleight, a spell, or a strike, the damage or status is negated.  Only one ally may be Defended by the Ranger at a time.
 
-**Support:** Herbal Medicine.  The Ranger may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all debuffs that have been applied to them, although this does not affect the position of any of their [statistics](/srd/key-terms#term-statistic) on the [Bonus Tracker](/srd/combat/buffs-and-debuffs).
+**Support:** Herbal Medicine.  The Ranger may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all debuffs that have been applied to them, although this does not affect the position of any of their [statistics](/srd/glossary#term-statistic) on the [Bonus Tracker](/srd/combat/buffs-and-debuffs).
 
 **Saboteur:** Poison Arrow.  When an enemy is affected by the Lay Trap ability, the Ranger may use a single-target sleight on them instead of their basic attack.  When they do so, their player casts the hit die as though the enemy were Hunted.

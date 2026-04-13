@@ -1,4 +1,4 @@
-# Key Terms
+# Glossary
 
 *Commit all of the following to memory.  I'm not kidding.*
 

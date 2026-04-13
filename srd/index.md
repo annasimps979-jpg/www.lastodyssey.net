@@ -24,7 +24,7 @@ Last Odyssey follows contemporary TTRPG structure, in the sense that the GM is t
 
 * [**Beginner's Guide:**](/srd/intro) For people new to FRP and experienced gamers new to Last Odyssey.
 
-* [**Key Terms:**](/srd/key-terms) Some general RPG and Last Odyssey-specific words you will need to understand when reading this document.
+* [**Glossary:**](/srd/glossary) Some general RPG and Last Odyssey-specific words you will need to understand when reading this document.
 
 * [**Table of Contents:**](/srd/table-of-contents) All sections in this SRD, ordered by necessity and complexity.
 

@@ -1,6 +1,6 @@
 # Armor
 
-A [character's](/srd/key-terms#term-character) _<dfn id = "term-armor">armor</dfn>_ is a special type of equipment provides a bonus to their [Magical Defense](/srd/heroes/numbers#term-magical-defense) and a bonus to their [Physical Defense](/srd/heroes/numbers#term-physical-defense).  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during [combat](/srd/combat).  The rules for armor upgrades are identical to the rules for [weapon](/srd/economy/equipment/weapons) upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  There are three varieties of armor, and they also determine the bonuses that characters receive to their [statistics](/srd/key-terms#term-statistic): Cloth armor, Light armor, and Heavy armor.
+A [character's](/srd/glossary#term-character) _<dfn id = "term-armor">armor</dfn>_ is a special type of equipment provides a bonus to their [Magical Defense](/srd/heroes/numbers#term-magical-defense) and a bonus to their [Physical Defense](/srd/heroes/numbers#term-physical-defense).  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during [combat](/srd/combat).  The rules for armor upgrades are identical to the rules for [weapon](/srd/economy/equipment/weapons) upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  There are three varieties of armor, and they also determine the bonuses that characters receive to their [statistics](/srd/glossary#term-statistic): Cloth armor, Light armor, and Heavy armor.
 
 ## Cloth Armor
 
@@ -77,11 +77,11 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 
 |Name|Description|
 |:-|:-|
-|Reinforced|When the wearer is hit by a [strike](/srd/combat/attacks#term-strike) while wearing this armor, the damage they take is reduced by a fixed amount after all modifiers to the [base](/srd/key-terms#term-base) damage are applied.  At [UV](/srd/economy/equipment/upgrades#term-upgrade-value) 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
+|Reinforced|When the wearer is hit by a [strike](/srd/combat/attacks#term-strike) while wearing this armor, the damage they take is reduced by a fixed amount after all modifiers to the [base](/srd/glossary#term-base) damage are applied.  At [UV](/srd/economy/equipment/upgrades#term-upgrade-value) 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
 |Inscribed|When the wearer is hit by a [spell](/srd/combat/attacks#term-spell) while wearing this armor, the damage they take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
-|Extra Ability|When a character wears armor with this upgrade, they are able to use a single [flex power](/srd/heroes/advancement#term-flex-power), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/key-terms#term-ability) at its listed [MP](/srd/heroes/numbers#term-mp) cost.  At UV 1, the ability is earned at rank 1-3 of the role or archetype that can use it, at UV 2 the ability is earned at rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
+|Extra Ability|When a character wears armor with this upgrade, they are able to use a single [flex power](/srd/heroes/advancement#term-flex-power), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/glossary#term-ability) at its listed [MP](/srd/heroes/numbers#term-mp) cost.  At UV 1, the ability is earned at rank 1-3 of the role or archetype that can use it, at UV 2 the ability is earned at rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
 |Elemental Resistance|When a character wears this armor, they resist damage of the specified [element](/srd/combat/elements#term-element) based on the value of the upgrade.  At UV 1, damage dealt to them of that element is multiplied by 0.5, at UV 2 it is multiplied by 0.25, and at UV 3 they are completely immune.|
-|Infused|At the beginning of every [battle](/srd/key-terms#term-battle) while wearing this armor, the wearer gains an amount of temporary [HP](/srd/heroes/numbers#term-hp) depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, they gain 5 HP, at UV 2 they gain 10, and at UV 3 they have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum [Shell](/srd/combat/shells) they can have during the battle.|
+|Infused|At the beginning of every [battle](/srd/glossary#term-battle) while wearing this armor, the wearer gains an amount of temporary [HP](/srd/heroes/numbers#term-hp) depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, they gain 5 HP, at UV 2 they gain 10, and at UV 3 they have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum [Shell](/srd/combat/shells) they can have during the battle.|
 
 ### UV 1
 
@@ -111,7 +111,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Enchanted|If a character is wearing this armor at the beginning of combat, they automatically gain 20 points of Shell of the specified element of this upgrade.  They still gain this even if their [Health](/srd/heroes/numbers#term-health) is less than 20.  All other rules for Shells apply as normal.|
 |Blessed|A character is immune to all debuffs while wearing this armor, and they are also immune to any effects that reduce their [AP](/srd/combat/round#term-ap) in any capacity.|
 |[Mana](/srd/heroes/numbers#term-mana) Battery|When the wearer begins a battle, they gain 20 temporary MP in addition to their current MP.  Any unspent MP from this pool goes away at the end of the battle.|
-|Mechanical|When a character is wearing this armor, they are immune to any statuses that prevent them from using certain [actions](/srd/key-terms#term-action), such as [Silenced](/srd/combat/statuses#term-silenced) or [Frostbitten](/srd/combat/statuses#term-frostbitten).|
+|Mechanical|When a character is wearing this armor, they are immune to any statuses that prevent them from using certain [actions](/srd/glossary#term-action), such as [Silenced](/srd/combat/statuses#term-silenced) or [Frostbitten](/srd/combat/statuses#term-frostbitten).|
 
 ### Unique
 
@@ -124,7 +124,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Conductive|When the wearer takes magical damage due to an enemy's attack while wearing this armor, the enemy immediately also becomes the target of their own spell as though they were the target of the attack.|
 |Weapons Platform|While a character is wearing this armor, they can [swap](/srd/combat/round#term-swap-equipment) weapons and accessories without spending any AP.|
 |Angelic|This armor gives the wearer wings that allow them to take the Fly action during combat.  Fly costs 1 AP and puts the user within melee range of every enemy on the battlefield as though they were in the [front row](/srd/combat/starting#term-front-row), while putting them out of melee range of their attacks as though they were in the [back row](/srd/combat/starting#term-back-row).  However, if the user is hit by any attacks while Flying, they will fall back down to the front row of the battlefield.|
-|Utility Belt|While a character is wearing this armor, they may use one Item from the [party](/srd/key-terms#term-party) inventory per [round](/srd/combat/round#term-round) without spending any AP.|
+|Utility Belt|While a character is wearing this armor, they may use one Item from the [party](/srd/glossary#term-party) inventory per [round](/srd/combat/round#term-round) without spending any AP.|
 |Masterwork|This armor is of unusual quality.  It grants the wearer an extra +1 to both Physical and Magical Defense.|
 |Bound|While wearing this armor during combat, a character cannot use any attacks, use the [Move](/srd/combat/round#term-move) action, or use items.  However, they also cannot take any damage that would not automatically kill them or break their current Shell.  They may use any other abilities as normal.|
 
@@ -138,7 +138,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Black Knight's Armor|Unique|Heavy|Corrupted, Plated, Element (Shadow)|
 
 ## Armor Generation
-To generate a new random piece of armor, first choose the type and the [Quality](/srd/economy/equipment#term-equipment-quality). Then, cast the [outcome die](/srd/key-terms#term-outcome-die) and compare the result to the table below until a number of upgrades have been generated whose total UV adds up to the possible UV of the armor. If the result is a Variable upgrade, give the armor the UV 1 version. If the result is an upgrade that would put the total Upgrade Value of the armor above its maximum, recast the die.
+To generate a new random piece of armor, first choose the type and the [Quality](/srd/economy/equipment#term-equipment-quality). Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result to the table below until a number of upgrades have been generated whose total UV adds up to the possible UV of the armor. If the result is a Variable upgrade, give the armor the UV 1 version. If the result is an upgrade that would put the total Upgrade Value of the armor above its maximum, recast the die.
 
 |Result|Upgrade|
 |:-|:-|

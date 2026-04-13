@@ -6,7 +6,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 *  +15 [Health](/srd/heroes/numbers#term-health)
 *  +5 [Mana](/srd/heroes/numbers#term-mana)
 *  +4 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Resistance](/srd/heroes/numbers#term-resistance).
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) will affect [Resistance](/srd/heroes/numbers#term-resistance).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Status Accuracy](/srd/heroes/numbers#term-status-accuracy).
 
 ## Advancements by Tier
@@ -39,7 +39,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Chain of Command|Passive|N/A|The Commander designates one of their [party](/srd/key-terms#term-party) members as their Lieutenant.  While the Commander is downed in [battle](/srd/key-terms#term-battle), that ally gains the Standard Bearer ability.  If they are also downed, this effect does not apply.|
+|Chain of Command|Passive|N/A|The Commander designates one of their [party](/srd/glossary#term-party) members as their Lieutenant.  While the Commander is downed in [battle](/srd/glossary#term-battle), that ally gains the Standard Bearer ability.  If they are also downed, this effect does not apply.|
 
 **Tier 8:** The Commander gains +1 Resistance.
 
@@ -49,7 +49,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Charge!|[Special](/srd/combat/attacks#term-special-ability)|1 [Anima](/srd/anima), 2 AP|The [eidolon](/srd/heroes/eidolons) grants all of their allies an immediate full turn.  When they use abilities during this turn, they can substitute the eidolon's [statistics](/srd/key-terms#term-statistic) for theirs.|
+|Charge!|[Special](/srd/combat/attacks#term-special-ability)|1 [Anima](/srd/anima), 2 AP|The [eidolon](/srd/heroes/eidolons) grants all of their allies an immediate full turn.  When they use abilities during this turn, they can substitute the eidolon's [statistics](/srd/glossary#term-statistic) for theirs.|
 
 ## Talents
 

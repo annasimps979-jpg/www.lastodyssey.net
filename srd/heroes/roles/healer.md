@@ -1,8 +1,8 @@
 # Healer
 
-_<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](/srd/key-terms#term-ability) that heal, revive, and remove [statuses](/srd/combat/statuses) and [debuffs](/srd/combat/buffs-and-debuffs#term-debuff).
+_<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](/srd/glossary#term-ability) that heal, revive, and remove [statuses](/srd/combat/statuses) and [debuffs](/srd/combat/buffs-and-debuffs#term-debuff).
 
-While they are Healers, [Heroes](/srd/key-terms#term-hero) gain the following bonuses to their [statistics](/srd/key-terms#term-statistic):
+While they are Healers, [Heroes](/srd/glossary#term-hero) gain the following bonuses to their [statistics](/srd/glossary#term-statistic):
 *  Their [Evasion](/srd/heroes/numbers#term-evasion) is increased by an amount equal to their [Body](/srd/heroes/numbers#term-body).
 *  Their [Physical Attack](/srd/heroes/numbers#term-strike) is increased by an amount equal to their [Mind](/srd/heroes/numbers#term-mind).
 *  Their [Magical Attack](/srd/heroes/numbers#term-spell) is increased by an amount equal to their [Spirit](/srd/heroes/numbers#term-spirit).
@@ -20,4 +20,4 @@ While they are Healers, [Heroes](/srd/key-terms#term-hero) gain the following bo
 |7|Raise Dead|Ally|7 MP, 1 AP|The Healer revives a single downed target back to half its current maximum HP, rounded down.|
 |8|Multiheal|Multi|7 MP, 1 AP|The Healer heals themselves and all allies for an amount of HP equal to the Healer's Magical Attack.|
 |9|Treatment|Ally|9 MP, 1 AP|The Healer removes all statuses from a single target, and resets the Bonus Tracker for all of the target's statistics back to +0.|
-|10|Second Chance|Multi|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon revives all downed [party](/srd/key-terms#term-party) members, removes all statuses from them, resets the Bonus Tracker for all of their statistics, and brings them back to full HP.|
+|10|Second Chance|Multi|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon revives all downed [party](/srd/glossary#term-party) members, removes all statuses from them, resets the Bonus Tracker for all of their statistics, and brings them back to full HP.|

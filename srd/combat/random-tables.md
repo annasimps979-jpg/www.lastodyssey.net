@@ -2,7 +2,7 @@
 
 ## <dfn id = "term-random-element-table">Random Element Table</dfn>
 
-When a [character](/srd/key-terms#term-character) uses an [item](/srd/economy/items), [ability](/srd/key-terms#term-ability), or something else that has a random [elemental](/srd/combat/elements#term-element) effect, cast the [outcome die](/srd/key-terms#term-outcome-die) and consult the table below to determine the result.  If result is a 10, cast again instead.
+When a [character](/srd/glossary#term-character) uses an [item](/srd/economy/items), [ability](/srd/glossary#term-ability), or something else that has a random [elemental](/srd/combat/elements#term-element) effect, cast the [outcome die](/srd/glossary#term-outcome-die) and consult the table below to determine the result.  If result is a 10, cast again instead.
 
 |Result|Element|
 |:-|:-|

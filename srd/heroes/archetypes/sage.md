@@ -6,7 +6,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 *  +5 [Health](/srd/heroes/numbers#term-health)
 *  +15 [Mana](/srd/heroes/numbers#term-mana)
 *  +4 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Magical Attack](/srd/heroes/numbers#term-spell).
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) will affect [Magical Attack](/srd/heroes/numbers#term-spell).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Magical Defense](/srd/heroes/numbers#term-magical-defense).
 
 ## Advancements by Tier
@@ -49,7 +49,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Ascension|[Self](/srd/combat/attacks#term-self-ability)|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon's summoner's Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](/srd/key-terms#term-battle), their spells only cost 5 MP.|
+|Ascension|[Self](/srd/combat/attacks#term-self-ability)|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon's summoner's Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](/srd/glossary#term-battle), their spells only cost 5 MP.|
 
 ## Talents
 

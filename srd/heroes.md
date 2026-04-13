@@ -2,7 +2,7 @@
 
 *That would be you.*
 
-In Last Odyssey, each [player](/srd) plays one of the protagonists of the story.  These [characters](/srd/key-terms#term-character) are special, and are known as [Heroes](/srd/key-terms#term-hero).  Heroes are like JRPG protagonists, with strong personalities and detailed mechanics for how they function in combat.  The following section lays out what precisely defines a Hero within Last Odyssey, and how to create them for a campaign.
+In Last Odyssey, each [player](/srd) plays one of the protagonists of the story.  These [characters](/srd/glossary#term-character) are special, and are known as [Heroes](/srd/glossary#term-hero).  Heroes are like JRPG protagonists, with strong personalities and detailed mechanics for how they function in combat.  The following section lays out what precisely defines a Hero within Last Odyssey, and how to create them for a campaign.
 
 - How They Are Made
     - [Hero Creation:](/srd/heroes/creation) An overview of the elements of character building.

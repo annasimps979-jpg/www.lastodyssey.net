@@ -6,7 +6,7 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 *  +15 [Health](/srd/heroes/numbers#term-health)
 *  +10 [Mana](/srd/heroes/numbers#term-mana)
 *  +2 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) will affect [Physical Defense](/srd/heroes/numbers#term-physical-defense).
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) will affect [Physical Defense](/srd/heroes/numbers#term-physical-defense).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Physical Attack](/srd/heroes/numbers#term-strike).
 
 ## Advancements by Tier
@@ -31,7 +31,7 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Disciplined Focus|Passive|N/A|While the Knight is Focused, they may spend 2 AP to take the Calm [action](/srd/key-terms#term-action), which removes the Focused status from themselves.|
+|Disciplined Focus|Passive|N/A|While the Knight is Focused, they may spend 2 AP to take the Calm [action](/srd/glossary#term-action), which removes the Focused status from themselves.|
 
 **Tier 6:** The Knight gains +1 Physical Defense.
 

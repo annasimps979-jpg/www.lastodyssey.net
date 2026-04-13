@@ -1,6 +1,6 @@
 # Sample Characters
 
-This section contains the info for nine different sample [Heroes](/srd/key-terms#term-hero) to serve as quickstart [player characters](/srd/key-terms#term-player-character) for [campaigns](/srd/key-terms#term-campaign), or to serve as inspiration for creating new ones.
+This section contains the info for nine different sample [Heroes](/srd/glossary#term-hero) to serve as quickstart [player characters](/srd/glossary#term-player-character) for [campaigns](/srd/glossary#term-campaign), or to serve as inspiration for creating new ones.
 
 ## Tier 1 Characters
 

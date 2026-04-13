@@ -6,7 +6,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 *  +10 [Health](/srd/heroes/numbers#term-health)
 *  +15 [Mana](/srd/heroes/numbers#term-mana)
 *  +2 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [abilities](/srd/key-terms#term-ability) will [buff](/srd/combat/buffs-and-debuffs#term-buff) [Magical Defense](/srd/heroes/numbers#term-magical-defense).
+*  As a [Support](/srd/heroes/roles/support), their [abilities](/srd/glossary#term-ability) will [buff](/srd/combat/buffs-and-debuffs#term-buff) [Magical Defense](/srd/heroes/numbers#term-magical-defense).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their abilities will [debuff](/srd/combat/buffs-and-debuffs#term-debuff) [Magical Attack](/srd/heroes/numbers#term-spell).
 
 ## Advancements by Tier
@@ -23,7 +23,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Prayer|[Passive](/srd/combat/attacks#term-passive)|N/A|During the [Effect Phase](/srd/combat/round#term-effect-phase) of every [round](/srd/combat/round#term-round) of [battle](/srd/key-terms#term-battle), the Priest and their allies regain 1 MP.  If the Priest is [downed](/srd/combat/death-and-injury#term-downed) during the Effect Phase, this effect does not apply.|
+|Prayer|[Passive](/srd/combat/attacks#term-passive)|N/A|During the [Effect Phase](/srd/combat/round#term-effect-phase) of every [round](/srd/combat/round#term-round) of [battle](/srd/glossary#term-battle), the Priest and their allies regain 1 MP.  If the Priest is [downed](/srd/combat/death-and-injury#term-downed) during the Effect Phase, this effect does not apply.|
 
 **Tier 4:** The Priest gains +1 Magical Defense.
 

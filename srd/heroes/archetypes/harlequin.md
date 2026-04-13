@@ -6,7 +6,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 *  +5 [Health](/srd/heroes/numbers#term-health)
 *  +10 [Mana](/srd/heroes/numbers#term-mana)
 *  +6 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/key-terms#term-ability) affect [Status Accuracy](/srd/heroes/numbers#term-status-accuracy).
+*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) affect [Status Accuracy](/srd/heroes/numbers#term-status-accuracy).
 *  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities affect [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy).
 
 ## Advancements by Tier
@@ -15,7 +15,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers up to 5 times their [tier](/srd/heroes/creation#term-tier) [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) against an enemy, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/key-terms#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
+|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers up to 5 times their [tier](/srd/heroes/creation#term-tier) [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) against an enemy, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/glossary#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
 
 **Tier 2:** The Harlequin gains +1 Status Accuracy.
 
@@ -59,8 +59,8 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 **[Healer](/srd/heroes/roles/healer):** Bet Your Life.  When the Harlequin heals an ally with a Healer ability, their player may call a number and then cast the outcome die.  If the result is less than what they called, the amount of healing the character receives is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing the character receives is increased by the number they called.
 
-**[Defender](/srd/heroes/roles/defender):** Call Bluff.  When a Taunted enemy attacks the Harlequin with a physical or spell, their player may cast the outcome die before the [GM](/srd/key-terms#term-gm) casts the [hit die](/srd/combat/attacks#term-hit-die).  If the result is less than theirs, the attack misses.  Otherwise, if the attack hits, the Harlequin takes double damage.
+**[Defender](/srd/heroes/roles/defender):** Call Bluff.  When a Taunted enemy attacks the Harlequin with a physical or spell, their player may cast the outcome die before the [GM](/srd/glossary#term-gm) casts the [hit die](/srd/combat/attacks#term-hit-die).  If the result is less than theirs, the attack misses.  Otherwise, if the attack hits, the Harlequin takes double damage.
 
-**Support:** Random Buff.  When the Harlequin uses a buff, their player may cast on the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to determine which [statistic](/srd/key-terms#term-statistic) the ability affects.
+**Support:** Random Buff.  When the Harlequin uses a buff, their player may cast on the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to determine which [statistic](/srd/glossary#term-statistic) the ability affects.
 
 **Saboteur:** Random Debuff.  When the Harlequin uses a debuff, their player may cast on the Random Statistic Table to determine which statistic the ability affects.

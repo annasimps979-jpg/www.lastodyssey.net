@@ -6,8 +6,8 @@ A _<dfn id = "term-town">town</dfn>_ is the next largest type of settlement afte
 
 Towns live and die by the trade that flows through them, and much of what is available in town will exist to attract and feed off of it.  Thus, there will not only be at least one tavern and a marketplace, but also very often the presence of religious sites, libraries, hot springs, circuses, and other attractions that serve to funnel human beings into the town.  There may also be a small handful of industries that require more complicated inputs and their associated guilds, such as a mason's guild, an alchemist's guild, or even an adventurer's guild if the need is great.  There will also be gathering spaces for locals, which are usually expanded versions of what can be found in the average village.
 
-[GMs](/srd/key-terms#term-gm) should consider the following questions when designing a town:
-*  Towns are large enough to accommodate a great deal of complex politics.  What is the latest drama?  Is there a way for the [players](/srd/key-terms#term-player) to get involved, and if so, how?
+[GMs](/srd/glossary#term-gm) should consider the following questions when designing a town:
+*  Towns are large enough to accommodate a great deal of complex politics.  What is the latest drama?  Is there a way for the [players](/srd/glossary#term-player) to get involved, and if so, how?
 *  Is there a marketplace, and if not, where are the [merchants](/srd/economy/merchants) located?  What are they like?  Are there any rivalries?
 *  Many towns will rest on major landmarks or tourist attractions.  Are there any in particular the players could visit?  Are they scams, or could they provide actual benefit to the players?
 *  What political actors rule over the town, and what are their needs?  Are they willing to employ adventurers, and if not, what is their reasoning?

@@ -30,11 +30,11 @@ Nick: Quirty is gonna take a look around, see if there are any hidden levers.
 
 Trystan: Okay, sure.  I think we can handle this as an [investigation](/srd/discovery/investigation#term-investigation).  That would be using your five senses.  What's your [Body](/srd/heroes/numbers#term-body) again?
 
-Nick: Quirty's Body [attribute](/srd/key-terms#term-attribute) is 5.
+Nick: Quirty's Body [attribute](/srd/glossary#term-attribute) is 5.
 
 Trystan: Okay.  Go ahead and cast the die.
 
-(Nick casts the [outcome die](/srd/key-terms#term-outcome-die).  The result is a 7, meaning that he may ask 1d6 questions of the GM for "free," in the sense that he doesn't have to narrate his character's actions.  He gets 4 questions.)
+(Nick casts the [outcome die](/srd/glossary#term-outcome-die).  The result is a 7, meaning that he may ask 1d6 questions of the GM for "free," in the sense that he doesn't have to narrate his character's actions.  He gets 4 questions.)
 
 Nick: Let me think for a minute.  I'm not sure what to ask.
 
