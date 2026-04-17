@@ -1,4 +1,4 @@
-# Starting Battles
+# Starting Combat
 
 Combat always begins at the moment in the story when violence breaks out, and when the violence in question is a struggle between two opposing sides.  A lot of this depends on [player](/srd/glossary#term-player) intent.  An attack by bandits or an attempt by players to slay a dragon are perfect examples of when battle is appropriate, whereas a bar fight might be better handled by a skill challenge or simply by the narrative.  A masterful [GM](/srd/glossary#term-gm) will know when to surprise players, when to give them an out, and when and how to foreshadow when combat might be approaching so that players are adequately prepared and when it's better to catch them by surprise.
 

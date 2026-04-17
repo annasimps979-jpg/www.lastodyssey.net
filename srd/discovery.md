@@ -10,7 +10,7 @@ There will often be times at which the [actions](/srd/glossary#term-action) [pla
 - How to Strive
     - [Puzzles:](/srd/discovery/puzzles) Tips and advice for adding puzzle encounters to [campaigns](/srd/glossary#term-campaign).
     - [Skill Challenges:](/srd/discovery/skill-challenges) When [Heroes](/srd/glossary#term-hero) attempt to use their innate capabilities during free play.
-    - [Abilities Outside of Combat:](/srd/discovery/abilities-outside-combat) Tips for making rulings about the use of combat powers during free play.
+    - [Magic:](/srd/discovery/magic) Tips for making rulings about the use of combat powers during free play.
 - How to Grow
     - [Earning XP:](/srd/discovery/earning-xp) The means by which characters grow stronger within a single tier.
     - [Quests:](/srd/discovery/quests) XP-generating tasks that guide players through a campaign.

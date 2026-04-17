@@ -5,7 +5,7 @@
 In Last Odyssey, when [Heroes](/srd/glossary#term-hero) engage in violence against one or more [NPCs](/srd/glossary#term-npc), this is referred to as _<dfn id = "term-combat">combat</dfn>._  When combat begins, the theater of the mind is supplanted by a more restrictive theater of [battle](/srd/glossary#term-battle) that the characters cannot exit until they either [flee](/srd/combat/round#term-flee) the fight, defeat their opponents, or are defeated by their opponents.  In Last Odyssey, each battle takes place between two opposing sides, with the Heroes and their allies on one side and their enemies on the other.  Battles are tactical affairs, and the flow of time is divided into discrete, repeatable sections called [rounds](/srd/combat/round#term-round).  Each round allows each character to act at least once, although certain [abilities](/srd/glossary#term-ability), such as the [Saboteur's](/srd/heroes/roles/saboteur) Slow or the [Commander's](/srd/heroes/archetypes/commander) Orders, can create exceptions to this rule.
 
 - The Order of Things
-    - [Starting Battles](/srd/combat/starting): A guide to the process of starting a battle.
+    - [Starting Combat](/srd/combat/starting): A guide to the process of starting a battle.
     - [The Combat Round](/srd/combat/round): How in-game time flows during combat.
 - Their Results
     - [Attacking and Defending](/srd/combat/attacks): The rules for dealing with [spells](/srd/combat/attacks#term-spell), [strikes](/srd/combat/attacks#term-strike), and [sleights](/srd/combat/attacks#term-sleight).

@@ -1,15 +1,15 @@
-# Abilities Outside of Combat
+# Magic
 
-[Heroes](/srd/glossary#term-hero), being endowed with the power of [Mana](/srd/heroes/numbers#term-mana), can use their [abilities](/srd/glossary#term-ability) to defeat enemies in [combat](/srd/combat).  These same abilities will sometimes have utility outside of combat as well.  When necessary, adhere to the following rules when making rulings about how they function:
+[Heroes](/srd/glossary#term-hero), being endowed with the power of [Mana](/srd/heroes/numbers#term-mana), can use their [abilities](/srd/glossary#term-ability) to defeat enemies in [combat](/srd/combat).  In addition, this same magic will often have utility outside of combat as well.  When necessary, adhere to the following rules when making rulings about how they function:
 *  The [MP](/srd/heroes/numbers#term-mp) cost of an ability is the same out of combat as it is in combat.  [Players](/srd/glossary#term-player) can cast as many consecutive abilities as they like.
 *  Any ability that is usable in combat can be cast in a matter of seconds.  In cases where time is a factor, the lower the [AP](/srd/combat/round#term-ap) cost of an ability, the faster it can be cast.  If two [characters](/srd/glossary#term-character) use an ability at the same time, the ability with the lower AP cost will activate first.  If they both use abilities with the same AP cost, the character with the higher [Initiative](/srd/heroes/numbers#term-initiative) will act first.  If both of these are the same, the effects will trigger at the same time.
 *  The physical effects of an ability are determined by its [type](/srd/combat/attacks#term-ability-type).  For example, [Multi](/srd/combat/attacks#term-multi) abilities will affect all characters and objects in the immediate vicinity (approx. 5-10 feet) of the target, while single target abilities will affect either a single character or object.
 
-## Offensive Abilities
+## Offensive Magic
 
 Many [archetype](/srd/heroes/archetypes) and [role](/srd/heroes/roles) abilities are primarily useful as tools of violence.  If a Hero attacks a combat-capable [NPC](/srd/glossary#term-npc) with an offensive ability that does damage or inflicts a [status](/srd/combat/statuses), this will initiate combat.  If they catch an enemy by surprise, the [party](/srd/glossary#term-party) will get [First Strike](/srd/combat/starting#term-first-strike) against the enemy.  Keep in mind that not every NPC has the power of Mana or any sort of combat training.  Those who do not are generally not able to defend themselves against more than a single attack, and will either die or surrender immediately.  [GMs](/srd/glossary#term-gm) should keep in mind that players abusing their power will have consequences later down the line.  Even if alienating a [village](/srd/exploration/settlements/villages#term-village) does not lead to dangerous or even lethal blowback, the Heroes gaining a reputation for being violent thugs plays directly into the hands of [Antagonists](/srd/anima/antagonists), particularly [Villains](/srd/anima/antagonists/villains), and will net their Antagonists [Anima](/srd/anima) when appropriate, as well as giving them additional chances to recruit the survivors and turn them into pawns.
 
-## Utility Abilities
+## Utility Magic
 
 Some archetype abilities have contextual usefulness out of combat, particularly those that are not directly damaging.  While the GM is encouraged to make rulings beyond the scope of what is outlined here, here are some canonical ways that character abilities can be put to use outside of combat:
 *  Lay Trap can be used outside of combat to create a trap with an effective radius of approximately three feet.  When a character steps in the trap, the [Ranger](/srd/heroes/archetypes/ranger) can attack them as though they had moved into it during [battle](/srd/glossary#term-battle), gaining First Strike and initiating combat in the process.
@@ -19,7 +19,7 @@ Some archetype abilities have contextual usefulness out of combat, particularly 
 *  Counterspell can be used to negate magical effects such as wards, runes, or illusions.  The MP cost is relative to the strength of the spell, with weak spells costing 5-20 MP to negate and stronger ones costing 40-50 or being impossible.
 *  Prayer can be used at ritual altars to sanctify or cleanse them of dark magic.
 
-## Elemental Effects
+## Elements
 
 Role abilities that produce elemental effects are especially useful outside of battle.  The discrete effects that an ability produces depends on its [element](/srd/combat/elements#term-element) and how powerful it is in combat.  In general, abilities that do more damage will hit harder than abilities that do less.  The Elemental Bolt ability will leave a mark on a door, while the Elemental Burst ability will blow it all the way down.  Just like with archetype abilities, GMs are encouraged to make rulings outside of the scope of the canon ruleset, but here are some ways that elements can be used during [free play](/srd/discovery):
 *  [Fire](/srd/combat/elements#term-fire) abilities will set flammable objects on fire.  They can also be used to boil liquids, melt solids, and activate certain objects.  The heat and size of the flame are greater for more powerful abilities.
