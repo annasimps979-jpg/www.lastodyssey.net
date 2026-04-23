@@ -22,6 +22,10 @@ Players are always allowed to count Aspirations and Relationships as things that
 *  Wealth, power, prestige, or social standing, so long as it goes beyond their immediate personal possessions.
 *  Important attributes that don't have to do with adventuring, such as a beautiful face or noble bearing.
 
+## Joint Scenes
+
+Sometimes, players may want to risk the Relationships between Heroes.  More specifically, if what they fear involves an aspect of a Hero that their player has control over, the outcome should not be decided by the die.  Instead, the outcome is decided entirely by the other player, with no input from the first one.  For example, if one Hero reveals a secret to another, then the other Hero's player decides whether they accept or reject it, and this cannot be challenged &mdash; although they could change their mind later on.  After the Scene is over, Anima is earned as normal.
+
 ## Example Scenes
 *  The [party](/srd/glossary#term-party) has managed to seal the Moon Dragon with a ritual that will send it forward 10,000 years into the future.  Unfortunately, one of them needs to stay behind to ensure that the ritual is a success.  The player whose character stays behind casts the outcome die.  If the result is a 5 or below, their character dies and the party earns 5 Anima.  If the result is above a 5, the player can choose whether or not their character dies.  If they live, the party also earns 5 Anima.
 *  A character is called upon to violate one of the central tenets of their faith, and therefore risk excommunication, in order to save their younger sister.  The player in question casts the outcome die.  If the result is equal to or below a 5, their fears are realized, and the church publicly condemns their actions.  If the result is above a 5, the player can choose the outcome of their own actions.  Either way, the player generates 3 Anima, and their participating co-players accumulate 1 each.

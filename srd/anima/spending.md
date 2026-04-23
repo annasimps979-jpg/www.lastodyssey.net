@@ -10,3 +10,9 @@ The purpose of Anima is to manipulate fate in the Heroes' favor beyond what woul
 *  Out of combat, they can spend 1 Anima to automatically succeed on a skill challenge.
 *  Out of combat, they can spend 1 Anima to ask whether or not the situation they are in is dangerous.
 *  Out of combat, they can spend 1 Anima to revive their eidolon to full HP.
+
+## The Consequences of Anima Usage
+
+Every time any character, Hero or otherwise, uses Anima and it is not transferred to a character that can already use Anima, the GM add how much was used to a running tally that is hidden from all participants except themselves.  When Heroes earn Anima from [Scenes,](/srd/anima/scenes) this score drops by the amount that was earned.  When the GM creates a new Antagonist, they may give them starting Anima that is then removed from this tally, up to the character maximum of 10.  No matter what, the Anima tally can never go below 0.  Note that the GM still has the freedom to introduce Antagonists whenever they feel is appropriate.
+
+During combat with an Antagonist, any Anima spent on one side is immediately gained by the opposing side.  Any excess Anima gained above 10 dissipates instead.
