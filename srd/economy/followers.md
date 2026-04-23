@@ -1,7 +1,6 @@
 # Follower
 
-Any [NPC](/srd/glossary#term-npc) that accompanies players on their journey is referred to as 
-a _<dfn id = "term-follower">follower</dfn>._  There is no clean separation between an [enemy](/srd/enemies) and a follower apart from the fact that they count as party members for all intents and purposes.  Recruited enemies may become followers, and recruited followers may also sometimes become enemies.  At times, they may also be hired by spending money, although a hireling can easily become a long-term friend if they spend enough time with the party.  The following section outlines how to seamlessly incorporate such characters into [exploration](/srd/exploration) and [combat,](/srd/combat) and how to handle long-term followers as characters advance.
+Any [NPC](/srd/glossary#term-npc) that accompanies the players on their journey is referred to as a _<dfn id = "term-follower">follower</dfn>._  There is no clean separation between an [enemy](/srd/enemies) and a follower apart from the fact that they count as party members for all intents and purposes.  Recruited enemies may become followers, and recruited followers may also sometimes become enemies.  At times, they may also be hired by spending money, although a hireling can easily become a long-term friend if they spend enough time with the party.  The following section outlines how to seamlessly incorporate such characters into [exploration](/srd/exploration) and [combat,](/srd/combat) and how to handle long-term followers as characters advance.
 
 ## Hiring Followers
 
@@ -31,6 +30,10 @@ _<dfn id = "term-guide">Guides</dfn>_ are NPCs who can help the players navigate
 ## Pack Animals
 
 _<dfn id = "term-pack-animal">Pack animals</dfn>_ are creatures such as horses, donkeys, and mules.  If they are for hire, they can be rented from barns in town and sometimes from farmers in [villages](/srd/exploration/settlements/villages) that will carry extra goods in case the players need more room.  The cost of hiring a pack animal is relative to how much it carries.  For each point of additional [Carrying Capacity](/srd/economy/items#term-carrying-capacity) a pack animal can provide, renting it costs an additional 1 cr.  Pack animals need to be fed while traveling on the road.  To keep a pack animal functional, players must expend 2 additional Supplies during the Camping Phase to feed it.  Players can also purchase a pack animal permanently for 10 cr per amount of additional Carrying Capacity it adds to their inventory.  A typical pack animal will have a Carrying Capacity of 1d6 x 10.  Particularly large followers that also have other capabilities may also count as pack animals for these purposes.
+
+## Follower Advancement
+
+If the party advances in tier while a follower is traveling alongside them, then that follower will also advance in tier.  If the follower's tier is equal to or below the tier of the current highest tier party member, it will advance by 1 every time a party member advances in tier, whereas if their tier is greater than this tier than it will remain the same.  When they advance in tier, advance their attributes by a number of points given by the scale in the Enemy Creation section.
 
 ## Follower Creation
 
