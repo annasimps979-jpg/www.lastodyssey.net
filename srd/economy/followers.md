@@ -1,78 +1,43 @@
-# Followers
+# Follower
+
+Any [NPC](/srd/glossary#term-npc) that accompanies players on their journey is referred to as 
+a _<dfn id = "term-follower">follower</dfn>._  There is no clean separation between an [enemy](/srd/enemies) and a follower apart from the fact that they count as party members for all intents and purposes.  Recruited enemies may become followers, and recruited followers may also sometimes become enemies.  At times, they may also be hired by spending money, although a hireling can easily become a long-term friend if they spend enough time with the party.  The following section outlines how to seamlessly incorporate such characters into [exploration](/srd/exploration) and [combat,](/srd/combat) and how to handle long-term followers as characters advance.
 
 ## Hiring Followers
 
-[Players](/srd/glossary#term-player) in need of extra hands while traveling and who have [cr](/srd/economy/currency#term-cr) to spare can hire [NPCs](/srd/glossary#term-npc) to accompany them on their journey.  Sometimes, NPCs will also travel with the players as part of a [quest](/srd/discovery/quests) or when accompanying them as [caravan](/srd/exploration/travel/services#term-caravan) guards.  In either case, these types of NPCs are referred to as _<dfn id = "term-follower">followers</dfn>._  Followers for hire, if available, will generally congregate in taverns.  An out-of-the-way tavern might have at most one or two people willing to travel with the [Heroes](/srd/glossary#term-hero) for cr, while taverns that are closer to populated areas such as [towns](/srd/exploration/settlements/towns) and [cities](/srd/exploration/settlements/cities) will often have a handful whose availability depends on how much work there is in the surrounding area.  On occasion, a larger city or [metropolis](/srd/exploration/settlements/metropoli) will also be the home of an adventurer's guild, which is an organization that recruits and trains mercenaries for hire.  If the [GM](/srd/glossary#term-gm) wants to include one of these in their game, they should populate a given adventurer's headquarters with 2d6 followers for hire.
+[Players](/srd/glossary#term-player) in need of extra hands while traveling and who have [cr](/srd/economy/currency#term-cr) to spare can hire followers to accompany them on their journey.  Sometimes, NPCs will also travel with the players as part of a [quest](/srd/discovery/quests) or when accompanying them as [caravan](/srd/exploration/travel/services#term-caravan) guards.  Followers for hire, if available, will generally congregate in taverns.  An out-of-the-way tavern might have at most one or two people willing to travel with the [Heroes](/srd/glossary#term-hero) for cr, while taverns that are closer to populated areas such as [towns](/srd/exploration/settlements/towns) and [cities](/srd/exploration/settlements/cities) will often have a handful whose availability depends on how much work there is in the surrounding area.  On occasion, a larger city or [metropolis](/srd/exploration/settlements/metropoli) will also be the home of an adventurer's guild, which is an organization that recruits and trains mercenaries for hire.  If the [GM](/srd/glossary#term-gm) wants to include one of these in their game, they should populate a given adventurer's headquarters with 2d6 followers for hire.
 
 The cost of hiring a follower is paid out at the beginning of each [path](/srd/exploration/maps#term-path) that the follower accompanies the [party](/srd/glossary#term-party) on.  Once they reach the next [settlement](/srd/exploration/settlements), the players may choose to either let that follower go or pay them to continue the journey.  If players take a follower into a [dungeon](/srd/exploration/dungeons) or other hostile area, they will have to pay that follower's salary once per day they spend inside of it.  Whether the players can do this will depend on whether the follower is still willing to accompany them, and this is up to the GM to feel out based on the follower's personality and level of expertise.  The cost of hiring a follower in cr is determined by the services they can offer.  There are two types of services that followers can render: aid during the [travel round](/srd/exploration/travel/round), and aid during [battles](/srd/glossary#term-battle).  If followers provide both kinds of services, the total cost of hiring a follower is the sum of the costs of each of these services.
+
+A hired follower's salary is a function of their tier and their [enemy type.](/srd/enemies#term-enemy-type)  If the follower is of the normal type, they require a salary of 10 x their current tier.  If they are of the elite type, they require a salary of 100 x their current tier.  If they tier up, and still ask for a salary, then it increases to the salary of the appropriate tier.  Whether they enter the party carrying any items is a matter of GM [fiat.](/srd/glossary#term-fiat)
+
+## Followers in Combat
+
+A follower's combat statistics are calculated via the [Enemy Creation](/srd/enemies/creation) rules, with all of the same choices being made.  During combat, they fight on the same side of the battlefield as the rest of the party, and count as party members for the purposes of sharing [inventory.](/srd/economy/inventory)  However, they do not [call initiative.](/srd/combat/round#term-call-initiative)
+
+In addition, followers are not protected from [True Death](/srd/anima/true-death) in the same way that the Heroes are.  If they are [downed](/srd/combat/death-and-injury) at the end of 
+combat, the GM casts the [outcome die.](/srd/glossary#term-outcome-die)  If the result is a 5 or less, the follower dies.  If the result is greater than 5, the follower remains alive and takes an [injury.](/srd/combat/death-and-injury#term-injury)  Otherwise, followers function the same in combat as any other combatant.  If a follower cannot participate in combat, then what happens to them when the party is defeated depends on its story context.
+
+## Followers During Exploration
+
+Followers enter the party with a number of [Supplies](/srd/economy/items/travel#term-supplies) prepared as deemed appropriate by the GM, and have a total minimum [carrying capacity](/srd/economy/inventory#term-carrying-capacity) of 5 times their current tier.  Regardless of what their other capabilities are, they can always take the [Cook](/srd/exploration/travel/round#term-cook-action), [Shelter](/srd/exploration/travel/round#term-shelter-action), [Recover](/srd/exploration/travel/round#term-recover-action), and [Explore](/srd/exploration/travel/round#term-explore-action) actions during the [Camping Phase](/srd/exploration/travel/round#term-camping-phase).  If they have sustained an injury, they obey the same rules that the Heroes do for recovering from them.  Some followers will also have the ability to assist during travel.  The price of these skills is outlined below.
+
+Each follower is also able to take a single camping [action](/srd/glossary#term-action) based on their capabilities.  For example, a loyal watchdog might be able to take the [Watch](/srd/exploration/travel/round#term-watch-action) action, while a trained hunter might be able to take the [Hunt](/srd/exploration/travel/round#term-hunt-action).  If they stay long-term in the party, the GM may also consider giving them the capacity to use more than one.  A good rule of thumb for this is that they should be able to perform up to their tier divided by two role-based travel actions so as to feel about equivalent to the player characters.
+
+## Guides
+
+_<dfn id = "term-guide">Guides</dfn>_ are NPCs who can help the players navigate the local wilderness.  Hiring a guide allows Heroes to reduce the [navigation difficulty](/srd/exploration/maps#term-navigation-difficulty) of a path the guide is willing and able to navigate by an amount depending on how much the navigation difficulty is reduced.  Hiring a guide with money that reduces the navigation difficulty of a path by 1 costs 10 cr, reducing it by 3 costs 50 cr, and reducing it by 7 costs 100 cr.  GMs should keep in mind that guide services might not always be available, and that guides who cannot defend themselves will be very hesitant to walk into dangerous areas.  The cost of hiring a guide is multiplied by 10 per 2 levels of [danger rating](/srd/exploration/maps#term-danger-rating) above 1 to reflect this.  Particularly canny followers or those that know the lay of the land may count as guides for these purposes.
+
+## Pack Animals
+
+_<dfn id = "term-pack-animal">Pack animals</dfn>_ are creatures such as horses, donkeys, and mules.  If they are for hire, they can be rented from barns in town and sometimes from farmers in [villages](/srd/exploration/settlements/villages) that will carry extra goods in case the players need more room.  The cost of hiring a pack animal is relative to how much it carries.  For each point of additional [Carrying Capacity](/srd/economy/items#term-carrying-capacity) a pack animal can provide, renting it costs an additional 1 cr.  Pack animals need to be fed while traveling on the road.  To keep a pack animal functional, players must expend 2 additional Supplies during the Camping Phase to feed it.  Players can also purchase a pack animal permanently for 10 cr per amount of additional Carrying Capacity it adds to their inventory.  A typical pack animal will have a Carrying Capacity of 1d6 x 10.  Particularly large followers that also have other capabilities may also count as pack animals for these purposes.
 
 ## Follower Creation
 
 When the GM wants to create a new follower, they should follow along with the step-by-step process below.
-1.  Determine the [combat](/srd/combat) and travel capabilities the follower has based on their template.  They should not have more than one combat template applied to them at a time.
-2.  Choose an [element](/srd/combat/elements#term-element) for the follower's [abilities](/srd/glossary#term-ability).  In addition, choose which [buff](/srd/combat/buffs-and-debuffs#term-buff) or [debuff](/srd/combat/buffs-and-debuffs#term-debuff) their skills apply if they are a [Support](/srd/heroes/roles/support) or [Saboteur](/srd/heroes/roles/saboteur).  Each follower either counts as [colorless](/srd/combat/elements#term-colorless) or has an [innate element](/srd/heroes/creation#term-innate-element).
-3.  Choose the follower's [equipment](/srd/economy/equipment).  Combat followers will have a number of [battle items](/srd/economy/items/battle), [accessories](/srd/economy/equipment/accessories), a set of [armor](/srd/economy/equipment/armor), and a [weapon](/srd/economy/equipment/weapons) based on their template.
-4.  Fill out the follower's combat [statistics](/srd/glossary#term-statistic) if they have any combat capabilities.  If not, they will be vulnerable to death at any time due to violence.
+1.  Determine the follower's combat [statistics](/srd/glossary#term-statistic) if they have any combat capabilities.
+2.  Determine their capabilities during travel, including the camping actions they can take as well as whether they count as a guide or pack animal.
+4.  Fill out a follower's inventory based on their concept, including both [battle](/srd/economy/items/battle) and [travel](/srd/economy/items/travel) items and Supplies.
 5.  Compute the cost of hiring the follower based on their capabilities.  The total hiring cost per path or day in a dungeon is equal to the sum total of all of the individual costs associated with each of their different capabilities.
 6.  Give the follower a name, a background, and decide their appearance.  In particular, the GM should focus on why they have the abilities they have.  Are they part of a magic circle?  A thieves' guild?  A wandering order of knights?
 7.  Determine any other quirks of personality a follower might have.  Are they constantly cracking jokes, or are they grim and serious?  Are they cowardly, or foolhardy?  What is their attitude towards the Heroes?
-
-## Followers in Combat
-Followers capable of helping during combat will have an element, and will specialize in a single [role](/srd/heroes/roles).  Their statistics in battle are determined by their role bonuses, their [attributes](/srd/glossary#term-attribute), and what armor and weapon they carry.  Every follower that has a combat specialty can also take the camping [action](/srd/glossary#term-action) associated with their role, meaning that [Strikers](/srd/heroes/roles/striker) can use the [Hunt](/srd/exploration/travel/round#term-hunt-action) action, [Casters](/srd/heroes/roles/caster) can use the [Divine](/srd/exploration/travel/round#term-divine-action) action, [Healers](/srd/heroes/roles/healer) can use the [Mend](/srd/exploration/travel/round#term-mend-action) action, [Defenders](/srd/heroes/roles/defender) can use the [Watch](/srd/exploration/travel/round#term-watch-action) action, Supports can use the [Gather](/srd/exploration/travel/round#term-gather-action) action, and Saboteurs can use the [Scout](/srd/exploration/travel/round#term-scout-action) action.  When they do so, one of the players should cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result to whichever of the follower's attributes corresponds to that action to see if it succeeds.  The hiring cost, abilities, and inventories of typical followers skilled in combat are listed below.
-
-_Strikers_ specialize in the Striker role, and carry a [Physical](/srd/economy/equipment/weapons#term-physical-weapon) weapon of the GM's choice and [Heavy](/srd/economy/equipment/armor#term-heavy-armor) armor.
-
-|Template|Salary|[Body](/srd/heroes/numbers#term-body)|[Mind](/srd/heroes/numbers#term-mind)|[Spirit](/srd/heroes/numbers#term-spirit)|[AP](/srd/combat/round#term-ap)|Equipment [Quality](/srd/economy/equipment#term-equipment-quality)|Accessories|Battle Items|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Beginner|100 cr|3|2|1|2|Mundane|1|1d4 Mundane|
-|Intermediate|500 cr|6|4|2|3|Rare|2|1d4 Rare|
-|Advanced|1000 cr|9|6|3|3|Expert|3|1d4 Expert|
-
-_Casters_ specialize in the Caster role, and carry a [Magical](/srd/economy/equipment/weapons#term-magical-weapon) weapon of the GM's choice and [Light](/srd/economy/equipment/armor#term-light-armor) armor.
-
-|Template|Salary|Body|Mind|Spirit|AP|Equipment Quality|Accessories|Battle Items|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Beginner|100 cr|1|3|2|2|Mundane|1|1d4 Mundane|
-|Intermediate|500 cr|2|6|4|3|Rare|2|1d4 Rare|
-|Advanced|1000 cr|3|9|6|3|Expert|3|1d4 Expert|
-
-_Healers_ specialize in the Healer role, and carry a Magical weapon of the GM's choice and [Cloth](/srd/economy/equipment/armor#term-cloth-armor) armor.
-
-|Template|Salary|Body|Mind|Spirit|AP|Equipment Quality|Accessories|Battle Items|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Beginner|500 cr|1|2|3|2|Mundane|1|1d4 Mundane|
-|Intermediate|2500 cr|2|4|6|3|Rare|2|1d4 Rare|
-|Advanced|5000 cr|9|6|3|3|Expert|3|1d4 Expert|
-
-_Defenders_ specialize in the Defender role, and carry a [Balanced](/srd/economy/equipment/weapons#term-balanced-weapon) weapon of the GM's choice and Heavy armor.
-
-|Template|Salary|Body|Mind|Spirit|AP|Equipment Quality|Accessories|Battle Items|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Beginner|100 cr|3|1|2|2|Mundane|1|1d4 Mundane|
-|Intermediate|500 cr|6|2|4|3|Rare|2|1d4 Rare|
-|Advanced|1000 cr|9|3|6|3|Expert|3|1d4 Expert|
-
-_Supports_ specialize in the Support role, and carry a Balanced weapon of the GM's choice and Cloth armor.
-
-|Template|Salary|Body|Mind|Spirit|AP|Equipment Quality|Accessories|Battle Items|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Beginner|250 cr|2|2|2|2|Mundane|1|1d4 Mundane|
-|Intermediate|1250 cr|4|4|4|3|Rare|2|1d4 Rare|
-|Advanced|2500 cr|6|6|6|3|Expert|3|1d4 Expert|
-
-_Saboteurs_ specialize in the Saboteur role, and carry a Physical weapon of the GM's choice and Light armor.
-
-|Template|Salary|Body|Mind|Spirit|AP|Equipment Quality|Accessories|Battle Items|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Beginner|250 cr|2|1|3|2|Mundane|1|1d4 Mundane|
-|Intermediate|1250 cr|4|2|6|3|Rare|2|1d4 Rare|
-|Advanced|2500 cr|6|3|9|3|Expert|3|1d4 Expert|
-
-The rules for [True Death](/srd/anima/true-death) do not apply to followers.  Instead, if a follower is [downed](/srd/combat/death-and-injury#term-downed) in battle or killed when the rest of the [party](/srd/glossary#term-party) is downed, the GM casts the outcome die.  If the result is equal to or lower than the NPC's Body attribute, they will revive at 1 [HP](/srd/heroes/numbers#term-hp) after the battle is over and sustain an [injury](/srd/combat/death-and-injury#term-injury).  If the result is greater than the NPC's Body, the NPC is killed instead.  All loot and [XP](/srd/discovery/earning-xp#term-xp) as a result of battle are distributed to the Heroes as normal unless they decide otherwise, as it is customary that the spoils from battle be paid out by a follower's salary.  If an NPC did not participate in the combat encounter and the players are all downed, what happens to them is determined by GM [fiat](/srd/glossary#term-gm).
-
-## Followers During Exploration
-Followers will travel with a number of [Supplies](/srd/economy/items/travel#term-supplies) prepared equal to 5 times their Body.  Regardless of what their other capabilities are, they can always take the [Cook](/srd/exploration/travel/round#term-cook-action), [Shelter](/srd/exploration/travel/round#term-shelter-action), [Recover](/srd/exploration/travel/round#term-recover-action), and [Explore](/srd/exploration/travel/round#term-explore-action) actions during the [Camping Phase](/srd/exploration/travel/round#term-camping-phase).  If they have sustained an injury, they obey the same rules that the Heroes do for recovering from them.  Some followers will also have the ability to assist during travel.  The price of these skills is outlined below.
-
-_<dfn id = "term-guide">Guides</dfn>_ are NPCs who can help the players navigate the local wilderness.  Hiring a guide allows Heroes to reduce the [navigation difficulty](/srd/exploration/maps#term-navigation-difficulty) of a path the guide is willing and able to navigate by an amount depending on how much the navigation difficulty is reduced.  Guides that reduce the navigation difficulty of a path by 1 cost 10 cr, reducing it by 3 costs 50 cr, and reducing it by 7 costs 100 cr.  GMs should keep in mind that guide services might not always be available, and that guides who cannot defend themselves will be very hesitant to walk into dangerous areas.  The cost of hiring a guide is multiplied by 10 per 2 levels of [danger rating](/srd/exploration/maps#term-danger-rating) above 1 to reflect this.
-
-_<dfn id = "term-pack-animal">Pack animals</dfn>_ are creatures such as horses, donkeys, and mules that can be rented from barns in town and sometimes from farmers in [villages](/srd/exploration/settlements/villages) that will carry extra goods in case the players need more room.  The cost of hiring a pack animal is relative to how much it carries.  For each point of additional [Carrying Capacity](/srd/economy/items#term-carrying-capacity) a pack animal can provide, renting it costs an additional 1 cr.  Pack animals need to be fed while traveling on the road.  To keep a pack animal functional, players must expend 2 additional Supplies during the Camping Phase to feed it.  Players can also purchase a pack animal permanently for 10 cr per amount of additional Carrying Capacity it adds to their inventory.  A typical pack animal will have a Carrying Capacity of 1d6 x 10.
