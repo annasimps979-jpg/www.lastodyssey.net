@@ -1,6 +1,6 @@
 # Enemies
 
-*Where differing forms of life exist, they will necessarily come into conflict.*
+*Violence can be difficult to handle.  Only some have the ability to do it.*
 
 In Last Odyssey, every [character](/srd/glossary#term-character) that is capable of fighting the [Heroes](/srd/glossary#term-hero) in [combat](/srd/combat) is called an _<dfn id = "term-enemy">enemy</dfn>._  Not every [NPC](/srd/glossary#term-npc) is an enemy, but any NPCs that also have a set of corresponding combat [statistics](/srd/glossary#term-statistic) and give the Heroes [XP](/srd/heroes/advancement#term-experience-points) when they die count.
 
