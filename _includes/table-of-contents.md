@@ -2,8 +2,8 @@
 
 *Everything you need to play can be found somewhere in here.*
 
+- [Welcome](/)
 - [**Playbill**](/srd)
-  - [Table of Contents](/srd/table-of-contents)
   - [Glossary](/srd/glossary)
 - [**Beginner's Guide**](/srd/intro)
   - [What Is Fantasy Role Play?](/srd/intro/concepts/fantasy-role-play)

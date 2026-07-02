@@ -56,9 +56,15 @@
       <search><code>[[STUB-SEARCH]]</code></search>
       <nav><code>[[STUB-NAV]]</code></nav>
     </header>
-    <main>
-      {{ content }}
-    </main>
+    <div class="container">
+      <main>
+        {{ content }}
+      </main>
+      <aside>
+        {% capture toc %}{% include table-of-contents.md %}{% endcapture %}
+        {{ toc | markdownify }}
+      </aside>
+    </div>
     <footer><code>[[STUB-FOOTER]]</code></footer>
   </body>
 </html>

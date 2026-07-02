@@ -169,6 +169,24 @@
   table :any-link {
     text-underline-offset     : auto;
   }
+
+  @media screen and (min-width: 940px) {
+    body {
+      max-inline-size: 114ch;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: center;
+
+      & > aside {
+        flex: 0 0 30ch;
+        inline-size: 30ch;
+        margin-inline-end: 4ch;
+      }
+    }
+  }
 }
 
 
