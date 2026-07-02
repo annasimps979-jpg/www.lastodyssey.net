@@ -36,6 +36,4 @@ end
 # My linux really disliked not having ffi declared as it has to be compiled and
 # was not getting setup properly through the usual dependency tree. -- Diane
 
-platforms :linux do
-  gem "ffi", "~> 1.17"
-end
+gem "ffi", "~> 1.17"
