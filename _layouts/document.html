@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="{{page.locale}}">
+<html lang="{{site.locale}}">
    <head>
     <meta charset="utf-8">
     <meta name="color-scheme"            content="light dark">
@@ -49,15 +49,21 @@
       href          = "/_subresources/site-lm.webmanifest"
       media         = "not (prefers-color-scheme: dark)"
       rel           = "manifest">
+    <!-- pagefind resources -->
+    <script src="{{ '/pagefind/pagefind-component-ui.js' | relative_url }}" type="module"></script>
+    <link rel="stylesheet" href="{{ '/pagefind/pagefind-component-ui.css' | relative_url }}" />
   </head>
   <body>
     <header>
       <h1>Last Odyssey</h1>
-      <search><code>[[STUB-SEARCH]]</code></search>
-      <nav><code>[[STUB-NAV]]</code></nav>
+      <search>
+        <div data-pf-theme="dark">
+          <pagefind-searchbox></pagefind-searchbox>
+        </div>
+      </search>
     </header>
     <div class="container">
-      <main>
+      <main data-pagefind-body data-pagefind-meta="title:{{ page.title }}">
         {{ content }}
       </main>
       <aside>
