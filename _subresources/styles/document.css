@@ -120,7 +120,7 @@
     }
   }
 
-  footer, nav {
+  footer {
     animation-direction       : alternate;
     animation-duration        : 7s;
     animation-iteration-count : infinite;
@@ -131,9 +131,13 @@
     font-size                 : 0.75rem;
     font-variation-settings   : initial;
     letter-spacing            : 0.8px;
-    margin-block              : 1em;
-    padding                   : 1em;
+    margin-block              : 2em;
+    padding                   : 4em;
     text-align                : center;
+
+    & a {
+      font-size: larger;
+    }
   }
 
   header {
@@ -173,6 +177,12 @@
 
   table :any-link {
     text-underline-offset     : auto;
+  }
+
+  .icon {
+    width: 2em;
+    height: 2em;
+    vertical-align: -0.125em;
   }
 
   @media screen and (min-width: 940px) {
