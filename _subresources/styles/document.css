@@ -135,8 +135,11 @@
     padding                   : 4em;
     text-align                : center;
 
-    & a {
+    & :any-link {
       font-size: larger;
+      color: rgb(11, 25, 21);
+      margin-inline: 2ch;
+      white-space: nowrap;
     }
   }
 
