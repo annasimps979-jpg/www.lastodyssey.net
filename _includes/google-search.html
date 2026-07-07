@@ -1,0 +1,84 @@
+<!-- The <search> element indicates that the <form> that’s inside it is a -->
+<!-- “search” landmark, i.e. fer assistive technology. iirc, it oughta be -->
+<!-- placed within the <header> so that it’s more likely to be recognized -->
+<!-- as a site-wide search in particular.                                 -->
+
+<search>
+  <!-- I’m using @scope like this fer the sake of making it easy to share -->
+  <!-- this in a ready-to-use way. TBH it might not be a bad way to do it -->
+  <!-- fer real given this template will presumably only be used once per -->
+  <!-- page — but the specific styles below are off-the-cuff choices that -->
+  <!-- aren’t part of any unified design stuff, and most likely one would -->
+  <!-- want to change ’em in any number of ways to make sense in context. -->
+  <style>
+    @scope {
+      :scope {
+        display           : grid;
+        font-family       : system-ui;
+        grid-column-gap   : 1ch;
+        grid-row-gap      : 0.75ch;
+        grid-template     : "infohole infohole" auto
+                            "wordhole butthole" auto
+                            / auto min-content;
+        max-width         : 40ch;
+      }
+
+      button {
+        grid-area         : butthole;
+      }
+
+      form, label {
+        display           : contents;
+      }
+
+      input {
+        font-family       : inherit;
+        grid-area         : wordhole;
+      }
+
+      span {
+        font-size         : 0.8em;
+        font-variant-caps : all-small-caps;
+        grid-area         : infohole;
+      }
+    }
+  </style>
+
+  <!-- Inside is just regular ass GET-method form that serializes the formdata -->
+  <!-- fields as a sequence of query parameters — ?cx=[...]&q=[...] — appended -->
+  <!-- to the hierarchical part of the URI (which is the value of the “action” -->
+  <!-- content attribute because once upon a time people thought of URLS a lil -->
+  <!-- differently than they tend to today. The target content attribute isn’t -->
+  <!-- about the target URI, funny enuf, but rather names a window within this -->
+  <!-- browsing context group. If no window (← oh: read this as “tab”, lol) in -->
+  <!-- the group has this name, a new window (← experienced as a new “tab”, in -->
+  <!-- general) will be created and focused and that’s the window that ends up -->
+  <!-- navigating to the target URI to display CSE search results. if the user -->
+  <!-- keeps that tab open, returns to this one, and searches again, the prior -->
+  <!-- window (tab) we’d created will be the one used this time, too, which is -->
+  <!-- *often* a slightly better experience than creating a new one every time -->
+  <!-- — but there ain’t a right answer to what behavior is best in this case, -->
+  <!-- so perhaps you’ll want to set it to _blank, or even to have it navigate -->
+  <!-- the current window (tab) away from last-odyssey.net, which is fine; the -->
+  <!-- back button is there fer a reason, after all. The preferred experience, -->
+  <!-- in practice, tends to vary a lot from user to user, and there’s nothing -->
+  <!-- at all you could do that won’t be somebody’s idea of “obviously wrong,” -->
+  <!-- so just do whatever seems most comfortable, useful, or natural fer you. -->
+    
+  <form action=https://cse.google.com/cse target=cse-results>
+    <input name=cx type=hidden value=c44d5274f1d344304>
+
+    <!-- NB: more kosher would be to define that cx value somewhere in /_data, -->
+    <!--     then interpolate a reference to it in the content attribute value -->
+    <!--     as part of evaluating the liquid template. but it dunt matter too -->
+    <!--     much; it ain’t likely to be used in more than one place, and this -->
+    <!--     is ideally(🤞) just a stopgap pending better search capabilities. -->
+
+    <label>
+      <span>Sitewide search</span>
+      <input name=q placeholder="Sitewide search query..." required type=search>
+    </label>
+
+    <button type=submit>Search</button>
+  </form>
+</search>

@@ -49,17 +49,12 @@
       href          = "/_subresources/site-lm.webmanifest"
       media         = "not (prefers-color-scheme: dark)"
       rel           = "manifest">
-    <!-- pagefind resources -->
-    <script src="{{ '/pagefind/pagefind-component-ui.js' | relative_url }}" type="module"></script>
-    <link rel="stylesheet" href="{{ '/pagefind/pagefind-component-ui.css' | relative_url }}" />
   </head>
   <body>
     <header>
       <h1>Last Odyssey</h1>
       <search>
-        <div data-pf-theme="dark">
-          <pagefind-searchbox></pagefind-searchbox>
-        </div>
+        {% include google-search.html %}
       </search>
     </header>
     <div class="container">
