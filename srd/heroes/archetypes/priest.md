@@ -6,8 +6,8 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 *  +10 [Health](/srd/heroes/numbers#term-health)
 *  +15 [Mana](/srd/heroes/numbers#term-mana)
 *  +2 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [abilities](/srd/glossary#term-ability) will [buff](/srd/combat/buffs-and-debuffs#term-buff) [Magical Defense](/srd/heroes/numbers#term-magical-defense).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their abilities will [debuff](/srd/combat/buffs-and-debuffs#term-debuff) [Magical Attack](/srd/heroes/numbers#term-spell).
+*  As a [Support](/srd/heroes/roles/support), their [abilities](/srd/glossary#term-ability) will [charm](/srd/combat/glamors#term-charm) [Magical Defense](/srd/heroes/numbers#term-magical-defense).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their abilities will [hex](/srd/combat/glamors#term-hex) [Magical Attack](/srd/heroes/numbers#term-spell).
 
 ## Advancements by Tier
 
@@ -49,13 +49,13 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Divine Intervention|Multi|1 Anima, 2 AP|The eidolon restores their allies' MP back to full and reduces the MP of all of their enemies by half of its maximum value.|
+|Divine Intervention|Multi|1 Anima, 2 AP|The eidolon restores their allies' MP back to full and reduces the MP of all of their warriors by half of its maximum value.|
 
 ## Talents
 
 **[Striker](/srd/heroes/roles/striker):** Bludgeon.  The Priest may deal damage to MP instead of [HP](/srd/heroes/numbers#term-hp) with their strikes when the target is [Shellbroken](/srd/combat/shells#term-shellbroken).
 
-**[Caster](/srd/heroes/roles/caster):** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all enemies that they heal the Priest's allies' MP for.
+**[Caster](/srd/heroes/roles/caster):** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all warriors that they heal the Priest's allies' MP for.
 
 **[Healer](/srd/heroes/roles/healer):** Faith Healing.  During the Effect Phase, Prayer and Blessing heal the Priest and their allies for the same amount of HP that they heal MP for.  This effect cannot revive characters.
 
@@ -63,4 +63,4 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 **Support:** Faith Cure.  Prayer and Blessing heal the Shells of the Priest and their allies by the same amount of points they restore their MP for.  They do not apply Shells to characters that do not have them.
 
-**Saboteur:** Soulkiller.  The Priest may use Restore Mana and Multirestore to deal the same amount of damage to enemies' MP that they would heal their allies' MP for.
+**Saboteur:** Soulkiller.  The Priest may use Restore Mana and Multirestore to deal the same amount of damage to warriors' MP that they would heal their allies' MP for.

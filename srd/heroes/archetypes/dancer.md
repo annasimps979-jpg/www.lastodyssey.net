@@ -6,8 +6,8 @@ The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/cre
 *  +10 [Health](/srd/heroes/numbers#term-health)
 *  +10 [Mana](/srd/heroes/numbers#term-mana)
 *  +4 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) affect [Evasion](/srd/heroes/numbers#term-evasion).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities affect [Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy).
+*  As a [Support](/srd/heroes/roles/support), their [charm](/srd/combat/glamors#term-charm) [abilities](/srd/glossary#term-ability) affect [Evasion](/srd/heroes/numbers#term-evasion).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [hex](/srd/combat/glamors#term-hex) abilities affect [Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy).
 
 ## Advancements by Tier
 
@@ -31,7 +31,7 @@ The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/cre
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Mimic|Special|20 MP, 1 AP|The Dancer uses one of the abilities that any of their enemies have used between the end of the Dancer's last turn and the beginning of their current turn, counting held turns.|
+|Mimic|Special|20 MP, 1 AP|The Dancer uses one of the abilities that any of their warriors have used between the end of the Dancer's last turn and the beginning of their current turn, counting held turns.|
 
 **Tier 6:** The Dancer gains +1 Evasion.
 
@@ -49,7 +49,7 @@ The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/cre
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Tango|Special|1 Anima, 2 AP|The eidolon uses all of the abilities that their enemies have used between the end of its last turn and the beginning of its current turn.  The eidolon may choose the targets of all of these abilities at will.|
+|Tango|Special|1 Anima, 2 AP|The eidolon uses all of the abilities that their warriors have used between the end of its last turn and the beginning of its current turn.  The eidolon may choose the targets of all of these abilities at will.|
 
 ## Talents
 

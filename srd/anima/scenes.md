@@ -11,13 +11,13 @@ A Scene ends once sufficient context for the central character's sacrifice is es
 ## What Counts as a Scene?
 
 Because Scenes are special forms of story resolution, they cannot trigger as a part of [combat](/srd/combat), or any other structured form of task resolution.  For example, if a character is doing something that counts as a skill challenge, they cannot also earn Anima.  With this in mind, there are five scenarios which are always valid opportunities for a Scene:
-*  When a character puts their life at risk for something important to them, they will earn 5 Anima.  Characters without an [Aspiration](/srd/heroes/creation#term-aspiration) may not do this.
+*  When a character puts their life at risk for something important to them, they will earn 5 Anima.  Characters without an [Inspiration](/srd/heroes/creation#term-inspiration) may not do this.
 *  When a character puts one of their [Relationships](/srd/heroes/creation#term-relationship) at risk for something important to them, they will earn 1-3 Anima.
-*  When a character puts one of their [Aspirations](/srd/heroes/creation#term-aspiration) at risk for something important to them, they will earn 1-3 Anima.
+*  When a character puts one of their [Inspirations](/srd/heroes/creation#term-inspiration) at risk for something important to them, they will earn 1-3 Anima.
 *  When a character puts something important to them at risk for the sake of one of their Relationships, they will earn 1-3 Anima.
-*  When a character puts something important to them at risk for the sake of one of their Aspirations, they will earn 1-3 Anima.
+*  When a character puts something important to them at risk for the sake of one of their Inspirations, they will earn 1-3 Anima.
 
-Players are always allowed to count Aspirations and Relationships as things that are important to their character for the sake of earning Anima.  If something is important to their character but is not a listed Aspiration or Relationship, then whether they can earn Anima by putting it at risk or by putting something at risk for the sake of it is a matter of [GM](/srd/glossary#term-gm) [fiat](/srd/glossary#term-fiat).  Here are some possibilities for what counts as important to a character:
+Players are always allowed to count Inspirations and Relationships as things that are important to their character for the sake of earning Anima.  If something is important to their character but is not a listed Inspiration or Relationship, then whether they can earn Anima by putting it at risk or by putting something at risk for the sake of it is a matter of [GM](/srd/glossary#term-gm) [fiat](/srd/glossary#term-fiat).  Here are some possibilities for what counts as important to a character:
 *  Reputation with a [faction](/srd/intro/advice/worldbuilding#term-faction), [settlement](/srd/exploration/settlements), or important person.
 *  Wealth, power, prestige, or social standing, so long as it goes beyond their immediate personal possessions.
 *  Important attributes that don't have to do with adventuring, such as a beautiful face or noble bearing.

@@ -17,8 +17,8 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Magical Damage|5 cr|When used, this item deals base colorless magical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Special Damage|7 cr|When used, this item deals base [elemental](/srd/combat/elements#term-element) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
-|Debuff|9 cr|When used, this item inflicts a [debuff](/srd/combat/buffs-and-debuffs#term-debuff) of the specified type.  If it is Mundane, it debuffs by one level on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker), if it is Rare it debuffs by two, and if it is Expert it debuffs by three.|
-|Buff|9 cr|When used, this item applies a [buff](/srd/combat/buffs-and-debuffs#term-buff) of the specified type.  If it is Mundane, it buffs by one level on the Bonus Tracker, if it is Rare it buffs by two, and if it is Expert it buffs by three.|
+|Hex|9 cr|When used, this item inflicts a [hex](/srd/combat/glamors#term-hex) of the specified type.  If it is Mundane, it hexes by one level on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker), if it is Rare it hexes by two, and if it is Expert it hexes by three.|
+|Charm|9 cr|When used, this item applies a [charm](/srd/combat/glamors#term-charm) of the specified type.  If it is Mundane, it charms by one level on the Bonus Tracker, if it is Rare it charms by two, and if it is Expert it charms by three.|
 |Inflict Status|12 cr|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the hit die.  If the item is Rare, subtract 2 from the result, and if the Expert then subtract 5 from the result.|
 |Revive|15 cr|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/death-and-injury#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
@@ -27,7 +27,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Effect|Base Cost|Description|
 |:-|:-|:-|
 |Scan|10 cr|This item applies the [Artificer's](/srd/heroes/archetypes/artificer) Scan ability to a single target, revealing all current relevant information about it.|
-|Remove Debuffs|15 cr|This item removes all debuffs from a single character.|
+|Remove hexes|15 cr|This item removes all hexes from a single character.|
 |Remove Status|20 cr|This item removes a status of the specified type from a single character.|
 |Negate Resistances|50 cr|This item negates all of a target's elemental resistances until the beginning of the target's next [turn](/srd/combat/round#term-turn).|
 |Block Physical Damage|100 cr|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
@@ -35,7 +35,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Shell|10 cr|The target of this item gains 10 Shell of the corresponding element.|
 |Haste|800 cr|The target of this item becomes [Hasted](/srd/heroes/roles/support).  This still cannot stack with any other applications of Hasted.|
 |Slow|900 cr|The target of this item becomes [Slowed](/srd/heroes/roles/saboteur).  This still cannot stack with any other applications of Slowed.|
-|Summon Creature|1000x(Tier of summoned creature)|When a character uses this item, it summons a creature, usually an [enemy](/srd/enemies) of some type, to fight as an ally on their side.  The first time it can take its turn is during the [round](/srd/combat/round#term-round) after it was summoned, but it can be targeted as soon as it is summoned.|
+|Summon Creature|1000x(Tier of summoned creature)|When a character uses this item, it summons a creature, usually an [warrior](/srd/warriors) of some type, to fight as an ally on their side.  The first time it can take its turn is during the [round](/srd/combat/round#term-round) after it was summoned, but it can be targeted as soon as it is summoned.|
 
 ## Item Enhancements
 In addition to their base effects, some items have special effects called _<dfn id = "term-item-enhancement">enhancements</dfn>_ that change when and how they can be used and whom they target on the battlefield.  Most items will have only one enhancement, since enhancements that change their target are mutually exclusive, but some extremely rare items could have multiple.  Each enhancement to an item multiplies its base cost by an amount given in the enhancement description.  The possible enhancements are as follows:
@@ -44,7 +44,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |:-|:-|
 |All|This item affects all characters on the battlefield.  Multiplies base cost by 2.|
 |Row|This item affects all characters on a single [row](/srd/combat/starting#term-row).  When a character uses this item, they may choose which row it affects.  Multiplies base cost by 5.|
-|Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target enemies will affect all enemies.  Multiplies base cost by 10.|
+|Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target warriors will affect all warriors.  Multiplies base cost by 10.|
 |Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item added together, multiplied by 5.|
 |Delay|When a character uses this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](/srd/combat/round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down.|
 |Random|When a character uses this item, it inflicts a random effect based on casting a result from the [Random Element Table](/srd/combat/random-tables#term-random-element-table).|
@@ -55,16 +55,16 @@ In addition to their base effects, some items have special effects called _<dfn 
 |:-|:-|:-|:-|:-|
 |Throwing Knife|Mundane|Physical Damage|N/A|5 cr|
 |Elixir|Mundane|Restore HP/Restore MP|Dual|20 cr|
-|Smoke Bomb|Mundane|Buff Evasion|All|18 cr|
+|Smoke Bomb|Mundane|Charm Evasion|All|18 cr|
 |Shark Tooth Charm|Rare|Special Damage (Water)|N/A|70 cr|
 |Smelling Salts|Rare|Revive|Row|750 cr|
 |Poison Dart|Rare|Inflict Toxin|Delay|90 cr|
-|Experimental Combat Stim|Expert|Buff [Physical Attack](/srd/heroes/numbers#term-strike)/Buff [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|Dual|9000 cr|
+|Experimental Combat Stim|Expert|Charm [Physical Attack](/srd/heroes/numbers#term-strike)/Charm [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|Dual|9000 cr|
 |Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 cr|
 |Mandragora|N/A|Summon Creature (Dryad)|N/A|4000 cr|
 
 ## Battle Item Generation
-At times, there is a need to quickly create new items.  If the [GM](/srd/glossary#term-gm) needs to reward the players or their enemies with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, cast d20 and consult the table below:
+At times, there is a need to quickly create new items.  If the [GM](/srd/glossary#term-gm) needs to reward the players or their warriors with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, cast d20 and consult the table below:
 
 |Result|Effect|
 |:-|:-|
@@ -74,12 +74,12 @@ At times, there is a need to quickly create new items.  If the [GM](/srd/glossar
 |4|Magical Damage|
 |5|Special Damage|
 |6|Elemental Damage|
-|7|Debuff|
-|8|Buff|
+|7|Hex|
+|8|Charm|
 |9|Inflict Status|
 |10|Revive|
 |11|Scan|
-|12|Remove Debuffs|
+|12|Remove hexes|
 |13|Remove statuses|
 |14|Negate Resistances|
 |15|Block Physical Damage|
@@ -102,6 +102,6 @@ After the item's effect has been determined, cast the [outcome die](/srd/glossar
 |5|Delay|
 |6|Random|
 
-For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the element of the item's effect.  If the item is a Buff or Debuff item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/glossary#term-statistic) it affects.  If the item is a Summon Creature item, choose an enemy from the [Example Enemies](/srd/enemies/examples) section or create one of the appropriate tier.
+For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the element of the item's effect.  If the item is a Charm or Hex item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/glossary#term-statistic) it affects.  If the item is a Summon Creature item, choose an warrior from the [Example Warriors](/srd/warriors/examples) section or create one of the appropriate tier.
 
 The last thing to do when creating an item is to calculate its cr value and give it tangible existence in the game world.  A good rule of thumb is that an item should have a means by which character activate it, a physical form, and a container, such as a glass vial or a ball of clay.

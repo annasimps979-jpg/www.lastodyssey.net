@@ -46,14 +46,14 @@ In addition to their own powers, Villains also have eidolons they summon during 
 *  The eidolon's _[Resistance](/srd/heroes/numbers#term-resistance)_ is their summoner's (Toughness) + (Tier).
 *  The eidolon's _[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy), [Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy),_ and _[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)_ are their summoner's (Aggression) + (Cunning) + (Tier).
 
-As with [enemy creation,](/srd/enemies/creation) an eidolon's attributes are totally hidden from the players, and thus their statistics may be adjusted as needed.  A Villain's eidolon possesses the Attack and Full Restore abilities that a Hero eidolon has, and may also use the Villain's paradigm actions as abilities if they have any.  The cost of using them is the same as for the Villain, but they are used as normal actions instead, with their corresponding AP cost.
+As with [warrior creation,](/srd/warriors/creation) an eidolon's attributes are totally hidden from the players, and thus their statistics may be adjusted as needed.  A Villain's eidolon possesses the Attack and Full Restore abilities that a Hero eidolon has, and may also use the Villain's paradigm actions as abilities if they have any.  The cost of using them is the same as for the Villain, but they are used as normal actions instead, with their corresponding AP cost.
 
 ## Villain Creation
 
 To create a new Villain to add to their campaign, the GM should go through the following steps:
 1.  Decide on a concept.  Write down a summary of what kind of person they are, if they are a person.  What do they look like?  What quirks do they have that distinguish them from others?  Every Villain also begins with 5 Anima.
 2.  Choose the Villain's Ambition.  While some Villains will seem as though they sprang fully formed from the ether ready to do evil, it is also advisable for the GM to write down a little bit about why the Villain formed their Ambition in the first place, and at what point in their life they became infused with the power of Anima.  The GM should also write down a few actions the players could take that would advance the Villain's Ambition and therefore earn the Villain Anima.
-3.  Choose the Villain's [element](/srd/combat/elements#term-element), [creature type](/srd/enemies/types#term-creature-type), and the [tier](/srd/heroes/creation#term-tier) of each of their Forms.
+3.  Choose the Villain's [element](/srd/combat/elements#term-element), [creature type](/srd/warriors/types#term-creature-type), and the [tier](/srd/heroes/creation#term-tier) of each of their Forms.
 4.  Calculate each Form's [statistics](/srd/glossary#term-statistic), and choose their ordinary combat [abilities](/srd/glossary#term-ability) and paradigm actions.
 5.  Create the Villain's eidolon.  Give the eidolon an element and a class, and calculate its statistics.
-6.  Give the Villain underlings.  Who is their second in command?  Do they lead a [faction](/srd/intro/advice/worldbuilding#term-faction)?  Create statistics for a few [Elite](/srd/enemies/creation#term-elite-enemy) enemies that represent their most trusted accomplices.
+6.  Give the Villain underlings.  Who is their second in command?  Do they lead a [faction](/srd/intro/advice/worldbuilding#term-faction)?  Create statistics for a few [Elite](/srd/warriors/creation#term-elite-warrior) warriors that represent their most trusted accomplices.

@@ -6,8 +6,8 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 *  +15 [Health](/srd/heroes/numbers#term-health)
 *  +5 [Mana](/srd/heroes/numbers#term-mana)
 *  +4 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) will affect [Resistance](/srd/heroes/numbers#term-resistance).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Status Accuracy](/srd/heroes/numbers#term-status-accuracy).
+*  As a [Support](/srd/heroes/roles/support), their [charm](/srd/combat/glamors#term-charm) [abilities](/srd/glossary#term-ability) will affect [Resistance](/srd/heroes/numbers#term-resistance).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [hex](/srd/combat/glamors#term-hex) abilities will affect [Status Accuracy](/srd/heroes/numbers#term-status-accuracy).
 
 ## Advancements by Tier
 
@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|[Passive](/srd/combat/attacks#term-passive)|N/A|The Commander's allies gain a +1 bonus to their [Status](/srd/heroes/numbers#term-status-accuracy), [Physical](/srd/heroes/numbers#term-physical-accuracy), and [Magical Accuracies](/srd/heroes/numbers#term-magical-accuracy) when they act after the Commander in the [Initiative Order](/srd/combat/starting#term-initiative-order) that does not count on the [Bonus Tracker](/srd/combat/buffs-and-debuffs#term-bonus-tracker).  If the Commander is [downed](/srd/combat/death-and-injury#term-downed), this effect does not apply.|
+|Standard Bearer|[Passive](/srd/combat/attacks#term-passive)|N/A|The Commander's allies gain a +1 bonus to their [Status](/srd/heroes/numbers#term-status-accuracy), [Physical](/srd/heroes/numbers#term-physical-accuracy), and [Magical Accuracies](/srd/heroes/numbers#term-magical-accuracy) when they act after the Commander in the [Initiative Order](/srd/combat/starting#term-initiative-order) that does not count on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker).  If the Commander is [downed](/srd/combat/death-and-injury#term-downed), this effect does not apply.|
 
 **Tier 4:** The Commander gains +1 Resistance.
 

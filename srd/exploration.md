@@ -11,7 +11,7 @@ Each [adventure](/srd/glossary#term-adventure) the [players](/srd/glossary#term-
     - [Travel:](/srd/exploration/travel) How players get from node to node, and what it costs them.
 - Get Into Trouble
     - [Weather and Climate:](/srd/exploration/weather) Rules for simulating weather patterns and their effects on travel.
-    - [Travel Encounters:](/srd/exploration/encounters) Advice for roleplaying the enemy encounters and natural hazards that [Heroes](/srd/glossary#term-hero) will encounter during the travel round.
+    - [Travel Encounters:](/srd/exploration/encounters) Advice for roleplaying the warrior encounters and natural hazards that [Heroes](/srd/glossary#term-hero) will encounter during the travel round.
     - [Dungeons:](/srd/exploration/dungeons) Hostile areas, such as castles, lairs, and forgotten caves.
 - Find Your Way Back Again
     - [Resting:](/srd/exploration/resting) The ways in which players can recover during travel.

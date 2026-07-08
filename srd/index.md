@@ -11,10 +11,10 @@ Last Odyssey follows contemporary TTRPG structure, in the sense that the GM is t
 ## You Will Experience
 
 * **Team-based tactical combat.**  Each Hero has their own unique set of abilities that work in tandem with the abilities of other players to achieve victory.  No character can stand alone, and no character is left behind.
-*  **Streamlined exploration and worldbuilding.**  When traveling from place to place, characters will have to deal with both enemy encounters and with the natural world.  Simple mechanics like weather effects, navigation, and the node-path system streamline exploration while still creating the sense of a world that extends beyond the bounds of the story.
-* **Mechanics that emphasize drama.**  The Scenes system rewards players for tempting fate, by asking them to put their relationships, their aspirations, and even their lives at risk in order to gain Anima, which in turn allows them to become more powerful and gain the upper hand during gameplay.
-* **Lethal Antagonists that can manipulate fate.**  Antagonists are not just powerful enemies, but special characters that can take player Anima and throw it right back in their faces.  Villains and Monsters can earn and spend Anima, and are also the only thing in the world that can kill players without their permission, making them terrifying opponents to face down.
-* **Elegant creation tools for GMs.**  Last Odyssey is a game by a GM, for GMs.  In addition to mountains of ready-made objects and characters to put into your game, Last Odyssey also outlines how GMs can easily create their own enemies and items to both challenge and reward players in ways that keep the game feeling fresh, even for veterans.
+*  **Streamlined exploration and worldbuilding.**  When traveling from place to place, characters will have to deal with both warrior encounters and with the natural world.  Simple mechanics like weather effects, navigation, and the node-path system streamline exploration while still creating the sense of a world that extends beyond the bounds of the story.
+* **Mechanics that emphasize drama.**  The Scenes system rewards players for tempting fate, by asking them to put their relationships, their inspirations, and even their lives at risk in order to gain Anima, which in turn allows them to become more powerful and gain the upper hand during gameplay.
+* **Lethal Antagonists that can manipulate fate.**  Antagonists are not just powerful warriors, but special characters that can take player Anima and throw it right back in their faces.  Villains and Monsters can earn and spend Anima, and are also the only thing in the world that can kill players without their permission, making them terrifying opponents to face down.
+* **Elegant creation tools for GMs.**  Last Odyssey is a game by a GM, for GMs.  In addition to mountains of ready-made objects and characters to put into your game, Last Odyssey also outlines how GMs can easily create their own warriors and items to both challenge and reward players in ways that keep the game feeling fresh, even for veterans.
 * **Acquiring knowledge and secret Lore.**  Investigation and Lore mechanics resolve player information-gathering in ways that align character knowledge with player knowledge.  There is no such thing as a failed knowledge check--instead, players are encouraged to be curious and meet the world on its own terms.
 * **Spiting death, and dying well.**  In Last Odyssey, Heroes are normally insulated from death, encouraging a sense of fearlessness.  However, at critical moments, they may risk dying for the sake of earning Anima, and Antagonists may kill them permanently if the opportunity presents itself.
 * **A balance between free and structured play.**  Last Odyssey is "rules-heavy" in some places and "rules-lite" in others.  Its free parts and its structured parts are strictly delineated in a way that makes it easier to run and also supports multiple kinds of play.
@@ -26,10 +26,8 @@ Last Odyssey follows contemporary TTRPG structure, in the sense that the GM is t
 
 * [**Glossary:**](/srd/glossary) Some general RPG and Last Odyssey-specific words you will need to understand when reading this document.
 
-* [**Table of Contents:**](/srd/table-of-contents) All sections in this SRD, ordered by necessity and complexity.
-
 ## Acknowledgements
 
 Closed playtests are still ongoing--a big thank you to the participants, whose names I, as of writing this, do not have permission to disclose, who have already given me a lot of thoughtful feedback to incorporate.
 
-Special shout out to Billy, for his technical help and general guidance; to Lottie, for keeping me humble; to Irving, for telling me I could do it; to Andrew, for telling me how to do it; to everyone who believed in me.
+Special shout out to Billy and Diane for their technical help as well as Billy for his general guidance; to Lottie, for keeping me humble; to Irving, for telling me I could do it; to Andrew, for telling me how to do it; to everyone who believed in me.

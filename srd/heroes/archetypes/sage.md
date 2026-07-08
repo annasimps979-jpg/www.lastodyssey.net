@@ -6,8 +6,8 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 *  +5 [Health](/srd/heroes/numbers#term-health)
 *  +15 [Mana](/srd/heroes/numbers#term-mana)
 *  +4 [Initiative](/srd/heroes/numbers#term-initiative)
-*  As a [Support](/srd/heroes/roles/support), their [buff](/srd/combat/buffs-and-debuffs#term-buff) [abilities](/srd/glossary#term-ability) will affect [Magical Attack](/srd/heroes/numbers#term-spell).
-*  As a [Saboteur](/srd/heroes/roles/saboteur), their [debuff](/srd/combat/buffs-and-debuffs#term-debuff) abilities will affect [Magical Defense](/srd/heroes/numbers#term-magical-defense).
+*  As a [Support](/srd/heroes/roles/support), their [charm](/srd/combat/glamors#term-charm) [abilities](/srd/glossary#term-ability) will affect [Magical Attack](/srd/heroes/numbers#term-spell).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [hex](/srd/combat/glamors#term-hex) abilities will affect [Magical Defense](/srd/heroes/numbers#term-magical-defense).
 
 ## Advancements by Tier
 
@@ -23,7 +23,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Counterspell|[Reaction](/srd/combat/attacks#term-reaction)|Variable|When an enemy uses a spell, the Sage may expend double the MP cost of the attack in order to prevent its effect from occurring.  The user of the ability will still expend the MP and [AP](/srd/combat/round#term-ap) cost of using it as normal.|
+|Counterspell|[Reaction](/srd/combat/attacks#term-reaction)|Variable|When an warrior uses a spell, the Sage may expend double the MP cost of the attack in order to prevent its effect from occurring.  The user of the ability will still expend the MP and [AP](/srd/combat/round#term-ap) cost of using it as normal.|
 
 **Tier 4:** The Sage gains +1 Magical Attack.
 
@@ -59,8 +59,8 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 **[Healer](/srd/heroes/roles/healer):** Alchemy.  The Sage may expend Spell Slots in order to use healing abilities.
 
-**[Defender](/srd/heroes/roles/defender):** Arcane Shield.  The Sage may use Counterspell to negate enemy strikes.  Negating an enemy's [basic attack](/srd/combat/round#term-basic-attack) costs 5 MP.
+**[Defender](/srd/heroes/roles/defender):** Arcane Shield.  The Sage may use Counterspell to negate warrior strikes.  Negating an warrior's [basic attack](/srd/combat/round#term-basic-attack) costs 5 MP.
 
-**Support:** Ward.  The Sage may use Counterspell to negate enemy debuffs and [sleights](/srd/combat/attacks#term-sleight).
+**Support:** Ward.  The Sage may use Counterspell to negate warrior hexes and [sleights](/srd/combat/attacks#term-sleight).
 
-**Saboteur:** Curse.  The Sage may use Counterspell to negate enemy buffs and enemy healing abilities such as those that restore HP or MP and those that revive other enemies.
+**Saboteur:** Curse.  The Sage may use Counterspell to negate warrior charms and warrior healing abilities such as those that restore HP or MP and those that revive other warriors.

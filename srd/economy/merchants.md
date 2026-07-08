@@ -28,23 +28,23 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 varieties of Mundane Special Damage items, 1d4 Mundane Restore MP items with varying enhancements if desired, 1d4 varieties of Mundane Buff items, 5 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Mundane Inflict Status items.|
-|2|1d6 varieties of Mundane Special Damage items, 1d6 Mundane and 1d4 Rare Restore MP items with varying enhancements if desired, 1d6 varieties of Mundane Buff items, 10 units of Fuel for the player's vehicle if they have one, 1d6 varieties of Mundane Inflict Status items.|
-|3|1d4 varieties of Mundane and 1d4 varieties of Rare Special Damage items, 1d8 Mundane, 1d6 Rare, and 1d4 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Mundane and 1d4 varieties of Rare Buff items, 15 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Mundane and 1d4 varieties of Rare Inflict Status items.|
-|4|1d4 varieties of Mundane and 1d6  varieties of Rare Special Damage items, 1d10 Mundane, 1d8 Rare, and 1d6 Expert Restore MP items with varying enhancements if desired, 1d6 varieties of Rare Buff items, 20 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Mundane and 1d6 varieties of Rare Inflict Status items.|
-|5|1d4 varieties of Rare and 1d4 varieties of Expert Special Damage items, 1d12 Mundane, 1d10 Rare, and 1d8 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Rare and 1d4 varieties of Expert Buff items, 25 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Rare and 1d4 varieties of Expert Inflict Status items.|
-|6|1d4 varieties of Rare and 1d6 varieties of Expert Special Damage items, 1d20 Mundane, 1d12 Rare, and 1d10 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Rare and 1d6 varieties of Expert Buff items, 30 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Rare and 1d6 varieties of Expert Inflict Status items.|
+|1|1d4 varieties of Mundane Special Damage items, 1d4 Mundane Restore MP items with varying enhancements if desired, 1d4 varieties of Mundane Charm items, 5 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Mundane Inflict Status items.|
+|2|1d6 varieties of Mundane Special Damage items, 1d6 Mundane and 1d4 Rare Restore MP items with varying enhancements if desired, 1d6 varieties of Mundane Charm items, 10 units of Fuel for the player's vehicle if they have one, 1d6 varieties of Mundane Inflict Status items.|
+|3|1d4 varieties of Mundane and 1d4 varieties of Rare Special Damage items, 1d8 Mundane, 1d6 Rare, and 1d4 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Mundane and 1d4 varieties of Rare Charm items, 15 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Mundane and 1d4 varieties of Rare Inflict Status items.|
+|4|1d4 varieties of Mundane and 1d6  varieties of Rare Special Damage items, 1d10 Mundane, 1d8 Rare, and 1d6 Expert Restore MP items with varying enhancements if desired, 1d6 varieties of Rare Charm items, 20 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Mundane and 1d6 varieties of Rare Inflict Status items.|
+|5|1d4 varieties of Rare and 1d4 varieties of Expert Special Damage items, 1d12 Mundane, 1d10 Rare, and 1d8 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Rare and 1d4 varieties of Expert Charm items, 25 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Rare and 1d4 varieties of Expert Inflict Status items.|
+|6|1d4 varieties of Rare and 1d6 varieties of Expert Special Damage items, 1d20 Mundane, 1d12 Rare, and 1d10 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Rare and 1d6 varieties of Expert Charm items, 30 units of Fuel for the player's vehicle if they have one, 1d4 varieties of Rare and 1d6 varieties of Expert Inflict Status items.|
 
 ### Apothecaries
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 Mundane Restore HP items with varying enhancements if desired, 1d4 Mundane Revive items with varying enhancements if desired, 5 Remove Debuffs items, 1d4 varieties of Remove Status items, 1d4 Poultices.|
-|2|1d6 Mundane and 1d4 Rare Restore HP items with varying enhancements if desired, 1d6 Mundane Revive items with varying enhancements if desired, 10 Remove Debuffs items, 1d4 varieties of Remove Status items, 1d6 Poultices.|
-|3|1d8 Mundane, 1d6 Rare, and 1d4 Expert Restore HP items with varying enhancements if desired, 1d4 Mundane and 1d4 Rare Revive items with varying enhancements if desired, 15 Remove Debuffs items, 1d6 varieties of Remove Status items, 2d4 Poultices.|
-|4|1d10 Mundane, 1d8 Rare, and 1d6 Expert Restore HP items with varying enhancements if desired, 1d4 Mundane and 1d6 Rare Revive items with varying enhancements if desired, 20 Remove Debuffs items, 1d6 varieties of Remove Status items, 2d6 Poultices.|
-|5|1d12 Mundane, 1d10 Rare, and 1d8 Expert Restore HP items with varying enhancements if desired, 1d4 Rare and 1d4 Expert Revive items with varying enhancements if desired, 25 Remove Debuffs items, 1d8 varieties of Remove Status items, 1d12 Poultices.|
-|6|1d20 Mundane, 1d12 Rare, and 1d10 Expert Restore HP items with varying enhancements if desired, 1d4 Rare and 1d6 Expert Revive items with varying enhancements if desired, 30 Remove Debuffs items, 1d8 varieties of Remove Status items, 2d12 Poultices.|
+|1|1d4 Mundane Restore HP items with varying enhancements if desired, 1d4 Mundane Revive items with varying enhancements if desired, 5 Remove hexes items, 1d4 varieties of Remove Status items, 1d4 Poultices.|
+|2|1d6 Mundane and 1d4 Rare Restore HP items with varying enhancements if desired, 1d6 Mundane Revive items with varying enhancements if desired, 10 Remove hexes items, 1d4 varieties of Remove Status items, 1d6 Poultices.|
+|3|1d8 Mundane, 1d6 Rare, and 1d4 Expert Restore HP items with varying enhancements if desired, 1d4 Mundane and 1d4 Rare Revive items with varying enhancements if desired, 15 Remove hexes items, 1d6 varieties of Remove Status items, 2d4 Poultices.|
+|4|1d10 Mundane, 1d8 Rare, and 1d6 Expert Restore HP items with varying enhancements if desired, 1d4 Mundane and 1d6 Rare Revive items with varying enhancements if desired, 20 Remove hexes items, 1d6 varieties of Remove Status items, 2d6 Poultices.|
+|5|1d12 Mundane, 1d10 Rare, and 1d8 Expert Restore HP items with varying enhancements if desired, 1d4 Rare and 1d4 Expert Revive items with varying enhancements if desired, 25 Remove hexes items, 1d8 varieties of Remove Status items, 1d12 Poultices.|
+|6|1d20 Mundane, 1d12 Rare, and 1d10 Expert Restore HP items with varying enhancements if desired, 1d4 Rare and 1d6 Expert Revive items with varying enhancements if desired, 30 Remove hexes items, 1d8 varieties of Remove Status items, 2d12 Poultices.|
 
 ### Machinists
 
@@ -61,12 +61,12 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 Mundane Magical Damage items, 1d4 varieties of Mundane Elemental Damage items, 1d4 Mundane varieties of Debuff items.|
-|2|1d6 Mundane Magical Damage items, 1d6 varieties of Mundane Elemental Damage items, 1d6 Mundane varieties of Debuff items.|
-|3|1d4 Mundane and 1d4 Rare Magical Damage items, 1d4 varieties of Mundane and 1d4 varieties of Rare Elemental Damage Items, 1d4 varieties of Mundane and 1d4 varieties of Rare Debuff items.|
-|4|1d6 Rare Magical Damage items, 1d6 varieties of Rare Elemental Damage items, 1d4 varieties of Mundane and 1d6 varieties of Rare Debuff items, 1d4 Haste items.|
-|5|1d4 Rare and 1d4 Expert Magical Damage items, 1d4 varieties of Rare and 1d4 varieties of Expert Elemental Damage items, 1d4 Block Magical Damage items, 1d4 varieties of Rare and 1d4 varieties of Expert Debuff items, 1d6 Haste items.|
-|6|1d4 Rare and 1d6 Expert Magical Damage items, 1d4 varieties of Rare and 1d6 varieties of Expert Elemental Damage items, 1d6 Block Magical Damage items, 1d4 varieties of Rare and 1d6 varieties of Expert Debuff items, 1d8 Haste items.|
+|1|1d4 Mundane Magical Damage items, 1d4 varieties of Mundane Elemental Damage items, 1d4 Mundane varieties of Hex items.|
+|2|1d6 Mundane Magical Damage items, 1d6 varieties of Mundane Elemental Damage items, 1d6 Mundane varieties of Hex items.|
+|3|1d4 Mundane and 1d4 Rare Magical Damage items, 1d4 varieties of Mundane and 1d4 varieties of Rare Elemental Damage Items, 1d4 varieties of Mundane and 1d4 varieties of Rare Hex items.|
+|4|1d6 Rare Magical Damage items, 1d6 varieties of Rare Elemental Damage items, 1d4 varieties of Mundane and 1d6 varieties of Rare Hex items, 1d4 Haste items.|
+|5|1d4 Rare and 1d4 Expert Magical Damage items, 1d4 varieties of Rare and 1d4 varieties of Expert Elemental Damage items, 1d4 Block Magical Damage items, 1d4 varieties of Rare and 1d4 varieties of Expert Hex items, 1d6 Haste items.|
+|6|1d4 Rare and 1d6 Expert Magical Damage items, 1d4 varieties of Rare and 1d6 varieties of Expert Elemental Damage items, 1d6 Block Magical Damage items, 1d4 varieties of Rare and 1d6 varieties of Expert Hex items, 1d8 Haste items.|
 
 ### Rangers
 

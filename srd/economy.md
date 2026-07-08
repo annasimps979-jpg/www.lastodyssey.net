@@ -11,6 +11,3 @@ In Last Odyssey, the [party](/srd/glossary#term-party) will have to rely on good
     - [Inventory:](/srd/economy/inventory) What can be carried, and how much.
     - [Equipment:](/srd/economy/equipment) Weapons, armor, and accessories.
     - [Items:](/srd/economy/items) Battle items, travel items, and miscellaneous carried objects.
-- Hirelings
-    - [Followers:](/srd/economy/followers) Characters that the [party](/srd/glossary#term-party) can hire with cr to aid them during [battle](/srd/glossary#term-battle).
-    - [Follower Sheet:](/srd/economy/last-odyssey-follower-sheet.pdf) A sheet for recording and tracking follower statistics.

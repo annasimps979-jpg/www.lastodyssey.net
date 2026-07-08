@@ -21,8 +21,8 @@ In [combat](/srd/combat), a Hero's strengths and weaknesses are represented by 1
 *  Any magical damage a character receives is reduced by their _<dfn id="term-magical-defense">Magical Defense</dfn>._  For Heroes, it is equal to the bonus from their equipped armor plus the bonus from their current role if there is one.
 *  A character's _<dfn id="term-evasion">Evasion</dfn>_ reduces the likelihood that they will be hit by either a physical or spell.  For Heroes, it is equal to the bonus from their equipped accessories plus the bonus from their current role if there is one.
 *  A character's _Resistance_ increases the likelihood that they will resist [sleights](/srd/combat/attacks#term-sleight).  For Heroes, it is equal to the bonus from their equipped accessories plus the bonus from their current role if there is one.
-*  A character's _<dfn id="term-physical-accuracy">Physical Accuracy</dfn>_ increases their likelihood to hit an enemy with a strike.  For Heroes, it is equal to their Mind plus their Body.
-*  A character's _<dfn id="term-magical-accuracy">Magical Accuracy</dfn>_ increases their likelihood to hit an enemy with a spell.  For Heroes, it is equal to their Spirit plus their Mind.
+*  A character's _<dfn id="term-physical-accuracy">Physical Accuracy</dfn>_ increases their likelihood to hit an warrior with a strike.  For Heroes, it is equal to their Mind plus their Body.
+*  A character's _<dfn id="term-magical-accuracy">Magical Accuracy</dfn>_ increases their likelihood to hit an warrior with a spell.  For Heroes, it is equal to their Spirit plus their Mind.
 *  A character's _<dfn id="term-status-accuracy">Status Accuracy</dfn>_ increases their likelihood to inflict negative [statuses](/srd/combat/statuses) on their targets.  For Heroes, it is equal to their Body plus their Spirit.
 
 ## HP and MP

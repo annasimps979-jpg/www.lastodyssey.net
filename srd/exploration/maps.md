@@ -16,7 +16,16 @@ When a new node is placed on the map, at least one path should be drawn connecti
 
 ## The Danger Rating
 
-While traveling, players may encounter [enemies](/srd/enemies#term-enemy) or [NPCs](/srd/glossary#term-npc) on the road.  In addition to the navigation difficulty, each path is also assigned a _<dfn id = "term-danger-rating">danger rating</dfn>,_ which is a number between 0 and 5 that determines how likely it is that they will encounter enemies during their journey, with 0 meaning that it won't happen and 5 meaning that it has a 50% chance of happening.
+While traveling, players may encounter [warriors](/srd/warriors#term-warrior) or [NPCs](/srd/glossary#term-npc) on the road.  In addition to the navigation difficulty, each path is also assigned a _<dfn id = "term-danger-rating">danger rating</dfn>,_ which is a number between 0 and 5 that determines how likely it is that they will encounter warriors during their journey, with 0 meaning that it won't happen and 5 meaning that it has a 50% chance of happening.  The danger ratings corresponding to different danger levels are shown below.
+
+|Danger Rating|Description|
+|:-|:-|
+|0|Safe areas under heavy guard or that are totally unpopulated.|
+|1|Well-traveled roads that see the occasoinal bandit.|
+|2|Country or backwater areas where security is lighter.|
+|3|Wild areas where human beings do not often linger.|
+|4|Hostile areas where dangerous creatures gather, such as fetid swamps or jungles.|
+|5|Enemy territory, such as in the wake of an approaching army or in the middle of a [dungeon](/srd/exploration/dungeons).|
 
 ## Exploration XP
 

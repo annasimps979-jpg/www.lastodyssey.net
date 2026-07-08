@@ -6,9 +6,9 @@ All objects that are not currently being held by a character but that still have
 
 During [battle](/srd/glossary#term-battle), all of the items that each [player](/srd/glossary#term-player) has are shared between party members.  However, [weapons](/srd/economy/equipment/weapons) and [accessories](/srd/economy/equipment/accessories) are not.  This means that any party member can use any item in any other party member's inventory, but cannot equip another character's weapons or accessories during battle.  Once an item is used once, it is automatically expended and disappears from the party inventory.  Only special items called battle items can be used during battle, but all items including battle items can be used outside of battle.  Unless otherwise specified, it takes a negligible amount of time for a character to use a battle item outside of combat, around a couple of seconds of in-narrative time.  When a character uses a battle item, they can use it on any character on the battlefield including themselves regardless of where that character is currently located.
 
-## Follower Inventory
+## Ally Inventory
 
-By default, a [Follower's](/srd/economy/followers) inventory is not shared with the rest of the party.  However, certain friendly followers, such as long term companions or characters with a Relationship to one of the [Heroes](/srd/heroes), may share their inventories during battle if appropriate.
+By default, a [Ally's](/srd/warriors/allies) inventory is not shared with the rest of the party.  However, certain friendly allies, such as long term companions or characters with a Relationship to one of the [Heroes](/srd/heroes), may share their inventories during battle if appropriate.
 
 ## Junk
 
