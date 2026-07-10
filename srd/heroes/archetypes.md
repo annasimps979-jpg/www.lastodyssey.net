@@ -7,10 +7,10 @@ Every [Hero](/srd/glossary#term-hero) has a single _<dfn id = "term-archetype">a
 - The Nine Archetypes
     - [The Ranger](/srd/heroes/archetypes/ranger): An archetype with extra mobility and physical precision.
     - [The Thief](/srd/heroes/archetypes/thief): An archetype with the ability to steal and hide in order to manipulate the flow of [battle](/srd/glossary#term-battle).
-    - [The Artificer](/srd/heroes/archetypes/artificer): An archetype that can make special use of [battle items](/srd/economy/items/battle) and learn information about their warriors.
+    - [The Artificer](/srd/heroes/archetypes/artificer): An archetype that can make special use of [battle items](/srd/economy/items/battle) and learn information about their opponents.
     - [The Sage](/srd/heroes/archetypes/sage): An archetype that specializes in defending against and dealing magical damage.
     - [The Dancer](/srd/heroes/archetypes/dancer): An archetype that can mimic warriors and change their [element](/srd/combat/elements#term-element) at will.
     - [The Priest](/srd/heroes/archetypes/priest): An archetype with the power to heal [MP](/srd/heroes/numbers#term-mp) and help their allies.
     - [The Knight](/srd/heroes/archetypes/knight): An archetype that focuses on dealing and taking physical damage.
     - [The Commander](/srd/heroes/archetypes/commander): An archetype that can help augment their teammates' capabilities.
-    - [The Harlequin](/srd/heroes/archetypes/harlequin): An archetype that uses random abilities to throw their warriors off balance.
+    - [The Harlequin](/srd/heroes/archetypes/harlequin): An archetype that uses random abilities to throw their opponents off balance.

@@ -44,7 +44,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |:-|:-|
 |All|This item affects all characters on the battlefield.  Multiplies base cost by 2.|
 |Row|This item affects all characters on a single [row](/srd/combat/starting#term-row).  When a character uses this item, they may choose which row it affects.  Multiplies base cost by 5.|
-|Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target warriors will affect all warriors.  Multiplies base cost by 10.|
+|Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target warriors will affect all opponents.  Multiplies base cost by 10.|
 |Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item added together, multiplied by 5.|
 |Delay|When a character uses this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](/srd/combat/round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down.|
 |Random|When a character uses this item, it inflicts a random effect based on casting a result from the [Random Element Table](/srd/combat/random-tables#term-random-element-table).|
@@ -64,7 +64,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Mandragora|N/A|Summon Creature (Dryad)|N/A|4000 cr|
 
 ## Battle Item Generation
-At times, there is a need to quickly create new items.  If the [GM](/srd/glossary#term-gm) needs to reward the players or their warriors with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, cast d20 and consult the table below:
+At times, there is a need to quickly create new items.  If the [GM](/srd/glossary#term-gm) needs to reward the players or their opponents with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, cast d20 and consult the table below:
 
 |Result|Effect|
 |:-|:-|
@@ -102,6 +102,6 @@ After the item's effect has been determined, cast the [outcome die](/srd/glossar
 |5|Delay|
 |6|Random|
 
-For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the element of the item's effect.  If the item is a Charm or Hex item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/glossary#term-statistic) it affects.  If the item is a Summon Creature item, choose an warrior from the [Example Warriors](/srd/warriors/examples) section or create one of the appropriate tier.
+For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the element of the item's effect.  If the item is a Charm or Hex item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/glossary#term-statistic) it affects.  If the item is a Summon Creature item, choose a warrior from the [Example Warriors](/srd/warriors/examples) section or create one of the appropriate tier.
 
 The last thing to do when creating an item is to calculate its cr value and give it tangible existence in the game world.  A good rule of thumb is that an item should have a means by which character activate it, a physical form, and a container, such as a glass vial or a ball of clay.

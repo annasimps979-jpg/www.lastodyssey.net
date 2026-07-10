@@ -14,10 +14,10 @@ While they are Strikers, [Heroes](/srd/glossary#term-hero) gain the following bo
 |1|Strike|[Melee](/srd/combat/attacks#term-melee)|3 [MP](/srd/heroes/numbers#term-mp), 1 [AP](/srd/combat/round#term-ap)|The Striker makes a [colorless](/srd/combat/elements#term-colorless) strike that deals 1.5x damage on a hit in addition to other modifiers.|
 |2|Elemental Strike|Melee|3 MP, 1 AP|The Striker makes a strike whose [element](/srd/combat/elements#term-element) is the same as their base element.|
 |3|Power Strike|Melee|5 MP, 1 AP|The Striker makes a colorless strike.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
-|4|Cleave|[Multi](/srd/combat/attacks#term-multi)|7 MP, 1 AP|The Striker makes a colorless, melee strike against all warriors in the front row.|
+|4|Cleave|[Multi](/srd/combat/attacks#term-multi)|7 MP, 1 AP|The Striker makes a colorless, melee strike against all opponents in the front row.|
 |5|Leaping Strike|Ranged|5 MP, 1 AP|The Striker makes a colorless strike against a single target.|
-|6|Elemental Cleave|Multi|10 MP, 1 AP|The Striker makes a melee strike against all warriors in the front row whose element is the same as their [base](/srd/glossary#term-base) element.|
-|7|Whirlwind|Multi|12 MP, 1 AP|The Striker makes a colorless strike against all warriors on the battlefield.|
+|6|Elemental Cleave|Multi|10 MP, 1 AP|The Striker makes a melee strike against all opponents in the front row whose element is the same as their [base](/srd/glossary#term-base) element.|
+|7|Whirlwind|Multi|12 MP, 1 AP|The Striker makes a colorless strike against all opponents on the battlefield.|
 |8|Elemental Leap|Ranged|8 MP, 1 AP|The Striker makes a strike against a single target whose element is the same as their base element.|
-|9|Elemental Whirlwind|Multi|15 MP, 1 AP|The Striker makes a strike against all warriors on the battlefield whose element is the same as their base element.|
+|9|Elemental Whirlwind|Multi|15 MP, 1 AP|The Striker makes a strike against all opponents on the battlefield whose element is the same as their base element.|
 |10|Dragonslayer|Melee|1 [Anima](/srd/anima#term-anima), 2 AP|The Striker makes a colorless strike against a single target.  If the target's [HP](/srd/heroes/numbers#term-hp) is at maximum, the attack's damage is multiplied by 4 in addition to other modifiers.  Otherwise, it is multiplied by 2.|

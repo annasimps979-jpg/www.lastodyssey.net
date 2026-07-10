@@ -37,7 +37,7 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Cleave|[Multi](/srd/combat/attacks#term-multi)|1 AP|The eidolon makes a colorless strike against all warriors in the [front row](/srd/combat/starting#term-front-row).|
+|Cleave|[Multi](/srd/combat/attacks#term-multi)|1 AP|The eidolon makes a colorless strike against all opponents in the [front row](/srd/combat/starting#term-front-row).|
 |Elemental Strike|Melee|1 AP|The eidolon makes a strike against a single warrior whose element is the same as the user's element.|
 
 **Caster:**
@@ -58,8 +58,8 @@ As Heroes advance in tier, they will unlock unique capstone abilities that only 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Shield|Self|1 AP|The eidolon reflects all strikes used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all warriors.  Attacks that the eidolon has used against itself simply have their damage negated.|
-|Barrier|Self|1 AP|The eidolon reflects all spells used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all warriors.  Attacks that the eidolon has used against itself simply have their damage negated.|
+|Shield|Self|1 AP|The eidolon reflects all strikes used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all opponents.  Attacks that the eidolon has used against itself simply have their damage negated.|
+|Barrier|Self|1 AP|The eidolon reflects all spells used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn.  Multi attacks target all opponents.  Attacks that the eidolon has used against itself simply have their damage negated.|
 
 **Support:**
 

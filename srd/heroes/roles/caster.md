@@ -19,6 +19,6 @@ While they are Casters, [Heroes](/srd/glossary#term-hero) gain the following bon
 |5|Magic Burst|Ranged|7 MP, 1 AP|The Caster makes a colorless spell against a single target.  On a hit, the attack deals 2x damage in addition to other modifiers.|
 |6|Elemental Burst|Ranged|9 MP, 1 AP|The Caster uses a spell against a single target whose element is their element.  On a hit, the attack deals 2x damage in addition to other modifiers.|
 |7|Elemental Chain|Special|7 MP, 1 AP|The Caster makes a ranged spell against a single warrior whose element is their base element.  If this results in the target becoming Shellbroken, they may use this ability against another target without spending any MP or AP.|
-|8|Magic Storm|[Multi](/srd/combat/attacks#term-multi)|13 MP, 1 AP|The Caster makes a colorless spell against all warriors on the battlefield.|
-|9|Elemental Storm|Multi|15 MP, 1 AP|The Caster uses a spell against all warriors on the battlefield that has the same element as their base element.|
-|10|Apocalypse|Multi|1 [Anima](/srd/anima#term-anima), 2 AP|The Caster uses a spell against all warriors on the battlefield that has the same element as their base element.  On a hit, it deals 3x damage in addition to other multipliers.|
+|8|Magic Storm|[Multi](/srd/combat/attacks#term-multi)|13 MP, 2 AP|The Caster makes a colorless spell against all opponents on the battlefield.|
+|9|Elemental Storm|Multi|15 MP, 2 AP|The Caster uses a spell against all opponents on the battlefield that has the same element as their base element.|
+|10|Apocalypse|Multi|1 [Anima](/srd/anima#term-anima), 2 AP|The Caster uses a spell against all opponents on the battlefield that has the same element as their base element.  On a hit, it deals 3x damage in addition to other multipliers.|

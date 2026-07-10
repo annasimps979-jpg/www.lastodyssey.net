@@ -11,7 +11,7 @@ The time during a round when a given character is allowed to act is called their
 
 ## Advancing
 
-During the Effect Phase, if there are no characters not downed in the [front row](/srd/combat/starting#term-front-row) on one or both sides of combat, then the opposing side can choose to _<dfn id = "term-advance">advance</dfn>._  When they do so, all of the characters on the former side now count as being in the front row instead of the [back row](/srd/combat/starting#term-back-row).  If both sides are in the back row during the Effect Phase, the players may choose whether or not to advance before their warriors do.
+During the Effect Phase, if there are no characters not downed in the [front row](/srd/combat/starting#term-front-row) on one or both sides of combat, then the opposing side can choose to _<dfn id = "term-advance">advance</dfn>._  When they do so, all of the characters on the former side now count as being in the front row instead of the [back row](/srd/combat/starting#term-back-row).  If both sides are in the back row during the Effect Phase, the players may choose whether or not to advance before their opponents do.
 
 ## Types of Actions
 

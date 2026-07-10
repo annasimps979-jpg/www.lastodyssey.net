@@ -31,7 +31,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Multirestore|[Multi](/srd/combat/attacks#term-multi)|20 MP, 1 AP|The Priest restores an amount of MP to all of their allies, excepting themselves or any other Priests, equal to their Magical Attack.|
+|Multirestore|[Multi](/srd/combat/attacks#term-multi)|20 MP, 2 AP|The Priest restores an amount of MP to all of their allies, excepting themselves or any other Priests, equal to their Magical Attack.|
 
 **Tier 6:** The Priest gains +1 Magical Defense.
 
@@ -49,13 +49,13 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Divine Intervention|Multi|1 Anima, 2 AP|The eidolon restores their allies' MP back to full and reduces the MP of all of their warriors by half of its maximum value.|
+|Divine Intervention|Multi|1 Anima, 2 AP|The eidolon restores their allies' MP back to full and reduces the MP of all of their opponents by half of its maximum value.|
 
 ## Talents
 
 **[Striker](/srd/heroes/roles/striker):** Bludgeon.  The Priest may deal damage to MP instead of [HP](/srd/heroes/numbers#term-hp) with their strikes when the target is [Shellbroken](/srd/combat/shells#term-shellbroken).
 
-**[Caster](/srd/heroes/roles/caster):** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all warriors that they heal the Priest's allies' MP for.
+**[Caster](/srd/heroes/roles/caster):** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all opponents that they heal the Priest's allies' MP for.
 
 **[Healer](/srd/heroes/roles/healer):** Faith Healing.  During the Effect Phase, Prayer and Blessing heal the Priest and their allies for the same amount of HP that they heal MP for.  This effect cannot revive characters.
 

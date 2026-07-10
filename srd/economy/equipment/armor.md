@@ -90,7 +90,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Element|When a character wears armor that has this upgrade, they count as having the specified element when calculating received damage.  This is overridden by archetype abilities like the [Dancer's](/srd/heroes/archetypes/dancer) Mask that change their element, and also does not affect any [Shells](/srd/combat/shells) that they receive during battle.  They cannot have more than one of this upgrade on a single piece of armor.|
 |Invigorating|While a character is wearing this armor, they are immune to [hexes](/srd/combat/glamors#term-hex) that affect the specified statistic.  This upgrade cannot stack, but they can have multiple upgrades that make them immune to different hexes at once.|
 |Weatherproofing|While a character is wearing this armor, they are immune to the negative and positive effects of a single type of [weather](/srd/exploration/weather) as though they were wearing a Mundane [Cloak.](/srd/economy/items/travel#term-cloak)  This cannot stack, but a character may be immune to more than one type of weather due to different versions of this upgrade at a time.|
-|Status Resistance|While a character is wearing this armor, the probability of an warrior inflicting a particular [status](/srd/combat/statuses) on them is reduced as though they were resistant to the effect's element.  This upgrade does not stack, but they can resist multiple statuses at once with different versions of this upgrade.|
+|Status Resistance|While a character is wearing this armor, the probability of a warrior inflicting a particular [status](/srd/combat/statuses) on them is reduced as though they were resistant to the effect's element.  This upgrade does not stack, but they can resist multiple statuses at once with different versions of this upgrade.|
 |Sealed|This armor lets the wearer function in an environment such as vacuum or underwater without suffering any negative effects.  This does not stack, but armors can be sealed to multiple environments at once.|
 
 ### UV 2
@@ -107,7 +107,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 
 |Name|Description|
 |:-|:-|
-|<dfn id = "term-barbed-armor">Barbed</dfn>|When an warrior hits the wearer with a [Melee](/srd/combat/attacks#term-melee) ability, they automatically receive the status specified by this upgrade.|
+|<dfn id = "term-barbed-armor">Barbed</dfn>|When a warrior hits the wearer with a [Melee](/srd/combat/attacks#term-melee) ability, they automatically receive the status specified by this upgrade.|
 |Enchanted|If a character is wearing this armor at the beginning of combat, they automatically gain 20 points of Shell of the specified element of this upgrade.  They still gain this even if their [Health](/srd/heroes/numbers#term-health) is less than 20.  All other rules for Shells apply as normal.|
 |Blessed|A character is immune to all hexes while wearing this armor, and they are also immune to any effects that reduce their [AP](/srd/combat/round#term-ap) in any capacity.|
 |[Mana](/srd/heroes/numbers#term-mana) Battery|When the wearer begins a battle, they gain 20 temporary MP in addition to their current MP.  Any unspent MP from this pool goes away at the end of the battle.|
@@ -120,8 +120,8 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Corrupted|When the wearer would otherwise undergo [True Death](/srd/anima/true-death) during combat, something else happens instead.|
 |Druidic|While a character is wearing this armor, any healing they do to either themselves or their allies is multiplied by 1.5, rounded down.  This applies in or out of combat.|
 |Exoskeleton|If a character is wearing this armor at the beginning of a battle, they automatically gain [Hasted](/srd/heroes/roles/support) without having to have it cast on themselves.|
-|Vengeful|When the wearer takes physical damage due to an warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own strike as though they were the target of the attack.|
-|Conductive|When the wearer takes magical damage due to an warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own spell as though they were the target of the attack.|
+|Vengeful|When the wearer takes physical damage due to a warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own strike as though they were the target of the attack.|
+|Conductive|When the wearer takes magical damage due to a warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own spell as though they were the target of the attack.|
 |Weapons Platform|While a character is wearing this armor, they can [swap](/srd/combat/round#term-swap-equipment) weapons and accessories without spending any AP.|
 |Angelic|This armor gives the wearer wings that allow them to take the Fly action during combat.  Fly costs 1 AP and puts the user within melee range of every warrior on the battlefield as though they were in the [front row](/srd/combat/starting#term-front-row), while putting them out of melee range of their attacks as though they were in the [back row](/srd/combat/starting#term-back-row).  However, if the user is hit by any attacks while Flying, they will fall back down to the front row of the battlefield.|
 |Utility Belt|While a character is wearing this armor, they may use one Item from the [party](/srd/glossary#term-party) inventory per [round](/srd/combat/round#term-round) without spending any AP.|

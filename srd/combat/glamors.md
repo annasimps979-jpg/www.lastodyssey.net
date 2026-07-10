@@ -6,4 +6,4 @@ Another way of putting the above is that each level of charm raises the statisti
 
 For reference, to determine what any of a character's statistics are in battle, the formula looks like this:
 
-(Total) = (Base Value) x (Status Multiplier) + (Bonus Tracker) + (Injury Modifier)
+<math xmlns = "https://www.w3.org/1998/Math/MathML"><menclose>Total</menclose> <mo>=</mo> <menclose>Base Value</menclose> <mo>x</mo> <menclose>Status Multiplier</menclose> <mo>+</mo> <menclose>Bonus Tracker</menclose> <mo>+</mo> <menclose>Injury Modifier</menclose></math>

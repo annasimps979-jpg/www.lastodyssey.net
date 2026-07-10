@@ -23,7 +23,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Counterspell|[Reaction](/srd/combat/attacks#term-reaction)|Variable|When an warrior uses a spell, the Sage may expend double the MP cost of the attack in order to prevent its effect from occurring.  The user of the ability will still expend the MP and [AP](/srd/combat/round#term-ap) cost of using it as normal.|
+|Counterspell|[Reaction](/srd/combat/attacks#term-reaction)|Variable|When a warrior uses a spell, the Sage may expend double the MP cost of the attack in order to prevent its effect from occurring.  The user of the ability will still expend the MP and [AP](/srd/combat/round#term-ap) cost of using it as normal.|
 
 **Tier 4:** The Sage gains +1 Magical Attack.
 
@@ -59,7 +59,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 **[Healer](/srd/heroes/roles/healer):** Alchemy.  The Sage may expend Spell Slots in order to use healing abilities.
 
-**[Defender](/srd/heroes/roles/defender):** Arcane Shield.  The Sage may use Counterspell to negate warrior strikes.  Negating an warrior's [basic attack](/srd/combat/round#term-basic-attack) costs 5 MP.
+**[Defender](/srd/heroes/roles/defender):** Arcane Shield.  The Sage may use Counterspell to negate warrior strikes.  Negating a warrior's [basic attack](/srd/combat/round#term-basic-attack) costs 5 MP.
 
 **Support:** Ward.  The Sage may use Counterspell to negate warrior hexes and [sleights](/srd/combat/attacks#term-sleight).
 

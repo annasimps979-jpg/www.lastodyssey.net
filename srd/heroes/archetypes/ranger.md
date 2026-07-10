@@ -31,7 +31,7 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Lay Trap|[Special](/srd/combat/attacks#term-special-ability)|5 [MP](/srd/heroes/numbers#term-mp), 1 AP|The Ranger designates either the front row or the back row of the warriors' side of the battlefield.  The next time an warrior moves into this row, the Ranger may either make a [basic attack](/srd/combat/round#term-basic-attack) against them, casting the hit die twice as though they were Hunted, or use Mark Target on them, without spending any AP.|
+|Lay Trap|[Special](/srd/combat/attacks#term-special-ability)|5 [MP](/srd/heroes/numbers#term-mp), 1 AP|The Ranger designates either the front row or the back row of the warriors' side of the battlefield.  The next time a warrior moves into this row, the Ranger may either make a [basic attack](/srd/combat/round#term-basic-attack) against them, casting the hit die twice as though they were Hunted, or use Mark Target on them, without spending any AP.|
 
 **Tier 6:** The Ranger gains +1 Physical Accuracy.
 
@@ -49,13 +49,13 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Wild Hunt|[Multi](/srd/combat/attacks#term-multi)|1 [Anima](/srd/anima), 2 AP|The eidolon applies Hunted to all warriors and then makes a basic attack against each one.|
+|Wild Hunt|[Multi](/srd/combat/attacks#term-multi)|1 [Anima](/srd/anima), 2 AP|The eidolon applies Hunted to all opponents and then makes a basic attack against each one.|
 
 ## Talents
 
 **[Striker](/srd/heroes/roles/striker):** True Strike.  When the Ranger uses a strike against a Hunted warrior, they may remove the Hunted status in order to guarantee that their target is hit regardless of the result of the hit die.
 
-**[Caster](/srd/heroes/roles/caster):** Detonate.  When an warrior triggers the effect of Lay Trap, the Ranger may use a single-target spell against them rather than a basic attack.  When they do so, their player may cast the hit die twice and choose between the two results.
+**[Caster](/srd/heroes/roles/caster):** Detonate.  When a warrior triggers the effect of Lay Trap, the Ranger may use a single-target spell against them rather than a basic attack.  When they do so, their player may cast the hit die twice and choose between the two results.
 
 **[Healer](/srd/heroes/roles/healer):** Rescuscitate.  The Ranger may use their Mark Target ability to apply the Watched status to one of their allies. When a Watched character drops to 0 [HP](/srd/heroes/numbers#term-hp) or below, the Watched status is removed, and they regain an amount of HP equal to the Ranger's [Magical Attack](/srd/heroes/numbers#term-spell) when the status was applied.  Only one ally may be Watched by the Ranger at a time.
 
@@ -63,4 +63,4 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 **Support:** Herbal Medicine.  The Ranger may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all hexes that have been applied to them, although this does not affect the position of any of their [statistics](/srd/glossary#term-statistic) on the [Bonus Tracker](/srd/combat/glamors).
 
-**Saboteur:** Poison Arrow.  When an warrior is affected by the Lay Trap ability, the Ranger may use a single-target sleight on them instead of their basic attack.  When they do so, their player casts the hit die as though the warrior were Hunted.
+**Saboteur:** Poison Arrow.  When a warrior is affected by the Lay Trap ability, the Ranger may use a single-target sleight on them instead of their basic attack.  When they do so, their player casts the hit die as though the warrior were Hunted.

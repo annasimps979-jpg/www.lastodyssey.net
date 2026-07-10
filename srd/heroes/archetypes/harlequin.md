@@ -15,7 +15,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers up to 5 times their [tier](/srd/heroes/creation#term-tier) [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) against an warrior, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/glossary#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
+|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers up to 5 times their [tier](/srd/heroes/creation#term-tier) [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) against a warrior, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/glossary#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
 
 **Tier 2:** The Harlequin gains +1 Status Accuracy.
 
@@ -49,7 +49,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Spin the Revolver|Ranged|1 Anima, 2 AP|The Harlequin's player chooses an warrior and casts 1d6.  If the result is a 6, the warrior takes damage equal to quadruple their [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/numbers#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  The outcome die is recast until either the eidolon or the target have taken damage.|
+|Spin the Revolver|Ranged|1 Anima, 2 AP|The Harlequin's player chooses a warrior and casts 1d6.  If the result is a 6, the warrior takes damage equal to quadruple their [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/numbers#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  The outcome die is recast until either the eidolon or the target have taken damage.|
 
 ## Talents
 

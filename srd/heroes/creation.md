@@ -52,8 +52,8 @@ By default, Heroes count as [colorless](/srd/combat/elements#term-colorless) for
 
 ## Choose Starting Role
 A Hero's role grants them abilities they can use in [combat](/srd/combat), and extra actions they can take during [exploration](/srd/exploration).  It also grants them bonuses to three different statistics that depend on which role they currently play.  As they advance in tier, Heroes will gain multiple roles that they can switch between during the [Paradigm Phase](/srd/combat/round#term-paradigm-phase) of combat.  Eventually, every Hero in the party will be able to use any role.  However, at Hero creation all Heroes start with only one role available.  See the [Roles](/srd/heroes/roles) section for more details.  In Last Odyssey, there are six roles:
-*  _[Strikers](/srd/heroes/roles/striker)_ specialize in dealing physical damage to their warriors.
-*  _[Casters](/srd/heroes/roles/caster)_ specialize in dealing magical damage to their warriors.
+*  _[Strikers](/srd/heroes/roles/striker)_ specialize in dealing physical damage to their opponents.
+*  _[Casters](/srd/heroes/roles/caster)_ specialize in dealing magical damage to their opponents.
 *  _[Healers](/srd/heroes/roles/healer)_ specialize in restoring their allies' [HP](/srd/heroes/numbers#term-hp) and negating hexes and statuses.
 *  _[Defenders](/srd/heroes/roles/defender)_ specialize in drawing warrior attacks and negating the damage done to themselves and their allies.
 *  _[Supports](/srd/heroes/roles/support)_ specialize in charming allies and applying special statuses called Shells, which act as a form of temporary HP.

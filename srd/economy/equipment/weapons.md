@@ -89,28 +89,28 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 |Keen|This upgrade gives a bonus to either the wearer's Status, Magical, or Physical Accuracy whose value depends on its [UV](/srd/economy/equipment/upgrades#term-upgrade-value).  UV 1 gives a +1, UV 2 gives a +3, and UV 3 gives a +5.|
 |Extra Ability|When a character wields a weapon with this upgrade, they are able to use an extra [flex power](/srd/heroes/character-advancmement#term-flex-power), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/glossary#term-ability) at its normal [MP](/srd/heroes/numbers#term-mp) cost.  At UV 1, the ability is earned at of rank 1-3 of the role or archetype that can use it, at UV 2 the ability is earned at rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
 |Fast|This upgrade gives a bonus to the wielder's [Initiative](/srd/heroes/numbers#term-initiative).  At UV 1, the bonus is +1, at UV 2 the bonus is +2, and at UV 3 the bonus is +3.|
-|Sharpened|After the wielder hits an warrior with a [strike](/srd/combat/attacks#term-strike) while wielding a weapon with this upgrade, they may add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +3 extra damage, and UV 3 gives +5 extra damage.|
-|Energized|After the wielder hits an warrior with a [spell](/srd/combat/attacks#term-spell) while wielding a weapon with this upgrade, they may add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +3 extra damage, and UV 3 gives +5 extra damage.|
+|Sharpened|After the wielder hits a warrior with a [strike](/srd/combat/attacks#term-strike) while wielding a weapon with this upgrade, they may add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +3 extra damage, and UV 3 gives +5 extra damage.|
+|Energized|After the wielder hits a warrior with a [spell](/srd/combat/attacks#term-spell) while wielding a weapon with this upgrade, they may add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +3 extra damage, and UV 3 gives +5 extra damage.|
 
 ### UV 1
 
 |Name|Description|
 |:-|:-|
 |Elemental|Instead of dealing [colorless](/srd/combat/elements#term-colorless) physical damage, this weapon's [basic attack](/srd/combat/round#term-basic-attack) deals [elemental](/srd/combat/elements) physical damage of a fixed type.  This upgrade cannot be applied more than once to a single weapon.|
-|Slayer|When the wielder hits an warrior of the [creature type](/srd/warriors/creation#term-creature-type) specified by this upgrade, the damage is multiplied by 1.5x in addition to other modifiers.  This upgrade cannot stack, but there can be multiple Slayer upgrades of different types on the same weapon.|
+|Slayer|When the wielder hits a warrior of the [creature type](/srd/warriors/creation#term-creature-type) specified by this upgrade, the damage is multiplied by 1.5x in addition to other modifiers.  This upgrade cannot stack, but there can be multiple Slayer upgrades of different types on the same weapon.|
 |Light|In addition to their usual basic attack, weapons with this upgrade give the wielder a free ability called Light Attack.  When the wielder uses this ability, they make two colorless, [Melee](/srd/combat/attacks#term-melee), strikes against a single target, each one dealing damage multiplied by 0.75x in addition to other modifiers.|
-|Toxic|When the wielder hits an warrior with a basic attack, it also inflicts one level of the [hex](/srd/combat/glamors#term-hex) specified by this upgrade.  This ability cannot stack, but a weapon can have this effect for multiple different kinds of hexes at once.|
-|Pommel Guard|While wielding this weapon, a character is immune to warrior abilities such as [Counter](/srd/heroes/jobs/defender) that reflect their abilities back at them.  However, when an warrior successfully reflects one of their abilities, its effect is still negated.|
+|Toxic|When the wielder hits a warrior with a basic attack, it also inflicts one level of the [hex](/srd/combat/glamors#term-hex) specified by this upgrade.  This ability cannot stack, but a weapon can have this effect for multiple different kinds of hexes at once.|
+|Pommel Guard|While wielding this weapon, a character is immune to warrior abilities such as [Counter](/srd/heroes/jobs/defender) that reflect their abilities back at them.  However, when a warrior successfully reflects one of their abilities, its effect is still negated.|
 
 ### UV 2
 
 |Name|Description|
 |:-|:-|
-|Cursed|When the wielder hits an warrior with this weapon's basic attack, they also inflict the [status](/srd/combat/statuses) specified by this upgrade.|
-|Blunt|This weapon's basic attack is replaced with an ability that makes a Melee strike against an warrior.  On a hit, this attack does not do damage, but instead reduces the [AP](/srd/combat/round#term-ap) that the warrior can use during its next [turn](/srd/combat/round#term-turn) by one.  The wielder can hit an warrior with this attack multiple times per turn, but they cannot reduce its AP below zero.|
+|Cursed|When the wielder hits a warrior with this weapon's basic attack, they also inflict the [status](/srd/combat/statuses) specified by this upgrade.|
+|Blunt|This weapon's basic attack is replaced with an ability that makes a Melee strike against a single target.  On a hit, this attack does not do damage, but instead reduces the [AP](/srd/combat/round#term-ap) that the warrior can use during its next [turn](/srd/combat/round#term-turn) by one.  The wielder can hit a warrior with this attack multiple times per turn, but they cannot reduce its AP below zero.|
 |Ambushing|At the beginning of a [battle](/srd/glossary#term-battle), the wielder may make a free basic attack against any target within range of this weapon's basic attack before the [Initiative Order](/srd/combat/starting#term-initiative-order) is determined.  If their [party](/srd/glossary#term-party) has [First Strike](/srd/combat/starting#term-first-strike), they may make this attack for free during the First Strike round in addition to any other [actions](/srd/glossary#term-action).|
 |Standard Issue|Weapons with this upgrade can be wielded by any character, regardless of whether or not that character is proficient in using weapons of its type.|
-|Sensor Array|When the wielder hits an warrior with a basic attack while using this weapon, it automatically inflicts the Scan ability in addition to its usual damage.|
+|Sensor Array|When the wielder hits a warrior with a basic attack while using this weapon, it automatically inflicts the Scan ability in addition to its usual damage.|
 
 ### UV 3
 
@@ -131,11 +131,11 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 |Vorpal|When the wielder makes a strike with this weapon, the damage they deal is calculated as though the target's Physical Defense were half its actual value, rounded down.|
 |Plasma|When the wielder uses a spell with this weapon, the damage they deal is calculated as though the target's Magical Defense were half its actual value, rounded down.|
 |Organic|When the wielder uses a [sleight](/srd/combat/attacks#term-sleight) while wielding this weapon, cast the [hit die](/srd/combat/attacks#term-hit-die) as though the target's Resistance were one half its actual value, rounded down.|
-|Vampiric|When the wielder hits an warrior with a strike while wielding this weapon, they also heal an amount of HP equal to the total damage they dealt to that warrior.|
+|Vampiric|When the wielder hits a warrior with a strike while wielding this weapon, they also heal an amount of HP equal to the total damage they dealt to that warrior.|
 |Masterwork|This weapon is of unusual quality, even for an Expert weapon.  It gives the wearer an extra +1 to both Physical and Magical Attack.|
-|Explosive|When the wielder hits an warrior with this weapon's basic attack, every other warrior also takes damage as though they had been hit with a basic attack as well.|
-|Holy|When the wielder makes a basic attack with this weapon, its damage is not calculated as usual.  Instead, the wielder deals [1d100](/srd/glossary#term-d100) damage to the target that cannot be reflected, negated, guarded against, absorbed, or otherwise modified, including by normal damage modifiers.  If an warrior's [Shell](/srd/combat/shells) is broken in this manner, all rules for [Shellbreaking](/srd/combat/shells#term-shellbroken) still apply.|
-|Corrupted|Every ability that the wielder uses that has an element, statuses included, counts as having the [shadow](/srd/combat/elements#term-shadow) type.  Whenever the wielder kills an warrior with this weapon, it gains a stacking +1 base damage bonus to all damage done while wielding the weapon that stacks with each kill.  After the bonus hits +99, something happens.|
+|Explosive|When the wielder hits a warrior with this weapon's basic attack, every other warrior also takes damage as though they had been hit with a basic attack as well.|
+|Holy|When the wielder makes a basic attack with this weapon, its damage is not calculated as usual.  Instead, the wielder deals [1d100](/srd/glossary#term-d100) damage to the target that cannot be reflected, negated, guarded against, absorbed, or otherwise modified, including by normal damage modifiers.  If a warrior's [Shell](/srd/combat/shells) is broken in this manner, all rules for [Shellbreaking](/srd/combat/shells#term-shellbroken) still apply.|
+|Corrupted|Every ability that the wielder uses that has an element, statuses included, counts as having the [shadow](/srd/combat/elements#term-shadow) type.  Whenever the wielder kills a warrior with this weapon, it gains a stacking +1 base damage bonus to all damage done while wielding the weapon that stacks with each kill.  After the bonus hits +99, something happens.|
 
 ## Example Weapons
 
