@@ -122,3 +122,4 @@
   - [Items](/srd/economy/items)
     - [Battle Items](/srd/economy/items/battle)
     - [Travel Items](/srd/economy/items/travel)
+  - [Merchant Sheet](/srd/economy/last-odyssey-fillable-merchant-sheet.pdf)

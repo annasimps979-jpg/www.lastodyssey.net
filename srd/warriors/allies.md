@@ -1,6 +1,6 @@
 # Ally
 
-Any [NPC](/srd/glossary#term-npc) that accompanies the players on their journey is referred to as a _<dfn id = "term-ally">ally</dfn>._  Recruited enemies may become allies, and recruited allies may also sometimes become enemies.  At times, they may also be hired by spending money, although a hireling can easily become a long-term friend if they spend enough time with the party.  The following section outlines how to seamlessly incorporate such characters into [exploration](/srd/exploration) and [combat,](/srd/combat) and how to handle long-term allies as characters advance.
+Any [NPC](/srd/glossary#term-npc) that accompanies the players on their journey is referred to as a _<dfn id = "term-ally">ally</dfn>._  Recruited enemies may become allies, and recruited allies may also sometimes become enemies.  At times, they may also be hired by spending money, although many allies will be willing to work for free, and can easily become a long-term friend if they spend enough time with the party.  The following section outlines how to seamlessly incorporate such characters into [exploration](/srd/exploration) and [combat,](/srd/combat) and how to handle long-term allies as characters advance.
 
 ## Hiring Allies
 
@@ -22,6 +22,8 @@ combat, the GM casts the [outcome die.](/srd/glossary#term-outcome-die)  If the 
 Allies enter the party with a number of [Supplies](/srd/economy/items/travel#term-supplies) prepared as deemed appropriate by the GM, and have a total minimum [Carrying Capacity](/srd/economy/inventory#term-carrying-capacity) of 5 times their current tier.  Regardless of what their other capabilities are, they can always take the [Cook](/srd/exploration/travel/round#term-cook-action), [Shelter](/srd/exploration/travel/round#term-shelter-action), [Recover](/srd/exploration/travel/round#term-recover-action), and [Explore](/srd/exploration/travel/round#term-explore-action) actions during the [Camping Phase](/srd/exploration/travel/round#term-camping-phase).  If they have sustained an injury, they obey the same rules that the Heroes do for recovering from them.  Some allies will also have the ability to assist during travel.  The price of these skills is outlined below.
 
 Each ally is also able to take a single camping [action](/srd/glossary#term-action) based on their capabilities.  For example, a loyal watchdog might be able to take the [Watch](/srd/exploration/travel/round#term-watch-action) action, while a trained hunter might be able to take the [Hunt](/srd/exploration/travel/round#term-hunt-action) action.  If they stay long-term in the party, the GM may also consider giving them the capacity to use more than one.  A good rule of thumb for this is that they should be able to perform up to their tier divided by two role-based travel actions so as to feel about equivalent to the player characters.
+
+The number the GM must roll under when an ally takes a camping action is up to the GM, and also adds to their salary.  If they are hired, an ally's salary is increased by ten times this number for each additional camping action the ally can take.  So, if an ally has Watch 3 and Hunt 2, their total salary due to these is 50 cr.
 
 ## Guides
 

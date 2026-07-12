@@ -7,6 +7,7 @@ In Last Odyssey, the [party](/srd/glossary#term-party) will have to rely on good
 - Acquisition
     - [Currency:](/srd/economy/currency) The basic unit of exchange for all goods and services, and how players can acquire it.
     - [Merchants:](/srd/economy/merchants) Item vendors and how to create them.
+    - [Merchant Sheet:](/srd/economy/last-odyssey-fillable-merchant-sheet.pdf) A place to record the items a vendor carries.
 - Inventory
     - [Inventory:](/srd/economy/inventory) What can be carried, and how much.
     - [Equipment:](/srd/economy/equipment) Weapons, armor, and accessories.
