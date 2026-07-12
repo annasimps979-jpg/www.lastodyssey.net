@@ -10,6 +10,6 @@ Towns live and die by the trade that flows through them, and much of what is ava
 *  Towns are large enough to accommodate a great deal of complex politics.  What is the latest drama?  Is there a way for the [players](/srd/glossary#term-player) to get involved, and if so, how?
 *  Is there a marketplace, and if not, where are the [merchants](/srd/economy/merchants) located?  What are they like?  Are there any rivalries?
 *  Many towns will rest on major landmarks or tourist attractions.  Are there any in particular the players could visit?  Are they scams, or could they provide actual benefit to the players?
-*  What political actors rule over the town, and what are their needs?  Are they willing to employ adventurers, and if not, what is their reasoning?
-*  Generally, towns will have some sort of protection against being looted.  What sort exist here?  Walls?  A moat?  A garrison of soldiers or guardsmen?
+*  What political actors rule over the town, and what are their needs?  Are they willing to employ adventurers, and, if not, what is their reasoning?
+*  Generally, towns will have some sort of protection against being looted.  Which ones exist here?  Walls?  A moat?  A garrison of soldiers or guardsmen?
 *  Towns require a lot more food than the average village.  What do the people eat here, and how does it affect the experience of being there?  Is there the sound of frying?  The smell of woodsmoke?  The stink of fish?  The aroma of baked bread?

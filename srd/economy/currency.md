@@ -1,10 +1,10 @@
 # Currency
 
-All transactions that take place between [characters](/srd/glossary#term-character) in Last Odyssey are mediated by a single currency called _<dfn id = "term-cr">cr</dfn>._  This number represents the accumulated gold, silver, bronze, platinum, credits, paperbacks, or any other form of currency the [players](/srd/glossary#term-player) have accumulated, as well as the various valuable but useless items that the players acquire as loot along their journey.  If [GMs](/srd/glossary#term-gm) and players want to simulate trade as a part of their [campaign](/srd/glossary#term-campaign), they can substitute cr with objects of of equivalent value.
+All transactions that take place between [characters](/srd/glossary#term-character) in Last Odyssey are mediated by a single currency called _<dfn id = "term-cr">cr</dfn>._  This number represents the accumulated gold, silver, bronze, platinum, credits, paperbacks, or any other form of currency the [players](/srd/glossary#term-player) have at their disposal, as well as the various valuable but useless items that the characters acquire as loot along their journey.  If the [GM](/srd/glossary#term-gm) and the players want to simulate trade as a part of their [campaign](/srd/glossary#term-campaign), they can substitute cr with objects of of equivalent value.
 
 ## Barter
 
-If players do not want to or are not able to directly exchange currency--for example, in a very poor or out of the way settlement--they can also engage in direct barter.  The way barter works is quite simple.  If the players are able to offer the equivalent cr value for an item in other items or above, they can exchange their items for one.  Exchanging an item for a lesser cr value is difficult, and requires either deception or a good relationship with the person being bartered with, and is handled with a [Mind](/srd/heroes/numbers#term-mind) [skill challenge](/srd/discovery/skill-challenges).
+If players do not want or are unable to directly exchange currency&mdash;for example, in a very poor or out of the way settlement&mdash;they can also engage in direct barter.  The way barter works is quite simple: if the players are able to offer the equivalent cr value for an item in other items or above, they can exchange their items for one.  Exchanging an item for a lesser cr value is difficult, and requires either deception or a good relationship with the person being bartered with.  Haggling is handled with a [Mind](/srd/heroes/numbers#term-mind) [skill challenge](/srd/discovery/skill-challenges).
 
 ## Earning Money
 
@@ -13,5 +13,5 @@ If players do not want to or are not able to directly exchange currency--for exa
 The opportunity to work for a wage will usually present itself to players who are otherwise out of options.  All but the smallest villages have a few forms of employment available.  If players decide to work for money, each "round" of work will take the majority of a single day.  Here are a few examples:
 *  Grunt labor, such as working in a mine or on a farm, will pay 1 cr per day.
 *  Professional labor that makes use of a [character's](/srd/glossary#term-character) particular skills will pay 5 cr per day.
-*  Specialist labor requires a successful skill challenge of the appropriate type, and will earn players 10 cr per day.
-*  Criminal labor, including smuggling and burglary, will net the players 2d8 cr per day and will require a successful skill challenge to avoid facing consequences.
+*  Specialist labor requires a successful skill challenge of the appropriate type, and will earn players 10 cr per day per successful skill challenge.
+*  Criminal labor, including smuggling and burglary, will net the players 2d10 cr per day and will require a successful skill challenge of the appropriate type to avoid facing consequences.

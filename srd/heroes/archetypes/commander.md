@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|[Passive](/srd/combat/attacks#term-passive)|N/A|The Commander's allies gain a +1 bonus to their [Status](/srd/heroes/numbers#term-status-accuracy), [Physical](/srd/heroes/numbers#term-physical-accuracy), and [Magical Accuracies](/srd/heroes/numbers#term-magical-accuracy) when they act after the Commander in the [Initiative Order](/srd/combat/starting#term-initiative-order) that does not count on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker).  If the Commander is [downed](/srd/combat/death-and-injury#term-downed), this effect does not apply.|
+|Standard Bearer|[Passive](/srd/combat/attacks#term-passive)|N/A|The Commander's allies gain a +1 bonus to their [Status](/srd/heroes/numbers#term-status-accuracy), [Physical](/srd/heroes/numbers#term-physical-accuracy), and [Magical Accuracies](/srd/heroes/numbers#term-magical-accuracy) when they act after the Commander in the [Initiative Order](/srd/combat/starting#term-initiative-order) that does not count on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker).  If the Commander is [downed](/srd/combat/injuries#term-downed), this effect does not apply.|
 
 **Tier 4:** The Commander gains +1 Resistance.
 
@@ -49,7 +49,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Charge!|[Special](/srd/combat/attacks#term-special-ability)|1 [Anima](/srd/anima), 2 AP|The [eidolon](/srd/heroes/eidolons) grants all of their allies an immediate full turn.  When they use abilities during this turn, they can substitute the eidolon's [statistics](/srd/glossary#term-statistic) for theirs.|
+|Charge!|[Special](/srd/combat/attacks#term-special-ability)|1 [Anima](/srd/anima), 2 AP|The [eidolon](/srd/heroes/eidolons) grants one of their allies an immediate full turn.  When that ally uses abilities during this turn, they can substitute the eidolon's [statistics](/srd/glossary#term-statistic) for theirs.|
 
 ## Talents
 
@@ -57,7 +57,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 **[Caster](/srd/heroes/roles/caster):** Siege Engineer.  When an ally uses a [spell](/srd/combat/attacks#term-spell) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Accuracy and [Magical Attack](/srd/heroes/numbers#term-spell) for their own.
 
-**[Healer](/srd/heroes/roles/healer):** Medical Tent.  When an ally uses a Healer ability using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Attack for their own.
+**[Healer](/srd/heroes/roles/healer):** Medical Tent.  When an ally uses a [blessing](/srd/heroes/roles/healer#term-blessing) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Attack for their own.
 
 **[Defender](/srd/heroes/roles/defender):** Shield Wall.  When the Commander uses the Taunt or Multitaunt abilities, they may direct the target to attack one of their allies instead of them.
 

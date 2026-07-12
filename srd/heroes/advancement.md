@@ -1,6 +1,6 @@
 # Hero Advancement
 
-Over time, players will earn [XP](/srd/discovery/earning-xp#term-xp), which can be spent to make their [Heroes](/srd/glossary#term-player-character) more powerful by increasing their [attributes](/srd/glossary#term-attribute) and unlocking new [abilities](/srd/glossary#term-ability).  A Hero's level of advancement in relation to other characters is represented by its [tier](/srd/heroes/creation#term-tier).  [Players](/srd/glossary#term-player) can spend XP on four distinct improvements to their Hero: unlocking a new [role](/srd/heroes/roles) or unlocking a talent for one they already have, taking what's known as a flex power, adding 1 to one of their attributes, and advancing 3 total ranks in any roles they are currently have access to.  The last two of these can be done twice per tier, while the first two can only be done once.  To learn more about how Heroes earn XP, see the [Earning XP](/srd/discovery/earning-xp) section.
+Over time, players will earn [XP](/srd/discovery/earning-xp#term-xp), which can be spent to make their [Heroes](/srd/glossary#term-player-character) more powerful by increasing their [attributes](/srd/glossary#term-attribute) and unlocking new [abilities](/srd/glossary#term-ability).  A Hero's level of advancement in relation to other characters is represented by their [tier](/srd/heroes/creation#term-tier).  [Players](/srd/glossary#term-player) can spend XP on four distinct improvements to their Hero: unlocking a new [role](/srd/heroes/roles) or unlocking a talent for one they already have, taking what's known as a flex power, adding 1 to one of their attributes, and advancing 3 total ranks in any roles they are currently have access to.  The last two of these can be done twice per tier, while the first two can only be done once.  To learn more about how Heroes earn XP, see the [Earning XP](/srd/discovery/earning-xp) section.
 
 The XP cost of each improvement a player buys is equal to the tier at which they are buying the improvement multiplied by the number they have bought this tier plus one.  For example, at tier 1 the very first improvement a player buys will cost 1 XP, while the last one will cost 6 XP.  Once a Hero has reached tier 10 and then unlocked all of the possible advancements, they may no longer advance in tier.  If a Hero in the [campaign](/srd/glossary#term-campaign) reaches the maximum possible tier, this means that it's time for the campaign to start wrapping up and/or for that Hero to move on and be changed out for another one.  Every time a Hero advances in tier, they also gain access to the [archetype](/srd/heroes/archetypes) ability or [statistic](/srd/glossary#term-statistic) bonus of the corresponding rank.
 
@@ -115,7 +115,7 @@ When a Hero first advances to a new tier, they also advance the rank of their ar
 
 In total, once per tier, a Hero can take each of the following advancements:
 *  Advance 3 total ranks in roles.
-*  Advance 3 total ranks in roles.
+*  Advance 3 total ranks in roles again.
 *  Advance a single attribute by 1.
 *  Advance a different attribute by 1.
 *  Unlock a new role or unlock a talent.
@@ -125,7 +125,7 @@ In total, once per tier, a Hero can take each of the following advancements:
 When a player chooses to advance one of their Hero's attributes, they add +1 to either their [Body](/srd/heroes/numbers#term-body), their [Mind](/srd/heroes/numbers#term-mind), or their [Spirit](/srd/heroes/numbers#term-spirit).  The next time they take this improvement during the same tier, they must improve a different attribute.  The maximum value that any of a Hero's attributes can have is 12.
 
 ## Advancing Roles
-Whenever a player advances their Hero's rank in a role, they are then able to use all of the abilities associated with that rank or lower while they play it.  Players can save up ranks whenever they take this improvement until they are ready, but they cannot spend them except when they take this improvement again.  Unlocking the capstone ability at the end of a role's ability list costs 2 ranks of advancement instead of 1.
+Whenever a player advances their Hero's rank in a role, the Hero is then able to use all of the abilities associated with that rank or lower while they play it.  Players can save up ranks whenever they take this improvement until they are ready, but they cannot spend them except when they take this improvement again.  Unlocking the capstone ability at the end of a role's ability list costs 2 ranks of advancement instead of 1.
 
 ## Unlocking Roles and Talents
 Every tier, players may either choose to give their Hero a talent or unlock a new role.  When a Hero unlocks a new role, they may now play it during [combat](/srd/combat) and gain the associated exploration [action](/srd/glossary#term-action) during travel.  When they first unlock a role, it starts at rank 1.
@@ -148,8 +148,8 @@ During advancement, players may purchase any of the following flex powers:
 |Flex Debilitate|Ranged|14 MP, 1 AP|When a player first chooses this power during advancement, they must choose a [status](/srd/combat/statuses) with an element.  Using this ability triggers a [sleight](/srd/combat/attacks#term-sleight) against a single target that inflicts this status on a hit.|
 |Flex Shell|Ally|14 MP, 1 AP|When a player first chooses this power during advancement, they must choose a non-colorless element.  Using this ability increases the [Shell](/srd/combat/shells) of a single target by the user's current [Magical Attack](/srd/heroes/numbers#term-spell).  This power works the same as the [Support's](/srd/heroes/roles/support) Shell ability.|
 |Flex Protect|Ally|18 MP, 1 AP|When a player first chooses this power during advancement, they must choose a non-colorless element.  Using this ability makes the user or a single ally Protected against that element.|
-|Flex Boost|[Passive](/srd/combat/attacks#term-passive)|N/A|The Hero gains a permanent +5 bonus to their [Health](/srd/heroes/numbers#term-health), +5 bonus to their [Mana](/srd/heroes/numbers#term-mana), or a +2 bonus to their [Initiative](/srd/heroes/numbers#term-initiative).|
-|Flex Proficiency|Passive|N/A|The Hero become [proficient](/srd/heroes/creation#term-weapon-proficiency) in a type of weapon or armor they were not previously proficient in.|
+|Flex Boost|[Passive](/srd/combat/attacks#term-passive)|N/A|The Hero gains either a permanent +5 bonus to their [Health](/srd/heroes/numbers#term-health), +5 bonus to their [Mana](/srd/heroes/numbers#term-mana), or a +2 bonus to their [Initiative](/srd/heroes/numbers#term-initiative).|
+|Flex Proficiency|Passive|N/A|The Hero becomes [proficient](/srd/heroes/creation#term-weapon-proficiency) in a type of weapon or armor they were not previously proficient in.|
 
 ## Advancing Tier
 Once a player has acquired one of each of the six tier improvements, their Hero is ready to advance in tier.  To do so, they must spend 3 [Anima](/srd/anima#term-anima) to either summon their [eidolon](/srd/heroes/eidolons#term-eidolon) in battle or to save themselves from [True Death](/srd/anima/true-death).  Once this has been done, the Hero advances to the next tier, and automatically gains the archetype ability associated with their new tier.

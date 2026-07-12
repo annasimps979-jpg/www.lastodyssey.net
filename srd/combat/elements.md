@@ -11,7 +11,7 @@ Heroes, warriors, [eidolons](/srd/heroes/eidolons#term-eidolon), and many [abili
 *  <dfn id = "term-light">Light</dfn> magic channels the power of radiation and the sun, and often has a whitish color.
 *  <dfn id = "term-shadow">Shadow</dfn> magic channels the power of darkness and the unknown, and often has a purple-black color.
 
-An [ability](/srd/glossary#term-ability) or [character](/srd/glossary#term-character) that does not have an element is referred to as _<dfn id = "term-colorless">colorless</dfn>._  Unless they have a [Shell](/srd/combat/shells) active, Heroes count as colorless for the purpose of calculating the damage they take from warrior attacks.
+An [ability](/srd/glossary#term-ability) or [character](/srd/glossary#term-character) that does not have an element is referred to as _<dfn id = "term-colorless">colorless</dfn>._  Unless they have a [Shell](/srd/combat/shells) active, Heroes count as colorless for the purpose of calculating the damage they take from all attacks.
 
 ## Elemental Damage
 
@@ -19,7 +19,7 @@ All abilities with an element have their effects modified by the element of the 
 
 ## Elemental Multipliers
 
-To determine the damage multiplier for a particular attack, consult the table below by finding the element of the attack listed in the left-hand column and matching it with the element of the target on the top row.  The correct damage multiplier is in the cell at the intersection of the row the attacker's element occupies and the column the defender's element occupies.  If either the attack or the target are colorless, the elemental multiplier is automatically equal to one.  When the resulting damage that a character takes after all multipliers are taken into account is not equal to an integer, round that number down to the nearest integer.  For example, if a character takes 2.5 damage according to the elemental table, this only counts as taking 2 damage in practice.
+To determine the damage multiplier for a particular attack, consult the table below by finding the element of the attack listed in the left-hand column and matching it with the element of the target on the top row.  The correct damage multiplier is in the cell at the intersection of the row the attacker's element occupies and the column the defender's element occupies.  If either the attack or the target are colorless, the elemental multiplier is automatically equal to one.  When the resulting damage that a character takes after all multipliers are taken into account is not equal to an integer, round that number to the nearest integer.  For example, if a character takes 2.5 damage according to the elemental table, this only counts as taking 3 damage in practice.
 
 |Type    |  Fire   | Water | Earth  |  Wind     |Thunder|  Ice   |  Wood   |  Light   |  Shadow  |
 |:-------|:--------|:------|:-------|:----------|:------|:-------|:--------|:---------|:---------|

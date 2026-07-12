@@ -23,7 +23,7 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Item Specialist|[Passive](/srd/combat/attacks#term-passive)|N/A|When the Artificer uses an ability that costs MP, they may substitute the MP cost of the ability by expending an item whose effect is of the same type as the ability.|
+|Item Specialist|[Passive](/srd/combat/attacks#term-passive)|N/A|When the Artificer uses an ability that costs MP, they may substitute the MP cost of the ability by expending an item whose effect is of the same type as the ability.  So, for example, they may substitute the MP cost of the Saboteur's Slow ability by expending an item that also inflicts a status on a single target.|
 
 **Tier 4:** The Artificer gains +1 Magical Accuracy.
 
@@ -53,9 +53,9 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Sniper.  When the Artificer uses an item that does physical damage to a warrior, they may add their [Physical Attack](/srd/heroes/numbers#term-strike) to its [base](/srd/glossary#term-base) damage.
+**[Striker](/srd/heroes/roles/striker):** Sniper.  When the Artificer uses an item that does [physical damage](/srd/combat/attacks#term-physical-damage) to a warrior, they may add their [Physical Attack](/srd/heroes/numbers#term-strike) to its [base](/srd/glossary#term-base) damage.
 
-**[Caster](/srd/heroes/roles/caster):** Magic Ammo.  When the Artificer uses an item that does magical damage to a warrior, they may add their [Magical Attack](/srd/heroes/numbers#term-spell) to its base damage.
+**[Caster](/srd/heroes/roles/caster):** Magic Ammo.  When the Artificer uses an item that does [magical damage](/srd/combat/attacks#term-magical-damage) to a warrior, they may add their [Magical Attack](/srd/heroes/numbers#term-spell) to its base damage.
 
 **[Healer](/srd/heroes/roles/healer):** First Aid.  When the Artificer uses an item that heals an ally, they may add their Magical Attack to its base healing.
 

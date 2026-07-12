@@ -39,7 +39,7 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Relentless|Passive|N/A|Once per round, if the Knight misses an attack while Focused, they may choose to reset their bonus damage back to 2 instead of losing the Focused status.|
+|Relentless|Passive|N/A|Once per round, if the Knight misses an attack while Focused, they may choose to keep the Focused status and not lose any bonus damage.  If they miss again, they will lose the Focused status as normal.|
 
 **Tier 8:** The Knight gains +1 Physical Defense.
 
@@ -49,18 +49,18 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Berserk Charge|[Special](/srd/combat/attacks#term-special-ability)|1 [Anima](/srd/anima#term-anima), 2 AP|The [eidolon](/srd/heroes/eidolons#term-eidolon) applies Focused to itself and makes 1d10 basic attacks.|
+|Berserk Charge|[Special](/srd/combat/attacks#term-special-ability)|1 [Anima](/srd/anima#term-anima), 2 AP|The [eidolon](/srd/heroes/eidolons#term-eidolon) applies Focused to itself and makes 1d10 basic attacks against targets of their player's choice.|
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Melee.  While the Knight is Focused, they may use strikes in addition to their basic attack.  Hitting a warrior with a strike increases their bonus damage by 1, while missing a warrior with a strike removes the Focused status.
+**[Striker:](/srd/heroes/roles/striker)** Melee.  While the Knight is Focused, they may use strikes in addition to their basic attack.  Hitting a warrior with a strike increases their bonus damage by 1, while missing a warrior with a strike removes the Focused status.
 
-**[Caster](/srd/heroes/roles/caster):** Artillery.  While the Knight is Focused, they may use spells in addition to their basic attack.  Hitting a warrior with a spell increases their bonus damage by 1, while missing a warrior with a spell removes the Focused status.
+**[Caster:](/srd/heroes/roles/caster)** Artillery.  While the Knight is Focused, they may use spells in addition to their basic attack.  Hitting a warrior with a spell increases their bonus damage by 1, while missing a warrior with a spell removes the Focused status.
 
-**[Healer](/srd/heroes/roles/healer):** Medic.  While the Knight is Focused, they may use healing abilities.  Abilities that restore [HP](/srd/heroes/numbers#term-hp) will heal for additional HP equal to their current damage bonus.
+**[Healer:](/srd/heroes/roles/healer)** Medic.  While the Knight is Focused, they may use any of their [blessings](/srd/heroes/roles/healer#term-blessing) in addition to their basic attack.  Abilities that restore [HP](/srd/heroes/numbers#term-hp) will heal for additional HP equal to their current damage bonus.
 
-**[Defender](/srd/heroes/roles/defender):** Tower.  While the Knight is Focused, they may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and they take reduced damage from physical and spells equal to their current damage bonus.
+**[Defender:](/srd/heroes/roles/defender)** Tower.  While the Knight is Focused, they may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and they take reduced damage from strikes and spells equal to their current damage bonus.
 
-**Support:** Mystic.  While the Knight is Focused, they gain 1 [Shell](/srd/combat/shells) of their [element](/srd/combat/elements#term-element) every time they hit a warrior with a physical or spell.  If they have a Shell of a different element active, they gain 1 Shell of that element instead.
+**Support:** Mystic.  While the Knight is Focused, they gain 3 [Shell](/srd/combat/shells) of their [element](/srd/combat/elements#term-element) every time they hit a warrior with a strike or spell.  If they have a Shell of a different element active, they gain 1 Shell of that element instead.
 
 **Saboteur:** Spy.  While the Knight is Focused, they may use [sleights](/srd/combat/attacks#term-sleight) in addition to their basic attack.  Hitting a warrior with a sleight increases their bonus damage by 1, while missing a warrior with a sleight removes the Focused status.

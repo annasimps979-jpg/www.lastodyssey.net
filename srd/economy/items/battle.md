@@ -1,11 +1,11 @@
 # Battle Items
 
-_<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of inventory item that is usable during [combat](/srd/combat).  Some battle items reproduce the effects of an ability such as Heal or Restore Mana, while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](/srd/glossary#term-party) inventory.  All battle items cost 1 [AP](/srd/combat/round#term-ap) to use unless otherwise specified.
+_<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of item that is usable during [combat](/srd/combat).  Some battle items reproduce the effects of an ability such as [Heal](/srd/heroes/roles/healer) or [Restore Mana](/srd/heroes/archetypes/priest), while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](/srd/glossary#term-party) inventory.  All battle items cost 1 [AP](/srd/combat/round#term-ap) to use unless otherwise specified.
 
 ## Battle Item Effects
 Each battle item has a discrete effect that it induces during combat.  In theory, multiple items could lead to the same effect.  Rather than having a fixed list of items, Last Odyssey has a fixed set of item effects that could be caused by multiple items.  This is for two reasons.  The first is that the value of an item to the [players](/srd/glossary#term-player) is determined by what it does, and not what it looks like, and this is reflected in the item's cost.  The second is that the item that produces an effect in one setting may be different to its equivalent in another.  For example, in a sci-fi setting healing items may take the form of injectors or medkits, while in a fantasy setting they could take the form of healing potions or poultices.
 
-Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</dfn>,_ how potent that effect is, which is determined by its item Quality, and any enhancements.  There are three Qualities of item: Mundane, Rare, and Expert.  Some items have effects that depend on their Quality, while others do not.  In the rulebook, the former are referred to as _<dfn id = "term-leveled-item-effect">leveled</dfn>,_ while the latter are referred to as _<dfn id = "term-non-leveled-item-effect">non-leveled</dfn>._  If an item is leveled, its effect and its cost are determined by its Quality, whereas non-leveled items do not have a Quality rating.  Each additional level of Quality multiplies the cost of the item by ten.  For example, if the Mundane version of an item costs 5 [cr](/srd/economy/currency#term-cr), then the Rare version will cost 50 cr and the Expert version will cost 500 cr.
+Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</dfn>_ and how potent that effect is, the latter of which is determined by its Quality, and any enhancements.  There are three Qualities of item: Mundane, Rare, and Expert.  Some items have effects that depend on their Quality, while others do not.  In the rulebook, the former are referred to as _<dfn id = "term-leveled-item-effect">leveled</dfn>,_ while the latter are referred to as _<dfn id = "term-non-leveled-item-effect">non-leveled</dfn>._  If an item is leveled, its effect and its cost are determined by its Quality, whereas non-leveled items do not have a Quality rating.  Each additional level of Quality multiplies the cost of the item by ten.  For example, if the Mundane version of an item costs 5 [cr](/srd/economy/currency#term-cr), then the Rare version will cost 50 cr and the Expert version will cost 500 cr.
 
 ### Leveled Item Effects
 
@@ -13,29 +13,29 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |:-|:-|:-|
 |Restore HP|1 cr|When used, this item restores a fixed amount of [HP](/srd/heroes/numbers#term-hp) to a single [character](/srd/glossary#term-character).  If it is Mundane, it restores 10 HP, if it is Rare it restores 20, and if it is Expert it restores 30.|
 |Restore MP|3 cr|When used, this item restores a fixed amount of [MP](/srd/heroes/numbers#term-mp) to a single character.  If it is Mundane, it restores 10 MP, if it is Rare it restores 20, and if it is Expert it restores 30.|
-|Physical Damage|5 cr|When used, this item deals [base](/srd/glossary#term-base) [colorless](/srd/combat/elements#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
-|Magical Damage|5 cr|When used, this item deals base colorless magical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
-|Special Damage|7 cr|When used, this item deals base [elemental](/srd/combat/elements#term-element) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
-|Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
+|Physical Damage|5 cr|When used, this item deals [base](/srd/glossary#term-base) [colorless](/srd/combat/elements#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Magical Damage|5 cr|When used, this item deals base colorless [magical damage](/srd/combat/attacks#term-magical-damage) to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Special Damage|7 cr|When used, this item deals base [elemental](/srd/combat/elements#term-element) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
 |Hex|9 cr|When used, this item inflicts a [hex](/srd/combat/glamors#term-hex) of the specified type.  If it is Mundane, it hexes by one level on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker), if it is Rare it hexes by two, and if it is Expert it hexes by three.|
 |Charm|9 cr|When used, this item applies a [charm](/srd/combat/glamors#term-charm) of the specified type.  If it is Mundane, it charms by one level on the Bonus Tracker, if it is Rare it charms by two, and if it is Expert it charms by three.|
-|Inflict Status|12 cr|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the hit die.  If the item is Rare, subtract 2 from the result, and if the Expert then subtract 5 from the result.|
-|Revive|15 cr|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/death-and-injury#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
+|Inflict Status|12 cr|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the [hit die](/srd/combat/attacks#term-hit-die).  If the item is Rare, subtract 5 from the result, and if the Expert then subtract 10 from the result.|
+|Revive|15 cr|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/injuries#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
 |Scan|10 cr|This item applies the [Artificer's](/srd/heroes/archetypes/artificer) Scan ability to a single target, revealing all current relevant information about it.|
-|Remove hexes|15 cr|This item removes all hexes from a single character.|
+|Remove Hexes|15 cr|This item removes all hexes from a single character.|
 |Remove Status|20 cr|This item removes a status of the specified type from a single character.|
-|Negate Resistances|50 cr|This item negates all of a target's elemental resistances until the beginning of the target's next [turn](/srd/combat/round#term-turn).|
+|Negate Resistances|50 cr|This item negates all of a target's elemental resistances, which is to say that no elemental multiplier for any attack that hits it can be less than 1, until the beginning of the target's next [turn](/srd/combat/round#term-turn).|
 |Block Physical Damage|100 cr|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
 |Block Magical Damage|400 cr|The next time the target of this item would otherwise take magical damage, they do not take any damage instead.|
 |Shell|10 cr|The target of this item gains 10 Shell of the corresponding element.|
-|Haste|800 cr|The target of this item becomes [Hasted](/srd/heroes/roles/support).  This still cannot stack with any other applications of Hasted.|
-|Slow|900 cr|The target of this item becomes [Slowed](/srd/heroes/roles/saboteur).  This still cannot stack with any other applications of Slowed.|
-|Summon Creature|1000x(Tier of summoned creature)|When a character uses this item, it summons a creature, usually an [warrior](/srd/warriors) of some type, to fight as an ally on their side.  The first time it can take its turn is during the [round](/srd/combat/round#term-round) after it was summoned, but it can be targeted as soon as it is summoned.|
+|Haste|800 cr|The target of this item becomes [Hasted](/srd/heroes/roles/support) for three subsequent rounds.  This still cannot stack with any other applications of Hasted.|
+|Slow|900 cr|The target of this item becomes [Slowed](/srd/heroes/roles/saboteur) for three subsequent rounds.  This still cannot stack with any other applications of Slowed.|
+|Summon Warrior|1000x(Tier of summoned warrior)|When a character uses this item, it summons a [warrior](/srd/warriors) of a specified type to fight as an ally on their side.  The first time it can take its turn is during the [round](/srd/combat/round#term-round) after it was summoned, but it can be targeted as soon as it is summoned.|
 
 ## Item Enhancements
 In addition to their base effects, some items have special effects called _<dfn id = "term-item-enhancement">enhancements</dfn>_ that change when and how they can be used and whom they target on the battlefield.  Most items will have only one enhancement, since enhancements that change their target are mutually exclusive, but some extremely rare items could have multiple.  Each enhancement to an item multiplies its base cost by an amount given in the enhancement description.  The possible enhancements are as follows:
@@ -44,8 +44,8 @@ In addition to their base effects, some items have special effects called _<dfn 
 |:-|:-|
 |All|This item affects all characters on the battlefield.  Multiplies base cost by 2.|
 |Row|This item affects all characters on a single [row](/srd/combat/starting#term-row).  When a character uses this item, they may choose which row it affects.  Multiplies base cost by 5.|
-|Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target warriors will affect all opponents.  Multiplies base cost by 10.|
-|Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item added together, multiplied by 5.|
+|Multi|This item affects all characters on the side it targets.  Items that target the user's allies' side will affect all allies, while items that target their opponents' side will affect all opponents.  Multiplies base cost by 10.|
+|Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item effect added together, multiplied by 5.|
 |Delay|When a character uses this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](/srd/combat/round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down.|
 |Random|When a character uses this item, it inflicts a random effect based on casting a result from the [Random Element Table](/srd/combat/random-tables#term-random-element-table).|
 
@@ -61,7 +61,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Poison Dart|Rare|Inflict Toxin|Delay|90 cr|
 |Experimental Combat Stim|Expert|Charm [Physical Attack](/srd/heroes/numbers#term-strike)/Charm [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|Dual|9000 cr|
 |Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 cr|
-|Mandragora|N/A|Summon Creature (Dryad)|N/A|4000 cr|
+|Mandragora|N/A|Summon Warrior ([Dryad](/srd/warriors/examples/tier/02))|N/A|2000 cr|
 
 ## Battle Item Generation
 At times, there is a need to quickly create new items.  If the [GM](/srd/glossary#term-gm) needs to reward the players or their opponents with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, cast d20 and consult the table below:

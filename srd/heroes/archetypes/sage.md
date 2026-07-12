@@ -15,7 +15,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Grimoire|[Passive](/srd/combat/attacks#term-passive)|N/A|In addition to [MP](/srd/heroes/numbers#term-mp), the Sage also has a number of Spell Slots equal to their current tier. When they use a [spell](/srd/combat/attacks#term-spell) or a [flex power](/srd/heroes/advancement#term-flex-power), they may expend a single Spell Slot instead of paying the MP cost.|
+|Grimoire|[Passive](/srd/combat/attacks#term-passive)|N/A|In addition to [MP](/srd/heroes/numbers#term-mp), the Sage also has a number of Spell Slots equal to their current tier. When they use a [spell](/srd/combat/attacks#term-spell), including spells from [flex powers](/srd/heroes/advancement#term-flex-power), they may expend a single Spell Slot instead of paying the MP cost.|
 
 **Tier 2:** The Sage gains +1 Magical Attack.
 
@@ -53,14 +53,14 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Martial Artist.  The Sage may also expend Spell Slots in order to use [strikes](/srd/combat/attacks#term-strike).
+**[Striker:](/srd/heroes/roles/striker)** Martial Artist.  The Sage may also expend Spell Slots in order to use [strikes](/srd/combat/attacks#term-strike).
 
-**[Caster](/srd/heroes/roles/caster):** Empowered Staff.  The Sage's Elemental Bolt ability does not cost any MP.
+**[Caster:](/srd/heroes/roles/caster)** Empowered Staff.  The Sage's Elemental Bolt ability does not cost any MP.
 
-**[Healer](/srd/heroes/roles/healer):** Alchemy.  The Sage may expend Spell Slots in order to use healing abilities.
+**[Healer:](/srd/heroes/roles/healer)** Alchemy.  The Sage may expend Spell Slots in order to use their [blessings](/srd/heroes/roles/healer#term-blessing).
 
-**[Defender](/srd/heroes/roles/defender):** Arcane Shield.  The Sage may use Counterspell to negate warrior strikes.  Negating a warrior's [basic attack](/srd/combat/round#term-basic-attack) costs 5 MP.
+**[Defender:](/srd/heroes/roles/defender)** Arcane Shield.  The Sage may use Counterspell to negate strikes.  Negating a warrior's [basic attack](/srd/combat/round#term-basic-attack) costs 5 MP.
 
-**Support:** Ward.  The Sage may use Counterspell to negate warrior hexes and [sleights](/srd/combat/attacks#term-sleight).
+**Support:** Ward.  The Sage may use Counterspell to negate hexes and [sleights](/srd/combat/attacks#term-sleight).
 
-**Saboteur:** Curse.  The Sage may use Counterspell to negate warrior charms and warrior healing abilities such as those that restore HP or MP and those that revive other warriors.
+**Saboteur:** Curse.  The Sage may use Counterspell to negate charms and [blessings,](/srd/heroes/roles/healer#term-blessing) including those that restore HP or MP and those that revive other warriors.

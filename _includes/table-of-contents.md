@@ -2,7 +2,7 @@
 
 *Everything you need to play can be found somewhere in here.*
 
-- [Welcome](/)
+- [**Welcome**](/)
 - [**Playbill**](/srd)
   - [Glossary](/srd/glossary)
 - [**Beginner's Guide**](/srd/intro)
@@ -38,7 +38,6 @@
   - [Eidolons](/srd/heroes/eidolons)
   - [_Example Heroes_](/srd/heroes/examples)
   - [Character Sheet](/srd/heroes/last-odyssey-fillable-character-sheet.pdf)
-  - [Formation Sheet](/srd/combat/last-odyssey-formation-sheet.pdf)
 - [**Anima**](/srd/anima)
   - [Spending Anima](/srd/anima/spending)
   - [Scenes](/srd/anima/scenes)
@@ -66,9 +65,10 @@
   - [Glamors](/srd/combat/glamors)
   - [Statuses](/srd/combat/statuses)
   - [Ending Combat](/srd/combat/ending)
-  - [Death and Injury](/srd/combat/death-and-injury)
+  - [Injuries](/srd/combat/injuries)
   - [Random Tables](/srd/combat/random-tables)
   - [Battlemap](/srd/combat/last-odyssey-battlemap.pdf)
+  - [Formation Sheet](/srd/combat/last-odyssey-formation-sheet.pdf)
 - [**Warriors**](/srd/warriors)
   - [Playing Warriors](/srd/warriors/playing)
   - [Creature Types](/srd/warriors/types)
@@ -85,7 +85,7 @@
     - [Tier &#x2007;8: _Angels_ and _Vampires_](/srd/warriors/examples/tier/08)
     - [Tier &#x2007;9: _Invaders_ and _Robots_](/srd/warriors/examples/tier/09)
     - [Tier        10: _Dragons_ and _Magi_](/srd/warriors/examples/tier/10)
-  - [Allies](/srd/warriors/followers)
+  - [Allies](/srd/warriors/allies)
   - [Ally Sheet](/srd/warriors/last-odyssey-fillable-ally-sheet.pdf)
 - [**Exploration**](/srd/exploration)
   - [Mapmaking](/srd/exploration/maps)

@@ -15,7 +15,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers up to 5 times their [tier](/srd/heroes/creation#term-tier) [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) against a warrior, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/glossary#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
+|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers a total amount of [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) equal to up to 5 times their [tier](/srd/heroes/creation#term-tier) against an opponent, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/glossary#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
 
 **Tier 2:** The Harlequin gains +1 Status Accuracy.
 
@@ -31,7 +31,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Double Or Nothing|[Passive](/srd/combat/attacks#term-passive)|N/A|When the Harlequin loses with the Gamble ability, they may double their wager against the target in exchange for recasting the outcome die.  The Harlequin may double down in this manner until they can no longer bet enough combined HP, MP and Shell to keep up with the bet, at which point they may instead bet the rest of what they have remaining.|
+|Double Or Nothing|[Passive](/srd/combat/attacks#term-passive)|N/A|When the Harlequin loses with the Gamble ability, they may double their wager against the target in exchange for recasting the outcome die once, and must accept the result.  If the Harlequin does not have enough combined HP, MP, and Shell to double down they must instead bet the rest of what they have remaining if they want to roll again.|
 
 **Tier 6:** The Harlequin gains +1 Status Accuracy.
 
@@ -49,7 +49,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Spin the Revolver|Ranged|1 Anima, 2 AP|The Harlequin's player chooses a warrior and casts 1d6.  If the result is a 6, the warrior takes damage equal to quadruple their [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/numbers#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  The outcome die is recast until either the eidolon or the target have taken damage.|
+|Spin the Revolver|Ranged|1 Anima, 2 AP|The Harlequin's player chooses an opponent and casts 1d6.  If the result is a 6, the target takes damage equal to quadruple the [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/numbers#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  This process is repeated until either the eidolon or the target have taken damage.|
 
 ## Talents
 
@@ -57,9 +57,9 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 **[Caster](/srd/heroes/roles/caster):** Rainbow Bolt.  When the Harlequin uses a [spell](/srd/combat/attacks#term-spell), their player may cast on the Random Element Table to determine its element.
 
-**[Healer](/srd/heroes/roles/healer):** Bet Your Life.  When the Harlequin heals an ally with a Healer ability, their player may call a number and then cast the outcome die.  If the result is less than what they called, the amount of healing the character receives is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing the character receives is increased by the number they called.
+**[Healer](/srd/heroes/roles/healer):** Bet Your Life.  When the Harlequin heals an ally with a [blessing](/srd/heroes/roles/healer#term-blessing), their player may call a number and then cast the outcome die.  If the result is less than what they called, the amount of healing the character receives is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing the character receives is increased by the number they called.
 
-**[Defender](/srd/heroes/roles/defender):** Call Bluff.  When a Taunted warrior attacks the Harlequin with a physical or spell, their player may cast the outcome die before the [GM](/srd/glossary#term-gm) casts the [hit die](/srd/combat/attacks#term-hit-die).  If the result is less than theirs, the attack misses.  Otherwise, if the attack hits, the Harlequin takes double damage.
+**[Defender](/srd/heroes/roles/defender):** Call Bluff.  When a Taunted opponent attacks the Harlequin with a strike or spell, their player may cast the outcome die before the [GM](/srd/glossary#term-gm) casts the [hit die](/srd/combat/attacks#term-hit-die).  If the result is less than the GM's, the attack misses.  Otherwise, if the attack hits, the Harlequin takes double damage.
 
 **Support:** Random Charm.  When the Harlequin uses a charm, their player may cast on the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to determine which [statistic](/srd/glossary#term-statistic) the ability affects.
 

@@ -100,7 +100,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Flexible|A character gains +1 to their [Evasion](/srd/heroes/numbers#term-evasion) while they are wearing this armor.|
 |Proofed|A character gains +1 to their [Resistance](/srd/heroes/numbers#term-resistance) while they are wearing this armor.|
 |Fitted|Characters that do not have the correct proficiency to allow them to wear this armor may still wear it without any penalties.|
-|Plated|When a character is hit by an attack that does [colorless](/srd/combat/elements#term-colorless) physical damage, the damage it deals is multiplied by 0.5 in addition to any other multipliers.|
+|Plated|When a character is hit by an attack that does [colorless](/srd/combat/elements#term-colorless) [physical damage](/srd/combat/attacks#term-physical-damage), the damage it deals is multiplied by 0.5 in addition to any other multipliers.|
 |Status Immunity|When a character is wearing armor with this upgrade, they are immune to the specified status.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status.|
 
 ### UV 3
@@ -121,7 +121,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Druidic|While a character is wearing this armor, any healing they do to either themselves or their allies is multiplied by 1.5, rounded down.  This applies in or out of combat.|
 |Exoskeleton|If a character is wearing this armor at the beginning of a battle, they automatically gain [Hasted](/srd/heroes/roles/support) without having to have it cast on themselves.|
 |Vengeful|When the wearer takes physical damage due to a warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own strike as though they were the target of the attack.|
-|Conductive|When the wearer takes magical damage due to a warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own spell as though they were the target of the attack.|
+|Conductive|When the wearer takes [magical damage](/srd/combat/attacks#term-magical-damage) due to a warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own spell as though they were the target of the attack.|
 |Weapons Platform|While a character is wearing this armor, they can [swap](/srd/combat/round#term-swap-equipment) weapons and accessories without spending any AP.|
 |Angelic|This armor gives the wearer wings that allow them to take the Fly action during combat.  Fly costs 1 AP and puts the user within melee range of every warrior on the battlefield as though they were in the [front row](/srd/combat/starting#term-front-row), while putting them out of melee range of their attacks as though they were in the [back row](/srd/combat/starting#term-back-row).  However, if the user is hit by any attacks while Flying, they will fall back down to the front row of the battlefield.|
 |Utility Belt|While a character is wearing this armor, they may use one Item from the [party](/srd/glossary#term-party) inventory per [round](/srd/combat/round#term-round) without spending any AP.|

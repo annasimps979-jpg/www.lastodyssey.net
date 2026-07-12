@@ -23,7 +23,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Prayer|[Passive](/srd/combat/attacks#term-passive)|N/A|During the [Effect Phase](/srd/combat/round#term-effect-phase) of every [round](/srd/combat/round#term-round) of [battle](/srd/glossary#term-battle), the Priest and their allies regain 1 MP.  If the Priest is [downed](/srd/combat/death-and-injury#term-downed) during the Effect Phase, this effect does not apply.|
+|Prayer|[Passive](/srd/combat/attacks#term-passive)|N/A|During the [Effect Phase](/srd/combat/round#term-effect-phase) of every [round](/srd/combat/round#term-round) of [battle](/srd/glossary#term-battle), the Priest and their allies regain 1 MP.  If the Priest is [downed](/srd/combat/injuries#term-downed) during the Effect Phase, this effect does not apply.|
 
 **Tier 4:** The Priest gains +1 Magical Defense.
 
@@ -53,13 +53,13 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Bludgeon.  The Priest may deal damage to MP instead of [HP](/srd/heroes/numbers#term-hp) with their strikes when the target is [Shellbroken](/srd/combat/shells#term-shellbroken).
+**[Striker:](/srd/heroes/roles/striker)** Bludgeon.  The Priest may deal damage to MP instead of [HP](/srd/heroes/numbers#term-hp) with their strikes when the target is [Shellbroken](/srd/combat/shells#term-shellbroken).
 
-**[Caster](/srd/heroes/roles/caster):** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all opponents that they heal the Priest's allies' MP for.
+**[Caster:](/srd/heroes/roles/caster)** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all opponents that they heal the Priest's allies' MP for.
 
-**[Healer](/srd/heroes/roles/healer):** Faith Healing.  During the Effect Phase, Prayer and Blessing heal the Priest and their allies for the same amount of HP that they heal MP for.  This effect cannot revive characters.
+**[Healer:](/srd/heroes/roles/healer)** Faith Healing.  During the Effect Phase, Prayer and Blessing heal the Priest and their allies for the same amount of HP that they heal MP for.  This effect cannot revive characters.
 
-**[Defender](/srd/heroes/roles/defender):** Divine Protection.  When the Priest takes damage to their HP or [Shell](/srd/combat/shells), they may take damage to their MP instead.  Any excess damage after their MP is reduced to 0 is dealt to their HP or Shell instead.
+**[Defender:](/srd/heroes/roles/defender)** Divine Protection.  When the Priest takes damage to their HP or [Shell](/srd/combat/shells), they may take damage to their MP instead.  Any excess damage after their MP is reduced to 0 is dealt to their HP or Shell instead.
 
 **Support:** Faith Cure.  Prayer and Blessing heal the Shells of the Priest and their allies by the same amount of points they restore their MP for.  They do not apply Shells to characters that do not have them.
 
