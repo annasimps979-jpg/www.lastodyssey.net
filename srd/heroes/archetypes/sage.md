@@ -56,7 +56,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Ascension|[Self](/srd/combat/attacks#term-self-ability)|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon's summoner's Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](/srd/glossary#term-battle), their spells only cost 5 MP.|
+|Ascension|[Self](/srd/combat/attacks#term-self-ability)|1 [🜉](/srd/anima#term-anima), 2 AP|The eidolon's summoner's Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](/srd/glossary#term-battle), their spells only cost 5 MP.|
 
 ## Talents
 

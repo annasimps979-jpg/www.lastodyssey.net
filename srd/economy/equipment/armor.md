@@ -41,7 +41,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 ## Armor Pricing
 
-Mundane armor costs 50 cr, Rare armor costs 250 cr, and Expert armor costs 1,250 cr.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
+Mundane armor costs 50 cr, Rare armor costs 250 cr, and Expert armor costs 1,250 ¤.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
 
 <table>
     <caption>Armor Cost in cr</caption>

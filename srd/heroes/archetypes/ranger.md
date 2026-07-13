@@ -56,7 +56,7 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Wild Hunt|[Multi](/srd/combat/attacks#term-multi)|1 [Anima](/srd/anima), 2 AP|The eidolon applies Hunted to all opponents and then makes a basic attack against each one.|
+|Wild Hunt|[Multi](/srd/combat/attacks#term-multi)|1 [🜉](/srd/anima), 2 AP|The eidolon applies Hunted to all opponents and then makes a basic attack against each one.|
 
 ## Talents
 

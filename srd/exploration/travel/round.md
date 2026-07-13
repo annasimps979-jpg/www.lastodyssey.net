@@ -21,7 +21,7 @@ The _<dfn id = "term-navigation-phase">Navigation Phase</dfn>_ of travel is when
 |5|Sidetracked|The Heroes will continue along the path as normal, but, until the party reaches the end of the path, the Navigation Phase will be conducted as though the path's navigation difficulty were 1 higher than it actually is.  This penalty can stack.|
 |6|Totally Lost|The Heroes lose the path entirely.  Until they are able to successfully pathfind to get back on track, each additional failure will count as though they are Totally Lost for another travel round.|
 
-If players fail at pathfinding and do not wish to receive a penalty, one of them may instead spend an Anima to succeed.
+If players fail at pathfinding and do not wish to receive a penalty, one of them may instead spend an 🜉 to succeed.
 
 Oftentimes, players will find themselves traveling the same path multiple times.  As their characters familiarize themselves with a path, it will become easier to travel it in the future.  For every previous time the characters have successfully traveled a path, the navigation difficulty is reduced by 2.
 
@@ -36,7 +36,7 @@ If the players do not encounter a hazard or a group of warriors, they will inste
 |Result|Encounter|Description|
 |:-|:-|:-|
 |1-3|Peace|Nothing eventful happens.|
-|4|Landmark|The players encounter an unexpected [landmark](/srd/exploration/settlements/landmarks), such as a lake or a canyon.  They earn 1 Exploration XP for discovering something new.|
+|4|Landmark|The players encounter an unexpected [landmark](/srd/exploration/settlements/landmarks), such as a lake or a canyon.  They earn 1 Exploration 🜹 for discovering something new.|
 |5|Fellow Travelers|The players encounter a group of friendly [NPCs](/srd/glossary#term-npc) who are willing to share resources.  During the Camping Phase, they will not have to expend any [Supplies](/srd/economy/items/travel#term-supplies) in order to fully rest.|
 |6|Merchant|The players encounter a traveling [merchant](/srd/economy/merchants) who is willing to sell them a few supplies.|
 

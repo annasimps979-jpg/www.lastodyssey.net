@@ -52,7 +52,7 @@
   - [Skill Challenges](/srd/discovery/skill-challenges)
   - [Investigation](/srd/discovery/investigation)
   - [Magic](/srd/discovery/magic)
-  - [Earning XP](/srd/discovery/earning-xp)
+  - [Earning Experience](/srd/discovery/earning-xp)
   - [Lore](/srd/discovery/lore)
   - [Puzzles](/srd/discovery/puzzles)
   - [Quests](/srd/discovery/quests)

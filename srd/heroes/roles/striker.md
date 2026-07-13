@@ -27,4 +27,4 @@ While they are Strikers, [Heroes](/srd/glossary#term-hero) gain the following bo
 |7|Whirlwind|Multi|12 MP, 3 AP|The Striker makes a colorless strike against all opponents on the battlefield.|
 |8|Elemental Leap|Ranged|8 MP, 2 AP|The Striker makes a strike against a single target whose element is the same as their base element.|
 |9|Elemental Whirlwind|Multi|15 MP, 3 AP|The Striker makes a strike against all opponents on the battlefield whose element is the same as their base element.|
-|10|Dragonslayer|Melee|1 [Anima](/srd/anima#term-anima), 2 AP|The Striker makes a colorless strike against a single target.  If the target's [HP](/srd/heroes/numbers#term-hp) is at maximum, the attack's damage is multiplied by 4 in addition to other modifiers.  Otherwise, it is multiplied by 2.|
+|10|Dragonslayer|Melee|1 [🜉](/srd/anima#term-anima), 2 AP|The Striker makes a colorless strike against a single target.  If the target's [HP](/srd/heroes/numbers#term-hp) is at maximum, the attack's damage is multiplied by 4 in addition to other modifiers.  Otherwise, it is multiplied by 2.|

@@ -83,7 +83,7 @@ Trystan: Nothing happens for a minute or two.  Then, you hear a weird keening so
 
 Nick: Nice.
 
-Trystan: Congrats!  You all earn 5 [XP](/srd/discovery/earning-xp) for solving that puzzle.
+Trystan: Congrats!  You all earn 5 [🜹](/srd/discovery/earning-xp) for solving that puzzle.
 
 Readers should note that the players spent much of their time talking to one another rather than talking "in character."  At key moments, the players might decide to speak directly from their characters' mouths, but there is no requirement that this be the case.  Remember, the audience for FRP is the GM and the players rather than any external observer.  Whatever immerses you and your group in the fiction should be what you do.  Readers should also note that, at many points, the players engaged in "imperfect" play.  Monica mispronounced "Shoshanna," and Jaden butted in when Nick had the spotlight.  Neither of these two moments ruined the game, however, and the GM and the players were quick and mature enough to reassert their boundaries when they happened.  It's okay to not be perfect, so long as everyone feels respected and is having fun.
 

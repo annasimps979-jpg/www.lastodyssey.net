@@ -56,7 +56,7 @@ The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/cr
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Assassinate|Melee|1 [Anima](/srd/anima#term-anima), 2 AP|The eidolon's player selects a warrior and casts the [outcome die](/srd/glossary#term-outcome-die).  That warrior loses a percentage of their current [HP](/srd/heroes/numbers#term-hp) or [Shell](/srd/combat/shells) if they have it equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
+|Assassinate|Melee|1 [🜉](/srd/anima#term-anima), 2 AP|The eidolon's player selects a warrior and casts the [outcome die](/srd/glossary#term-outcome-die).  That warrior loses a percentage of their current [HP](/srd/heroes/numbers#term-hp) or [Shell](/srd/combat/shells) if they have it equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
 
 ## Talents
 

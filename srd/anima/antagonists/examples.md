@@ -95,7 +95,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Inspire|Multi|2 AP, 10 MP|Increases the Physical Attack of the War Leader and all of their allies by one step on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker).|
 |Command|Ally|1 AP|This ability works the same as the [Commander's](/srd/heroes/archetypes/commander) Orders ability.  The War Leader can use it once per battle.|
 |Lead By Example|Passive|N/A|While the War Leader is on the battlefield, any allies will share all of its charms and [hexes](/srd/combat/glamors#term-hex) on the Bonus Tracker.|
-|Dragonslayer|[Paradigm Action](/srd/anima/antagonists/paradigm#term-paradigm-action)|1 [Anima](/srd/anima#term-anima)|The War Leader makes a strike that deals 4x physical colorless damage on a hit against targets with full HP.  If the target is not at full HP, the attack deals 2x damage instead.|
+|Dragonslayer|[Paradigm Action](/srd/anima/antagonists/paradigm#term-paradigm-action)|1 [🜉](/srd/anima#term-anima)|The War Leader makes a strike that deals 4x physical colorless damage on a hit against targets with full HP.  If the target is not at full HP, the attack deals 2x damage instead.|
 
 ### Form 2: Leshen (Villain 4, Demon, Wood)
 
@@ -119,7 +119,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Mend the Flesh|Self|1 AP, 11 MP|The Leshen restores 20 HP to itself.|
 |Easily Provoked|Passive|N/A|When the Leshen is Taunted, it also becomes [Focused](/srd/heroes/archetypes/knight).|
 |Unnatural Resilience|Passive|N/A|The Leshen counts as having 2x resistance to all sleights.|
-|Comeback|Paradigm Action|1 Anima|Raises the Leshen's Physical Attack to +7 on the Bonus Tracker regardless of its current value.|
+|Comeback|Paradigm Action|1 🜉|Raises the Leshen's Physical Attack to +7 on the Bonus Tracker regardless of its current value.|
 
 ### Form 3: Revenant (Villain 5, Undead, Ice)
 
@@ -146,12 +146,12 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Back From the Dead|Passive|N/A|The Revenant is immune to Ice damage and the Frostbitten status.|
 |Empty Husk|Passive|N/A|The Revenant cannot have its MP drained from any source.|
 |Single-Minded|Passive|N/A|The Revenant is immune to being Taunted.|
-|Apocalypse|Paradigm Action|1 Anima|The Revenant uses a spell against all of its opponents that deals magical ice damage on a hit that is multiplied by 3 in addition to other modifiers.|
+|Apocalypse|Paradigm Action|1 🜉|The Revenant uses a spell against all of its opponents that deals magical ice damage on a hit that is multiplied by 3 in addition to other modifiers.|
 
 ## Doctor Strazio
 **Domain:** Forbidden Laboratory.  
 
-**Description:** A renowned but eccentric scientist, Doctor Strazio discovered the power of Anima by accident while attempting to create a new form of reactor.  Now, he stalks his laboratory, conducting strange and nonsensical experiments that often amount to nothing more than elaborate forms of torture for their subjects.
+**Description:** A renowned but eccentric scientist, Doctor Strazio discovered the power of 🜉 by accident while attempting to create a new form of reactor.  Now, he stalks his laboratory, conducting strange and nonsensical experiments that often amount to nothing more than elaborate forms of torture for their subjects.
 
 ### Form 1: Doctor (Monster 6, Human, Wind)
 
@@ -176,8 +176,8 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Time Dilation|Multi|3 AP, 25 MP|The Doctor uses [Haste](/srd/heroes/jobs/support) on itself and all of its allies.|
 |Sadist|Passive|N/A|Whenever the Doctor inflicts damage on a warrior, they also regain an amount of MP equal to the amount of damage they dealt.|
 |Prepared|Passive|N/A|The Doctor has one of each [element](/srd/combat/elements#term-element) of Rare Elemental Damage [battle item](/srd/economy/items/battle) in its inventory.|
-|Target Acquired|Paradigm Action|1 Anima|All of the Doctor's opponents on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
-|Second Chance|Paradigm Action|1 Anima|The Doctor heals and revives all of their allies to full HP and removes all of their current statuses and hexes.|
+|Target Acquired|Paradigm Action|1 🜉|All of the Doctor's opponents on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
+|Second Chance|Paradigm Action|1 🜉|The Doctor heals and revives all of their allies to full HP and removes all of their current statuses and hexes.|
 
 ### Form 2: Torture Rack (Monster 7, Construct, Thunder)
 
@@ -204,8 +204,8 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Experiment|Ranged|1 AP, 7 MP|The Torture Rack uses a sleight that inflicts a random status on a hit determined by the [Random Element Table](/srd/combat/random-tables#term-random-element-table).|
 |Unlicensed Surgery|Passive|N/A|If the result on the hit die is a 1 when the Torture Rack makes a strike against one of its opponents, the target will also receive 1 random [injury](/srd/combat/injuries#term-injury).|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all hexes.|
-|Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 1d10 random hexes on a single target that are determined by the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table).|
-|Assassinate|Paradigm Action|1 Anima|The Torture Rack designates a warrior, and the [GM](/srd/glossary#term-gm) casts the [outcome die](/srd/glossary#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/numbers#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
+|Torture|Paradigm Action|1 🜉|The Torture Rack inflicts 1d10 random hexes on a single target that are determined by the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table).|
+|Assassinate|Paradigm Action|1 🜉|The Torture Rack designates a warrior, and the [GM](/srd/glossary#term-gm) casts the [outcome die](/srd/glossary#term-outcome-die).  The target then loses a percentage of their total [Health](/srd/heroes/numbers#term-health) from their combined HP and Shell equal to the result multiplied by 10.|
 
 ### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
 
@@ -231,8 +231,8 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Reflect|Self|1 AP, 12 MP|Inflicts the Reflecting status on the Infernal Engine.  The next time a Reflecting character it is hit with a spell, the attack is bounced back at the user instead and the Reflecting status is removed.|
 |Ingenious Design|Passive|N/A|The Infernal Engine has no elemental weaknesses, only resistances.|
 |Soul-Powered Construct|Passive|N/A|If the Infernal Engine runs out of MP, it instantly dies.|
-|Apocalypse|Paradigm Action|1 Anima|The Infernal Engine uses a spell against all of its opponents that deals magical fire damage multiplied by 3 in addition to other modifiers.|
-|Ascension|Paradigm Action|1 Anima|The Infernal Engine's MP refills to maximum, and all of its abilities only cost 5 MP for the rest of the battle.|
+|Apocalypse|Paradigm Action|1 🜉|The Infernal Engine uses a spell against all of its opponents that deals magical fire damage multiplied by 3 in addition to other modifiers.|
+|Ascension|Paradigm Action|1 🜉|The Infernal Engine's MP refills to maximum, and all of its abilities only cost 5 MP for the rest of the battle.|
 
 ## The Overmind
 
@@ -267,9 +267,9 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Resurrection|Ally|1 AP, 15 MP|The Savior immediately restores a [downed](/srd/combat/injuries#term-downed) character to half its maximum HP, rounded down.  This warrior will then gain the Puppeted status, and will fight on the Savior's side until the status is removed.|
 |Alien Biology|Passive|N/A|The Savior will take damage from abilities and items that heal HP and MP, but will heal due to items that deal damage of any kind.  Damage from all other sources is taken as normal.|
 |They Walk Silently Among Us|Passive|N/A|The Savior is immune to the Scan ability as well as any equivalent abilities or items.|
-|Romance|Paradigm Action|1 Anima|The Savior designates a single one of its opponents as its Lover.  For the rest of the battle, the Lover will receive all damage, statuses, charms, and hexes that the Savior does, including Hasted and Slowed.  This effect cannot be removed by the effects of abilities or items, but the Savior can only have one Lover at a time, meaning that if it designates another Lover the first creature stops being one.|
-|Spin the Bottle|Paradigm Action|1 Anima|The GM casts 1d6 and designates a single target.  If the number is a 6, the target of this ability takes a [base](/srd/glossary#term-base) amount of magical damage equal to 104.  Otherwise, cast again.  If the number is a 6 this time, the Savior takes damage instead of their target.  Go back and forth until either the Savior or their target take damage.|
-|Reveal the Light|Paradigm Action|1 Anima|The Savior inflicts [Blinded](/srd/combat/statuses#term-blinded), Slowed, and one level of hex of Magical Defense on the Bonus Tracker on all of its opponents.  This ability cannot be resisted.|
+|Romance|Paradigm Action|1 🜉|The Savior designates a single one of its opponents as its Lover.  For the rest of the battle, the Lover will receive all damage, statuses, charms, and hexes that the Savior does, including Hasted and Slowed.  This effect cannot be removed by the effects of abilities or items, but the Savior can only have one Lover at a time, meaning that if it designates another Lover the first creature stops being one.|
+|Spin the Bottle|Paradigm Action|1 🜉|The GM casts 1d6 and designates a single target.  If the number is a 6, the target of this ability takes a [base](/srd/glossary#term-base) amount of magical damage equal to 104.  Otherwise, cast again.  If the number is a 6 this time, the Savior takes damage instead of their target.  Go back and forth until either the Savior or their target take damage.|
+|Reveal the Light|Paradigm Action|1 🜉|The Savior inflicts [Blinded](/srd/combat/statuses#term-blinded), Slowed, and one level of hex of Magical Defense on the Bonus Tracker on all of its opponents.  This ability cannot be resisted.|
 
 ### Form 2: Unveiled (Villain 10, Horror, Water)
 
@@ -298,6 +298,6 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Incomprehensible Horror|Passive|N/A|The Unveiled is immune to the Scan ability as well as any equivalent abilities or items.|
 |Devourer of Souls|Passive|N/A|Whenever the Unveiled downs a warrior, it also drains that warrior of all of its MP and restores the same amount of MP to itself.|
 |Devourer of Worlds|Passive|N/A|The Unveiled cannot be downed by damage from sources other than damage that it has an elemental weakness to.|
-|Mirror Shield|Paradigm Action|1 Anima|Until the beginning of the Unveiled's next turn, all strikes, spells, and sleights used against it are negated and reflected back onto the user.|
-|Tango|Paradigm Action|1 Anima|The Unveiled uses every ability that one of its opponents has used since the end of its last turn.|
-|Doom|Paradigm Action|1 Anima|The Unveiled selects a single target.  After 1d4 [rounds](/srd/combat/round#term-round), the target will be downed.  There is no way to prevent this apart from ending the battle.|
+|Mirror Shield|Paradigm Action|1 🜉|Until the beginning of the Unveiled's next turn, all strikes, spells, and sleights used against it are negated and reflected back onto the user.|
+|Tango|Paradigm Action|1 🜉|The Unveiled uses every ability that one of its opponents has used since the end of its last turn.|
+|Doom|Paradigm Action|1 🜉|The Unveiled selects a single target.  After 1d4 [rounds](/srd/combat/round#term-round), the target will be downed.  There is no way to prevent this apart from ending the battle.|

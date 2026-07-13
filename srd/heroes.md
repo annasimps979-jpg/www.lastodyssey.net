@@ -18,7 +18,7 @@ In Last Odyssey, each [player](/srd) plays one of the protagonists of the story.
     - [Archetypes:](/srd/heroes/archetypes) Unique sets of abilities that distinguish each Hero.
     - [Roles:](/srd/heroes/Roles) A Hero's proficiencies during battle.
 - What Comes In Their Wake
-    - [Eidolons:](/srd/heroes/eidolons) The expressions of a character's Anima made manifest.
+    - [Eidolons:](/srd/heroes/eidolons) The expressions of a character's 🜉 made manifest.
     - [Hero Advancement:](/srd/heroes/advancement) How Heroes grow stronger.
 - Keeping the Record
     - [Character Sheet:](/srd/heroes/last-odyssey-fillable-character-sheet.pdf) A record of all of the relevant numbers, names, and objects that a Hero carries with them.

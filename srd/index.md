@@ -13,7 +13,7 @@ Last Odyssey is a game that is about translating the experience of playing a JRP
 
 More specifically, Last Odyssey is a TTJRPG for 3-5 players and a single GM inspired by JRPGs like Metaphor: ReFantazio, Final Fantasy XIII, and Lost Odyssey that explore anxiety, growth, and loss alongside more heroic themes like discovery, exploration, and the battle between good and evil.  Last Odyssey has a fragmentary design structure, with separate systems for combat and exploration that serve as the rigid backbone for the more story-driven and rules-lite aspects.  The result is a game that, in the tradition of JRPGs, is more than the sum of its parts.
 
-Last Odyssey follows contemporary TTRPG structure, in the sense that the GM is the arbiter responsible for explaining the world and interpreting the game rules, while each player plays a single, powerful character whose actions earn them experience points that allow them to become more powerful and take on more dangerous challenges.
+Last Odyssey follows contemporary TTRPG structure, in the sense that the GM is the arbiter responsible for explaining the world and interpreting the game rules, while each player plays a single, powerful character whose actions earn them experience that allow them to become more powerful and take on more dangerous challenges.
 
 ## You Will Experience
 

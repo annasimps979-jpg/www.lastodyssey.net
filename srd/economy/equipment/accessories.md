@@ -13,7 +13,7 @@ There are no stacking Quality levels for accessories, but there are three unique
 
 ## Accessory Pricing
 
-The base cost of an accessory is 75 cr.  A Partial Upgrade multiplies the base cost of an accessory by 2, while a Total Upgrade multiplies it by 4.
+The base cost of an accessory is 75 ¤.  A Partial Upgrade multiplies the base cost of an accessory by 2, while a Total Upgrade multiplies it by 4.
 
 |Upgrade|Price|
 |:-|:-|

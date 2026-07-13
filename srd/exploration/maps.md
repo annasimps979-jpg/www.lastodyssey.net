@@ -34,9 +34,9 @@ While traveling, players may encounter [warriors](/srd/warriors#term-warrior) or
 |4|Hostile areas where dangerous creatures gather, such as fetid swamps or jungles.|
 |5|Enemy territory, such as in the wake of an army or in the middle of a [dungeon](/srd/exploration/dungeons).|
 
-## Exploration XP
+## Exploration 🜹
 
-When players either visit a new node, discover an interesting [landmark](/srd/exploration/settlements/landmarks), or discover a hidden or otherwise hard-to-reach area, they will earn 1 [Exploration XP](/srd/discovery/earning-xp#term-exploration-xp) for doing so.  If they manage to reach a node that is secret or otherwise difficult to find, they will earn 5 XP instead.
+When players either visit a new node, discover an interesting [landmark](/srd/exploration/settlements/landmarks), or discover a hidden or otherwise hard-to-reach area, they will earn 1 [Exploration 🜹](/srd/discovery/earning-xp#term-exploration-xp) for doing so.  If they manage to reach a node that is secret or otherwise difficult to find, they will earn 5 🜹 instead.
 
 ## Varying Paths
 

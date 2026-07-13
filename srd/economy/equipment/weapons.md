@@ -50,7 +50,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons are those that augment a
 
 ## Weapon Pricing
 
-Mundane weapons cost 10 cr, Rare weapons cost 100 cr, and Expert weapons cost 1,000 cr.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
+Mundane weapons cost 10 cr, Rare weapons cost 100 cr, and Expert weapons cost 1,000 ¤.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
 
 <table>
     <caption>Weapon Cost in cr</caption>

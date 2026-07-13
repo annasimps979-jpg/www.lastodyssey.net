@@ -19,4 +19,4 @@ By default, an [ally's](/srd/warriors/allies) inventory is not shared with the r
 
 ## Junk
 
-Any item that is not useful for combat or exploration and cannot be represented by [cr](/srd/economy/currency#term-cr) is referred to as _<dfn id = "term-junk">junk</dfn>._  Junk items include pots and pans, broken tools or weapons, bags of rocks, or anything else the Heroes pick up along their journey.  When determining the item rating of a piece of junk, use the same heuristic as for creating items using [Supplies](/srd/economy/travel#term-supplies).
+Any item that is not useful for combat or exploration and cannot be represented by [¤](/srd/economy/currency#term-cr) is referred to as _<dfn id = "term-junk">junk</dfn>._  Junk items include pots and pans, broken tools or weapons, bags of rocks, or anything else the Heroes pick up along their journey.  When determining the item rating of a piece of junk, use the same heuristic as for creating items using [Supplies](/srd/economy/travel#term-supplies).

@@ -19,5 +19,5 @@ There will often be times at which the [actions](/srd/glossary#term-action) [pla
     - [Skill Challenges:](/srd/discovery/skill-challenges) When [Heroes](/srd/glossary#term-hero) attempt to use their innate capabilities during discovery.
     - [Magic:](/srd/discovery/magic) Tips for making rulings about the use of combat abilities during discovery.
 - How to Grow
-    - [Earning XP:](/srd/discovery/earning-xp) The means by which characters grow stronger within a single tier.
-    - [Quests:](/srd/discovery/quests) XP-generating tasks that guide players through a campaign.
+    - [Earning Experience:](/srd/discovery/earning-xp) The means by which characters grow stronger within a single tier.
+    - [Quests:](/srd/discovery/quests) 🜹-generating tasks that guide players through a campaign.

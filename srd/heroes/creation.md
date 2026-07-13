@@ -14,7 +14,7 @@ The first thing players should do before writing down any numbers is think a lit
 
 The second of these is their _<dfn id="term-relationships">Relationships</dfn>,_ which are the emotions they feel towards the people or groups to which they are most strongly connected.  This could be anything from an ethnic or religious affiliation to a member of a Hero's family, their best friend, or a lover.  Writing down Relationships with other [Heroes](/srd/glossary#term-hero) is also strongly encouraged.  By default, a Hero starts with one to three Relationships and one Inspiration.  Players will change their Heroes' Relationships and Inspirations as the story progresses.  A given Hero may only ever have one Inspiration at a time, although they can have as many Relationships as is appropriate.  After the players have each written a sentence or two describing a Hero's Inspiration and each of their Relationships, they have enough to count as a concept.  They should also begin to think about their Heroes' names and appearances.
 
-In the event that a Hero lacks an Inspiration at first, their player may leave it blank.  In this case, they will fill it in at some point during the campaign.  For example, something might happen to them or a loved one that will cause them to swear revenge on the central [Villain](/srd/anima/antagonists/villains) of the story.  However, because Inspirations and Relationships are required for earning Anima, a Hero must have at least one of either before the creation process is over.  If a Hero begins the game without an Inspiration, they also may not spend Anima to summon their [eidolon](/srd/heroes/eidolons) or save themselves from [True Death](/srd/anima/true-death) until they choose one.
+In the event that a Hero lacks an Inspiration at first, their player may leave it blank.  In this case, they will fill it in at some point during the campaign.  For example, something might happen to them or a loved one that will cause them to swear revenge on the central [Villain](/srd/anima/antagonists/villains) of the story.  However, because Inspirations and Relationships are required for earning 🜉, a Hero must have at least one of either before the creation process is over.  If a Hero begins the game without an Inspiration, they also may not spend 🜉 to summon their [eidolon](/srd/heroes/eidolons) or save themselves from [True Death](/srd/anima/true-death) until they choose one.
 
 ## Set Attributes
 After the players have made their concepts, the next step is to determine their Heroes' attributes.  These will also determine their starting statistics.  In Last Odyssey, each Hero has three of these:
@@ -84,9 +84,9 @@ At this point, the players should now have enough information to determine their
 *  _[Carrying Capacity](/srd/economy/items#term-carrying-capacity)_ determines how many items a Hero can hold in their inventory at once.  It is equal to <math>10 <mo>+</mo> <menclose>Body</menclose><mo>x</mo>5</math>
 
 ## Create Eidolon
-At this stage in the process, the players should now be ready to create their Heroes' eidolons.  An eidolon is a being whose appearance in the world is the most powerful manifestation of a Hero's magic.  Think of them as a combination between a patron saint and a guardian angel.  Each Hero has a single eidolon that grows more powerful as they grow more powerful.  In combat, Heroes can spend [Anima](/srd/anima#term-anima) to summon their eidolons.
+At this stage in the process, the players should now be ready to create their Heroes' eidolons.  An eidolon is a being whose appearance in the world is the most powerful manifestation of a Hero's magic.  Think of them as a combination between a patron saint and a guardian angel.  Each Hero has a single eidolon that grows more powerful as they grow more powerful.  In combat, Heroes can spend [🜉](/srd/anima#term-anima) to summon their eidolons.
 
-During Hero creation, record every Hero's eidolon's name, appearance,  and statistics.  Its statistics are determined by the formulae listed in the [Eidolons](/srd/heroes/eidolons) section.  The exception to this is that eidolons do not have Mana because their attacks are either free or have an Anima cost, and do not have Initiative because they act during the same turn as their summoner.  In addition, a Hero's eidolon has an innate element which is the same as their summoner's element.  This is true whether their summoner's element is innate or not.
+During Hero creation, record every Hero's eidolon's name, appearance,  and statistics.  Its statistics are determined by the formulae listed in the [Eidolons](/srd/heroes/eidolons) section.  The exception to this is that eidolons do not have Mana because their attacks are either free or have an 🜉 cost, and do not have Initiative because they act during the same turn as their summoner.  In addition, a Hero's eidolon has an innate element which is the same as their summoner's element.  This is true whether their summoner's element is innate or not.
 
 Each eidolon has one of six possible [classes:](/srd/heroes/eidolons#term-class) Striker, Caster, Healer, Defender, Support, or Saboteur.  All eidolons can use the Attack and Full Restore abilities, and also gains two more abilities from its class.  See the Eidolons section for more details.
 *  Striker eidolons gain the Cleave and Elemental Strike eidolon abilities.
@@ -97,9 +97,9 @@ Each eidolon has one of six possible [classes:](/srd/heroes/eidolons#term-class)
 *  Saboteur eidolons gain the Reduce and Sabotage eidolon abilities.
 
 ## Finishing Touches
-At this point in Hero creation, players have all of the necessary information required to play their characters.  Make sure all of it is recorded properly on their character sheets.  In addition, be sure to write down any other relevant information, such as their height, weight, gender, eye color, backstory, real and apparent age, and other story elements.  In addition, give each Hero 5 starting Anima out of a maximum of 10.  They will earn more during [Scenes](/srd/anima/scenes#term-scene) over the course of the game.
+At this point in Hero creation, players have all of the necessary information required to play their characters.  Make sure all of it is recorded properly on their character sheets.  In addition, be sure to write down any other relevant information, such as their height, weight, gender, eye color, backstory, real and apparent age, and other story elements.  In addition, give each Hero 5 starting 🜉 out of a maximum of 10.  They will earn more during [Scenes](/srd/anima/scenes#term-scene) over the course of the game.
 
-Finally, all Heroes receive 10 [cr](/srd/economy/currency#term-cr).  Players may use some or all of this to purchase [battle items](/srd/economy/items/battle).  Whatever amount is left over after they are done purchasing items is carried with them into the beginning of the game.
+Finally, all Heroes receive 10 [¤](/srd/economy/currency#term-cr).  Players may use some or all of this to purchase [battle items](/srd/economy/items/battle).  Whatever amount is left over after they are done purchasing items is carried with them into the beginning of the game.
 
 It's very rare that [creature type](/srd/warriors/types#term-creature-type) is relevant to a Hero, but if this is the case, most created Heroes are assumed to be Human unless their player decides they should count as something else.
 
@@ -121,12 +121,12 @@ Before each player is finished with Hero creation, they should check&mdash;have 
 15.  Recorded their Eidolon's four abilities?
 16.  Written down their Eidolon's name and appearance?
 17.  Given their Hero 10 cr, and bought any items with it that they can afford?
-18.  Given their Hero 5 starting Anima?
+18.  Given their Hero 5 starting 🜉?
 
 If you have done all of this, then congratulations, you are now ready to play Last Odyssey!
 
 ## Higher Tier Heroes
 
 To create a new Hero for a pre-existing campaign or for a campaign that will begin at a tier greater than 1, add Hero advancements per the [Hero advancement](/srd/heroes/advancement) section one at a time until the Hero reaches the appropriate tier.  In addition, Heroes will also start with different equipment depending on their tier:
-* Heroes of tier 4-7 will start with a Rare weapon and armor of the appropriate type, as well as two Lucky or Mystical accessories and 100 cr.
-* Heroes of tier 8-10 will start with an Expert weapon and armor of the appropriate type, as well as three Lucky or Mystical accessories and 1000 cr.
+* Heroes of tier 4-7 will start with a Rare weapon and armor of the appropriate type, as well as two Lucky or Mystical accessories and 100 ¤.
+* Heroes of tier 8-10 will start with an Expert weapon and armor of the appropriate type, as well as three Lucky or Mystical accessories and 1000 ¤.
