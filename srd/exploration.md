@@ -1,4 +1,11 @@
-# Exploration
+---
+title: Exploration
+
+permalink: /srd/exploration
+
+abstract: >-
+    The table of contents for the Exploration section.
+---
 
 *You are a rootless wanderer.  The entire cosmos is your home.*
 

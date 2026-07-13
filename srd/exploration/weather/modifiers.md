@@ -1,4 +1,11 @@
-# Climate Modifiers
+---
+title: Climate Modifiers
+
+permalink: /srd/exploration/weather/modifiers
+
+abstract: >-
+    Additional traits to add to weather tables.
+---
 
 Some climates are more hostile than others.  If [GMs](/srd/glossary#term-gm) want to provide more variation and challenge to their [players](/srd/glossary#term-player) while they travel along a [path](/srd/exploration/maps#term-path), or if the region is in the grip of a [Monster](/srd/anima/antagonists/monsters), they can add one or more of the following modifiers to a given climate:
 

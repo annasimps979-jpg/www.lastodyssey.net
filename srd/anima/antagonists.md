@@ -1,4 +1,11 @@
-# Antagonists
+---
+title: Antagonists
+
+permalink: /srd/anima/antagonists
+
+abstract: >-
+    The table of contents for the Antagonists section.
+---
 
 *Anti-Heroes, in the truest sense of the word.*
 

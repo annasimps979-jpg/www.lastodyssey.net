@@ -1,4 +1,12 @@
-# Eidolons
+---
+title: Eidolons
+
+permalink: /srd/heroes/eidolons
+
+abstract: >-
+    Mechanics for eidolons, and how to make them.
+---
+
 A [Hero's](/srd/glossary#term-hero) _<dfn id="term-eidolon">eidolon</dfn>_ is a godlike being whose power protects and is in turn fed by the deepest parts of a Hero's soul.  Eidolons are extraordinary creatures, and can take a myriad of physical forms when they manifest.  One Hero might be protected by a powerful dragon, while another might fight alongside an ethereal goddess.  In Last Odyssey, a Hero's eidolon performs two main functions.  The first of these is to intervene in order to save Heroes from [True Death](/srd/anima/true-death), and the second of these is to be summoned during [combat](/srd/combat) to fight on their behalf.
 
 ## The Basics

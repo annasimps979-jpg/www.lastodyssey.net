@@ -1,4 +1,11 @@
-# Artificer
+---
+title: Artificer
+
+permalink: /srd/heroes/archetypes/artificer
+
+abstract: >-
+    The mechanics for the Artificer archetype.
+---
 
 The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Heavy](/srd/economy/equipment/armor#term-heavy-armor) [armor](/srd/economy/equipment/armor).

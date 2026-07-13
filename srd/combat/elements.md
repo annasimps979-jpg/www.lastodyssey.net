@@ -1,4 +1,11 @@
-# The Nine Elements
+---
+title: The Nine Elements
+
+permalink: /srd/combat/elements
+
+abstract: >-
+    The rules for elemental effects.
+---
 
 Heroes, warriors, [eidolons](/srd/heroes/eidolons#term-eidolon), and many [abilities](/srd/glossary#term-ability) all have an extra property called their _<dfn id = "term-element">element</dfn>._  Metaphysically, elements are the forms in which magic is expressed.  There are nine elements in total:
 *  <dfn id = "term-fire">Fire</dfn> magic channels the power of heat and flames, and often has a reddish color.

@@ -1,4 +1,11 @@
-# Sage
+---
+title: Sage
+
+permalink: /srd/heroes/archetypes/sage
+
+abstract: >-
+    The mechanics for the Sage archetype.
+---
 
 The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Cloth](/srd/economy/equipment/armor#term-cloth-armor) [armor](/srd/economy/equipment/armor).

@@ -1,4 +1,11 @@
-# The Travel Round
+---
+title: The Travel Round
+
+permalink: /srd/exploration/travel/round
+
+abstract: >-
+    The structure of the travel round.
+---
 
 Each day of travel along a [path](/srd/exploration/maps#term-path) is represented by something called the _<dfn id = "term-travel-round">travel round</dfn>._  To successfully traverse a path, [players](/srd/glossary#term-player) must complete the full number of travel rounds involved as determined by the [GM](/srd/glossary#term-gm).  Each travel round represents one full day of travel, and is divided into three phases: the Navigation Phase, the Encounter Phase, and the Camping Phase.
 

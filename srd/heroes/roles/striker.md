@@ -1,4 +1,11 @@
-# Striker
+---
+title: Striker
+
+permalink: /srd/heroes/roles/striker
+
+abstract: >-
+    The mechanics for the Striker role.
+---
 
 _<dfn id = "term-striker">Strikers</dfn>_ specialize in [strikes](/srd/combat/attacks#term-strike).
 

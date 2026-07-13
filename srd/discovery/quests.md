@@ -1,4 +1,11 @@
-# Quests
+---
+title: Quests
+
+permalink: /srd/discovery/quests
+
+abstract: >-
+    The rules for and rewards of quests.
+---
 
 Whenever the [party](/srd/glossary#term-party) sets a significant goal for themselves or are assigned one by a third party, they will receive a _<dfn id = "term-quest">quest</dfn>._  Quests serve two purposes in [campaigns](/srd/glossary#term-campaign).  The first is to ensure that [players](/srd/glossary#term-player) always have a thread they can follow in order to advance the plot.  The second is to create story milestones they can cross that will grant them XP regardless of what else they accomplished along the way.  Every quest the [GM](/srd/glossary#term-gm) assigns to the players will have a definite series of _<dfn id = "term-quest-stage">stages</dfn>,_ which are subtasks that, when completed, will net them 5 [XP](/srd/discovery/earning-xp#term-xp).  The completion of a quest that has more than two stages will net players an additional 10 XP.
 

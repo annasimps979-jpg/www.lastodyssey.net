@@ -1,4 +1,11 @@
-# Boreal
+---
+title: Boreal
+
+permalink: /srd/exploration/weather/boreal
+
+abstract: >-
+    The mechanics of boreal climates.
+---
 
 Mountainous regions during spring and autumn and milder regions during the winter season both exhibit weather patterns consistent with the Boreal climate.  This climate pattern also represents the transition zone between temperate and polar regions.
 

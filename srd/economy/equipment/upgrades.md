@@ -1,4 +1,11 @@
-# Equipment Upgrades
+---
+title: Equipment Upgrades
+
+permalink: /srd/economy/equipment/upgrades
+
+abstract: >-
+    How equipment becomes more powerful.
+---
 
 In addition to a piece of equipment's basic properties, each one also has a number of attached extra effects known as _<dfn id = "term-equipment-upgrade">upgrades</dfn>,_ each of which has an associated _<dfn id = "term-upgrade-value">Upgrade Value</dfn>,_ or <abbr title = "upgrade value">UV</abbr> for short.  The total sum of all of the UVs of the upgrades to a given weapon or armor set can never be greater than its total Upgrade Value.  Mundane equipment has a UV of 1, Rare equipment has a UV of 2, and Expert equipment has a UV of 3.  Unique weapons and armor count as having UVs of 3 as well, but have additional unique upgrades that distinguish them from all other pieces of equipment.  The exception to this rule is accessories, which do not have UVs but instead each possess a single upgrade that either counts as Partial or Total.  Accessories with _<dfn id = "term-partial-upgrade">Partial</dfn>_ upgrades give bonuses to a character's Evasion or Resistance, while accessories with _<dfn id = "term-total-upgrade">Total</dfn>_ upgrades do not.
 

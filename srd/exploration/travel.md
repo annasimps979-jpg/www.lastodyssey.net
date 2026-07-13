@@ -1,4 +1,11 @@
-# Travel
+---
+title: Travel
+
+permalink: /srd/exploration/travel
+
+abstract: >-
+    The table of contents for the travel rules.
+---
 
 *Or, there and back again.*
 

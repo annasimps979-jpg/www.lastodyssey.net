@@ -1,4 +1,11 @@
-# Creature Types
+---
+title: Creature Types
+
+permalink: /srd/warriors/types
+
+abstract: >-
+    A list of the possible types of warriors.
+---
 
 Warriors differ from Heroes in a few important ways.  First, warriors begin with a Shell of their [element](/srd/combat/elements#term-element) in addition to their [HP](/srd/heroes/abilities-and-statistics#term-hp).  Warriors also count as their element for the purpose of calculating the damage they receive.  Finally, each warrior has a _<dfn id = "term-creature-type">creature type</dfn>,_ which is a single word that describes what kind of being it is.  In the base game, there are ten creature types:
 * _<dfn id = "term-human">Humans</dfn>_ are creatures that are or are approximate to human beings.

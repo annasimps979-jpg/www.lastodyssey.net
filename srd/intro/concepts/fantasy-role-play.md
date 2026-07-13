@@ -1,4 +1,11 @@
-# What Is Fantasy Role Play?
+---
+title: What Is Fantasy Role Play?
+
+permalink: /srd/intro/concepts/fantasy-role-play
+
+abstract: >-
+    An explanation of fantasy role play.
+---
 
 If you've ever played games of pretend on the playground, you've done something close to Fantasy Role Play, or FRP for short.  FRP is something like a cross between improvisational theater, a simulated video game, and a tabletop wargame.  Like improv, the fiction in FRP is determined by consensus.  Each participant takes on the role of either a character or set of characters who participate in an ongoing narrative.  In improv, what happens when a character acts is determined by consensus among both the players and the audience.  In contrast, all FRP games have rules that determine the outcomes of certain designated player actions, usually those that move the plot forward in some capacity.  For example, if a character in Last Odyssey attempts to leap across a deep ravine, then whether they reach the other side is not decided by their player or by anyone else at the table.  Instead, whether they clear the ravine is assigned a statistical probability and then determined by casting a 10-sided die.  In FRP, consensus rulings among participants are up for debate, but the rules themselves are sacrosanct, thus creating a level of tension in the narrative that is not otherwise achievable.
 

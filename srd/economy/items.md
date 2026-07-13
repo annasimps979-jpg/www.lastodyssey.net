@@ -1,4 +1,11 @@
-#  Items
+---
+title: Items
+
+permalink: /srd/economy/items
+
+abstract: >-
+    The table of contents for the Items section.
+---
 
 *Good in a pinch, even better in a firm grip.*
 

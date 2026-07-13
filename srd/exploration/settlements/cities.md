@@ -1,4 +1,11 @@
-# Cities
+---
+title: Cities
+
+permalink: /srd/exploration/settlements/cities
+
+abstract: >-
+    Advice for creating cities.
+---
 
 **Population:** 10,000-100,000.
 

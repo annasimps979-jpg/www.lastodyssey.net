@@ -1,4 +1,11 @@
-# Skill Challenges
+---
+title: Skill Challenges
+
+permalink: /srd/discovery/skill-challenges
+
+abstract: >-
+    The mechanics of skill challenges.
+---
 
 Sometimes, [players](/srd/glossary#term-player) will be uncertain of the outcome of their [Heroes'](/srd/glossary#term-hero) actions.  During circumstances under which said outcome is determined by the skills or capacities of the Hero in question and not by player understanding or creativity, this is known as a _<dfn id = "term-skill-challenge">skill challenge</dfn>._  During a skill challenge, the player first declares what their [character](/srd/glossary#term-character) intends to accomplish, and then how they intend to achieve it.  The [GM](/srd/glossary#term-gm) then determines which of the Hero's three [attributes](/srd/glossary#term-attribute) best represents their capacity to perform the [action](/srd/glossary#term-action) at hand, and reaches an agreement with the active Hero's player on the meaning of success and failure within the context of the challenge.
 

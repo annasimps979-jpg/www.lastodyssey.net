@@ -1,4 +1,11 @@
-# Equipment
+---
+title: Equipment
+
+permalink: /srd/economy/equipment
+
+abstract: >-
+    An overview of the equipment mechanics.
+---
 
 *A hammer is a hand, and a hand is a hammer.*
 

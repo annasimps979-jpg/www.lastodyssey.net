@@ -1,4 +1,11 @@
-# Accessories
+---
+title: Accessories
+
+permalink: /srd/economy/equipment/accessories
+
+abstract: >-
+    The rules for utility equipment.
+---
 
 An _<dfn id = "term-accessory">accessory</dfn>_ is a kind of item that is worn on the body but is not a piece of armor.  While there are no fixed "slots" for where accessories can be worn, no accessory can be worn in a way that does not make sense.  So, characters may only wear one pair of boots at a time, one hat at a time, and so on.  Characters of any tier can wear any type of accessory, but characters may only wear a number of accessories at a time equal to their tier divided by two, at a minimum of 1.  This means that tier 1 characters can wear 1 accessory at a time, while tier 10 characters can wear 5 at a time.
 

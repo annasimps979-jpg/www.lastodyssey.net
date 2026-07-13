@@ -1,4 +1,11 @@
-# Campaigns
+---
+title: Campaigns
+
+permalink: /srd/intro/advice/campaigns
+
+abstract: >-
+    Ideas for campaign plotlines.
+---
 
 ## The Framework
 When the group first plans out their [campaign](/srd/glossary#term-campaign), it's important to decide on an overarching narrative framework.  This could be as simple as defeating a single [Villain](/srd/anima/antagonists/villains) or [Monster](/srd/anima/antagonists/monsters) or as complex as uncovering a world-spanning conspiracy.  The GM does not have to have a framework in mind when starting the campaign, but one will often develop organically in a complex enough world.  Here are a few suggestions for frameworks that work well with Last Odyssey's ruleset:

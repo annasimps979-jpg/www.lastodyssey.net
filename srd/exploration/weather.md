@@ -1,4 +1,11 @@
-# Weather
+---
+title: Weather
+
+permalink: /srd/exploration/weather
+
+abstract: >-
+    The main page for the Weather rules.
+---
 
 *Or, whether to bring an umbrella.*
 

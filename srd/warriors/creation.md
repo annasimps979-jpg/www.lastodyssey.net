@@ -1,4 +1,11 @@
-# Warrior Creation
+---
+title: Warrior Creation
+
+permalink: /srd/warriors/creation
+
+abstract: >-
+    A process for creating and balancing new warriors.
+---
 
 [GMs](/srd/glossary#term-gm) who want to introduce warriors not included in the [Example Warriors](/srd/warriors/examples) section have a few options.  First, they could take a pre-existing warrior and change it superficially, either by altering its [creature type](/srd/warriors/types#term-creature-type) or [element](/srd/combat/elements#term-element) and the elements of its [abilities](/srd/glossary#term-ability) and then changing its name and appearance.  They could also take an existing warrior and change its abilities.  Whatever the GM decides, it is recommended that they not send the same kind of warrior at the Heroes too many times.  This is partially to maintain the sense of danger and discovery for [players](/srd/glossary#term-player), and partially because learning about the abilities and [statistics](/srd/glossary#term-statistic) of the warriors that [Heroes](/srd/glossary#term-hero) will face on the road is a core part of the experience of Last Odyssey.
 

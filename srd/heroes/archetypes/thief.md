@@ -1,4 +1,11 @@
-# Thief
+---
+title: Thief
+
+permalink: /srd/heroes/archetypes/thief
+
+abstract: >-
+    The mechanics for the Thief archetype.
+---
 
 The Thief's core virtue is their **Cunning.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Light](/srd/economy/equipment/armor#term-light-armor) [armor](/srd/economy/equipment/armor).

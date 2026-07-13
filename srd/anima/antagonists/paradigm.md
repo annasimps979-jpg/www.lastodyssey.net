@@ -1,4 +1,11 @@
-# Paradigm Actions
+---
+title: Paradigm Actions
+
+permalink: /srd/anima/antagonists/paradigm
+
+abstract: >-
+    The types of paradigm actions.
+---
 
 During [combat](/srd/combat), [Antagonists](/srd/anima/antagonists) are capable of taking extra [actions](/srd/glossary#term-action) during the [Paradigm Phase](/srd/combat/round#term-paradigm-phase) called _<dfn id = "term-paradigm-action">paradigm actions</dfn>._  If an Antagonist takes a paradigm action, its effects will trigger before [players](/srd/glossary#term-player) have the chance to switch [roles](/srd/heroes/roles).  Antagonists can only use one paradigm action per [round](/srd/combat/round#term-round).  There are four kinds of paradigm actions that all Antagonists can take:
 

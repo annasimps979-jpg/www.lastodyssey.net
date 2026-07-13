@@ -1,6 +1,17 @@
-# Scenes
+---
+title: Scenes
 
-Heroes are agents of change, and when they pursue change they will also accrue the power of [Anima](/srd/anima).  Earning Anima is what allows [players](/srd/glossary#term-player) to advance their [tier](/srd/heroes/creation#term-tier), overcome [skill challenges](/srd/discovery/skill-challenges), and save themselves from [True Death](/srd/anima/true-death).  In Last Odyssey, for a Hero to earn Anima, their player must initiate a _<dfn id = "term-scene">Scene</dfn>._  A Scene is a dramatic cutscene that somehow either directly or indirectly contextualizes the emotions that a character is currently experiencing in a way that would not be communicated by ordinary play.  To begin, the player must pose a question that the Scene will revolve around, and then state the answer to that question that their character is most afraid or anxious of.  During the Scene, the player earning the Anima will be the Scene's main protagonist, and the other players will serve as the main supporting cast, taking on the roles of supporting characters or parts of the Scene itself, such as the lighting, the camera, or the music.  The GM is then the one to fill any extra parts if needed.
+permalink: /srd/anima/scenes
+
+abstract: >-
+    How Heroes may earn Anima.
+---
+
+Heroes are agents of change, and when they pursue change they will also accrue the power of [Anima](/srd/anima).  Earning Anima is what allows [players](/srd/glossary#term-player) to advance their [tier](/srd/heroes/creation#term-tier), overcome [skill challenges](/srd/discovery/skill-challenges), and save themselves from [True Death](/srd/anima/true-death).  In Last Odyssey, for a Hero to earn Anima, their player must initiate a _<dfn id = "term-scene">Scene</dfn>._  A Scene is a dramatic cutscene that somehow either directly or indirectly contextualizes the emotions that a character is currently experiencing in a way that would not be communicated by ordinary play.
+
+## Beginning a Scene
+
+To begin a Scene, a player must pose the question that the Scene will revolve around, and then state the answer to that question that their character is most afraid or anxious of.  During the Scene, the player accumulating the most Anima will be the Scene's main protagonist, and the other players will serve as the main supporting cast, taking on the roles of supporting characters or parts of the Scene itself, such as the lighting, the camera, or the music.  The GM is then the one to fill any extra parts if needed.
 
 Each player may initiate a Scene once per game [session](/srd/glossary#term-session), although they can participate in as many Scenes as they like in supporting roles.  Scenes can be as abstract or concrete as Heroes want, ranging from childhood flashbacks to confessions of love to arguments with God or with a pantheon of gods, but the questions posed will always be about something the character deeply values, whether that be a Relationship, a beloved object, an occupation, a title, or even their sense of themselves, and end when their question is properly contextualized.  The outcome of a Scene will determine the fate of its object depending on the question that was posed.  For example, if the Hero is afraid that their actions will result in dishonor, then the result of the outcome die determines whether or not they are publicly judged.  The notable exception to this is if the Hero's life was at risk, in which case the worst outcome is always that they experience True Death.  In this case, players may spend 3 Anima they had prior to the Anima they would earn from risking their life in order to save their character, but not the Anima their character would have earned from risking their life during the Scene.
 

@@ -1,4 +1,11 @@
-# Random Tables
+---
+title: Random Tables
+
+permalink: /srd/combat/random-tables
+
+abstract: >-
+    Reference tables for certain abilities.
+---
 
 ## <dfn id = "term-random-element-table">Random Element Table</dfn>
 

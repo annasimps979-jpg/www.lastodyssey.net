@@ -1,4 +1,11 @@
-# Dancer
+---
+title: Dancer
+
+permalink: /srd/heroes/archetypes/dancer
+
+abstract: >-
+    The mechanics for the Dancer archetype.
+---
 
 The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in Cloth armor.

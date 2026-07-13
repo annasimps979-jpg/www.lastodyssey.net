@@ -1,4 +1,11 @@
-# Warriors
+---
+title: Warriors
+
+permalink: /srd/warriors
+
+abstract: >-
+    The table of contents for the Warriors section.
+---
 
 *Violence can be difficult to handle.  Only some have the ability to do it.*
 

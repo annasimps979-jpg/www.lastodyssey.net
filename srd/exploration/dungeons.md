@@ -1,4 +1,11 @@
-# Dungeons
+---
+title: Dungeons
+
+permalink: /srd/exploration/dungeons
+
+abstract: >-
+    A guide to running dungeons.
+---
 
 A _<dfn id = "term-dungeon">dungeon</dfn>_ is any enclosed, hostile area made up of interconnected pieces called rooms, each with its own unique challenge for the players to overcome.  It could be a cave system, a castle, an insect hive, or any other space that can be subdivided into distinct parts in which each different encounter takes place.  Last Odyssey is not a game about dungeon crawling per se, but dungeons are natural settings for [quests](/srd/discovery/quests) or even entire [adventures](/srd/glossary#term-adventure).  In particular, the [Domains](/srd/anima/antagonists/monsters#term-domain) of [Monsters](/srd/anima/antagonists/monsters) make for perfect dungeons.  Regardless of the actual physical space involved, [GMs](/srd/glossary#term-gm) should think of each floor of a dungeon as a series of rooms connected by doors.  Each door has a specific requirement for passing through it, and each room either hosts an encounter or is an empty area for the [party](/srd/glossary#term-party) to rest.  Most dungeons will be represented by a single [node](/srd/exploration/maps#term-node) in the [overworld](/srd/exploration#term-overworld), but extremely large ones will instead contain two or more, in which case GMs should treat the [paths](/srd/exploration/maps#term-path) between them the same way they treat paths in the overworld, with [encounters](/srd/warriors/encounters-creation#term-encounter), a [navigation difficulty](/srd/exploration/maps#term-navigation-difficulty), and a [weather table](/srd/exploration/weather#term-weather-table) if appropriate.  In addition, many dungeons will also be divided into _<dfn id = "term-dungeon-level">levels</dfn>,_ which are distinct zones that represent different interconnected areas.  In some cases, a level will be a literal level of a building, while in others levels might be adjacent systems of caves or mark the transition between different biomes.  Whenever the [players](/srd/glossary#term-player) enter a new level of a dungeon, they earn 1 [Exploration XP](/srd/discovery/earning-xp#term-exploration-xp).
 

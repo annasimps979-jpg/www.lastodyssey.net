@@ -1,4 +1,11 @@
-# Example Warriors
+---
+title: Example Warriors
+
+permalink: /srd/warriors/examples
+
+abstract: >-
+    The table of contents by tier for example warriors.
+---
 
 *The only proof of a warrior is combat.*
 

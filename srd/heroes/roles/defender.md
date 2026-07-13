@@ -1,4 +1,11 @@
-# Defender
+---
+title: Defender
+
+permalink: /srd/heroes/roles/defender
+
+abstract: >-
+    The mechanics for the Defender role.
+---
 
 _<dfn id = "term-defender">Defenders</dfn>_ specialize in drawing and negating their opponents' attacks.
 

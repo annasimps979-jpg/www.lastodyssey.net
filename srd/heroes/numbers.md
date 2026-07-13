@@ -1,4 +1,11 @@
-# Numbers
+---
+title: Numbers
+
+permalink: /srd/heroes/numbers
+
+abstract: >-
+    A summary of Hero attributes and statistics.
+---
 
 The capabilities of every [character](/srd/glossary#term-character) during [battle](/srd/glossary#term-battle) are represented by twelve numbers called their [statistics](/srd/glossary#term-statistic), which determine the efficacy of their various [abilities](/srd/glossary#term-ability).  [Heroes](/srd/glossary#term-hero) are also described by three more numbers called [attributes](/srd/glossary#term-attribute) that determine what they can do in and out of combat. The abilities a Hero can use are determined by the [role](/srd/heroes/roles) they play and its current rank, their [archetype](/srd/heroes/archetypes), their [items](/srd/economy/items), their [equipment](/srd/economy/equipment), and whatever [flex powers](/srd/heroes/advancement#term-flex-power) they have taken during [Hero advancement](/srd/heroes/advancement).
 

@@ -1,4 +1,11 @@
-# Polar
+---
+title: Polar
+
+permalink: /srd/exploration/weather/polar
+
+abstract: >-
+    The mechanics of polar weather.
+---
 
 The farthest reaches of the poles and glaciers and cold regions during the winter resemble the Polar climate.  It is also useful for representing the peak of a tall mountain range.
 

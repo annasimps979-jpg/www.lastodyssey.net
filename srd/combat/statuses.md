@@ -1,4 +1,11 @@
-# Statuses
+---
+title: Statuses
+
+permalink: /srd/combat/statuses
+
+abstract: >-
+    The mechanics of statuses.
+---
 
 A _<dfn id = "term-status">status</dfn>_ is an adjective that sets an extra rule that the [character](/srd/glossary#term-character) it describes follows while it applies.  In some cases, these create exceptions to existing rules, while in others they add new ones.  For example, a character with the Silenced status may not use spells, while a character with the Slowed status can take fewer [actions](/srd/glossary#term-action) per [combat round](/srd/combat/round) than normal.  Some [abilities](/srd/glossary#term-ability) apply statuses automatically, while others are only applied to the target when they are hit.  The latter type are known as [sleights](/srd/combat/attacks#term-sleight).
 

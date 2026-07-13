@@ -1,4 +1,11 @@
-# Glossary
+---
+title: Glossary
+
+permalink: /srd/glossary
+
+abstract: >-
+    A list of need-to-know words and phrases.
+---
 
 *Commit all of the following to memory.  I'm not kidding.*
 

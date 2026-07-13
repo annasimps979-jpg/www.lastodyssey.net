@@ -1,4 +1,11 @@
-# Commander
+---
+title: Commander
+
+permalink: /srd/heroes/archetypes/commander
+
+abstract: >-
+    The mechanics for the Commander archetype.
+---
 
 The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Heavy](/srd/economy/equipment/armor#term-heavy-armor) [armor](/srd/economy/equipment/armor).

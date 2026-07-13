@@ -1,4 +1,11 @@
-# Ending Combat
+---
+title: Ending Combat
+
+permalink: /srd/combat/ending
+
+abstract: >-
+    The process of ending a battle.
+---
 
 A [battle](/srd/glossary#term-battle) is over when one of the two opposing sides has no active [characters](/srd/glossary#term-character) remaining on the field, or when one of the sides has successfully fled.  If the [players](/srd/glossary#term-player) have all been [downed](/srd/heroes/numbers#term-downed) or [killed](/srd/anima/true-death), the [party](/srd/glossary#term-party) will lose something important before they come to.  For example, a group of robbers might steal all of their [cr](/srd/economy/currency#term-cr), a group of wolves might eat all of their [Supplies](/srd/economy/items/travel), and a [Monster](/srd/anima/antagonists/monsters) might kidnap them and drag them into their lair.
 

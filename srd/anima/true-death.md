@@ -1,4 +1,11 @@
-# True Death
+---
+title: True Death
+
+permalink: /srd/anima/true-death
+
+abstract: >-
+    The rules for when characters die.
+---
 
 [Heroes](/srd/glossary#term-hero) do not die like ordinary people.  Instead, they will only die under certain circumstances.  When this happens, they undergo something called _<dfn id = "term-true-death">True Death</dfn>._  If a Hero would undergo True Death due to the consequences of either their own actions or the actions of a [Villain](/srd/anima/antagonists/villains) or [Monster](/srd/anima/antagonists/monsters), they may spend 3 [Anima](/srd/anima) to beseech their [eidolon](/srd/heroes/eidolons#term-eidolon) to save their life, in which case they will be revived at 1 [HP](/srd/heroes/numbers#term-hp) either during the next round of combat or once they have made contact with their eidolon.  If they are unable to do this, they are gone forever, and cannot be resurrected by any means.  If they still have Anima remaining, it is distributed to the other Heroes.  Any excess Anima that would bring any Hero above a total of 10 instead merely dissipates.  If there are no alive party members except for them, the Anima also disappears.
 

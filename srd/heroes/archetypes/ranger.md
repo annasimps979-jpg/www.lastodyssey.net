@@ -1,4 +1,11 @@
-# Ranger
+---
+title: Ranger
+
+permalink: /srd/heroes/archetypes/ranger
+
+abstract: >-
+    The mechanics for the Ranger archetype.
+---
 
 A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Light](/srd/economy/equipment/armor#term-light-armor) [armor](/srd/economy/equipment/armor).

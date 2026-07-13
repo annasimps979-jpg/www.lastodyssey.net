@@ -1,4 +1,11 @@
-# Support
+---
+title: Support
+
+permalink: /srd/heroes/roles/support
+
+abstract: >-
+    The mechanics for the Support role.
+---
 
 Supports specialize in [charms](/srd/combat/glamors#term-charm), [Shells](/srd/combat/shells), and beneficial [statuses](/srd/combat/statuses).
 

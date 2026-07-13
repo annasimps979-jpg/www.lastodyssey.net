@@ -1,4 +1,11 @@
-# Attacks
+---
+title: Attacks
+
+permalink: /srd/combat/attacks
+
+abstract: >-
+    The rules for dealing and taking damage.
+---
 
 Some [character](/srd/glossary#term-character) [abilities](/srd/glossary#term-ability), such as [charms](/srd/combat/glamors#term-charm) and [hexes](/srd/combat/glamors#term-hex), succeed no matter what.  However, other offensive abilities can hit or miss depending on the circumstances.  These abilities are referred to as _<dfn id = "term-attack">attacks.</dfn>_  There are three types of attacks: strikes, spells, and sleights.  When a character uses any of these three kinds of abilities, the [outcome die](/srd/glossary#term-outcome-die) is known as the _<dfn id="term-hit-die">hit die</dfn>,_ and will determine whether or not the ability succeeds.  If the ability in question has multiple targets, the hit die is only cast once, and the resulting number determines whether they hit and the [base](/srd/glossary#term-base) damage they deal against each one separately.
 

@@ -1,4 +1,11 @@
-# Shells
+---
+title: Shells
+
+permalink: /srd/combat/shells
+
+abstract: >-
+    The mechanics of Shells
+---
 
 Shell [abilities](/srd/glossary#term-ability) apply a special [status](/srd/combat/statuses) to their target known as a _<dfn id = "term-shell">Shell</dfn>._  Shells do not work the same as other statuses, since they cannot be removed by abilities that normally remove statuses and will also persist outside of combat, although they will reset to 0 whenever characters [rest](/srd/exploration/resting).  A Shell is a pool of temporary [HP](/srd/heroes/numbers#term-hp) that has a fixed [element](/srd/combat/elements#term-element).  When a [character](/srd/glossary#term-character) has a Shell applied to them, they will take double damage from all [spells](/srd/combat/attacks#term-spell).  In addition, when determining the elemental multiplier to the damage they take or to their status modifier,  take the target's element to be the element of their current Shell.  No character may have more than one Shell of a given element active at a time, and no [Hero](/srd/glossary#term-hero) may ever have more Shell than their [base](/srd/glossary#term-base) [Health](/srd/heroes/numbers#term-health).  [Warriors](/srd/warriors) also begin [battle](/srd/glossary#term-battle) with their maximum Shell already applied.  A warrior's maximum Shell is determined by the starting Shell they have in [combat](/srd/combat), and they cannot receive a Shell higher than this of any element.
 

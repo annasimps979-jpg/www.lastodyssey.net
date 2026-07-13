@@ -1,4 +1,11 @@
-# Injuries
+---
+title: Injuries
+
+permalink: /srd/combat/injuries
+
+abstract: >-
+    The mechanics of injuries and being downed.
+---
 
 When a [character](/srd/glossary#term-character) drops to 0 [HP](/srd/heroes/numbers#term-hp) during [combat](/srd/combat), they are considered _<dfn id="term-downed">downed</dfn>._  When a character is downed, all of the effects applied to them are removed, including [charms](/srd/combat/glamors#term-charm), [hexes](/srd/combat/glamors#term-hex), [Shells](/srd/combat/shells), and [statuses](/srd/combat/statuses), with the exception of [Poisoned](/srd/combat/statuses#term-poisoned), [Frostbitten](/srd/combat/statuses#term-frostbitten), and [Burned](/srd/combat/statuses#term-burned).  They cannot act, and cannot be the target of any [abilities](/srd/glossary#term-ability), [items](/srd/economy/the-party/inventory/battle), or other effects except those which revive downed characters.  When a character is revived during [battle](/srd/glossary#term-battle), they take the place they previously occupied in the [Initiative Order](/srd/combat/starting#term-initiative-order), and will act on the first [turn](/srd/combat/round#term-turn) they have after the turn of the character that revived them.  In addition, if they had any AP left when downed, they regain exactly 1 AP that they can use during an extra turn at the end of the round.  For all intents and purposes, this counts as a [held turn](/srd/combat/round#term-hold-ap).
 

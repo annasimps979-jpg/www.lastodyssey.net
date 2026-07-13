@@ -1,4 +1,11 @@
-# Temperate
+---
+title: Temperate
+
+permalink: /srd/exploration/weather/temperate
+
+abstract: >-
+    The mechanics of temperate weather.
+---
 
 Lands with wet and cool climates, the months of winter and spring in milder regions and the month of spring in more remote regions, and the climate of cooler wetlands and intertidal zones are all represented by the Temperate climate.
 

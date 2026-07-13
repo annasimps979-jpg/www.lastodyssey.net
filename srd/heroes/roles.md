@@ -1,4 +1,11 @@
-# Roles
+---
+title: Roles
+
+permalink: /srd/heroes/roles
+
+abstract: >-
+    The table of contents for the Roles section.
+---
 
 *The masks one wears onstage.*
 

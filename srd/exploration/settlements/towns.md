@@ -1,4 +1,11 @@
-# Towns
+---
+title: Towns
+
+permalink: /srd/exploration/settlements/towns
+
+abstract: >-
+    Advice for creating towns.
+---
 
 **Population:** 1,000-10,000 people.  
 

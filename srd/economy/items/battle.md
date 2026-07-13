@@ -1,4 +1,11 @@
-# Battle Items
+---
+title: Battle Items
+
+permalink: /srd/economy/items/battle
+
+abstract: >-
+    The items used in combat.
+---
 
 _<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of item that is usable during [combat](/srd/combat).  Some battle items reproduce the effects of an ability such as [Heal](/srd/heroes/roles/healer) or [Restore Mana](/srd/heroes/archetypes/priest), while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](/srd/glossary#term-party) inventory.  All battle items cost 1 [AP](/srd/combat/round#term-ap) to use unless otherwise specified.
 

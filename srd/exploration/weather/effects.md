@@ -1,4 +1,11 @@
-# Weather Effects
+---
+title: Weather Effects
+
+permalink: /srd/exploration/weather/effects
+
+abstract: >-
+    The rules for simulating specific types of weather.
+---
 
 Each variety of weather comes with its own unique effects and possible dangers.  In order of severity, the possible weather effects are shown in the table below.
 

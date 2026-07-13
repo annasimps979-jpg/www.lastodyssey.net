@@ -1,4 +1,12 @@
-# Using Anima
+---
+title: Spending Anima
+
+permalink: /srd/anima/spending
+
+abstract: >-
+    How Heroes may spend Anima.
+---
+
 Each [Hero](/srd/glossary#term-hero) is empowered with magic whose root is the [Anima](/srd/anima) accumulated inside of their souls.  All Heroes can have a maximum of 10 Anima at a time.  Once they accumulate this much, they must spend some in order to earn any more.  
 
 The purpose of Anima is to manipulate fate in the Heroes' favor beyond what would be possible through ordinary means.  As such, players can spend Anima in or out of [combat](/srd/combat) in any of the following ways:

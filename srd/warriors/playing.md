@@ -1,4 +1,11 @@
-# Playing Warriors
+---
+title: Playing Warriors
+
+permalink: /srd/warriors/playing
+
+abstract: >-
+    Guidelines for GMs portraying warriors.
+---
 
 Each warrior on the battlefield has combat statistics and a set of [abilities](/srd/glossary#term-ability).  Warriors can also take any of the basic set of [actions](/srd/glossary#term-action) outlined in the [Combat Round](/srd/combat/round) subsection of the [Combat Rules](/srd/combat), with the exception of [Summon Eidolon](/srd/combat/round#term-summon-eidolon).  The [GM](/srd/glossary#term-gm) is responsible for playing the [party's](/srd/glossary#term-party) opponents during [battle](/srd/glossary#term-battle).  However, rather than simply treating a battle as a chess match between them and the [players](/srd/glossary#term-player), GMs should instead play them like characters.  This is especially important because learning warrior abilities and behavior is an intended part of the experience of playing Last Odyssey.  Here are some principles the GM should stick to when narrating combat:
 

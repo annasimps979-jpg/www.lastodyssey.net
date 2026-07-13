@@ -1,4 +1,11 @@
-# Resting
+---
+title: Resting
+
+permalink: /srd/exploration/resting
+
+abstract: >-
+    The rules for when players recover.
+---
 
 After journeying along a [path](/srd/exploration/maps#term-path), [Heroes](/srd/glossary#term-hero) will have accrued [injuries](/srd/combat/injuries#term-injury), have lost [HP](/srd/heroes/numbers#term-hp) and [MP](/srd/heroes/numbers#term-mp), and be drained of [Supplies](/srd/economy/items/travel#term-supplies), and will need to <dfn id = "term-resting">rest</dfn> within the boundaries of a [settlement](/srd/exploration/settlements).  If there are no other options available to the Heroes, [villages](/srd/exploration/settlements/villages) and [towns](/srd/exploration/settlements/towns) will tolerate people camping on their outskirts so long as they introduce themselves to local authorities and explain their presence.  Heroes who do this will undergo a [Camping Phase](/srd/exploration/travel/round#term-camping-phase), and can take all of the same [actions](/srd/glossary#term-action) as normal.  That being said, there may be consequences for [Hunting](/srd/exploration/travel/round#term-hunt-action) or [Gathering](/srd/exploration/travel/round#term-gather-action) in people's fields, and GMs should warn [players](/srd/glossary#term-player) of this if they choose to take these actions.  In [cities](/srd/exploration/settlements/cities) and [metropoli](/srd/exploration/settlements/metropoli), sleeping outside is frowned upon, and will either earn the Heroes a beating from the city watch or the local criminal element or get them thrown out of the city in more serious cases.  To simulate this, treat the camp as though the Heroes were on a path with a danger rating of 10, corresponding to a likelihood of [ambush](/srd/exploration/travel/round#term-ambush) of 50%.  Unlike most warriors out in the wild, however, the city guard or local mob will accept surrender for either a bribe of 100 [cr](/srd/economy/currency#term-cr) or an agreement to not sleep outside again.
 

@@ -1,4 +1,11 @@
-# Priest
+---
+title: Priest
+
+permalink: /srd/heroes/archetypes/priest
+
+abstract: >-
+    The mechanics for the Priest archetype.
+---
 
 The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Cloth](/srd/economy/equipment/armor#term-cloth-armor) [armor](/srd/economy/equipment/armor).

@@ -1,4 +1,11 @@
-# Anima
+---
+title: Anima
+
+permalink: /srd/anima
+
+abstract: >-
+    The table of contents for the Anima section.
+---
 
 *Catch fate with a lure, and let it slip out of your hands again.*
 

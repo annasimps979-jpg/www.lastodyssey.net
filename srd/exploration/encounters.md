@@ -1,4 +1,11 @@
-# Travel Encounters
+---
+title: Travel Encounters
+
+permalink: /srd/exploration/encounters
+
+abstract: >-
+    A guide to encounters on the road.
+---
 
 There are two types of dangers that [players](/srd/glossary#term-player) will encounter on the road: _<dfn id = "term-natural-hazard">natural hazards</dfn>_ and [warrior](/srd/warriors#term-warrior) [encounters](/srd/warriors/encounters#term-encounter).  A natural hazard is an obstacle caused by the natural features of the environment, such as a tangle of brambles, a field of poppies that put [characters](/srd/glossary#term-character) to sleep, a swamp filled with leeches, or something similar.  To overcome a natural hazard, players must approach it like a [puzzle](/srd/discovery/puzzles), using [Supplies](/srd/economy/items/travel#term-supplies), lateral thinking, [skill challenges](/srd/discovery/skill-challenges), and/or [Anima](/srd/anima) to overcome it.  To overcome a warrior encounter, players will have to win in [combat](/srd/combat) or else think of a clever puzzle solution to avoid it.
 

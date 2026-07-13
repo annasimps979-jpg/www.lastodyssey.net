@@ -1,4 +1,11 @@
-# Saboteur
+---
+title: Saboteur
+
+permalink: /srd/heroes/roles/saboteur
+
+abstract: >-
+    The mechanics for the Saboteur role.
+---
 
 The Saboteur specializes in applying [hexes](/srd/combat/glamors#term-hex) and negative [statuses](/srd/combat/statuses).
 

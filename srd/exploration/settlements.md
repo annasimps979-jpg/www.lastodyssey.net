@@ -1,4 +1,11 @@
-# Settlements
+---
+title: Settlements
+
+permalink: /srd/exploration/settlements
+
+abstract: >-
+    The main page for the guide to settlements.
+---
 
 *Or, where people live.*
 

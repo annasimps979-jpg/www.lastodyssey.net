@@ -1,4 +1,11 @@
-# Villages
+---
+title: Villages
+
+permalink: /srd/exploration/settlements/villages
+
+abstract: >-
+    Advice for creating villages.
+---
 
 **Population:** <1,000 people.  
 

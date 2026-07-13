@@ -1,4 +1,11 @@
-# Beginner's Guide
+---
+title: Beginner's Guide
+
+permalink: /srd/intro
+
+abstract: >-
+  The table of contents for the Beginner's Guide.
+---
 
 *Alright, everyone: and a one, and a two, and a*
 

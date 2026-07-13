@@ -1,4 +1,11 @@
-# Glamors
+---
+title: Glamors
+
+permalink: /srd/combat/glamors
+
+abstract: >-
+    The mechanics of glamors.
+---
 
 Some [abilities](/srd/glossary#term-ability) modify the [statistics](/srd/glossary#term-statistic) of their target.  Abilities that increase a target's statistics are called _<dfn id = "term-charm">charms</dfn>,_ while abilities that decrease their statistics are called _<dfn id = "term-hex">hexes</dfn>._  When a [character](/srd/glossary#term-character) uses a charm or hex, it does not increase or reduce the statistic directly.  Instead, it moves that statistic up and down something called the _<dfn id = "term-bonus-tracker">Bonus Tracker</dfn>._  By default, the bonus to each of a character's statistics is +0.  A single level of charm applied to that statistic gives it a bonus of +1 for the duration of the [battle](/srd/glossary#term-battle).  Another level raises this bonus to +3, and the final level raises it to +7.  Subsequent charms do nothing.  Likewise, a single level of a hex on a statistic imposes a penalty of -1, a second level imposes a penalty of -3, and a third will impose a penalty of -7.  Further hexes do nothing.  In addition, glamors are capable of cancelling each other out.  One level of charm will cancel out one level of hex, and vice versa.
 

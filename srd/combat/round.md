@@ -1,4 +1,11 @@
-# The Combat Round
+---
+title: The Combat Round
+
+permalink: /srd/combat/round
+
+abstract: >-
+    The structure of combat.
+---
 
 The standard unit of time that each [battle](/srd/glossary#term-battle) is divided into is known as a _<dfn id = "term-round">round</dfn>._  After the [Initiative Order](/srd/combat/starting#term-initiative-order) is determined and all other pre-battle steps are taken into consideration, the first round of [combat](/srd/combat) begins.  This round, and each subsequent round, are divided into three phases which take place in order:
 1.  <dfn id = "term-action-phase">The Action Phase</dfn>.  This is the phase in which each [character](/srd/glossary#character) on the field takes their turn in the order determined by the results of [calling Initiative](/srd/combat/starting#term-calling-initiative).

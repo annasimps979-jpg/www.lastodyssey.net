@@ -1,4 +1,11 @@
-# Merchants
+---
+title: Merchants
+
+permalink: /srd/economy/merchants
+
+abstract: >-
+    The process for creating item vendors.
+---
 
 [Heroes](/srd/glossary#term-hero) will often need to replenish their [items](/srd/economy/items) and upgrade their [equipment](/srd/economy/equipment), which means that they will need to visit _<dfn id = "term-merchant">merchants</dfn>._  The following section outlines how to create merchants to add to the game world that players can buy goods and services from, including extensive guides for generating new ones appropriate to the [players'](/srd/glossary#term-player) [tier](/srd/heroes/creation#term-tier).  [GMs](/srd/glossary#term-gm) are not obligated to follow any of the guidelines here, but making bespoke item arrays for each storekeeper can be very time-consuming, and so it is recommended that they make extensive use of the framework in this section as they create their worlds.
 

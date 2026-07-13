@@ -1,4 +1,11 @@
-# Ally
+---
+title: Allies
+
+permalink: /srd/warriors/allies
+
+abstract: >-
+    Special rules for allied warriors.
+---
 
 Any [NPC](/srd/glossary#term-npc) that accompanies the players on their journey is referred to as a _<dfn id = "term-ally">ally</dfn>._  Recruited enemies may become allies, and recruited allies may also sometimes become enemies.  At times, they may also be hired by spending money, although many allies will be willing to work for free, and can easily become a long-term friend if they spend enough time with the party.  The following section outlines how to seamlessly incorporate such characters into [exploration](/srd/exploration) and [combat,](/srd/combat) and how to handle long-term allies as characters advance.
 

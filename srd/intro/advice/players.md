@@ -1,4 +1,11 @@
-# Advice for Players
+---
+title: Advice for Players
+
+permalink: /srd/intro/advice/players
+
+abstract: >-
+    Advice for playing the game well.
+---
 
 The role of the [player](/srd/glossary#term-player) in a Last Odyssey campaign is to play a single protagonist.  The following section is written for players who have already read the previous sections and have an understanding of what a game of Last Odyssey entails, but either lack the FRP experience or the familiarity with Last Odyssey to know how to plug into a group and contribute to the best of their ability.  Before you go any further, though, you should take a deep breath and relax.  While FRP shares a lot of commonalities with improv, you are not trying out for a role in an acting troupe.  This is not a homework assignment, and for that matter it's not a PhD thesis, either.  The author of this book has been playing FRPs for the entirety of their adult life (and a plurality of their childhood, as well), and in her opinion what makes a good player is someone who brings their authentic self to the table, and is willing to be vulnerable enough to communicate to the group when they're having fun and when they're not.
 

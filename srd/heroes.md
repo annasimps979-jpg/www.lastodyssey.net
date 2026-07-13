@@ -1,4 +1,11 @@
-# Heroes
+---
+title: Heroes
+
+permalink: /srd/heroes
+
+abstract: >-
+    The table of contents for the Heroes section.
+---
 
 *That would be you.*
 

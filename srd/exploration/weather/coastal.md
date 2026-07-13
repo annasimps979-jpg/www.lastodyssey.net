@@ -1,4 +1,11 @@
-# Coastal
+---
+title: Coastal
+
+permalink: /srd/exploration/weather/coastal
+
+abstract: >-
+    The mechanics of coastal climates.
+---
 
 Lands with sunny and breezy climates are represented by this type.  The months of summer and autumn in milder regions and the dry season on tropical islands both very closely resemble a Coastal climate in their weather patterns.
 

@@ -1,4 +1,11 @@
-# Earning XP
+---
+title: Earning XP
+
+permalink: /srd/discovery/earning-xp
+
+abstract: >-
+    How to measure XP gain.
+---
 
 The progress of the [Heroes](/srd/glossary#term-hero) through a [campaign](/srd/glossary#term-campaign) is measured by the amount of _<dfn id = "term-xp">experience points</dfn>_ they earn.  Experience points, or XP for short, are a resource that can be spent to make characters stronger and more capable.  See the [Hero Advancement](/srd/heroes/advancement) section for more details.  In total, it takes 1,155 XP to progress a character from the beginning of [tier](/srd/heroes/creation#term-tier) 1 to the end of tier 10.  Planning out the relative amount of XP that [players](/srd/glossary#term-player) will earn from different sources is one way for the [GM](/srd/glossary#term-gm) to determine what elements of a campaign to emphasize.  
 

@@ -1,4 +1,11 @@
-# Harlequin
+---
+title: Harlequin
+
+permalink: /srd/heroes/archetypes/harlequin
+
+abstract: >-
+    The mechanics for the Harlequin archetype.
+---
 
 The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Light](/srd/economy/equipment/armor#term-light-armor) [armor](/srd/economy/equipment/armor).

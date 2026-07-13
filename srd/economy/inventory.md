@@ -1,4 +1,11 @@
-# Inventory
+---
+title: Inventory
+
+permalink: /srd/economy/inventory
+
+abstract: >-
+    The mechanics of a character's inventory.
+---
 
 All objects that are not currently being held by a character but that still have weight are carred in a [character's](/srd/glossary#term-character) _<dfn id = "term-inventory">inventory</dfn>,_ which is a list of all of the significant objects they carry on their person that they do not currently have equipped.  In addition to its effects and base cost, each item in an inventory has an _<dfn id = "term-item-rating">item rating</dfn>_ that is a number between 1 to 10 that is a measure of how much space it takes up.  The _<dfn id = "term-carrying-capacity">Carrying Capacity</dfn>_ of each character is the maximum sum total rating of the items that any given character can carry in their inventory at once.  Each [Hero's](/srd/glossary#term-hero) Carrying Capacity is equal to 5 times their [Body](/srd/heroes/abilities-and-statistics#term-body) attribute plus 10.  All items carried in an inventory that have significant utility in [combat](/srd/combat) or [exploration](/srd/exploration) have an item rating of at least 1.  Travel items can have ratings of anywhere from 1-10, weapons have a rating of 5, armor has a rating of 10, and each accessory has a rating of 2.  A character's currently equipped weapon, [armor](/srd/economy/equipment/armor), and accessories do not take up any space in their inventory.
 

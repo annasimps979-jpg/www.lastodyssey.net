@@ -1,4 +1,11 @@
-# General Guidelines
+---
+title: General Guidelines
+
+permalink: /srd/exploration/settlements/guidelines
+
+abstract: >-
+    General advice for settlement creation.
+---
 
 In Last Odyssey, settlements are rare, and large settlements are even rarer.  Travel is difficult and trade even moreso, resulting in a settlement pattern much like that of the postclassical era of human history.  When creating a new settlement in the [overworld](/srd/exploration#term-overworld), [GMs](/srd/glossary#term-gm) should take into consideration its population, its layout, its culture, and its architecture, as well the relevant sensory details for them to describe while the player characters are visiting.  GMs are allowed and encouraged to break the mold, but the following section will focus on the major types of settlements that players will usually encounter.
 

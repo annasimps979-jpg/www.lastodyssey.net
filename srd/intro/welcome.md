@@ -1,4 +1,11 @@
-# Getting Started
+---
+title: Getting Started
+
+permalink: /srd/intro/welcome
+
+abstract: >-
+    How to start a new campaign.
+---
 
 The only thing you always need for an FRP is _other people._  To play Last Odyssey, you will also need a [Game Master](/srd/glossary#term-gm), 3-5 [players](/srd/glossary#term-player), and a designated [facilitator](/srd/intro/advice/facilitators) or facilitators who can handle the work of planning and preparation.  This section contains guidelines designed to help you get a new [campaign](/srd/glossary#term-campaign) started.
 

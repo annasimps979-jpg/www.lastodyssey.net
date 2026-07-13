@@ -1,4 +1,11 @@
-# Magic
+---
+title: Magic
+
+permalink: /srd/discovery/magic
+
+abstract: >-
+    Using abilities outside of combat.
+---
 
 [Heroes](/srd/glossary#term-hero), being endowed with the power of [Mana](/srd/heroes/numbers#term-mana), can use their [abilities](/srd/glossary#term-ability) to defeat warriors in [combat](/srd/combat).  In addition, this same magic will often have utility outside of combat as well.  When necessary, adhere to the following rules when making rulings about how they function:
 *  The [MP](/srd/heroes/numbers#term-mp) cost of an ability is the same out of combat as it is in combat.  [Players](/srd/glossary#term-player) can cast as many consecutive abilities as they like.

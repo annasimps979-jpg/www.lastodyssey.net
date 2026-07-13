@@ -1,4 +1,11 @@
-# Mapmaking
+---
+title: Mapmaking
+
+permalink: /srd/exploration/maps
+
+abstract: >-
+    The guide to nodes and paths.
+---
 
 There are two basic, interrelated components that make up the overworld: _<dfn id = "term-node">nodes</dfn>,_ which represent the places the [Heroes](/srd/glossary#term-hero) will be traveling to, and _<dfn id = "term-path">paths</dfn>._  For every location that is a significant distance away from any other location in the [overworld](/srd/exploration) such that [players](/srd/glossary#term-player) will have to expend travel resources in order to get there, a new node should be placed.  A good rule of thumb is that if players would have to use the travel round rules to get to a new place, then a new node should be made to represent it.
 

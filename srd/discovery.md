@@ -1,4 +1,11 @@
-# Discovery
+---
+title: Discovery
+
+permalink: /srd/discovery
+
+abstract: >-
+    The table of contents for the Discovery section.
+---
 
 *What if I don't know what will happen?*
 

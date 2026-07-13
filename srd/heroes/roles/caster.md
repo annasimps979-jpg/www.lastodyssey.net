@@ -1,4 +1,11 @@
-# Caster
+---
+title: Caster
+
+permalink: /srd/heroes/roles/caster
+
+abstract: >-
+    The mechanics for the Caster role.
+---
 
 _<dfn id = "term-caster">Casters</dfn>_ specialize in [spells](/srd/combat/attacks#term-spell).
 

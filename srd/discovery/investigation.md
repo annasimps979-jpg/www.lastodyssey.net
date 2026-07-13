@@ -1,4 +1,11 @@
-# Investigation
+---
+title: Investigation
+
+permalink: /srd/discovery/investigation
+
+abstract: >-
+    The mechanics of gaining knowledge.
+---
 
 [Players](/srd/glossary#term-player) who arrive in a new area will often be ignorant of the traits of [warriors](/srd/warriors), the local [weather](/srd/exploration/weather) patterns, the [Lore](/srd/discovery/lore) of the world an/or an area, or other information pertinent to their objectives.  This information can be worked for, traded for, bartered for, or be handed out as a [quest](/srd/discovery/quests) reward, but at bare minimum players may learn things about their surroundings by making an _<dfn id = "term-investigation">investigation</dfn>._  When a player wants to learn something new about their immediate surroundings or about a topic about which they have access to information, they first pick the [attribute](/srd/glossary#term-attribute) that is most relevant to the manner in which they are gathering information and then cast the [outcome die](/srd/glossary#term-outcome-die).  If the result is equal to or below their current value in that attribute, with a 10 or above in a given attribute counting as a 9, they will be able to ask 2d6 questions about the topic for the [GM](/srd/glossary#term-gm) to answer.  If the result is above their target number, they do not "fail" but instead are able to ask 1d6 questions about the fiction.  Once the investigation is made, the player may continue to learn more information about the fiction, but must do so by directly narrating their [characters'](/srd/glossary#term-character) actions.
 

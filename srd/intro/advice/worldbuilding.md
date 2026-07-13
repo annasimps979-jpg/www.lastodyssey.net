@@ -1,4 +1,11 @@
-# Worldbuilding
+---
+title: Worldbuilding
+
+permalink: /srd/intro/advice/worldbuilding
+
+abstract: >-
+    Advice for homebrewing settings.
+---
 
 Last Odyssey does not come with a prewritten setting.  Instead, the political and natural geography of the [campaign](/srd/glossary#term-campaign) world will vary from group to group.  What it does have is an implicit setting, which is a set of assumptions that hold true for all possible games.  This section provides advice for successfully incorporating Last Odyssey's implicit setting assumptions into the group's campaign.
 

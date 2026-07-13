@@ -1,4 +1,11 @@
-# Archetypes
+---
+title: Archetypes
+
+permalink: /srd/heroes/archetypes
+
+abstract: >-
+    The table of contents for the Archetypes section.
+---
 
 *I am I am I*
 

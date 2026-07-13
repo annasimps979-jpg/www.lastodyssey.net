@@ -1,4 +1,11 @@
-# The Economy
+---
+title: The Economy
+
+permalink: /srd/economy
+
+abstract: >-
+    The table of contents for the Economy section.
+---
 
 *As for the living: only some may think, but all must eat.*
 

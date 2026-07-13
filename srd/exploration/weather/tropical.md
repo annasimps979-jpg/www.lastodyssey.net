@@ -1,4 +1,11 @@
-# Tropical
+---
+title: Tropical
+
+permalink: /srd/exploration/weather/tropical
+
+abstract: >-
+    The mechanics of tropical weather.
+---
 
 Jungles, the summer months in hotter regions, and the wet season on islands are all represented by the Tropical climate.  Equatorial wetlands tend to also have Tropical climates or similar.
 

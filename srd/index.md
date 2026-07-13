@@ -1,4 +1,11 @@
-# Playbill
+---
+title: Playbill
+
+permalink: /srd
+
+abstract: >-
+    An overview of what you can expect from Last Odyssey.
+---
 
 *The horizon stretches out before you, vast, indifferent, and unending.  It is your trial to venture forth, towards that place where the sky meets the earth; to grow strong, to explore distant lands, and to defeat evil wherever it may be found.  You will burn bright, fight hard, laugh loudly in the face of danger, and, when the time comes, sacrifice yourself for something worth dying for.*
 

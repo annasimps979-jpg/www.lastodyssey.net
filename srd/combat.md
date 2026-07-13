@@ -1,4 +1,11 @@
-# Combat
+---
+title: Combat
+
+permalink: /srd/combat
+
+abstract: >-
+    The table of contents for the Combat section.
+---
 
 *To kill a body, you must first carve it into lines.*
 

@@ -1,4 +1,11 @@
-# Desert
+---
+title: Desert
+
+permalink: /srd/exploration/weather/desert
+
+abstract: >-
+    The mechanics of desert climates.
+---
 
 Arid, hot regions such as canyons, plateaus, or sandy deserts are represented by the Desert climate.  Characters traveling in these regions should be careful to bring more [Supplies](/srd/economy/items/travel#term-supplies) than normal.
 

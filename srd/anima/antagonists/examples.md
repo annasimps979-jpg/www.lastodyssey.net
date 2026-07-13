@@ -1,4 +1,11 @@
-# Example Antagonists
+---
+title: Example Antagonists
+
+permalink: /srd/anima/antagonists/examples
+
+abstract: >-
+    Ten example Antagonist stat blocks.
+---
 
 Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/glossary#term-campaign) in Last Odyssey will often revolve around a handful of Antagonists.  Here are a few examples that are ready-made for the GM to use in their game.
 

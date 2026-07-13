@@ -1,4 +1,11 @@
-# Hero Advancement
+---
+title: Hero Advancement
+
+permalink: /srd/heroes/advancement
+
+abstract: >-
+    The process for making Heroes stronger.
+---
 
 Over time, players will earn [XP](/srd/discovery/earning-xp#term-xp), which can be spent to make their [Heroes](/srd/glossary#term-player-character) more powerful by increasing their [attributes](/srd/glossary#term-attribute) and unlocking new [abilities](/srd/glossary#term-ability).  A Hero's level of advancement in relation to other characters is represented by their [tier](/srd/heroes/creation#term-tier).  [Players](/srd/glossary#term-player) can spend XP on four distinct improvements to their Hero: unlocking a new [role](/srd/heroes/roles) or unlocking a talent for one they already have, taking what's known as a flex power, adding 1 to one of their attributes, and advancing 3 total ranks in any roles they are currently have access to.  The last two of these can be done twice per tier, while the first two can only be done once.  To learn more about how Heroes earn XP, see the [Earning XP](/srd/discovery/earning-xp) section.
 

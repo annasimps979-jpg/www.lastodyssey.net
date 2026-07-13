@@ -1,4 +1,11 @@
-# Travel Items
+---
+title: Travel Items
+
+permalink: /srd/economy/items/travel
+
+abstract: >-
+    The items used during exploration.
+---
 
 Some items that [players](/srd/glossary#term-player) can purchase do not have utility in [battle](/srd/glossary#term-battle) but instead during [exploration](/srd/exploration).  In Last Odyssey, these are referred to as _travel items._  
 

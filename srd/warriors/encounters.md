@@ -1,4 +1,11 @@
-# Encounter Creation
+---
+title: Encounter Creation
+
+permalink: /srd/warriors/encounters
+
+abstract: >-
+    A guide to warrior encounter design.
+---
 
 In Last Odyssey, a group of warriors that engage the [players](/srd/glossary#term-player) in [combat](/srd/combat) is known as an _<dfn id = "term-encounter">encounter</dfn>._  A baseline warrior encounter that is challenging but beatable for a [party](/srd/glossary#term-party) of four of a given tier consists of three to five Normal warriors, about the same number as there are [Heroes](/srd/glossary#term-hero) in the party.  Elite type warriors are worth five times as much [XP](/srd/discovery/earning-xp#term-xp), but in battle they are equivalent to about three Normal type warriors.  The [GM](/srd/glossary#term-gm) does not have to throw encounters at the players that are precisely of their tier.  Most Heroes will be equipped to handle warriors of power equal to plus or minus two tiers.  Any higher and they will be numerically outmatched, and any lower and the encounter will be trivial.
 

@@ -1,4 +1,11 @@
-# Healer
+---
+title: Healer
+
+permalink: /srd/heroes/roles/healer
+
+abstract: >-
+    The mechanics for the Healer role.
+---
 
 _<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](/srd/glossary#term-ability) that heal, revive, and remove [statuses](/srd/combat/statuses) and [hexes](/srd/combat/glamors#term-hex).  Any ability that has these effects is referred to as a _<dfn id = "term-blessing">blessing</dfn>_ in the rest of the rules.
 

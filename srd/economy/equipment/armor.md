@@ -1,4 +1,11 @@
-# Armor
+---
+title: Armor
+
+permalink: /srd/economy/equipment/armor
+
+abstract: >-
+    The rules for defensive equipment.
+---
 
 A [character's](/srd/glossary#term-character) _<dfn id = "term-armor">armor</dfn>_ is a special type of equipment provides a bonus to their [Magical Defense](/srd/heroes/numbers#term-magical-defense) and a bonus to their [Physical Defense](/srd/heroes/numbers#term-physical-defense).  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during [combat](/srd/combat).  The rules for armor upgrades are identical to the rules for [weapon](/srd/economy/equipment/weapons) upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  There are three varieties of armor, and they also determine the bonuses that characters receive to their [statistics](/srd/glossary#term-statistic): Cloth armor, Light armor, and Heavy armor.
 

@@ -1,4 +1,11 @@
-# Puzzles
+---
+title: Puzzles
+
+permalink: /srd/discovery/puzzles
+
+abstract: >-
+    A guide to creating puzzles.
+---
 
 During [discovery](/srd/discovery), [Heroes](/srd/glossary#term-hero) can earn [XP](/srd/discovery/earning-xp#term-xp) via the completion of puzzles.  In Last Odyssey, a _<dfn id = "term-puzzle">puzzle</dfn>_ is a task that requires a significant amount of thinking on behalf of the [players](/srd/glossary#term-player) to solve, as opposed to the Heroes solving it within the narrative or through the game's mechanics.  In terms of XP, each puzzle is divided into _<dfn id = "term-puzzle-stage">stages</dfn>,_ which are discrete problems that the players have to solve in order to advance to the solution.  Each time the players complete a stage of a puzzle, they will earn 5 XP, both as a reward for clever thinking and also to indicate that they are on the right track.  Here are a few examples of possible puzzle stages:
 *  Persuasion.  When the Heroes need to convince someone to do them a favor, this counts as a puzzle.  The solution to the puzzle will be an argument that wins them over.  [GMs](/srd/glossary#term-gm) should think about what the [character](/srd/glossary#term-character) being persuaded wants, and what sort of tactics might make them more or less likely to come over to the players' side.

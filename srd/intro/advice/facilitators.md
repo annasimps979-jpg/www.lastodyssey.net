@@ -1,4 +1,12 @@
-# Advice for Facilitators
+---
+title: Advice for Facilitators
+
+permalink: /srd/intro/advice/facilitators
+
+abstract: >-
+    Advice for keeping campaigns running.
+---
+
 The most vital, most unsung, most underrated hero of every gaming group is its facilitator.  As facilitator, you are responsible for dealing with the logistics of the game&mdash;the when, the where, the who, and the how long.  You will be the one telling people to show up, coordinating snacks, cleaning up before and after, and making sure everyone has a good time.  The truth is that everyone in the group ought to contribute to this, but some people will inevitably contribute more than others.  Rather than letting the work flow downhill to the person who is socially expected to do this, designating one or two people as facilitator can massively improve your group experience, both so someone is accountable for doing this work, and so the person who is doing it feels properly appreciated.
 
 In home games, the role of facilitator is traditionally granted to the [Game Master](/srd/glossary#term-gm).  They are, after all, the most essential member of the group, so it's only natural that the game should revolve around their schedule.  However, as the author has experienced firsthand, being a good GM and being a good facilitator are uncorrelated skillsets.  Rather than simply assuming that your GM will take on the full responsibility of facilitating game, talk about who can do it, and divvy up the responsibilities based on ability rather than social expectation.  Sometimes, games fall through because people get too busy to continue, and that's unavoidable.  It is the author's opinion, though, that there are an equal number of games that fall through because the participants don't realize how vital the work of facilitation is in keeping them going, and so never think to volunteer to do it.  A game like Last Odyssey that's meant to be played over the course of a very long time is absolutely going to require facilitation, so make sure the person doing it understands their responsibility and is comfortable with it.

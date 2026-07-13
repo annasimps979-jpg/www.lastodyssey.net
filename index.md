@@ -1,7 +1,11 @@
 ---
----
+title: Welcome
 
-# Welcome
+permalink: /
+
+abstract: >-
+  An open letter to all newcomers.
+---
 
 to the System Reference Document for the Last Odyssey role playing game.  If
 you know what this is already and would like me to get out of your way, go read the

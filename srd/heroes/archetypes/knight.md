@@ -1,4 +1,11 @@
-# Knight
+---
+title: Knight
+
+permalink: /srd/heroes/archetypes/knight
+
+abstract: >-
+    The mechanics for the Knight archetype.
+---
 
 The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroes/creation), they receive the following traits:
 *  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Heavy](/srd/economy/equipment/armor#term-heavy-armor) [armor](/srd/economy/equipment/armor).

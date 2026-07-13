@@ -1,4 +1,11 @@
-# Currency
+---
+title: Currency
+
+permalink: /srd/economy/currency
+
+abstract: >-
+    The rules for handling money.
+---
 
 All transactions that take place between [characters](/srd/glossary#term-character) in Last Odyssey are mediated by a single currency called _<dfn id = "term-cr">cr</dfn>._  This number represents the accumulated gold, silver, bronze, platinum, credits, paperbacks, or any other form of currency the [players](/srd/glossary#term-player) have at their disposal, as well as the various valuable but useless items that the characters acquire as loot along their journey.  If the [GM](/srd/glossary#term-gm) and the players want to simulate trade as a part of their [campaign](/srd/glossary#term-campaign), they can substitute cr with objects of of equivalent value.
 

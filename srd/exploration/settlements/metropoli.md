@@ -1,4 +1,11 @@
-# Metropoli
+---
+title: Metropoli
+
+permalink: /srd/exploration/settlements/metropoli
+
+abstract: >-
+    Advice for creating metropoli.
+---
 
 **Population:** 100,000-1m+.
 

@@ -1,4 +1,11 @@
-# Lore
+---
+title: Lore
+
+permalink: /srd/discovery/lore
+
+abstract: >-
+    A guide to creating Lore.
+---
 
 While traveling, [players](/srd/glossary#term-player) will learn new facts about the world, such as secrets or forms of specialized knowledge.  This can include facts about [Antagonists](/srd/anima/antagonists), facts about the world's history, facts about its culture and people, specialized academic or scientific knowledge, and so on.  In Last Odyssey, information of this type that would not be common knowledge for the player characters is referred to as _<dfn id = "term-lore">Lore</dfn>._  When players learn Lore, they will be granted 1 XP for each single piece of information they learn about a topic for the first time, with the total amount of Lore available on a certain topic depending on how important it is to the [campaign](/srd/glossary#term-campaign).  Generally speaking, Lore about an [adventure](/srd/glossary#term-adventure)-level topic will grant up to 5 [XP](/srd/discovery/earning-xp#term-xp), and a campaign-defining topic may grant a total 10 XP or more.  Players are also able to learn more than one Lore statement at a time, but each individual piece is worth 1 XP.  By the end of a Lore-heavy campaign, the players will have an extensive Lore bible that they can refer back to when needed.  [Heroes](/srd/glossary#term-hero) cannot earn XP for learning the same piece of Lore more than once.
 

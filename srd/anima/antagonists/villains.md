@@ -1,4 +1,11 @@
-# Villains
+---
+title: Villains
+
+permalink: /srd/anima/antagonists/villains
+
+abstract: >-
+    The mechanics of Villains.
+---
 
 In Last Odyssey, a Villain is a kind of Antagonist that is defined by something called their _<dfn id = "term-ambition">Ambition</dfn>._  A Villain's Ambition is a singular goal that they will pursue at all costs until they are defeated or until they achieve it.  Not all Ambitions that Villains can have are sane, realistic, or even possible, but they will be broad and dangerous enough in scope to motivate the [Heroes](/srd/glossary#term-hero) to stop them.  Example Ambitions include becoming emperor of the known world, resurrecting a lost race of beings, or destroying all magic in the universe.  A Villain will earn [Anima](/srd/anima#term-anima) in the event that they fulfill their Ambition.  Whatever else happens as a result of this will be up to the [GM](/srd/glossary#term-gm), but a Villain winning will inevitably change the course of a [campaign](/srd/glossary#term-campaign).  Villains could become Monsters with a Domain if appropriate, or they could choose a new Ambition and keep going.  However, due to the addictive power of Anima, no Villain is ever satisfied with what they have already achieved, and they will not stop until they are well and truly defeated.
 

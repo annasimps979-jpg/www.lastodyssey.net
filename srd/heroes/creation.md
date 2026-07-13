@@ -1,4 +1,11 @@
-# Hero Creation
+---
+title: Hero Creation
+
+permalink: /srd/heroes/creation
+
+abstract: >-
+    The process for creating new Heroes.
+---
 
 In Last Odyssey, each [player](/srd/glossary#term-player) plays the part of a single [character](/srd/glossary#term-character) known as a [Hero](/srd/glossary#term-hero).  Heroes will travel the world, taking on [quests](/srd/discovery/quests), defeating [warriors](/srd/warriors), and being a force for positive change.  As they advance through the [campaign](/srd/glossary#term-campaign), they will gain new [abilities](/srd/glossary#term-ability) and increase their [attributes and statistics](/srd/heroes/numbers).  The basic measure of a character's strength is a number called their _<dfn id="term-tier">tier</dfn>,_ which is a number from 1 to 10 that acts as a rough indicator of how high the character's statistics and attributes will be, as well as how many abilities they have.  The following section outlines the process for making a new tier 1 Hero.  For Heroes beyond tier 1, see the [Hero advancement](/srd/heroes/advancement) section as well as the subsection at the bottom of this page.
 

@@ -1,4 +1,11 @@
-# Landmarks
+---
+title: Landmarks
+
+permalink: /srd/exploration/settlements/landmarks
+
+abstract: >-
+    Advice for creating landmarks.
+---
 
 **Population:** Variable.
 
