@@ -60,14 +60,14 @@ The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/cre
 
 ## Talents
 
-**[Striker](/srd/heroes/roles/striker):** Athletic Outfit.  The Dancer's Mask ability also makes the element of all of their [colorless](/srd/combat/elements#term-colorless) [strikes](/srd/combat/attacks#term-strike) into their current element due to Masked.
+**[Striker](/srd/heroes/roles/striker):** Athletic Outfit.  The Dancer's player may choose for their Mask ability to also make the element of all of their [colorless](/srd/combat/elements#term-colorless) [strikes](/srd/combat/attacks#term-strike) into their current element due to Masked whenever it is used.
 
-**[Caster](/srd/heroes/roles/caster):** School Uniform.  The Dancer's Mask ability also makes the element of all of their colorless [spells](/srd/combat/attacks#term-spell) into their current element due to Masked.
+**[Caster](/srd/heroes/roles/caster):** School Uniform.  The Dancer's player may choose for their Mask ability to also make the element of all of their colorless [spells](/srd/combat/attacks#term-spell) into their current element due to Masked whenever it is used.
 
 **[Healer](/srd/heroes/roles/healer):** Regal Clothing.  If the Dancer uses a healing ability due to Mimic or Copycat, they may use it twice instead of once.
 
 **[Defender](/srd/heroes/roles/defender):** Outdoor Wear.  While the Dancer is Masked, they are immune to the effects of attacks of their current element.
 
-**Support:** Casual Dress.  When Masked, the Dancer's Shell-applying abilities have their element changed to the Dancer's current element.
+**Support:** Casual Dress.  Whenever the Dancer becomes Masked, their player may choose to have their Shell abilities' element changed to the Dancer's new element.
 
-**Saboteur:** Covert Jumpsuit.  While the Dancer is Masked, their sleights have their element changed to the Dancer's current element.
+**Saboteur:** Covert Jumpsuit.  Whenever the Dancer becomes Masked, their player may choose to have their sleights' element changed to the Dancer's new element.
