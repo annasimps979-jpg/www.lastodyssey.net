@@ -86,7 +86,7 @@ At times, there is a need to quickly create new items.  If the [GM](/srd/glossar
 |9|Inflict Status|
 |10|Revive|
 |11|Scan|
-|12|Remove hexes|
+|12|Remove Hexes|
 |13|Remove statuses|
 |14|Negate Resistances|
 |15|Block Physical Damage|
