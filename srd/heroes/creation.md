@@ -120,7 +120,7 @@ Before each player is finished with Hero creation, they should check&mdash;have 
 14.  Recorded their eidolon's element?
 15.  Recorded their Eidolon's four abilities?
 16.  Written down their Eidolon's name and appearance?
-17.  Given their Hero 10 cr, and bought any items with it that they can afford?
+17.  Given their Hero 10 ¤, and bought any items with it that they can afford?
 18.  Given their Hero 5 starting 🜉?
 
 If you have done all of this, then congratulations, you are now ready to play Last Odyssey!

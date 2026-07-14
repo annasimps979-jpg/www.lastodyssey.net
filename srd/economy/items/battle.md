@@ -18,30 +18,30 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
-|Restore HP|1 cr|When used, this item restores a fixed amount of [HP](/srd/heroes/numbers#term-hp) to a single [character](/srd/glossary#term-character).  If it is Mundane, it restores 10 HP, if it is Rare it restores 20, and if it is Expert it restores 30.|
-|Restore MP|3 cr|When used, this item restores a fixed amount of [MP](/srd/heroes/numbers#term-mp) to a single character.  If it is Mundane, it restores 10 MP, if it is Rare it restores 20, and if it is Expert it restores 30.|
-|Physical Damage|5 cr|When used, this item deals [base](/srd/glossary#term-base) [colorless](/srd/combat/elements#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
-|Magical Damage|5 cr|When used, this item deals base colorless [magical damage](/srd/combat/attacks#term-magical-damage) to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
-|Special Damage|7 cr|When used, this item deals base [elemental](/srd/combat/elements#term-element) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
-|Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
-|Hex|9 cr|When used, this item inflicts a [hex](/srd/combat/glamors#term-hex) of the specified type.  If it is Mundane, it hexes by one level on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker), if it is Rare it hexes by two, and if it is Expert it hexes by three.|
-|Charm|9 cr|When used, this item applies a [charm](/srd/combat/glamors#term-charm) of the specified type.  If it is Mundane, it charms by one level on the Bonus Tracker, if it is Rare it charms by two, and if it is Expert it charms by three.|
-|Inflict Status|12 cr|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the [hit die](/srd/combat/attacks#term-hit-die).  If the item is Rare, subtract 5 from the result, and if the Expert then subtract 10 from the result.|
-|Revive|15 cr|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/injuries#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
+|Restore HP|1 ¤|When used, this item restores a fixed amount of [HP](/srd/heroes/numbers#term-hp) to a single [character](/srd/glossary#term-character).  If it is Mundane, it restores 10 HP, if it is Rare it restores 20, and if it is Expert it restores 30.|
+|Restore MP|3 ¤|When used, this item restores a fixed amount of [MP](/srd/heroes/numbers#term-mp) to a single character.  If it is Mundane, it restores 10 MP, if it is Rare it restores 20, and if it is Expert it restores 30.|
+|Physical Damage|5 ¤|When used, this item deals [base](/srd/glossary#term-base) [colorless](/srd/combat/elements#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Magical Damage|5 ¤|When used, this item deals base colorless [magical damage](/srd/combat/attacks#term-magical-damage) to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Special Damage|7 ¤|When used, this item deals base [elemental](/srd/combat/elements#term-element) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Elemental Damage|7 ¤|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Hex|9 ¤|When used, this item inflicts a [hex](/srd/combat/glamors#term-hex) of the specified type.  If it is Mundane, it hexes by one level on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker), if it is Rare it hexes by two, and if it is Expert it hexes by three.|
+|Charm|9 ¤|When used, this item applies a [charm](/srd/combat/glamors#term-charm) of the specified type.  If it is Mundane, it charms by one level on the Bonus Tracker, if it is Rare it charms by two, and if it is Expert it charms by three.|
+|Inflict Status|12 ¤|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the [hit die](/srd/combat/attacks#term-hit-die).  If the item is Rare, subtract 5 from the result, and if the Expert then subtract 10 from the result.|
+|Revive|15 ¤|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/injuries#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
-|Scan|10 cr|This item applies the [Artificer's](/srd/heroes/archetypes/artificer) Scan ability to a single target, revealing all current relevant information about it.|
-|Remove Hexes|15 cr|This item removes all hexes from a single character.|
-|Remove Status|20 cr|This item removes a status of the specified type from a single character.|
-|Negate Resistances|50 cr|This item negates all of a target's elemental resistances, which is to say that no elemental multiplier for any attack that hits it can be less than 1, until the beginning of the target's next [turn](/srd/combat/round#term-turn).|
-|Block Physical Damage|100 cr|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
-|Block Magical Damage|400 cr|The next time the target of this item would otherwise take magical damage, they do not take any damage instead.|
-|Shell|10 cr|The target of this item gains 10 Shell of the corresponding element.|
-|Haste|800 cr|The target of this item becomes [Hasted](/srd/heroes/roles/support) for three subsequent rounds.  This still cannot stack with any other applications of Hasted.|
-|Slow|900 cr|The target of this item becomes [Slowed](/srd/heroes/roles/saboteur) for three subsequent rounds.  This still cannot stack with any other applications of Slowed.|
+|Scan|10 ¤|This item applies the [Artificer's](/srd/heroes/archetypes/artificer) Scan ability to a single target, revealing all current relevant information about it.|
+|Remove Hexes|15 ¤|This item removes all hexes from a single character.|
+|Remove Status|20 ¤|This item removes a status of the specified type from a single character.|
+|Negate Resistances|50 ¤|This item negates all of a target's elemental resistances, which is to say that no elemental multiplier for any attack that hits it can be less than 1, until the beginning of the target's next [turn](/srd/combat/round#term-turn).|
+|Block Physical Damage|100 ¤|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
+|Block Magical Damage|400 ¤|The next time the target of this item would otherwise take magical damage, they do not take any damage instead.|
+|Shell|10 ¤|The target of this item gains 10 Shell of the corresponding element.|
+|Haste|800 ¤|The target of this item becomes [Hasted](/srd/heroes/roles/support) for three subsequent rounds.  This still cannot stack with any other applications of Hasted.|
+|Slow|900 ¤|The target of this item becomes [Slowed](/srd/heroes/roles/saboteur) for three subsequent rounds.  This still cannot stack with any other applications of Slowed.|
 |Summon Warrior|1000x(Tier of summoned warrior)|When a character uses this item, it summons a [warrior](/srd/warriors) of a specified type to fight as an ally on their side.  The first time it can take its turn is during the [round](/srd/combat/round#term-round) after it was summoned, but it can be targeted as soon as it is summoned.|
 
 ## Item Enhancements
@@ -60,15 +60,15 @@ In addition to their base effects, some items have special effects called _<dfn 
 
 |Name|Quality|Effect|Enhancements|Cost|
 |:-|:-|:-|:-|:-|
-|Throwing Knife|Mundane|Physical Damage|N/A|5 cr|
-|Elixir|Mundane|Restore HP/Restore MP|Dual|20 cr|
-|Smoke Bomb|Mundane|Charm Evasion|All|18 cr|
-|Shark Tooth Charm|Rare|Special Damage (Water)|N/A|70 cr|
-|Smelling Salts|Rare|Revive|Row|750 cr|
-|Poison Dart|Rare|Inflict Toxin|Delay|90 cr|
-|Experimental Combat Stim|Expert|Charm [Physical Attack](/srd/heroes/numbers#term-strike)/Charm [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|Dual|9000 cr|
-|Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 cr|
-|Mandragora|N/A|Summon Warrior ([Dryad](/srd/warriors/examples/tier/02))|N/A|2000 cr|
+|Throwing Knife|Mundane|Physical Damage|N/A|5 ¤|
+|Elixir|Mundane|Restore HP/Restore MP|Dual|20 ¤|
+|Smoke Bomb|Mundane|Charm Evasion|All|18 ¤|
+|Shark Tooth Charm|Rare|Special Damage (Water)|N/A|70 ¤|
+|Smelling Salts|Rare|Revive|Row|750 ¤|
+|Poison Dart|Rare|Inflict Toxin|Delay|90 ¤|
+|Experimental Combat Stim|Expert|Charm [Physical Attack](/srd/heroes/numbers#term-strike)/Charm [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|Dual|9000 ¤|
+|Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 ¤|
+|Mandragora|N/A|Summon Warrior ([Dryad](/srd/warriors/examples/tier/02))|N/A|2000 ¤|
 
 ## Battle Item Generation
 At times, there is a need to quickly create new items.  If the [GM](/srd/glossary#term-gm) needs to reward the players or their opponents with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, cast d20 and consult the table below:
