@@ -12,22 +12,22 @@ _<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of item that is 
 ## Battle Item Effects
 Each battle item has a discrete effect that it induces during combat.  In theory, multiple items could lead to the same effect.  Rather than having a fixed list of items, Last Odyssey has a fixed set of item effects that could be caused by multiple items.  This is for two reasons.  The first is that the value of an item to the [players](/srd/glossary#term-player) is determined by what it does, and not what it looks like, and this is reflected in the item's cost.  The second is that the item that produces an effect in one setting may be different to its equivalent in another.  For example, in a sci-fi setting healing items may take the form of injectors or medkits, while in a fantasy setting they could take the form of healing potions or poultices.
 
-Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</dfn>_ and how potent that effect is, the latter of which is determined by its Quality, and any enhancements.  There are three Qualities of item: Mundane, Rare, and Expert.  Some items have effects that depend on their Quality, while others do not.  In the rulebook, the former are referred to as _<dfn id = "term-leveled-item-effect">leveled</dfn>,_ while the latter are referred to as _<dfn id = "term-non-leveled-item-effect">non-leveled</dfn>._  If an item is leveled, its effect and its cost are determined by its Quality, whereas non-leveled items do not have a Quality rating.  Each additional level of Quality multiplies the cost of the item by ten.  For example, if the Mundane version of an item costs 5 [¤](/srd/economy/currency#term-cr), then the Rare version will cost 50 ¤ and the Expert version will cost 500 ¤.
+Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</dfn>_ and how potent that effect is, the latter of which is determined by its Grade, and any enhancements.  There are three Qualities of item: Novice, Standard, and Expert.  Some items have effects that depend on their Grade, while others do not.  In the rulebook, the former are referred to as _<dfn id = "term-leveled-item-effect">leveled</dfn>,_ while the latter are referred to as _<dfn id = "term-non-leveled-item-effect">non-leveled</dfn>._  If an item is leveled, its effect and its cost are determined by its Grade, whereas non-leveled items do not have a Grade rating.  Each additional level of Grade multiplies the cost of the item by ten.  For example, if the Novice version of an item costs 5 [¤](/srd/economy/currency#term-cr), then the Standard version will cost 50 ¤ and the Expert version will cost 500 ¤.
 
 ### Leveled Item Effects
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
-|Restore HP|1 ¤|When used, this item restores a fixed amount of [HP](/srd/heroes/numbers#term-hp) to a single [character](/srd/glossary#term-character).  If it is Mundane, it restores 10 HP, if it is Rare it restores 20, and if it is Expert it restores 30.|
-|Restore MP|3 ¤|When used, this item restores a fixed amount of [MP](/srd/heroes/numbers#term-mp) to a single character.  If it is Mundane, it restores 10 MP, if it is Rare it restores 20, and if it is Expert it restores 30.|
-|Physical Damage|5 ¤|When used, this item deals [base](/srd/glossary#term-base) [colorless](/srd/combat/elements#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
-|Magical Damage|5 ¤|When used, this item deals base colorless [magical damage](/srd/combat/attacks#term-magical-damage) to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
-|Special Damage|7 ¤|When used, this item deals base [elemental](/srd/combat/elements#term-element) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
-|Elemental Damage|7 ¤|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 2 damage, if it is Rare it deals 5 damage, and if it is Expert it deals 10 damage.|
-|Hex|9 ¤|When used, this item inflicts a [hex](/srd/combat/glamors#term-hex) of the specified type.  If it is Mundane, it hexes by one level on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker), if it is Rare it hexes by two, and if it is Expert it hexes by three.|
-|Charm|9 ¤|When used, this item applies a [charm](/srd/combat/glamors#term-charm) of the specified type.  If it is Mundane, it charms by one level on the Bonus Tracker, if it is Rare it charms by two, and if it is Expert it charms by three.|
-|Inflict Status|12 ¤|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Mundane, do not subtract anything from the result on the [hit die](/srd/combat/attacks#term-hit-die).  If the item is Rare, subtract 5 from the result, and if the Expert then subtract 10 from the result.|
-|Revive|15 ¤|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/injuries#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
+|Restore HP|1 ¤|When used, this item restores a fixed amount of [HP](/srd/heroes/numbers#term-hp) to a single [character](/srd/glossary#term-character).  If it is Novice, it restores 10 HP, if it is Standard it restores 20, and if it is Expert it restores 30.|
+|Restore MP|3 ¤|When used, this item restores a fixed amount of [MP](/srd/heroes/numbers#term-mp) to a single character.  If it is Novice, it restores 10 MP, if it is Standard it restores 20, and if it is Expert it restores 30.|
+|Physical Damage|5 ¤|When used, this item deals [base](/srd/glossary#term-base) [colorless](/srd/combat/elements#term-colorless) physical damage to a single character that can be affected by damage modifiers.  If it is Novice it deals 2 damage, if it is Standard it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Magical Damage|5 ¤|When used, this item deals base colorless [magical damage](/srd/combat/attacks#term-magical-damage) to a single character that can be affected by damage modifiers.  If it is Novice it deals 2 damage, if it is Standard it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Special Damage|7 ¤|When used, this item deals base [elemental](/srd/combat/elements#term-element) physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Novice it deals 2 damage, if it is Standard it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Elemental Damage|7 ¤|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Novice it deals 2 damage, if it is Standard it deals 5 damage, and if it is Expert it deals 10 damage.|
+|Hex|9 ¤|When used, this item inflicts a [hex](/srd/combat/glamors#term-hex) of the specified type.  If it is Novice, it hexes by one level on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker), if it is Standard it hexes by two, and if it is Expert it hexes by three.|
+|Charm|9 ¤|When used, this item applies a [charm](/srd/combat/glamors#term-charm) of the specified type.  If it is Novice, it charms by one level on the Bonus Tracker, if it is Standard it charms by two, and if it is Expert it charms by three.|
+|Inflict Status|12 ¤|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Novice, do not subtract anything from the result on the [hit die](/srd/combat/attacks#term-hit-die).  If the item is Standard, subtract 5 from the result, and if the Expert then subtract 10 from the result.|
+|Revive|15 ¤|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/injuries#term-downed).  If the item is Novice, they are revived to 1 HP.  If the item is Standard they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
 
@@ -58,14 +58,14 @@ In addition to their base effects, some items have special effects called _<dfn 
 
 ## Example Battle Items
 
-|Name|Quality|Effect|Enhancements|Cost|
+|Name|Grade|Effect|Enhancements|Cost|
 |:-|:-|:-|:-|:-|
-|Throwing Knife|Mundane|Physical Damage|N/A|5 ¤|
-|Elixir|Mundane|Restore HP/Restore MP|Dual|20 ¤|
-|Smoke Bomb|Mundane|Charm Evasion|All|18 ¤|
-|Shark Tooth Charm|Rare|Special Damage (Water)|N/A|70 ¤|
-|Smelling Salts|Rare|Revive|Row|750 ¤|
-|Poison Dart|Rare|Inflict Toxin|Delay|90 ¤|
+|Throwing Knife|Novice|Physical Damage|N/A|5 ¤|
+|Elixir|Novice|Restore HP/Restore MP|Dual|20 ¤|
+|Smoke Bomb|Novice|Charm Evasion|All|18 ¤|
+|Shark Tooth Charm|Standard|Special Damage (Water)|N/A|70 ¤|
+|Smelling Salts|Standard|Revive|Row|750 ¤|
+|Poison Dart|Standard|Inflict Toxin|Delay|90 ¤|
 |Experimental Combat Stim|Expert|Charm [Physical Attack](/srd/heroes/numbers#term-strike)/Charm [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|Dual|9000 ¤|
 |Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 ¤|
 |Mandragora|N/A|Summon Warrior ([Dryad](/srd/warriors/examples/tier/02))|N/A|2000 ¤|
@@ -96,7 +96,7 @@ At times, there is a need to quickly create new items.  If the [GM](/srd/glossar
 |19|Slow|
 |20|Summon Creature|
 
-The result that matches the result on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Quality.  Mundane items are appropriate for characters of levels 1-4, Rare items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the margin is thin enough that items of one tier higher or lower are still effective.
+The result that matches the result on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Grade.  Novice items are appropriate for characters of levels 1-4, Standard items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the margin is thin enough that items of one tier higher or lower are still effective.
 
 After the item's effect has been determined, cast the [outcome die](/srd/glossary#term-outcome-die).  If the result is a 7 or above, the item does not have any enhancements.  If the result is 1-6, the enhancement is shown on the table below:
 

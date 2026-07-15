@@ -15,8 +15,8 @@ Robes, enchanted fabric, and thick clothing all count as _<dfn id = "term-cloth-
 
 |Type|Bonuses|
 |:-|:-|
-|Mundane|+0 Physical Defense, +4 Magical Defense|
-|Rare|+2 Physical Defense, +6 Magical Defense|
+|Novice|+0 Physical Defense, +4 Magical Defense|
+|Standard|+2 Physical Defense, +6 Magical Defense|
 |Expert|+4 Physical Defense, +8 to Magical Defense|
 
 ## Light Armor
@@ -25,8 +25,8 @@ Leather armor, hardened clothing, and light metal armor all count as _<dfn id = 
 
 |Type|Bonuses|
 |:-|:-|
-|Mundane|+2 Physical Defense, +2 Magical Defense|
-|Rare|+4 Physical Defense, +4 Magical Defense|
+|Novice|+2 Physical Defense, +2 Magical Defense|
+|Standard|+4 Physical Defense, +4 Magical Defense|
 |Expert|+6 Physical Defense, +6 to Magical Defense|
 
 ## Heavy Armor
@@ -35,13 +35,13 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 |Type|Bonuses|
 |:-|:-|
-|Mundane|+4 Physical Defense, +0 Magical Defense|
-|Rare|+6 Physical Defense, +2 Magical Defense|
+|Novice|+4 Physical Defense, +0 Magical Defense|
+|Standard|+6 Physical Defense, +2 Magical Defense|
 |Expert|+8 Physical Defense, +4 Magical Defense|
 
 ## Armor Pricing
 
-Mundane armor costs 50 ¤, Rare armor costs 250 ¤, and Expert armor costs 1,250 ¤.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
+Novice armor costs 50 ¤, Standard armor costs 250 ¤, and Expert armor costs 1,250 ¤.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
 
 <table>
     <caption>Armor Cost in ¤</caption>
@@ -50,7 +50,7 @@ Mundane armor costs 50 ¤, Rare armor costs 250 ¤, and Expert armor costs 1,250
         <td colspan=4><b>Total Upgrade Value</b></td>
     </tr>
     <tr>
-        <td><b>Quality</b></td>
+        <td><b>Grade</b></td>
         <td>0</td>
         <td>1</td>
         <td>2</td>
@@ -64,13 +64,13 @@ Mundane armor costs 50 ¤, Rare armor costs 250 ¤, and Expert armor costs 1,250
         <td>10000</td>
     </tr>
     <tr>
-        <td>Rare</td>
+        <td>Standard</td>
         <td>250</td>
         <td>500</td>
         <td>1000</td>
     </tr>
     <tr>
-        <td>Mundane</td>
+        <td>Novice</td>
         <td>50</td>
         <td>100</td>
     </tr>
@@ -96,7 +96,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |:-|:-|
 |Element|When a character wears armor that has this upgrade, they count as having the specified element when calculating received damage.  This is overridden by archetype abilities like the [Dancer's](/srd/heroes/archetypes/dancer) Mask that change their element, and also does not affect any [Shells](/srd/combat/shells) that they receive during battle.  They cannot have more than one of this upgrade on a single piece of armor.|
 |Invigorating|While a character is wearing this armor, they are immune to [hexes](/srd/combat/glamors#term-hex) that affect the specified statistic.  This upgrade cannot stack, but they can have multiple upgrades that make them immune to different hexes at once.|
-|Weatherproofing|While a character is wearing this armor, they are immune to the negative and positive effects of a single type of [weather](/srd/exploration/weather) as though they were wearing a Mundane [Cloak.](/srd/economy/items/travel#term-cloak)  This cannot stack, but a character may be immune to more than one type of weather due to different versions of this upgrade at a time.|
+|Weatherproofing|While a character is wearing this armor, they are immune to the negative and positive effects of a single type of [weather](/srd/exploration/weather) as though they were wearing a Novice [Cloak.](/srd/economy/items/travel#term-cloak)  This cannot stack, but a character may be immune to more than one type of weather due to different versions of this upgrade at a time.|
 |Status Resistance|While a character is wearing this armor, the probability of a warrior inflicting a particular [status](/srd/combat/statuses) on them is reduced as though they were resistant to the effect's element.  This upgrade does not stack, but they can resist multiple statuses at once with different versions of this upgrade.|
 |Sealed|This armor lets the wearer function in an environment such as vacuum or underwater without suffering any negative effects.  This does not stack, but armors can be sealed to multiple environments at once.|
 
@@ -137,15 +137,15 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 
 ## Example Armor
 
-|Name|Quality|Type|Upgrades|
+|Name|Grade|Type|Upgrades|
 |:-|:-|:-|:-|
-|Boiled Leather Jerkin|Mundane|Light Armor|Reinforced 1|
-|Soldier's Uniform|Rare|Heavy|Fitted|
+|Boiled Leather Jerkin|Novice|Light Armor|Reinforced 1|
+|Soldier's Uniform|Standard|Heavy|Fitted|
 |Instructor's Robes|Expert|Cloth Armor|Mana Battery|
 |Black Knight's Armor|Unique|Heavy|Corrupted, Plated, Element (Shadow)|
 
 ## Armor Generation
-To generate a new random piece of armor, first choose the type and the [Quality](/srd/economy/equipment#term-equipment-quality). Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result to the table below until a number of upgrades have been generated whose total UV adds up to the possible UV of the armor. If the result is a Variable upgrade, give the armor the UV 1 version. If the result is an upgrade that would put the total Upgrade Value of the armor above its maximum, recast the die.
+To generate a new random piece of armor, first choose the type and the [Grade](/srd/economy/equipment#term-equipment-grade). Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result to the table below until a number of upgrades have been generated whose total UV adds up to the possible UV of the armor. If the result is a Variable upgrade, give the armor the UV 1 version. If the result is an upgrade that would put the total Upgrade Value of the armor above its maximum, recast the die.
 
 |Result|Upgrade|
 |:-|:-|

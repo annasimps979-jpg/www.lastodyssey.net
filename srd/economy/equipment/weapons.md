@@ -7,7 +7,7 @@ abstract: >-
     The rules for offensive equipment.
 ---
 
-Each [character](/srd/glossary#term-character) can wield a single weapon at a time during [combat](/srd/combat), and may swap out their current weapon for another one they are proficient in during combat with the [Swap Weapon](/srd/combat/round#term-swap-equipment) action.  All weapons give bonuses to a character's [base](/srd/glossary#term-base) [Physical Attack](/srd/heroes/numbers#term-strike) and their base [Magical Attack](/srd/heroes/numbers#term-spell) while the weapon is being wielded.  The values of these bonuses are determined by the weapon's [Quality](/srd/economy/equipment#term-equipment-quality) and weapon type.  A weapon's _<dfn id = "term-weapon-type">weapon type</dfn>_ determines the ratio of the bonuses it gives to the wielder's Physical Attack and Magical Attack.  There are three categories of weapon type, Balanced, Physical, and Magical, and three Qualities, Mundane, Rare, and Expert.  There are also Unique weapons, which are Expert weapons with a single extra weapon upgrade that is not available to any other type.  Each variety of weapon also grants an additional unique +1 bonus to a single [statistic](/srd/glossary#term-statistic) while a character is wielding it that does not count on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker).  There are 9 weapon types in total, each of which grants a bonus to a different statistic:
+Each [character](/srd/glossary#term-character) can wield a single weapon at a time during [combat](/srd/combat), and may swap out their current weapon for another one they are proficient in during combat with the [Swap Weapon](/srd/combat/round#term-swap-equipment) action.  All weapons give bonuses to a character's [base](/srd/glossary#term-base) [Physical Attack](/srd/heroes/numbers#term-strike) and their base [Magical Attack](/srd/heroes/numbers#term-spell) while the weapon is being wielded.  The values of these bonuses are determined by the weapon's [Grade](/srd/economy/equipment#term-equipment-grade) and weapon type.  A weapon's _<dfn id = "term-weapon-type">weapon type</dfn>_ determines the ratio of the bonuses it gives to the wielder's Physical Attack and Magical Attack.  There are three categories of weapon type, Balanced, Physical, and Magical, and three Qualities, Novice, Standard, and Expert.  There are also Unique weapons, which are Expert weapons with a single extra weapon upgrade that is not available to any other type.  Each variety of weapon also grants an additional unique +1 bonus to a single [statistic](/srd/glossary#term-statistic) while a character is wielding it that does not count on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker).  There are 9 weapon types in total, each of which grants a bonus to a different statistic:
 * _<dfn id = "term-sword">Swords</dfn>_ grant a +1 bonus to the [Physical Defense](/srd/heroes/numbers#term-physical-defense) of their wielder.
 * _<dfn id = "term-dagger">Daggers</dfn>_ grant a +1 bonus to the [Evasion](/srd/heroes/numbers#term-evasion) of their wielder.
 * _<dfn id = "term-gauntlet">Gauntlets</dfn>_ grant a +1 bonus to the Magical Attack of their wielder.
@@ -22,35 +22,35 @@ Each [character](/srd/glossary#term-character) can wield a single weapon at a ti
 
 _<dfn id = "term-physical-weapon">Physical</dfn>_ weapons are those that augment a character's strikes more than their spells.  Lances, Swords, and Hammers count as having the Physical weapon type.
 
-|Quality|Bonuses|
+|Grade|Bonuses|
 |:-|:-|
-|Mundane|+3 Physical Attack, +1 Magical Attack|
-|Rare|+5 Physical Attack, +3 Magical Attack|
+|Novice|+3 Physical Attack, +1 Magical Attack|
+|Standard|+5 Physical Attack, +3 Magical Attack|
 |Expert|+7 Physical Attack, +5 Magical Attack|
 
 ## Balanced Weapons
 
 _<dfn id = "term-balanced-weapon">Balanced</dfn>_ weapons are those that provide a balance between magical and physical offense.  Gauntlets, Daggers, and Claws count as as having the Balanced weapon type.
 
-|Quality|Bonuses|
+|Grade|Bonuses|
 |:-|:-|
-|Mundane|+2 Physical Attack, +2 Magical Attack|
-|Rare|+4 Physical Attack, +4 Magical Attack|
+|Novice|+2 Physical Attack, +2 Magical Attack|
+|Standard|+4 Physical Attack, +4 Magical Attack|
 |Expert|+6 Physical Attack, +6 Magical Attack|
 
 ## Magical Weapons
 
 _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons are those that augment a character's strikes more than their spells.  Staves, Fans, and Scepters count as having the Magical weapon type.
 
-|Quality|Bonuses|
+|Grade|Bonuses|
 |:-|:-|
-|Mundane|+1 Physical Attack, +3 Magical Attack|
-|Rare|+3 Physical Attack, +5 Magical Attack|
+|Novice|+1 Physical Attack, +3 Magical Attack|
+|Standard|+3 Physical Attack, +5 Magical Attack|
 |Expert|+5 Physical Attack, +7 Magical Attack|
 
 ## Weapon Pricing
 
-Mundane weapons cost 10 ¤, Rare weapons cost 100 ¤, and Expert weapons cost 1,000 ¤.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
+Novice weapons cost 10 ¤, Standard weapons cost 100 ¤, and Expert weapons cost 1,000 ¤.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
 
 <table>
     <caption>Weapon Cost in ¤</caption>
@@ -59,7 +59,7 @@ Mundane weapons cost 10 ¤, Rare weapons cost 100 ¤, and Expert weapons cost 1,
         <td colspan=4><b>Total Upgrade Value</b></td>
     </tr>
     <tr>
-        <td><b>Quality</b></td>
+        <td><b>Grade</b></td>
         <td>0</td>
         <td>1</td>
         <td>2</td>
@@ -73,13 +73,13 @@ Mundane weapons cost 10 ¤, Rare weapons cost 100 ¤, and Expert weapons cost 1,
         <td>8000</td>
     </tr>
     <tr>
-        <td>Rare</td>
+        <td>Standard</td>
         <td>100</td>
         <td>200</td>
         <td>400</td>
     </tr>
     <tr>
-        <td>Mundane</td>
+        <td>Novice</td>
         <td>10</td>
         <td>20</td>
     </tr>
@@ -139,20 +139,20 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 |Plasma|When the wielder uses a spell with this weapon, the damage they deal is calculated as though the target's Magical Defense were half its actual value, rounded down.|
 |Organic|When the wielder uses a [sleight](/srd/combat/attacks#term-sleight) while wielding this weapon, cast the [hit die](/srd/combat/attacks#term-hit-die) as though the target's Resistance were one half its actual value, rounded down.|
 |Vampiric|When the wielder hits a target with a strike while wielding this weapon, they also heal an amount of HP equal to the total damage they dealt to that target.|
-|Masterwork|This weapon is of unusual quality, even for an Expert weapon.  It gives the wearer an extra +2 to both Physical and Magical Attack.|
+|Masterwork|This weapon is of unusual grade, even for an Expert weapon.  It gives the wearer an extra +2 to both Physical and Magical Attack.|
 |Explosive|When the wielder hits a target with this weapon's basic attack, every other target also takes damage as though they had been hit with a basic attack as well.|
 |Holy|When the wielder makes a basic attack with this weapon, its damage is not calculated as usual.  Instead, the wielder deals [1d100](/srd/glossary#term-d100) damage to the target that cannot be reflected, negated, guarded against, absorbed, or otherwise modified, including by normal damage modifiers.  If a target's [Shell](/srd/combat/shells) is broken in this manner, all rules for [Shellbreaking](/srd/combat/shells#term-shellbroken) still apply.|
 |Corrupted|Every ability that the wielder uses that has an element, statuses included, counts as having the [shadow](/srd/combat/elements#term-shadow) type.  Whenever the wielder [kills](/srd/anima/true-death) a target while wielding this weapon, it gains a stacking +1 base damage bonus to all damage done while wielding the weapon that stacks with each kill.  After the bonus hits +13, something happens.|
 
 ## Example Weapons
 
-|Name|Quality|Type|Upgrades|
+|Name|Grade|Type|Upgrades|
 |:-|:-|:-|:-|
-|Wulfhammer|Mundane|Hammer|Slayer (Animal)|
-|Dragon's Fan|Mundane|Fan|Elemental (Fire)|
-|Shiv|Mundane|Dagger|Light|
-|Pikeman's Trusty Lance|Rare|Lance|Standard Issue|
-|Machinist's Fist|Rare|Gauntlet|Keen (Physical), Sharpened 1|
+|Wulfhammer|Novice|Hammer|Slayer (Animal)|
+|Dragon's Fan|Novice|Fan|Elemental (Fire)|
+|Shiv|Novice|Dagger|Light|
+|Pikeman's Trusty Lance|Standard|Lance|Standard Issue|
+|Machinist's Fist|Standard|Gauntlet|Keen (Physical), Sharpened 1|
 |Seelie Court Rapier|Expert|Sword|Primordial|
 |Demon Claws|Expert|Claws|Double-Edged|
 |Headmaster's Staff|Expert|Staff|Sensor Array, Extra Ability (Magic Bolt)|
@@ -160,7 +160,7 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 
 ## Weapon Generation
 
-To generate a new random weapon, first choose the type and the Quality.  Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result with the table below until a number of upgrades have been generated whose total UV add up to the possible UV of the weapon.  If the result is a Variable upgrade, give the weapon the UV 1 version.  If the result is an upgrade that would put the total Upgrade Value of the weapon above its maximum, recast the die.  Do not generate Unique weapons randomly, as they are meant to have significance to the story.
+To generate a new random weapon, first choose the type and the Grade.  Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result with the table below until a number of upgrades have been generated whose total UV add up to the possible UV of the weapon.  If the result is a Variable upgrade, give the weapon the UV 1 version.  If the result is an upgrade that would put the total Upgrade Value of the weapon above its maximum, recast the die.  Do not generate Unique weapons randomly, as they are meant to have significance to the story.
 
 |Result|Upgrade|
 |:-|:-|

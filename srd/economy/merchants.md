@@ -24,67 +24,67 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 
 |Rating|Items|
 |:-|:-|
-|1|At least one Mundane piece of every type of [armor](/srd/economy/equipment/armor) and [weapon](/srd/economy/equipment/weapons), 1d4 Mundane pieces of [upgraded](/srd/economy/equipment/upgrades) equipment, 1d4 [accessories](/srd/economy/equipment/accessories) that are either [Lucky](/srd/economy/equipment/accessories#term-lucky-accessory) or [Mystical](/srd/economy/equipment/accessories#term-mystical-accessory), 1d4 total Mundane Physical Damage items with varying [enhancements](/srd/economy/items/battle#term-item-enchancement) if desired.|
-|2|At least one Mundane piece of every type of armor and weapon, 1d6 Mundane pieces of upgraded equipment, 1d6 accessories that are either Lucky or Mystical, 1d6 total Mundane Physical Damage items if desired.|
-|3|At least one Mundane piece and one Rare piece of every type of armor and weapon, 1d4 Mundane and 1d4 Rare pieces of upgraded equipment, 1d4 accessories that are either Lucky or Mystical and 1d4 Lucky or Mystical accessories with an upgrade, 2d4 total Rare Physical Damage items with varying [enhancements](/srd/economy/items/battle#term-item-enhancement) if desired.|
-|4|At least one Mundane piece and one Rare piece of every type of armor and weapon, 1d6 Rare pieces of upgraded equipment, 1d6 Lucky or Mystical accessories with an upgrade, 2d6 total Rare Physical Damage items with varying enhancements if desired, 1d4 Block Physical Damage items.|
-|5|At least one Mundane, one Rare, and one Expert piece of every type of armor and weapon, 1d4 Rare and 1d4 Expert pieces of upgraded equipment, 1d4 Lucky or Mystical accessories with an upgrade and 1d4 unique accessories, 1d12 total Rare Physical Damage items with varying enhancements if desired, 1d6 Block Physical Damage items.|
-|6|At least one Mundane, one Rare, and one Expert piece of every type of armor and weapon, 1d6 Expert pieces of upgraded equipment, 1d6 unique accessories, 1d12 total Rare Physical Damage items with varying enhancements if desired, 1d6 Block Physical Damage items.|
+|1|At least one Novice piece of every type of [armor](/srd/economy/equipment/armor) and [weapon](/srd/economy/equipment/weapons), 1d4 Novice pieces of [upgraded](/srd/economy/equipment/upgrades) equipment, 1d4 [accessories](/srd/economy/equipment/accessories) that are either [Lucky](/srd/economy/equipment/accessories#term-lucky-accessory) or [Mystical](/srd/economy/equipment/accessories#term-mystical-accessory), 1d4 total Novice Physical Damage items with varying [enhancements](/srd/economy/items/battle#term-item-enchancement) if desired.|
+|2|At least one Novice piece of every type of armor and weapon, 1d6 Novice pieces of upgraded equipment, 1d6 accessories that are either Lucky or Mystical, 1d6 total Novice Physical Damage items if desired.|
+|3|At least one Novice piece and one Standard piece of every type of armor and weapon, 1d4 Novice and 1d4 Standard pieces of upgraded equipment, 1d4 accessories that are either Lucky or Mystical and 1d4 Lucky or Mystical accessories with an upgrade, 2d4 total Standard Physical Damage items with varying [enhancements](/srd/economy/items/battle#term-item-enhancement) if desired.|
+|4|At least one Novice piece and one Standard piece of every type of armor and weapon, 1d6 Standard pieces of upgraded equipment, 1d6 Lucky or Mystical accessories with an upgrade, 2d6 total Standard Physical Damage items with varying enhancements if desired, 1d4 Block Physical Damage items.|
+|5|At least one Novice, one Standard, and one Expert piece of every type of armor and weapon, 1d4 Standard and 1d4 Expert pieces of upgraded equipment, 1d4 Lucky or Mystical accessories with an upgrade and 1d4 unique accessories, 1d12 total Standard Physical Damage items with varying enhancements if desired, 1d6 Block Physical Damage items.|
+|6|At least one Novice, one Standard, and one Expert piece of every type of armor and weapon, 1d6 Expert pieces of upgraded equipment, 1d6 unique accessories, 1d12 total Standard Physical Damage items with varying enhancements if desired, 1d6 Block Physical Damage items.|
 
 ### Alchemists
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 varieties of Mundane Special Damage items, 1d4 Mundane Restore MP items with varying enhancements if desired, 1d4 varieties of Mundane Charm items, 1d4 varieties of Mundane Inflict Status items.|
-|2|1d6 varieties of Mundane Special Damage items, 1d6 Mundane and 1d4 Rare Restore MP items with varying enhancements if desired, 1d6 varieties of Mundane Charm items, 1d6 varieties of Mundane Inflict Status items.|
-|3|1d4 varieties of Mundane and 1d4 varieties of Rare Special Damage items, 1d8 Mundane, 1d6 Rare, and 1d4 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Mundane and 1d4 varieties of Rare Charm items, 1d4 varieties of Mundane and 1d4 varieties of Rare Inflict Status items.|
-|4|1d4 varieties of Mundane and 1d6  varieties of Rare Special Damage items, 1d10 Mundane, 1d8 Rare, and 1d6 Expert Restore MP items with varying enhancements if desired, 1d6 varieties of Rare Charm items, 1d4 varieties of Mundane and 1d6 varieties of Rare Inflict Status items.|
-|5|1d4 varieties of Rare and 1d4 varieties of Expert Special Damage items, 1d12 Mundane, 1d10 Rare, and 1d8 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Rare and 1d4 varieties of Expert Charm items, 1d4 varieties of Rare and 1d4 varieties of Expert Inflict Status items.|
-|6|1d4 varieties of Rare and 1d6 varieties of Expert Special Damage items, 1d20 Mundane, 1d12 Rare, and 1d10 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Rare and 1d6 varieties of Expert Charm items, 1d4 varieties of Rare and 1d6 varieties of Expert Inflict Status items.|
+|1|1d4 varieties of Novice Special Damage items, 1d4 Novice Restore MP items with varying enhancements if desired, 1d4 varieties of Novice Charm items, 1d4 varieties of Novice Inflict Status items.|
+|2|1d6 varieties of Novice Special Damage items, 1d6 Novice and 1d4 Standard Restore MP items with varying enhancements if desired, 1d6 varieties of Novice Charm items, 1d6 varieties of Novice Inflict Status items.|
+|3|1d4 varieties of Novice and 1d4 varieties of Standard Special Damage items, 1d8 Novice, 1d6 Standard, and 1d4 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Novice and 1d4 varieties of Standard Charm items, 1d4 varieties of Novice and 1d4 varieties of Standard Inflict Status items.|
+|4|1d4 varieties of Novice and 1d6  varieties of Standard Special Damage items, 1d10 Novice, 1d8 Standard, and 1d6 Expert Restore MP items with varying enhancements if desired, 1d6 varieties of Standard Charm items, 1d4 varieties of Novice and 1d6 varieties of Standard Inflict Status items.|
+|5|1d4 varieties of Standard and 1d4 varieties of Expert Special Damage items, 1d12 Novice, 1d10 Standard, and 1d8 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Standard and 1d4 varieties of Expert Charm items, 1d4 varieties of Standard and 1d4 varieties of Expert Inflict Status items.|
+|6|1d4 varieties of Standard and 1d6 varieties of Expert Special Damage items, 1d20 Novice, 1d12 Standard, and 1d10 Expert Restore MP items with varying enhancements if desired, 1d4 varieties of Standard and 1d6 varieties of Expert Charm items, 1d4 varieties of Standard and 1d6 varieties of Expert Inflict Status items.|
 
 ### Apothecaries
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 Mundane Restore HP items with varying enhancements if desired, 1d4 Mundane Revive items with varying enhancements if desired, 5 Remove Hexes items, 1d4 varieties of Remove Status items, 1d4 Poultices.|
-|2|1d6 Mundane and 1d4 Rare Restore HP items with varying enhancements if desired, 1d6 Mundane Revive items with varying enhancements if desired, 10 Remove Hexes items, 1d4 varieties of Remove Status items, 1d6 Poultices.|
-|3|1d8 Mundane, 1d6 Rare, and 1d4 Expert Restore HP items with varying enhancements if desired, 1d4 Mundane and 1d4 Rare Revive items with varying enhancements if desired, 15 Remove Hexes items, 1d6 varieties of Remove Status items, 2d4 Poultices.|
-|4|1d10 Mundane, 1d8 Rare, and 1d6 Expert Restore HP items with varying enhancements if desired, 1d4 Mundane and 1d6 Rare Revive items with varying enhancements if desired, 20 Remove Hexes items, 1d6 varieties of Remove Status items, 2d6 Poultices.|
-|5|1d12 Mundane, 1d10 Rare, and 1d8 Expert Restore HP items with varying enhancements if desired, 1d4 Rare and 1d4 Expert Revive items with varying enhancements if desired, 25 Remove Hexes items, 1d8 varieties of Remove Status items, 1d12 Poultices.|
-|6|1d20 Mundane, 1d12 Rare, and 1d10 Expert Restore HP items with varying enhancements if desired, 1d4 Rare and 1d6 Expert Revive items with varying enhancements if desired, 30 Remove Hexes items, 1d8 varieties of Remove Status items, 2d12 Poultices.|
+|1|1d4 Novice Restore HP items with varying enhancements if desired, 1d4 Novice Revive items with varying enhancements if desired, 5 Remove Hexes items, 1d4 varieties of Remove Status items, 1d4 Poultices.|
+|2|1d6 Novice and 1d4 Standard Restore HP items with varying enhancements if desired, 1d6 Novice Revive items with varying enhancements if desired, 10 Remove Hexes items, 1d4 varieties of Remove Status items, 1d6 Poultices.|
+|3|1d8 Novice, 1d6 Standard, and 1d4 Expert Restore HP items with varying enhancements if desired, 1d4 Novice and 1d4 Standard Revive items with varying enhancements if desired, 15 Remove Hexes items, 1d6 varieties of Remove Status items, 2d4 Poultices.|
+|4|1d10 Novice, 1d8 Standard, and 1d6 Expert Restore HP items with varying enhancements if desired, 1d4 Novice and 1d6 Standard Revive items with varying enhancements if desired, 20 Remove Hexes items, 1d6 varieties of Remove Status items, 2d6 Poultices.|
+|5|1d12 Novice, 1d10 Standard, and 1d8 Expert Restore HP items with varying enhancements if desired, 1d4 Standard and 1d4 Expert Revive items with varying enhancements if desired, 25 Remove Hexes items, 1d8 varieties of Remove Status items, 1d12 Poultices.|
+|6|1d20 Novice, 1d12 Standard, and 1d10 Expert Restore HP items with varying enhancements if desired, 1d4 Standard and 1d6 Expert Revive items with varying enhancements if desired, 30 Remove Hexes items, 1d8 varieties of Remove Status items, 2d12 Poultices.|
 
 ### Machinists
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 Scan items, all varieties of Mundane Cloak, Mundane Bags.|
-|2|1d6 Scan items, all varieties of Mundane Cloak, Mundane Bags.|
-|3|2d4 Scan items, all varieties of Mundane and Rare Cloak, Mundane and Rare Bags.|
-|4|2d6 Scan items, 1d4 Slow items, all varieties of Mundane and Rare Cloak, Mundane and Rare Bags.|
-|5|1d12 Scan items, 1d6 Slow items, all varieties of Mundane, Rare, and Expert Cloak, Mundane, Rare, and Expert Bags, 1d4 Negate Resistances items.|
-|6|2d12 Scan items, 1d8 Slow items, all varieties of Mundane, Rare, and Expert Cloak, Mundane, Rare, and Expert Bags, 1d6 Negate Resistances items.|
+|1|1d4 Scan items, all varieties of Novice Cloak, Novice Bags.|
+|2|1d6 Scan items, all varieties of Novice Cloak, Novice Bags.|
+|3|2d4 Scan items, all varieties of Novice and Standard Cloak, Novice and Standard Bags.|
+|4|2d6 Scan items, 1d4 Slow items, all varieties of Novice and Standard Cloak, Novice and Standard Bags.|
+|5|1d12 Scan items, 1d6 Slow items, all varieties of Novice, Standard, and Expert Cloak, Novice, Standard, and Expert Bags, 1d4 Negate Resistances items.|
+|6|2d12 Scan items, 1d8 Slow items, all varieties of Novice, Standard, and Expert Cloak, Novice, Standard, and Expert Bags, 1d6 Negate Resistances items.|
 
 ### Sorcerers
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 Mundane Magical Damage items, 1d4 varieties of Mundane Elemental Damage items, 1d4 Mundane varieties of Hex items.|
-|2|1d6 Mundane Magical Damage items, 1d6 varieties of Mundane Elemental Damage items, 1d6 Mundane varieties of Hex items.|
-|3|1d4 Mundane and 1d4 Rare Magical Damage items, 1d4 varieties of Mundane and 1d4 varieties of Rare Elemental Damage Items, 1d4 varieties of Mundane and 1d4 varieties of Rare Hex items.|
-|4|1d6 Rare Magical Damage items, 1d6 varieties of Rare Elemental Damage items, 1d4 varieties of Mundane and 1d6 varieties of Rare Hex items, 1d4 Haste items.|
-|5|1d4 Rare and 1d4 Expert Magical Damage items, 1d4 varieties of Rare and 1d4 varieties of Expert Elemental Damage items, 1d4 Block Magical Damage items, 1d4 varieties of Rare and 1d4 varieties of Expert Hex items, 1d6 Haste items.|
-|6|1d4 Rare and 1d6 Expert Magical Damage items, 1d4 varieties of Rare and 1d6 varieties of Expert Elemental Damage items, 1d6 Block Magical Damage items, 1d4 varieties of Rare and 1d6 varieties of Expert Hex items, 1d8 Haste items.|
+|1|1d4 Novice Magical Damage items, 1d4 varieties of Novice Elemental Damage items, 1d4 Novice varieties of Hex items.|
+|2|1d6 Novice Magical Damage items, 1d6 varieties of Novice Elemental Damage items, 1d6 Novice varieties of Hex items.|
+|3|1d4 Novice and 1d4 Standard Magical Damage items, 1d4 varieties of Novice and 1d4 varieties of Standard Elemental Damage Items, 1d4 varieties of Novice and 1d4 varieties of Standard Hex items.|
+|4|1d6 Standard Magical Damage items, 1d6 varieties of Standard Elemental Damage items, 1d4 varieties of Novice and 1d6 varieties of Standard Hex items, 1d4 Haste items.|
+|5|1d4 Standard and 1d4 Expert Magical Damage items, 1d4 varieties of Standard and 1d4 varieties of Expert Elemental Damage items, 1d4 Block Magical Damage items, 1d4 varieties of Standard and 1d4 varieties of Expert Hex items, 1d6 Haste items.|
+|6|1d4 Standard and 1d6 Expert Magical Damage items, 1d4 varieties of Standard and 1d6 varieties of Expert Elemental Damage items, 1d6 Block Magical Damage items, 1d4 varieties of Standard and 1d6 varieties of Expert Hex items, 1d8 Haste items.|
 
 ### Rangers
 
 |Rating|Items|
 |:-|:-|
-|1|5 [Supplies](/srd/economy/items/travel#term-supplies), Mundane [maps](/srd/economy/items/travel#term-map) of local [paths](/srd/exploration/maps#term-path), 1d4 Shell items.|
-|2|10 Supplies, Mundane maps of local paths, 1d4 Shell items.|
-|3|15 Supplies, Rare and Mundane maps of local paths, 1d4 varieties of [Scrolls](/srd/economy/items/travel#term-scroll), 1d4 Shell items.|
-|4|20 Supplies, Rare and Mundane maps of local paths, 1d4 varieties of Scrolls, 1d4 Shell items.|
-|5|25 Supplies, Expert, Rare, and Mundane maps of local paths, 1d4 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Shell items.|
-|6|30 Supplies, Expert, Rare, and Mundane maps of local paths, 1d6 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Shell items.|
+|1|5 [Supplies](/srd/economy/items/travel#term-supplies), Novice [maps](/srd/economy/items/travel#term-map) of local [paths](/srd/exploration/maps#term-path), 1d4 Shell items.|
+|2|10 Supplies, Novice maps of local paths, 1d4 Shell items.|
+|3|15 Supplies, Standard and Novice maps of local paths, 1d4 varieties of [Scrolls](/srd/economy/items/travel#term-scroll), 1d4 Shell items.|
+|4|20 Supplies, Standard and Novice maps of local paths, 1d4 varieties of Scrolls, 1d4 Shell items.|
+|5|25 Supplies, Expert, Standard, and Novice maps of local paths, 1d4 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Shell items.|
+|6|30 Supplies, Expert, Standard, and Novice maps of local paths, 1d6 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Shell items.|
 
 ### Other Merchants
 

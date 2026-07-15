@@ -175,7 +175,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Recharge|Ally|1 AP, 5 MP|Restores 30 MP to a single one of the Doctor's allies.  The Doctor cannot use this ability on themselves.|
 |Time Dilation|Multi|3 AP, 25 MP|The Doctor uses [Haste](/srd/heroes/jobs/support) on itself and all of its allies.|
 |Sadist|Passive|N/A|Whenever the Doctor inflicts damage on a warrior, they also regain an amount of MP equal to the amount of damage they dealt.|
-|Prepared|Passive|N/A|The Doctor has one of each [element](/srd/combat/elements#term-element) of Rare Elemental Damage [battle item](/srd/economy/items/battle) in its inventory.|
+|Prepared|Passive|N/A|The Doctor has one of each [element](/srd/combat/elements#term-element) of Standard Elemental Damage [battle item](/srd/economy/items/battle) in its inventory.|
 |Target Acquired|Paradigm Action|1 🜉|All of the Doctor's opponents on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
 |Second Chance|Paradigm Action|1 🜉|The Doctor heals and revives all of their allies to full HP and removes all of their current statuses and hexes.|
 

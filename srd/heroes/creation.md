@@ -37,8 +37,8 @@ Next, the party will choose their Heroes' [archetypes](/srd/heroes/archetypes), 
 *  _[Harlequins](/srd/heroes/archetypes/harlequin)_ are heroes of exceptional daring.
 
 At Hero creation, a character's archetype determines the following traits:
-*  Armor Proficiency: A Hero's _<dfn id="term-armor-proficiency">armor proficiency</dfn>_ is what type of [armor](/srd/economy/equipment/armor) they can wear.  At Hero creation, the Hero starts with a [Mundane](/srd/economy/equipment#term-equipment-quality) piece of that type of armor equipped.
-*  Weapon Proficiency: A Hero's _<dfn id="term-weapon-proficiency">weapon proficiency</dfn>_ is what type of [weapon](/srd/economy/equipment/weapons) they can wield.  At Hero creation, the Hero starts with a Mundane version of that type of weapon equipped.  Make sure to note down what statistic the Hero's weapon gives them a bonus to in addition to [Physical Attack](/srd/heroes/numbers#term-strike) and [Magical Attack](/srd/heroes/numbers#term-spell).
+*  Armor Proficiency: A Hero's _<dfn id="term-armor-proficiency">armor proficiency</dfn>_ is what type of [armor](/srd/economy/equipment/armor) they can wear.  At Hero creation, the Hero starts with a [Novice](/srd/economy/equipment#term-equipment-grade) piece of that type of armor equipped.
+*  Weapon Proficiency: A Hero's _<dfn id="term-weapon-proficiency">weapon proficiency</dfn>_ is what type of [weapon](/srd/economy/equipment/weapons) they can wield.  At Hero creation, the Hero starts with a Novice version of that type of weapon equipped.  Make sure to note down what statistic the Hero's weapon gives them a bonus to in addition to [Physical Attack](/srd/heroes/numbers#term-strike) and [Magical Attack](/srd/heroes/numbers#term-spell).
 *  [Charm](/srd/combat/glamors#term-charm): Archetype sets the statistic that the Hero charms when they play the [Support](/srd/heroes/roles/support) [role](/srd/heroes/roles).  Later on, they will also gain permanent bonuses to it as they advance in tier.
 *  [Hex](/srd/combat/glamors#term-hex): This sets the statistic that the Hero hexes when they play the [Saboteur](/srd/heroes/roles/saboteur) role.
 *  Stat Bonuses: A Hero's archetype grants them fixed bonuses to their Health, Initiative, and Mana.
@@ -128,5 +128,5 @@ If you have done all of this, then congratulations, you are now ready to play La
 ## Higher Tier Heroes
 
 To create a new Hero for a pre-existing campaign or for a campaign that will begin at a tier greater than 1, add Hero advancements per the [Hero advancement](/srd/heroes/advancement) section one at a time until the Hero reaches the appropriate tier.  In addition, Heroes will also start with different equipment depending on their tier:
-* Heroes of tier 4-7 will start with a Rare weapon and armor of the appropriate type, as well as two Lucky or Mystical accessories and 100 ¤.
+* Heroes of tier 4-7 will start with a Standard weapon and armor of the appropriate type, as well as two Lucky or Mystical accessories and 100 ¤.
 * Heroes of tier 8-10 will start with an Expert weapon and armor of the appropriate type, as well as three Lucky or Mystical accessories and 1000 ¤.
