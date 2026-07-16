@@ -26,7 +26,7 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Elemental Damage|7 ¤|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Novice it deals 2 damage, if it is Standard it deals 5 damage, and if it is Expert it deals 10 damage.|
 |Hex|9 ¤|When used, this item inflicts a [hex](/srd/combat/glamors#term-hex) of the specified type.  If it is Novice, it hexes by one level on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker), if it is Standard it hexes by two, and if it is Expert it hexes by three.|
 |Charm|9 ¤|When used, this item applies a [charm](/srd/combat/glamors#term-charm) of the specified type.  If it is Novice, it charms by one level on the Bonus Tracker, if it is Standard it charms by two, and if it is Expert it charms by three.|
-|Inflict Status|12 ¤|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Novice, do not subtract anything from the result on the [hit die](/srd/combat/attacks#term-hit-die).  If the item is Standard, subtract 5 from the result, and if the Expert then subtract 10 from the result.|
+|Inflict Status|12 ¤|When a character uses this item, it activates a [sleight](/srd/combat/attacks#term-sleight) against the target's [Resistance](/srd/heroes/numbers#term-resistance) that inflicts the specified [status](/srd/combat/statuses) on a hit.  If the item is Novice, subtract 5 from the result on the [hit die](/srd/combat/attacks#term-hit-die).  If the item is Standard, subtract 10 from the result, and if the Expert then subtract 15 from the result.|
 |Revive|15 ¤|When a character uses this item, the targeted character is revived from being [downed](/srd/combat/injuries#term-downed).  If the item is Novice, they are revived to 1 HP.  If the item is Standard they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
@@ -65,7 +65,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Smoke Bomb|Novice|Charm Evasion|All|18 ¤|
 |Shark Tooth Charm|Standard|Special Damage (Water)|N/A|70 ¤|
 |Smelling Salts|Standard|Revive|Row|750 ¤|
-|Poison Dart|Standard|Inflict Toxin|Delay|90 ¤|
+|Poison Dart|Standard|Inflict Poisoned|Delay|90 ¤|
 |Experimental Combat Stim|Expert|Charm [Physical Attack](/srd/heroes/numbers#term-strike)/Charm [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|Dual|9000 ¤|
 |Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 ¤|
 |Mandragora|N/A|Summon Warrior ([Dryad](/srd/warriors/examples/tier/02))|N/A|2000 ¤|
