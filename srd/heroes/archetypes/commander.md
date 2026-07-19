@@ -1,0 +1,73 @@
+---
+title: Commander
+
+permalink: /srd/heroes/archetypes/commander
+
+abstract: >-
+    The mechanics for the Commander archetype.
+---
+
+The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/heroes/creation), they gain the following traits:
+*  [Proficiency](/srd/heroes/creation#term-armor-proficiency) in [Heavy](/srd/economy/equipment/armor#term-heavy-armor) [armor](/srd/economy/equipment/armor).
+*  [Proficiency](/srd/heroes/creation#term-weapon-proficiency) in [Hammers](/srd/economy/equipment/weapons#term-hammer).
+*  +15 [Health](/srd/heroes/numbers#term-health)
+*  +5 [Mana](/srd/heroes/numbers#term-mana)
+*  +4 [Initiative](/srd/heroes/numbers#term-initiative)
+*  As a [Support](/srd/heroes/roles/support), their [charm](/srd/combat/glamors#term-charm) [abilities](/srd/glossary#term-ability) will affect [Resistance](/srd/heroes/numbers#term-resistance).
+*  As a [Saboteur](/srd/heroes/roles/saboteur), their [hex](/srd/combat/glamors#term-hex) abilities will affect [Status Accuracy](/srd/heroes/numbers#term-status-accuracy).
+
+## Advancements by Tier
+
+**Tier 1:** Ability.
+
+|Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
+|:-|:-|:-|:-|
+|Orders|[Ally](/srd/combat/attacks#term-ally-ability)|1 AP|The Commander grants a free [AP](/srd/combat/round#term-ap) to a single ally that can then use it to act during their [turn](/srd/combat/round#term-turn).  They may only use this ability once per [round](/srd/combat/round#term-round).|
+
+**Tier 2:** The Commander gains +1 Resistance.
+
+**Tier 3:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Standard Bearer|[Passive](/srd/combat/attacks#term-passive)|N/A|The Commander's allies gain a +1 bonus to their [Status](/srd/heroes/numbers#term-status-accuracy), [Physical](/srd/heroes/numbers#term-physical-accuracy), and [Magical Accuracies](/srd/heroes/numbers#term-magical-accuracy) when they act after the Commander in the [Initiative Order](/srd/combat/starting#term-initiative-order) that does not count on the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker).  If the Commander is [downed](/srd/combat/injuries#term-downed), this effect does not apply.|
+
+**Tier 4:** The Commander gains +1 Resistance.
+
+**Tier 5:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Courier Network|Passive|N/A|The Commander may use Orders twice per round.|
+
+**Tier 6:** The Commander gains +1 Resistance.
+
+**Tier 7:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Chain of Command|Passive|N/A|The Commander designates one of their [party](/srd/glossary#term-party) members as their Lieutenant.  While the Commander is downed in [battle](/srd/glossary#term-battle), that ally gains the Standard Bearer ability.  If they are also downed, this effect does not apply.|
+
+**Tier 8:** The Commander gains +1 Resistance.
+
+**Tier 9:** The Commander gains +1 Resistance.
+
+**Capstone:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Charge!|[Special](/srd/combat/attacks#term-special-ability)|1 [🜉](/srd/anima), 2 AP|The [eidolon](/srd/heroes/eidolons) grants one of their allies an immediate full turn.  When that ally uses abilities during this turn, they can substitute the eidolon's [statistics](/srd/glossary#term-statistic) for theirs.|
+
+## Talents
+
+**[Striker](/srd/heroes/roles/striker):** Vanguard.  When an ally makes a [strike](/srd/combat/attacks#term-strike) using the AP the Commander granted them with Orders, they may substitute the Commander's Physical Accuracy and [Physical Attack](/srd/heroes/numbers#term-strike) for their own.
+
+**[Caster](/srd/heroes/roles/caster):** Siege Engineer.  When an ally uses a [spell](/srd/combat/attacks#term-spell) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Accuracy and [Magical Attack](/srd/heroes/numbers#term-spell) for their own.
+
+**[Healer](/srd/heroes/roles/healer):** Medical Tent.  When an ally uses a [blessing](/srd/heroes/roles/healer#term-blessing) using the AP the Commander granted them with Orders, they may substitute the Commander's Magical Attack for their own.
+
+**[Defender](/srd/heroes/roles/defender):** Shield Wall.  When the Commander uses the Taunt or Multitaunt abilities, they may direct the target to attack one of their allies instead of them.
+
+**Support:** Trenches.  All of the Commander's allies gain the bonus from Standard Bearer regardless of their place in the Initiative Order.  This does not apply if the Commander is downed.
+
+**Saboteur:** Spymaster.  When an ally uses a [sleight](/srd/combat/attacks#term-sleight) using the AP the Commander granted them with Orders, they may substitute the Commander's Status Accuracy for their own.

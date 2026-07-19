@@ -1,0 +1,104 @@
+---
+---
+/* {%- comment -%}
+   -----------------------------------------------------------------------------
+   UA STYLE RESET
+   -----------------------------------------------------------------------------
+   This layer, which is intended to precede any others, unsets select properties
+   that HTML defines in its default user agent styles. It’s a classic angle that
+   chiefly helps to reduce the odds of inadvertantly relying on a UA style which
+   sets padding and margins to values that are subtly inconsistent with rules of
+   one’s intended design patterns and layout. It’s also an opportunity to make a
+   few shitty things that are only the way they are fer DBTW history reasons “go
+   away”. Note the use of :where(...) to ensure selectors have the lowest weight
+   possible save fer the non-!important UA styles themselves; likewise, note the
+   use of :is(..., #some_arbitrary_id) to ensure selectors have extremely *high*
+   weights where we do want to use !important so they make ’em fall at the other
+   end of the spectrum in cases where we wanna cast an eldritch horror back into
+   the abyss from which it came.
+                                                           {%- endcomment %}- */
+
+@layer reset {
+
+  /* {%- comment -%}
+     ---------------------------------------------------------------------------
+     BOX SIZING AND THE ZERO TOLERANCE UA MARGIN AND PADDING TOTAL WAR BLOODBATH
+     ---------------------------------------------------------------------------
+     This is the classic core of nearly every style reset. Indeed, sometime it’s
+     the entire sum of the resets people use today. Unilaterally setting the box
+     -sizing property to border-box is like a ritual prayer one performs in CSS,
+     a plea to the Style Gods that they might upon us and our works kindly while
+     recognizing that we are indeed cowering in fearful awe at their unspeakable
+     power. By setting box-sizing to border-box, we tell them we know our place;
+     that we are but lowly mortals who are far too stupid fer content-box sizing
+     calculations to ever make sense to us poor mewling creatures below (because
+     it’s idiotic 99% of the time, but one mustn’t actually say that of course).
+
+     Currently the margin: unset and padding: unset rules are commented out only
+     because I haven’t yet committed the styles that are needed to “replace” the
+     defaults where applicable.
+                                                           {%- endcomment -%} */
+
+  :where(*|*, *|*::after, *|*::before) {
+    box-sizing : border-box;
+  /*margin     : unset;*/
+  /*padding    : unset;*/
+  }
+
+  /* {%- comment -%}
+     ---------------------------------------------------------------------------
+     TEXT SIZE ADJUSTMENT
+     ---------------------------------------------------------------------------
+     The text-size-adjust property’s initial value can either be `auto` (e.g. on
+     a pocket-sized device) or `none` (e.g. on a desktop device). If `auto`, the
+     user agent may apply an opaque, heuristically derived scaling factor to all
+     font sizes as a mitigating intervention strategy intended to address common
+     scenarios where author styles are insufficiently responsive. If possible we
+     want to expressly disable this unpredictable heuristic scaling by expressly
+     setting text-size-adjust to `none`. Support for this property among the big
+     three engines is incomplete at the time of writing, and in Gecko presently,
+     one must use the -mox-text-size-adjust vendor-prefixed property instead. We
+     can then properly honor the actual user preference, if applicable, fer some
+     specific scale factor — which might be set at either the browser level *or*
+     the operating system level, e.g. in accessibility settings — because of the
+     use of <meta name="text-scale" content="scale"> to opt-in to having the env
+     variable preferred-text-scale reflect only the genuine user-set preference.
+
+                                                           {%- endcomment -%} */
+  :where(:root) {
+    @supports (text-size-adjust: none) {
+      text-size-adjust: none;
+    }
+
+    @supports (not (text-size-adjust: none)) {
+      @supports (-moz-text-size-adjust: none) {
+        -moz-text-size-adjust: none;
+      }
+
+      @supports (-webkit-text-size-adjust: none) {
+        -webkit-text-size-adjust: none;
+      }
+    }
+  }
+
+  /* {%- comment -%}
+     ---------------------------------------------------------------------------
+     FONT SYNTHESIS
+     ---------------------------------------------------------------------------
+     Nuke it from orbit: it’s the only way to be sure. No, the browser shouldn’t
+     huff enuff jenkem to kill a horse, smudge the ink like a five year old, and
+     call it Typography, actually. Note that this is a shorthand property and it
+     oughta presently knock out *-position, *-small-caps, *-style, and *-weight.
+     The *-style and *-weight ones are the most important to ensure are off, but
+     they all blow, and the fact that the shorthand should also knock any others
+     from the future outta the sky with the very same bullet is a selling point.
+
+     The ID in the :is selector list is there to force all of the selectors into
+     the highest specificity, and !important in the first layer is more powerful
+     than those in subsequent.
+
+                                                           {%- endcomment -%} */
+  :is(*|*, *|*::after, *|*::before, #🙂‍↔️) {
+    font-synthesis: none !important;
+  }
+}

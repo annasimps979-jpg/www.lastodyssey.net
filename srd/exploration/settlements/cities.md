@@ -1,0 +1,22 @@
+---
+title: Cities
+
+permalink: /srd/exploration/settlements/cities
+
+abstract: >-
+    Advice for creating cities.
+---
+
+**Population:** 10,000-100,000.
+
+A _<dfn id = "term-city">city</dfn>_ is any [settlement](/srd/exploration/settlements) large enough to not just support an economy apart from food production but to have a whole economy unto itself.  If a city exists at all in a particular region, it is often one of its defining landmarks, if not the one that defines it.  Cities are diverse and chaotic places that will generally have at least one if not multiple of every type of basic good or service the [players](/srd/glossary#term-player) might need, from [Supplies](/srd/economy/items/travel#term-supplies) to ritual ingredients to rare trade goods of all stripes.  In addition, they are also perfect places for players to learn about the history and culture of the surrounding region in the form of [Lore](/srd/discovery/lore) about [factions](/srd/intro/advice/worldbuilding#term-faction), [Antagonists](/srd/anima/antagonists), and local [warriors](/srd/warriors).  However, while the people of a city are literate and informed about local politics, they tend to know a great deal less about what happens outside of its walls.  Nonetheless, city taverns are excellent places to recruit [allies](/srd/warriors/allies) and to link up with trade [caravans](/srd/exploration/travel/services#term-caravan), as well as find [transit services](/srd/exploration/travel/services#term-transit-service) that can take players from city to city.  The tradeoff for this is that crime is commonplace, and wandering a city at night is liable to get players jumped by thugs.  Sleeping on the streets is often discouraged and, in some districts, may be outright forbidden, and [GMs](/srd/glossary#term-gm) should take this into account when players rest for the night.
+
+Most cities are large enough to be divided into multiple districts, each of which will populated by professionals of a particular stripe, members of a particular institution or ethnic group, or members of a particular socioeconomic class.  Common types of districts include foreign quarters, docks, mansion districts, holy cities, palace districts, market squares, university districts, districts for manufacturing or magical services, and so on.  Factions will also have a presence in cities, and one city will often be home to several different distinct centers of political power, each with its own agenda in competition with the others.
+
+When GMs decide to include one or more cities in a given region, they should take into consideration the following questions:
+*  Cities are often a safe haven for foreigners and persecuted minorities.  What peoples are represented here that aren't anywhere else close by, and what can players learn from them?
+*  A city is not just a large settlement, but also a place of deep religious and cultural significance.  What world or worlds is this city the center of?  Is it the capital of trade in its area?  The capital of culture?  Does it contain the temple of a local pantheon, or the palace of a local monarch?
+*  Settlements on the order of tens of thousands of people will have significant impacts on the local environment.  How is this impact felt?  Do the streets reek of sewage?  Is the air hot, or stagnant, or hazy?  Is the river dirty and muddy?
+*  What measures do the people of the city take to mitigate these impacts, if any at all, and how does it affect their culture?
+*  The buildup of such a dense population doesn't happen overnight or at random.  What is the reason this city became so large?  Does it sit at an important river crossing?  Is it protected by natural boundaries?  Are its politics unusually tolerant, or its local religion unusually influential?
+*  The history of the growth of a city will be told through its layout.  Is there an old town district with crumbling walls?  Is there a central temple complex that dominates its landscape?  Are there any ruins, either above- or underground, and do they suggest growth or shrinkage?

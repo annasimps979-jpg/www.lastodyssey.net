@@ -1,0 +1,73 @@
+---
+title: The Travel Round
+
+permalink: /srd/exploration/travel/round
+
+abstract: >-
+    The structure of the travel round.
+---
+
+Each day of travel along a [path](/srd/exploration/maps#term-path) is represented by something called the _<dfn id = "term-travel-round">travel round</dfn>._  To successfully traverse a path, [players](/srd/glossary#term-player) must complete the full number of travel rounds involved as determined by the [GM](/srd/glossary#term-gm).  Each travel round represents one full day of travel, and is divided into three phases: the Navigation Phase, the Encounter Phase, and the Camping Phase.
+
+## The Navigation Phase
+
+The _<dfn id = "term-navigation-phase">Navigation Phase</dfn>_ of travel is when players choose what direction along the path to follow, and whether or not they are able to remain on course.  To begin, the [GM](/srd/glossary#term-gm) consults the appropriate [weather table](/srd/exploration/weather#term-weather-table) to determine the day's [weather](/srd/exploration/weather).  The next step is for the players to go through a process called _<dfn id = "term-pathfinding">pathfinding</dfn>._  First, the GM informs the players what the [navigation difficulty](/srd/exploration/maps#term-navigation-difficulty) of the path is.  Then, the players subtract any relevant modifiers from this number, such as from [maps](/srd/economy/items/travel#term-map), a [Guide](/srd/warriors/allies#term-guide), or from having traversed the path before (see below).  If the resulting number is zero or below, the Navigation Phase ends and the group moves on to the Encounter Phase.  If the resulting number is nonzero, the players should then cast the [outcome die](/srd/glossary#term-outcome-die).  If the result is greater than the number they derived from the navigation difficulty, the players proceed to the Encounter Phase without further incident.  If this is not the case, cast 1d6 and consult the table below to see what occurs instead.  Once this is done, proceed to the Encounter Phase.
+
+|Result|Setback|Description|
+|:-|:-|:-|
+|1-2|Frustrated|The [Heroes](/srd/glossary#term-hero) waste a day trying to figure out where they are.  They spend an extra travel round without getting any closer to their destination.|
+|3|Backtracked|The Heroes advance backwards along the path instead of forwards.  Not only do they waste a travel round, they must also spend 1 additional travel round to reach the next node.|
+|4|Noisy|The Heroes continue on as normal, but the [danger rating](/srd/exploration/maps#term-danger-rating) of the path counts as 1 more until they reach their destination.  This effect can stack, but the danger rating can never increase past 5 in this manner.|
+|5|Sidetracked|The Heroes will continue along the path as normal, but, until the party reaches the end of the path, the Navigation Phase will be conducted as though the path's navigation difficulty were 1 higher than it actually is.  This penalty can stack.|
+|6|Totally Lost|The Heroes lose the path entirely.  Until they are able to successfully pathfind to get back on track, each additional failure will count as though they are Totally Lost for another travel round.|
+
+If players fail at pathfinding and do not wish to receive a penalty, one of them may instead spend an 🜉 to succeed.
+
+Oftentimes, players will find themselves traveling the same path multiple times.  As their characters familiarize themselves with a path, it will become easier to travel it in the future.  For every previous time the characters have successfully traveled a path, the navigation difficulty is reduced by 2.
+
+## The Encounter Phase
+
+The next phase of the travel round is the _<dfn id =  "term-encounter-phase">Encounter Phase</dfn>._  If the one of the players successfully completed the Scouting [action](/srd/glossary#term-action) the day before, they may choose to avoid the encounter entirely.  If not, then GM may choose to either initiate a pre-planned encounter or cast the _<dfn id = "term-encounter-die">encounter die</dfn>._
+
+The encounter die is an outcome die which determines what the players come across along a path.  When it is cast, take the current navigation difficulty, divide by two, round down, and subtract it from 10.  If the result is greater than this number, the [party](/srd/glossary#term-party) will encounter a natural hazard that impedes their progress.  Likewise, if the result is less than or equal to the danger rating, the players will be forced to engage in [combat](/srd/combat) with a group of warriors.  See the [Travel Encounters](/srd/exploration/encounters) section for more details on how to deal with these situations.
+
+If the players do not encounter a hazard or a group of warriors, they will instead have a _<dfn id = "term-benign-encounter">benign encounter</dfn>._  A benign encounter is an encounter that is beneficial instead of challenging.  This is a good chance to give players space to roleplay in a low stress environment, or, if they prefer, to simply breathe a sigh of relief that their travel round did not end in violence.  The GM is encouraged to come up with their own possibilities for benign encounters, but if they don't have one on hand then they will cast 1d6 and consult the table below to see what the players encounter.
+
+|Result|Encounter|Description|
+|:-|:-|:-|
+|1-3|Peace|Nothing eventful happens.|
+|4|Landmark|The players encounter an unexpected [landmark](/srd/exploration/settlements/landmarks), such as a lake or a canyon.  They earn 1 Exploration 🜹 for discovering something new.|
+|5|Fellow Travelers|The players encounter a group of friendly [NPCs](/srd/glossary#term-npc) who are willing to share resources.  During the Camping Phase, they will not have to expend any [Supplies](/srd/economy/items/travel#term-supplies) in order to fully rest.|
+|6|Merchant|The players encounter a traveling [merchant](/srd/economy/merchants) who is willing to sell them a few supplies.|
+
+Sometimes, an area is too wild or too dangerous for friendly NPCs to be around.  In this case, all benign encounters that are not Landmark are changed to Peace.
+
+## The Camping Phase
+
+After the Encounter Phase is over and done with, the last phase of the travel round is the _<dfn id = "term-camping-phase">Camping Phase</dfn>._  The Camping Phase takes place when the Heroes rest for the evening.  At the beginning of every Camping Phase, players will expend an amount of Supplies equal to the number of characters in the party plus the number of [allies](/srd/warriors/allies) traveling with them.  This represents the amount of rations, toiletries, water, and other important items that they consume in order to camp.  If they do not have enough or want to conserve resources, they may choose which characters to distribute Supplies to rather than distributing them to everyone.  Characters that have not had Supplies distributed to them will not be able to heal as a result of the Shelter and Cook actions, and will also take an [injury](/srd/combat/injuries#term-injury) as though they had been [downed](/srd/combat/injuries#term-downed) in battle.  If the party is completely out of Supplies, they may not take the Shelter or Cook actions until they have acquired more.
+
+After Supplies have been distributed, each player chooses one of ten different actions to take, six of which are locked behind their having access to one of the six combat [roles](/srd/heroes/roles).  There are four basic actions all characters can take:
+
+|Name|Description|
+|:-|:-|
+|<dfn id = "term-shelter-action">Shelter</dfn>|Pitching a tent, digging a latrine, and other activities necessary to protect from the elements.  If a character takes this action, all of the Heroes will regain half their current maximum [MP](/srd/heroes/numbers#term-mp) during the night, rounded down.|
+|<dfn id = "term-cook-action">Cook</dfn>|Turning provisions into a proper meal.  If a character in the [party](/srd/glossary#term-party) takes this action, all of the Heroes will regain half their current maximum [HP](/srd/heroes/numbers#term-hp) during the night, rounded down.|
+|<dfn id = "term-explore-action">Explore</dfn>|Take a look at the surrounding area.  If there are any branching paths, secret landmarks, or other areas nearby, they will be revealed to the player who does this.  Either way, this action gives the players a +2 to the result the next time they pathfind.|
+|<dfn id = "term-recover-action">Recover</dfn>|Players who take this action will recover all of their HP if they have taken damage and other characters are using both the Shelter and Cook actions during this Camping Phase.  If they are already at full HP before the amount they regain from Shelter, they will recover all of their MP instead.  Players who want to be the subjects of the Mend action must also take this action while camping.|
+
+In addition to the four actions every Hero can take, there are six more actions that each player can only take during the Camping Phase if they have unlocked the corresponding role.
+
+|role|Action|Description|
+|:-|:-|:-|
+|[Striker](/srd/heroes/roles/striker)|<dfn id = "term-hunt-action">Hunt</dfn>|The player whose character takes this action casts the outcome die.  If the resulting number is below half their character's [Body](/srd/heroes/numbers#term-body) rounded down plus half their Striker rank rounded down, the party regains 1d4 Supplies.
+|[Caster](/srd/heroes/roles/caster)|<dfn id = "term-divine-action">Divine</dfn>|The player whose character takes this action casts the outcome die.  If the resulting number is below half their character's [Mind](/srd/heroes/numbers#term-mind) rounded down plus half their Caster rank rounded down, the GM should consult the Weather Table to determine the following day's weather and inform the players of the result.|
+|[Healer](/srd/heroes/roles/healer)|<dfn id = "term-mend-action">Mend</dfn>|The player whose character takes this action chooses a Hero that is taking the Recover action and cast the outcome die.  If the result is below half their character's [Spirit](/srd/heroes/numbers#term-spirit) rounded down plus half their Healer rank rounded down, the Recovering Hero can remove 1 [injury](/srd/combat/injuries#term-injury) or [status](/srd/combat/statuses) of their choice.  If they have no injuries, this action does nothing.|
+|[Defender](/srd/heroes/roles/defender)|<dfn id = "term-watch-action">Watch</dfn>|The player whose character takes this action casts the outcome die.  If the result is below half their character's Spirit rounded down plus half their Defender level rounded down, the GM determines if the players will be [ambushed](/srd/exploration/travel/round#term-ambush) early and inform the players of the result.  The party may then choose whether or not they want to be ambushed.  If there is an ambush that night, the warriors that attack cannot gain [First Strike](/srd/combat/starting#term-first-strike).|
+|[Support](/srd/heroes/roles/support)|<dfn id = "term-gather-action">Gather</dfn>|The player whose character takes this action casts the outcome die.  If the result is below half their character's Mind rounded down plus half their Support level rounded down, the party will acquire an additional battle item appropriate to the area.  Which item this is can be determined by [GM](/srd/glossary#term-gm) [fiat](/srd/glossary#term-fiat), or they can consult a warrior's Item Table to see what the player receives.|
+|[Saboteur](/srd/heroes/roles/saboteur)|<dfn id = "term-scout-action">Scout</dfn>|The player whose character takes this action casts the outcome die.  If the result is below half their character's Body rounded down plus half their Saboteur level rounded down, the GM should cast the encounter die early for the following day.  If the players wish, they may proceed with this encounter, or they may choose to have a benign encounter instead.  If there would otherwise be no probability of a benign encounter, they must instead choose the opposite kind of encounter to the result.  That is, if the GM predicts a warrior encounter, the players can choose to encounter a natural hazard, and if the GM predicts a natural hazard, the players can choose to encounter warriors instead.|
+
+At the end of the Camping Phase and before the Heroes recover their [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp), injuries, and statuses as a result of their actions, the GM casts the outcome die.  If the resulting number is equal to or below half their path's current danger rating rounded down, they will be _<dfn id = "term-ambush">ambushed</dfn>_ by warriors, and will have to fight an extra warrior encounter before they heal due to the Shelter, Cook or Mend actions.  If no players have taken the Watch action during the Camping Phase, the warriors will also gain First Strike during this encounter.
+
+## Partial Travel Rounds
+
+Sometimes, the travel time between two locations will be significant but will not encompass an entire day.  If this is the case, travel along a short path is represented by a partial travel round.  A _<dfn id = "term-partial-travel-round">partial travel round</dfn>_ is constituted by a Navigation Phase and then an Encounter Phase, but not a Camping Phase, as the players will arrive at their destination before they need to take a full rest.  Using partial travel rounds will create a sense of wide space between two locations, and is best done in cases when traveling is particularly dangerous or when Heroes are spending a long time in the vicinity of a relatively large but bounded area, such as a large [metropolis](/srd/exploration/settlements/metropoli) or [dungeon](/srd/exploration/dungeons).

@@ -1,0 +1,38 @@
+---
+title: The Combat Round
+
+permalink: /srd/combat/round
+
+abstract: >-
+    The structure of combat.
+---
+
+The standard unit of time that each [battle](/srd/glossary#term-battle) is divided into is known as a _<dfn id = "term-round">round</dfn>._  After the [Initiative Order](/srd/combat/starting#term-initiative-order) is determined and all other pre-battle steps are taken into consideration, the first round of [combat](/srd/combat) begins.  This round, and each subsequent round, are divided into three phases which take place in order:
+1.  <dfn id = "term-action-phase">The Action Phase</dfn>.  This is the phase in which each [character](/srd/glossary#character) on the field takes their turn in the order determined by the results of [calling Initiative](/srd/combat/starting#term-calling-initiative).
+2.  <dfn id = "term-effect-phase">The Effect Phase</dfn>.  This is the phase in which any environmental effects and effects caused by [abilities](/srd/glossary#term-ability) take place, such as the turning of a boat or a [Priest's](/srd/heroes/roles/priest) Prayer ability.  This is also the phase in which either side can advance if the situation is appropriate.  Sometimes, multiple effects can occur at once during the Effect Phase.  When this happens, damage takes precedent, followed by healing, followed by [statuses](/srd/combat/statuses), followed by everything else.
+3.  <dfn id = "term-paradigm-phase">The Paradigm Phase</dfn>.  During this phase, each [player](/srd/glossary#term-player) on the field can choose to switch [roles](/srd/heroes/roles).  Doing so does changes out their abilities and the bonuses to their [statistics](/srd/glossary#term-statistic) due to their role but does not affect any statuses, [charms](/srd/combat/glamors#term-charm), or [hexes](/srd/combat/glamors#term-hex) on them or any other character.  This is also the phase in which Antagonists may take Paradigm Actions.  If an Antagonist takes a Paradigm Action, it happens before the [Heroes](/srd/glossary#term-hero) can switch roles.  An extra Paradigm Phase also takes place at the beginning of the first round of every battle.  Every distinct set of roles that the party occupies is known as a _formation._  To better plan their combat tactics, it is encouraged that the players name their most important formations and record them on the [formation sheet.](/srd/combat/last-odyssey-formation-sheet.pdf)
+
+## Action Points
+
+The time during a round when a given character is allowed to act is called their _<dfn id = "term-turn">turn</dfn>._  Each [action](/srd/glossary#term-action) they take costs an amount of a resource called _<dfn id = "term-ap">Action Points</dfn>,_ or <abbr title = "action points">AP</abbr> for short, that depends on the type of action they are taking.  Once they run out of Action Points during their turn, it ends and the turn of the character next in the initiative order begins.  Once there are no characters left in the initiative order, the round enters the Effect Phase.  Characters of [tier](/srd/heroes/creation#term-tier) 1-5 have 2 AP per turn, while characters of tier 6-10 have 3 AP per turn.
+
+## Advancing
+
+During the Effect Phase, if there are no characters not downed in the [front row](/srd/combat/starting#term-front-row) on one or both sides of combat, then the opposing side can choose to _<dfn id = "term-advance">advance</dfn>._  When they do so, all of the characters on the former side now count as being in the front row instead of the [back row](/srd/combat/starting#term-back-row).  If both sides are in the back row during the Effect Phase, the players may choose whether or not to advance before their opponents do.
+
+## Types of Actions
+
+On a character's turn, they are limited to performing the following actions:
+
+|Name|Cost|Description|
+|:-|:-|:-|
+|<dfn id = "term-basic-attack">Basic Attack</dfn>|1 AP|The character makes a [colorless](/srd/combat/elements#term-colorless) [strike](/srd/combat/attacks#term-strike) against a single target.  By default, this counts as a [Melee](/srd/combat/attacks#term-melee) ability.|
+|<dfn id = "term-use-ability">Use Ability</dfn>|Variable|The character uses one of the abilities they have currently available per their archetype and role.|
+|<dfn id = "term-use-item">Use Item</dfn>|1 AP|The character uses one of the [items](/srd/economy/items) in their [inventory](/srd/economy/inventory) on a target or targets of their choice.  All [battle items](/srd/economy/items/battle) are single-use unless otherwise specified.|
+|<dfn id = "term-move">Move</dfn>|1 AP|The character moves from the front row to the back row, or from the back row to the front row of their respective side.|
+|<dfn id = "term-summon-eidolon">Summon Eidolon</dfn>|3 🜉|The character summons their [eidolon](/srd/heroes/eidolons#term-eidolon), if they have one.  When they do so, neither they nor their allies are able to act but also cannot be targeted by their opponents until the eidolon disappears.  An Eidolon acts during the turn of the character that summoned it with the amount of Action Points its summoner has, which on the turn it is summoned is the amount of AP they have remaining after the Summon Eidolon action has been taken.  At the beginning of each subsequent round that a character's Eidolon is in play, they must spend 1 🜉 to keep the eidolon on the field, after which the eidolon also acts during their summoner's turn.  Otherwise, it disappears, and all characters are able to act again as normal.  If the eidolon drops to zero [HP](/srd/heroes/numbers#term-hp), it also disappears, and all characters are able to act again as normal.  While on the field, the eidolon counts as being in the front row, and may only use its listed abilities.|
+|<dfn id = "term-hold-ap">Hold AP</dfn>|1 AP|During a character's turn, they may spend one of their remaining AP to designate it as held.  When they do so, they gain an extra turn during the same round after their own called a held turn in which they have only 1 AP to act.  Characters cannot use this action more than once per round.|
+|<dfn id = "term-end-turn">End Turn</dfn>|N/A|If a character still has AP remaining, they can choose to end their turn early without acting.  They will lose their remaining non-held AP, but they will still get the chance to act on their held turn if they have one.|
+|<dfn id = "term-interact">Interact</dfn>|Variable|During some battles, there will be contextual objects present that characters can interact with by using the Interact action.  Performing simple actions, such as flipping a switch, asking a question, or breaking a window, requires 1 AP, while performing more complex actions, such as logging into a computer or lowering a drawbridge, may require an entire turn or more to complete.|
+|<dfn id = "term-swap-equipment">Swap Equipment</dfn>|1 AP|The character puts their [weapon](/srd/economy/equipment/weapons) away, equips a weapon they are proficient with from their inventory, take an [accessory](/srd/economy/equipment/accessories) off, or puts an accessory from their inventory on.  They cannot take [armor](/srd/economy/equipment/armor) on or off during battle.|
+|<dfn id = "term-flee">Flee</dfn>|N/A|If a character still has AP left and is currently in the back row, they can end their turn immediately to flee the battle.  If they do so, they leave the battlefield at the end of the Effect Phase, and can no longer act or be acted upon for the remainder of the battle.  If all of the Heroes flee from a battle, then the battle is over.  What happens after that and whether or not they can flee in the first place is determined by [GM](/srd/glossary#term-gm) [fiat](/srd/glossary#term-fiat).|

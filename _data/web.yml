@@ -1,0 +1,28 @@
+# This file provides a single source of truth fer static web platform constants.
+# The values here are universal “facts” in the same manner as physical constants
+# might be and thus will not change — and there’s no downside to defining ’em in
+# complete sets (e.g. where they constitute an enum) even in cases where not all
+# of the values are presently reference in templates.
+#
+# The underlying motivation fer this file is to provide an example of how /_data
+# works in Jekyll, because at the time of writing, there’d be little downside to
+# just inlining the values that appear here in the templates that reference ’em,
+# but there’s also nothing else in /_data yet to illustrate how one can leverage
+# it in practice. It’s a good idea regardless, though; in time there may well be
+# more templates consuming this data — and defining static constant data as such
+# from the start is generally hygienic fer any given codbase.
+
+# XML NAMESPACE URIS ###########################################################
+#
+# The following namespace URIs are those observably material on the web platform
+# as implemented by one or more of the big three engines.
+
+NS_URI_EXSLT_COMMON : "http://exslt.org/common"
+NS_URI_HTML         : "http://www.w3.org/1999/xhtml"
+NS_URI_MATH_ML      : "http://www.w3.org/1998/Math/MathML"
+NS_URI_PARSE_ERROR  : "http://www.mozilla.org/newlayout/xml/parsererror.xml"
+NS_URI_SVG          : "http://www.w3.org/2000/svg"
+NS_URI_XLINK        : "http://www.w3.org/1999/xlink"
+NS_URI_XML          : "http://www.w3.org/XML/1998/namespace"
+NS_URI_XMLNS        : "http://www.w3.org/2000/xmlns/"
+NS_URI_XSLT         : "http://www.w3.org/1999/XSL/Transform"

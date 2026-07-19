@@ -1,0 +1,276 @@
+---
+---
+/* {% comment %}
+
+** DEFAULT STYLESHEET **********************************************************
+
+   This stylesheet corresponds to _layouts/documents.html. Because it is, at the
+   moment, our only “entrypoint” stylesheet, it’s composed from the other narrow
+   stylesheet via naive source text interpolation as opposed to using @import at
+   -rules. In other words, though the other stylesheets are built and could also
+   be referenced as subresources, their separation in the source text is fer the
+   sake of organization and maintainability and at runtime in the client we only
+   load this composite stylesheet right now. But if we do introduce other sheets
+   that act as entrypoints but also depend on some of the same stylesheets we’re
+   effectively just concatenating here, then we’d (probably) wanna change ’em to
+   @imports to minimize source text duplication in the browser cache.
+
+   The “component-like” constituent stylesheet source is divided into two groups
+   in subdirectories, “scopable” and “unscopable” — & never their twain’ts shall
+   meat! The “scopable” stylesheets declare constructs which are valid in @scope
+   at-rule blocks or which could at least be scoped to a ShadowRoot if the whole
+   sheet were placed deep inside its aSS. In other words, a scopable sheet won’t
+   have any at-rules in ’em that declare stuff that’s inherently document scoped
+   and would either be ignored or would break the sheet if one attempted scoping
+   it within any other context. Conversely the “unscopable” stylesheets are only
+   formed from puts-shit-in-a-document-keyed-registry at-rules. The reason fer a
+   split along these lines ain’t so much that I expect to be using @scope shadow
+   dom here (much?) but rather that the “unscopable” sheets not be included more
+   than once via interpolation — which wouldn’t be a problem fer the “scopables”.
+
+                                                             {% endcomment %} */
+{%- include_relative unscopable/fonts.css -%}
+
+{%- include_relative scopable/reset.css -%}
+
+/* TEMPORARY STYLES FER THE JEKYLL-STAGING BRANCH WHILE ACTUAL STYLES PENDING */
+
+@property --prose-opsz {
+  inherits      : true;
+  initial-value : 14;
+  syntax        : "<integer>";
+}
+
+@property --prose-wght-bold {
+  inherits      : true;
+  initial-value : 666;
+  syntax        : "<integer>";
+}
+
+@property --prose-wght-base {
+  inherits      : true;
+  initial-value : 400;
+  syntax        : "<integer>";
+}
+
+@property --title-opsz {
+  inherits      : true;
+  initial-value : 60;
+  syntax        : "<integer>";
+}
+
+@property --title-wght-bold {
+  inherits      : true;
+  initial-value : 600;
+  syntax        : "<integer>";
+}
+
+@property --title-wght-base {
+  inherits      : true;
+  initial-value : 380;
+  syntax        : "<integer>";
+}
+
+@keyframes thing {
+  from { opacity: 1.00; scale:  99.8%; rotate: -0.15deg; }
+  to   { opacity: 0.95; scale: 100.2%; rotate:  0.15deg; }
+}
+
+@layer temporary {
+  html {
+    background-color        : light-dark(#48524A, #0A1112);
+    color                   : light-dark(#0C110F, #E4FAFF);
+    color-scheme            : light dark;
+    font-family             : prose;
+    font-size               : 1.125rem;
+    font-variation-settings : "opsz" var(--prose-opsz),
+                              "wght" var(--prose-wght-base);
+    height                  : 100%;
+  }
+
+  b, strong {
+    font-variation-settings   : "opsz" var(--prose-opsz),
+                                "wght" var(--prose-wght-bold);
+  }
+
+  :where(h1, h2, h3, h4, h5, h6) {
+    font-family               : title;
+    font-variation-settings   : "opsz" var(--title-opsz),
+                                "wght" var(--title-wght-base);
+
+    & :is(b, strong) {
+      font-variation-settings : "opsz" var(--title-opsz),
+                                "wght" var(--title-wght-bold);
+    }
+  }
+
+  body {
+    background-color        : light-dark(#F2F5E4, #0B1915);
+    contain                 : inline-size;
+    margin                  : 0 auto;
+    max-inline-size         : 70ch;
+    min-height              : 100%;
+    padding                 : 2ch;
+  }
+
+  main {
+    & p {
+      text-align            : justify;
+      text-justify          : inter-character;
+    }
+  }
+
+  footer {
+    animation-direction       : alternate;
+    animation-duration        : 7s;
+    animation-iteration-count : infinite;
+    animation-name            : thing;
+    animation-timing-function : cubic-bezier(0.85, 0.25, 0.33, 1.25);
+    background-color          : #487210;
+    color                     : azure;
+    font-size                 : 0.75rem;
+    font-variation-settings   : initial;
+    letter-spacing            : 0.8px;
+    margin-block              : 2em;
+    padding                   : 4em;
+    text-align                : center;
+
+    & :any-link {
+      font-size: larger;
+      color: rgb(11, 25, 21);
+      margin-inline: 2ch;
+      white-space: nowrap;
+    }
+  }
+
+  header {
+    margin-block-end: 2rem;
+
+    & h1 {
+      font-size                 : 3rem;
+      margin                    : 0;
+      margin-block-end: 2rem;
+    }
+  }
+
+  table {
+    border-collapse         : collapse;
+    font-family             : table;
+    font-optical-sizing     : auto;
+    font-size               : 0.8rem;
+    font-variant-numeric    : tabular-nums;
+    font-variation-settings : initial;
+    font-weight             : 222;
+  }
+
+  td, th {
+    border          : 1px solid color(from currentcolor srgb r g b / 0.25);
+    padding-block   : 0.25rem;
+    padding-inline  : 0.50rem;
+  }
+
+  :any-link {
+    color                     : light-dark(#0F7C92, #66D678);
+    text-decoration-color     : color(from currentcolor srgb r g b / 0.75);
+    text-decoration-skip-ink  : auto;
+    text-decoration-thickness : from-font;
+    text-underline-offset     : 20%;
+    text-underline-position   : from-font;
+  }
+
+  table :any-link {
+    text-underline-offset     : auto;
+  }
+
+  .icon {
+    width: 2em;
+    height: 2em;
+    vertical-align: -0.125em;
+  }
+
+  @media screen and (min-width: 940px) {
+    body {
+      max-inline-size: 114ch;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: center;
+
+      & > aside {
+        flex: 0 0 30ch;
+        inline-size: 30ch;
+        margin-inline-end: 4ch;
+      }
+    }
+
+    header {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+
+    & h1 {
+      margin-inline-end: 4ch;
+      margin-block-end: 0;
+    }
+  }
+  }
+}
+
+
+
+/*
+
+@property --axis-opsz {
+  inherits      : true;
+  initial-value : auto;
+  syntax        : "auto | <integer>";
+}
+
+@property --axis-wght {
+  inherits      : true;
+  initial-value : auto;
+  syntax        : "auto | <integer>";
+}
+
+:where(*|*, *|*::after, *|*::before) {
+  --prose-opsz: calc(
+      5.990597E-0
+    + 9.828644E-3 *     var(--title-opsz)
+    + 2.509068E-3 * pow(var(--title-opsz), 2)
+    - 3.262996E-5 * pow(var(--title-opsz), 3)
+    + 3.863968E-8 * pow(var(--title-opsz), 4)
+    + 1.658885E-9 * pow(var(--title-opsz), 5));
+
+  --title-opsz: 80;
+  --title-opsz: clamp(0, var(--axis-opsz), 100);
+
+  --font-variation-settings:
+    "opsz" var(--prose-opsz),
+    "wght" var(--prose-wght);
+}
+
+*/
+
+/*
+
+:root {
+  font-family : prose;
+  font-size   : 12pt;
+  line-height : calc(4/3);
+  text-align  : justify;
+}
+
+body {
+  padding: 1ic;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family : title;
+  font-size   : 60px;
+  font-weight : 380;
+  font-optical-sizing: auto;
+}
+
+*/

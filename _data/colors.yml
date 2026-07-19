@@ -1,0 +1,94 @@
+# THEME COLOR CONSTANTS ########################################################
+#
+# It’s not the case that any given color or color component constants would need
+# to be made available to the templating engine. Fer the most part, defining ’em
+# in CSS as custom property values of :root would be just fine. But sometimes it
+# is useful or necessary to elevate color values to the templating layer. In two
+# cases in particular that relate to initial and ongoing presentation of not the
+# contents of the/a document but rather the surrounding, underlying, or overlaid
+# browser chrome, it’s a particularly common need.
+#
+# 1. Some user agents accept a hint about how they might style browser UI chrome
+#    in a manner consonant with author-styled content of the viewport. It’s most
+#    common in browsers specific to mobile platforms, I believe, but IIRC Safari
+#    desktop might leverage author-specified “theme colors” when styling its own
+#    tabs. This is communicated to the user agent early in the document’s <head>
+#    with one or more <meta name="theme-color"> elements whose `content` content
+#    attribute values it will parse with the CSS grammar’s `<color>` nonterminal
+#    as the goal symbol. One would include more than one only where also setting
+#    their `media` content attribute values to media queries if the value chosen
+#    should vary on account of e.g. `(prefers-color-scheme: dark)`. In theory, a
+#    <color> value will fail to successfully resolve if it depends on any facets
+#    of application state or other subresources, so referencing var(--something)
+#    isn’t supposed to work. A notable exception in practice: in Blink, computed
+#    values dependent on document/CSSOM state are successfully resolved in a lot
+#    of scenarios, and according to fairly intuitive (but unspecified) logic. In
+#    desktop browsers the “theme color” isn’t generally leveraged outside of PWA
+#    views, but IIRC, Safari desktop uses it to style the tabs in its UI chrome.
+#    It’s more common though fer the user agent to leverage “theme color” values
+#    on mobile platforms where browser chrome can easily seem claustrophobic and
+#    distractingly conspicuous if the palette is wildly at odds with in-viewport
+#    styling. To the user agent, this value is a *hint*, note, and it might e.g.
+#    make use of the hue directly while scaling and clamping the chromaticity or
+#    luminosity of the color to ensure adequate contrast or to prevent spoofing.
+#    The corresponding constants here are named HINT_CHROME_LM & HINT_CHROME_DM,
+#    as this is a much more accurate description of what the colors might end up
+#    used fer and how — they need not actually be equal to the “theme” (which is
+#    to say, “accent”) color from a general design POV.
+#
+# 2. The root object of a web manifest can include a "theme_color" property that
+#    has the same semantics as one specified using <meta name="theme-color"> but
+#    which is truly independent of any specific document at all, and this cannot
+#    reference application state even in Blink-based user agents — but by virtue
+#    of being manfiest-scope-wide, the user agent can extend its use accordingly
+#    to influence additional platform-specific UI chrome such as might come into
+#    play if installed as an application, “saved to homescreen”, or “favorited”.
+#    The manifest object can also include "background_color" property specifying
+#    a hint about the color to use as the initial window/viewport (the “canvas”,
+#    in UI parlance) color. This mostly relates to standalone display modes that
+#    would only arise if installed (i.e. fer PWAs), but user agents could freely
+#    employ it regardless in scenarios where it may improve user experience. The
+#    two values can help them reduce risks of FUOC (“flash of unstyled content”)
+#    effects which are especially prone to be jarring when the initial canvas is
+#    pure white by default yet the site/app, once subresources are fetched, ends
+#    up having a dark background (perhaps conditionally on an expressly declared
+#    user preference that might be OS, browser, or site scoped, with the last of
+#    those requiring ES to run (typically later than CSS based document styling)
+#    in engines that haven’t yet implemented the PreferenceManager API, which is
+#    still only implemented in canary browsers or behind flags presently). FUOCs
+#    tend to be experienced as unsettling jank by sighted users even if the FUOC
+#    was very brief or didn’t rise to the level of their conscious attention, so
+#    mitigations are worthwhile even if only a progressive enhancement that only
+#    help in a minority of cases, and the canvas color can cut down on it a lot.
+#    The constants corresponding to the web manifest "background_color" property
+#    here are HINT_CANVAS_LM and and HINT_CANVAS_DM. One generates manifests fer
+#    both and uses the <link> element’s `media` content attribute to select ’em.
+#
+# The alpha channel must always be 1 fer sitewide hint colors given their use in
+# UA chrome and OS window painting, but they can still be expressed with any CSS
+# <color> syntax whose that has no dependencies on application state. The colors
+# actually specified here are tentative.
+
+HINT_CANVAS_DM : "oklch(015% 005% 125deg)" # Nocturnal Greenblack
+HINT_CANVAS_LM : "oklch(095% 003% 120deg)" # Dew Fogged Alabaster
+HINT_CHROME_DM : "oklch(035% 020% 125deg)" # Disused Dinosaur Toy
+HINT_CHROME_LM : "oklch(040% 030% 120deg)" # Devonian Shadow Fern
+
+# COLOR MARK CONSTANTS #########################################################
+#
+# These color constants (~ “color marks”) are associated with brand/organization
+# visual identities. They’re used — or can be used — to fill corresponding icons
+# accompanying external links listed in the footer.
+#
+# These colors are sourced directly from brand asset pages where applicable, and
+# otherwise are taken from icons and logos active in use by a party in question.
+# Note that Bluesky’s assets vary between #006AFF, #0A7AFF, #0F73FF, and #1185FE
+# with no obvious rhyme or reason and often on a single page, and as they do not
+# have a branding page (rather surprising to me) there’s no way to know which is
+# the color they actually intend. They’re nearly identical visually in any case.
+
+MARK_BLUESKY : "#006AFF" # brandeis blue
+MARK_GIT_HUB : "#0FBF3E" # kelly green ← 🆕
+MARK_ITCH_IO : "#FA5C5C" # watermelon candy
+MARK_MATRIX  : "#000000" # lazy nerds black
+MARK_STOAT   : "#272038" # charred eggplant

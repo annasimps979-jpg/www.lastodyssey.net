@@ -1,0 +1,37 @@
+---
+title: Injuries
+
+permalink: /srd/combat/injuries
+
+abstract: >-
+    The mechanics of injuries and being downed.
+---
+
+When a [character](/srd/glossary#term-character) drops to 0 [HP](/srd/heroes/numbers#term-hp) during [combat](/srd/combat), they are considered _<dfn id="term-downed">downed</dfn>._  When a character is downed, all of the effects applied to them are removed, including [charms](/srd/combat/glamors#term-charm), [hexes](/srd/combat/glamors#term-hex), [Shells](/srd/combat/shells), and [statuses](/srd/combat/statuses), with the exception of [Poisoned](/srd/combat/statuses#term-poisoned), [Frostbitten](/srd/combat/statuses#term-frostbitten), and [Burned](/srd/combat/statuses#term-burned).  They cannot act, and cannot be the target of any [abilities](/srd/glossary#term-ability), [items](/srd/economy/the-party/inventory/battle), or other effects except those which revive downed characters.  When a character is revived during [battle](/srd/glossary#term-battle), they take the place they previously occupied in the [Initiative Order](/srd/combat/starting#term-initiative-order), and will act on the first [turn](/srd/combat/round#term-turn) they have after the turn of the character that revived them.  In addition, if they had any AP left when downed, they regain exactly 1 AP that they can use during an extra turn at the end of the round.  For all intents and purposes, this counts as a [held turn](/srd/combat/round#term-hold-ap).
+
+## The Injury Table
+
+If a downed character is not revived before the end of a battle and does not undergo [True Death](/srd/anima/true-death), they will come back to life at 1 HP after the battle is over but at the cost of sustaining an _<dfn id = "term-injury">injury</dfn>._  An injury is a penalty to one of a character's [statistics](/srd/glossary#term-statistic) that remains until it is healed.  When a character gains a new injury, cast 1d12 and consult the table below to determine the effect.
+
+|  Result  |  Injury  |
+|:---------|:---------|
+|1|The character's max HP is reduced by 5.|
+|2|The character's max [MP](/srd/heroes/numbers#term-mp) is reduced by 5.|
+|3|The character's [Initiative](/srd/heroes/numbers#term-initiative) is reduced by 1.|
+|4|The character's [Physical Attack](/srd/heroes/numbers#term-strike) is reduced by 1.|
+|5|The character's [Magical Attack](/srd/heroes/numbers#term-spell) is reduced by 1.|
+|6|The character's [Physical Defense](/srd/heroes/numbers#term-physical-defense) is reduced by 1.|
+|7|The character's [Magical Defense](/srd/heroes/numbers#term-magical-defense) is reduced by 1.|
+|8|The character's [Evasion](/srd/heroes/numbers#term-evasion) is reduced by 1.|
+|9|The character's [Resistance](/srd/heroes/numbers#term-resistance) is reduced by 1.|
+|10|The character's [Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy) is reduced by 1.|
+|11|The character's [Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy) is reduced by 1.|
+|12|The character's [Status Accuracy](/srd/heroes/numbers#term-status-accuracy) is reduced by 1.|
+
+## Healing Injuries
+
+A character can theoretically sustain an infinite number of injuries in battle.  Still, no injury can ever reduce their HP or MP below 1, and can never reduce their Initiative below 0.  While a character is traveling, other characters can heal their injuries by treating them during the [Camping Phase](/srd/exploration/travel/round#term-camping-phase) of each round of travel.  Otherwise, in order to have their injuries treated, characters must either pay a doctor for services or rest in a proper shelter.  When characters recover injuries, they recover them in the order they were received.
+
+## Injuries Outside of Combat
+
+A character cannot be reduced below 1 HP outside of combat.  However, they can still sustain injuries if they take additional damage while they are at 1 HP.  In general, they will take one additional injury every time they take damage that would make them drop to 0.  The exception to this is when they are killed by either a [Villain](/srd/anima/antagonists/villains) or [Monster](/srd/anima/antagonists/monsters) by certain abilities.  If so, then they will instead undergo True Death.
