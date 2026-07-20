@@ -35,6 +35,8 @@ Last Odyssey follows contemporary TTRPG structure, in the sense that the GM is t
 
 ## Acknowledgements
 
+So far, my contributing illustrators have been Luna P, who drew the Pelagic Shard logo, and Lilith D, and Billy Valentine, who contributed illustration work and consulted on the design of the Last Odyssey logo.
+
 Closed playtests are still ongoing&mdash;a big thank you to the participants, whose names I, as of writing this, do not have permission to disclose, who have already given me a lot of thoughtful feedback to incorporate.
 
 Special shout out to Billy and Diane for their technical help as well as Billy for his general guidance; to Lottie, for keeping me humble; to Irving, for telling me I could do it; to Andrew, for telling me how to do it; to everyone who believed in me.
