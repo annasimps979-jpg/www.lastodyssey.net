@@ -170,7 +170,7 @@
   }
 
   :any-link {
-    color                     : light-dark(#0F7C92, #66D678);
+    color                     : light-dark(#0F798E, #66D678);
     text-decoration-color     : color(from currentcolor srgb r g b / 0.75);
     text-decoration-skip-ink  : auto;
     text-decoration-thickness : from-font;
