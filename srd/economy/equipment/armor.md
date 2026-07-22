@@ -41,10 +41,10 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 ## Armor Pricing
 
-Novice armor costs 50 ¤, Standard armor costs 250 ¤, and Expert armor costs 1,250 ¤.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
+Novice armor costs 50 <abbr title = "currency">¤</abbr>, Standard armor costs 250 <abbr title = "currency">¤</abbr>, and Expert armor costs 1,250 <abbr title = "currency">¤</abbr>.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
 
 <table>
-    <caption>Armor Cost in ¤</caption>
+    <caption>Armor Cost in <abbr title = "currency">¤</abbr></caption>
     <tr>
         <td></td>
         <td colspan=4><b>Total Upgrade Value</b></td>

@@ -27,4 +27,4 @@ While they are Healers, [Heroes](/srd/glossary#term-hero) gain the following bon
 |7|Raise Dead|Ally|7 MP, 1 AP|The Healer revives a single downed target back to half its current maximum HP, rounded down.|
 |8|Multiheal|Multi|7 MP, 2 AP|The Healer heals themselves and all allies for an amount of HP equal to the Healer's Magical Attack.|
 |9|Treatment|Ally|9 MP, 1 AP|The Healer removes all statuses from a single target, and resets the Bonus Tracker for all of the target's statistics back to +0.|
-|10|Second Chance|Multi|1 [🜉](/srd/anima#term-anima), 2 AP|The eidolon revives all downed [party](/srd/glossary#term-party) members, removes all statuses from them, resets the Bonus Tracker for all of their statistics, and brings them back to full HP.|
+|10|Second Chance|Multi|1 [<abbr title = "anima">🜉</abbr>](/srd/anima#term-anima), 2 AP|The eidolon revives all downed [party](/srd/glossary#term-party) members, removes all statuses from them, resets the Bonus Tracker for all of their statistics, and brings them back to full HP.|

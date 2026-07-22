@@ -56,7 +56,7 @@ The Artificer's core virtue is their **Knowledge.**  At [Hero creation](/srd/her
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Target Acquired|Multi|1 🜉, 2 AP|The eidolon uses Scan on all opponents on the battlefield.  Every affected warrior will be Scanned for the remainder of the [battle](/srd/glossary#term-battle) unless the effect is removed by an ability.|
+|Target Acquired|Multi|1 <abbr title = "anima">🜉</abbr>, 2 AP|The eidolon uses Scan on all opponents on the battlefield.  Every affected warrior will be Scanned for the remainder of the [battle](/srd/glossary#term-battle) unless the effect is removed by an ability.|
 
 ## Talents
 

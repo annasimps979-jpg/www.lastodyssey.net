@@ -50,10 +50,10 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons are those that augment a
 
 ## Weapon Pricing
 
-Novice weapons cost 10 ¤, Standard weapons cost 100 ¤, and Expert weapons cost 1,000 ¤.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
+Novice weapons cost 10 <abbr title = "currency">¤</abbr>, Standard weapons cost 100 <abbr title = "currency">¤</abbr>, and Expert weapons cost 1,000 <abbr title = "currency">¤</abbr>.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
 
 <table>
-    <caption>Weapon Cost in ¤</caption>
+    <caption>Weapon Cost in <abbr title = "currency">¤</abbr></caption>
     <tr>
         <td></td>
         <td colspan=4><b>Total Upgrade Value</b></td>

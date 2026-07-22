@@ -22,7 +22,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers a total amount of [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) equal to up to 5 times their [tier](/srd/heroes/creation#term-tier) against an opponent, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the GM both cast [the outcome die](/srd/glossary#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
+|Gamble|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Harlequin wagers a total amount of [HP](/srd/heroes/numbers#term-hp), [MP](/srd/heroes/numbers#term-mp) and [Shell](/srd/combat/shells) equal to up to 5 times their [tier](/srd/heroes/creation#term-tier) against an opponent, who must either match the Harlequin's wager or wager the rest of what they have.  Then, the player and the <abbr title="game master">GM</abbr> both cast [the outcome die](/srd/glossary#term-outcome-die).  The corresponding character with the lower result loses what they wagered.  If the result is a tie, nothing happens.|
 
 **Tier 2:** The Harlequin gains +1 Status Accuracy.
 
@@ -56,7 +56,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Spin the Revolver|Ranged|1 🜉, 2 AP|The Harlequin's player chooses an opponent and casts 1d6.  If the result is a 6, the target takes damage equal to quadruple the [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/numbers#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  This process is repeated until either the eidolon or the target have taken damage.|
+|Spin the Revolver|Ranged|1 <abbr title = "anima">🜉</abbr>, 2 AP|The Harlequin's player chooses an opponent and casts 1d6.  If the result is a 6, the target takes damage equal to quadruple the [eidolon's](/srd/heroes/eidolons#term-eidolon) [Magical Attack](/srd/heroes/numbers#term-spell).  If not, the player casts the die again.  If the result is a 6, then the eidolon takes damage equal to quadruple its Magical Attack.  This process is repeated until either the eidolon or the target have taken damage.|
 
 ## Talents
 
@@ -66,7 +66,7 @@ The Harlequin's core virtue is their **Daring.**  At [Hero creation](/srd/heroes
 
 **[Healer](/srd/heroes/roles/healer):** Bet Your Life.  When the Harlequin heals an ally with a [blessing](/srd/heroes/roles/healer#term-blessing), their player may call a number and then cast the outcome die.  If the result is less than what they called, the amount of healing the character receives is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing the character receives is increased by the number they called.
 
-**[Defender](/srd/heroes/roles/defender):** Call Bluff.  When a Taunted opponent attacks the Harlequin with a strike or spell, their player may cast the outcome die before the [GM](/srd/glossary#term-gm) casts the [hit die](/srd/combat/attacks#term-hit-die).  If the result is less than the GM's, the attack misses.  Otherwise, if the attack hits, the Harlequin takes double damage.
+**[Defender](/srd/heroes/roles/defender):** Call Bluff.  When a Taunted opponent attacks the Harlequin with a strike or spell, their player may cast the outcome die before the <abbr title="game master">[GM](/srd/glossary#term-gm)</abbr> casts the [hit die](/srd/combat/attacks#term-hit-die).  If the result is less than the <abbr title="game master">GM</abbr>'s, the attack misses.  Otherwise, if the attack hits, the Harlequin takes double damage.
 
 **Support:** Random Charm.  When the Harlequin uses a charm, their player may cast on the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to determine which [statistic](/srd/glossary#term-statistic) the ability affects.
 

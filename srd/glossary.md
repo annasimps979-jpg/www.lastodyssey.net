@@ -13,12 +13,12 @@ abstract: >-
 *  Any agent that can act during battles, exploration, or the narrative at large is called a _<dfn id="term-character">character</dfn>._
 *  A _<dfn id="term-player-character">player character</dfn>,_ or a <dfn> <abbr title="Hero">PC</abbr> for short, is a character played by one of the players.  In Last Odyssey, player characters are referred to as _<dfn id = "term-hero">Heroes</dfn>_.
 *  A _<dfn id="term-party">party</dfn>_ is a group of Heroes and their players.  They are the protagonists of the game's narrative.
-*  A _<dfn id="term-npc">non-player character</dfn>,_ or <abbr title="non-Hero">NPC</abbr> for short, is any character in the story who is not played by a player.  Not all NPCs have statistics, only those who are capable of standing up to the players in a fight.
-*  The _<dfn id="term-gm">Game Master</dfn>,_ or <abbr title="game master">GM</abbr> for short, is the person or people responsible for describing the world that the PCs inhabit and the behavior of any NPCs.  In Last Odyssey, one person is designated as the GM at a time.
-*  The _<dfn id="term-facilitator">facilitator</dfn>_ is the person, group, or organization responsible for coordinating the logistics of a roleplaying game.  In at-home games, this role is often taken on by the GM or one of the players, and is sometimes shared among the entire group.  Other times, the facilitator might be a game store, a convention, a parent or guardian, a forum administrator, or a volunteer tabletop gaming society.  All roleplaying games require a facilitator.
+*  A _<dfn id="term-npc">non-player character</dfn>,_ or <abbr title = "non-player character">NPC</abbr> for short, is any character in the story who is not played by a player.  Not all <abbr title = "non-player character">NPC</abbr>s have statistics, only those who are capable of standing up to the players in a fight.
+*  The _<dfn id="term-gm">Game Master</dfn>,_ or <abbr title="game master">GM</abbr> for short, is the person or people responsible for describing the world that the <abbr title = "player character">PC</abbr>s inhabit and the behavior of any <abbr title = "non-player character">NPC</abbr>s.  In Last Odyssey, one person is designated as the <abbr title="game master">GM</abbr> at a time.
+*  The _<dfn id="term-facilitator">facilitator</dfn>_ is the person, group, or organization responsible for coordinating the logistics of a roleplaying game.  In at-home games, this role is often taken on by the <abbr title="game master">GM</abbr> or one of the players, and is sometimes shared among the entire group.  Other times, the facilitator might be a game store, a convention, a parent or guardian, a forum administrator, or a volunteer tabletop gaming society.  All roleplaying games require a facilitator.
 *  A _<dfn id="term-session">session</dfn>_ is a continuous length of time in which Last Odyssey is played.  When a session ends is up to the needs of the group, but a typical session of Last Odyssey will last at least an hour and a half, and usually will take longer.  In contemporary terms, each session of a roleplaying game is like a single episode of television, with a distinct beginning, middle, and end.
 *  An _<dfn id="term-adventure">adventure</dfn>_ is one or more sessions that are tied together by an overarching narrative.  An adventure is also the smallest unit of playtime that Last Odyssey is built to handle.
-*  A _<dfn id="term-campaign">campaign</dfn>_ is a string of adventures featuring a shared set of PCs, a shared world, and an overarching narrative of some kind.  Last Odyssey is at its best when used as a way to run campaigns.
+*  A _<dfn id="term-campaign">campaign</dfn>_ is a string of adventures featuring a shared set of <abbr title = "player character">PC</abbr>s, a shared world, and an overarching narrative of some kind.  Last Odyssey is at its best when used as a way to run campaigns.
 *  When the rules call for a decision to be made by _<dfn id="term-fiat">fiat</dfn>,_ it means that it will be decided based on what makes sense for their story, rather than referring to the rules.
 *  A discrete instance of combat in Last Odyssey is called a _<dfn id="term-battle">battle</dfn>._
 
@@ -27,6 +27,13 @@ abstract: >-
 *  A _<dfn id="term-statistic">statistic</dfn>_ is a number from one to twelve that represents a specific capability in combat.
 *  An _<dfn id="term-action">action</dfn>_ is a single, discrete thing that a character does during play.  Depending on what phase of gameplay you are in, characters are allowed to take different actions.
 *  _<dfn id="term-ability" title="ability">Abilities</dfn>_ are discrete actions that some characters can take that supplement the actions that all characters can take.
+
+## Symbols
+
+There are three special symbols that this text will use to represent the exchange values characters will earn and spend throughout the game.  They are as follows:
+*   🜉 represents [Anima.](/srd/anima)
+*   🜹 represents [experience.](/srd/discovery/earning-xp)
+*   ¤ represents [currency.](/srd/economy/currency)
 
 ## Base Numbers
 
