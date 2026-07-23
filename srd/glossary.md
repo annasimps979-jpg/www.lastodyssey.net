@@ -11,7 +11,7 @@ abstract: >-
 
 *  A _<dfn id="term-player">player</dfn>_ is a participant who plays a fixed number of characters within the setting.  In Last Odyssey, each player plays one of the story's protagonists.
 *  Any agent that can act during battles, exploration, or the narrative at large is called a _<dfn id="term-character">character</dfn>._
-*  A _<dfn id="term-player-character">player character</dfn>,_ or a <dfn> <abbr title="Hero">PC</abbr> for short, is a character played by one of the players.  In Last Odyssey, player characters are referred to as _<dfn id = "term-hero">Heroes</dfn>_.
+*  A _<dfn id="term-player-character">player character</dfn>,_ or a <abbr title="player character">PC</abbr> for short, is a character played by one of the players.  In Last Odyssey, player characters are referred to as _<dfn id = "term-hero">Heroes</dfn>_.
 *  A _<dfn id="term-party">party</dfn>_ is a group of Heroes and their players.  They are the protagonists of the game's narrative.
 *  A _<dfn id="term-npc">non-player character</dfn>,_ or <abbr title = "non-player character">NPC</abbr> for short, is any character in the story who is not played by a player.  Not all <abbr title = "non-player character">NPC</abbr>s have statistics, only those who are capable of standing up to the players in a fight.
 *  The _<dfn id="term-gm">Game Master</dfn>,_ or <abbr title="game master">GM</abbr> for short, is the person or people responsible for describing the world that the <abbr title = "player character">PC</abbr>s inhabit and the behavior of any <abbr title = "non-player character">NPC</abbr>s.  In Last Odyssey, one person is designated as the <abbr title="game master">GM</abbr> at a time.

@@ -22,7 +22,7 @@ The Sage's core virtue is their **Wisdom.**  At [Hero creation](/srd/heroes/crea
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Grimoire|[Passive](/srd/combat/attacks#term-passive)|N/A|In addition to [MP](/srd/heroes/numbers#term-mp), the Sage also has a number of Spell Slots equal to their current tier. When they use a [spell](/srd/combat/attacks#term-spell), including spells from [flex powers](/srd/heroes/advancement#term-flex-power), they may expend a single Spell Slot instead of paying the MP cost.|
+|Grimoire|[Passive](/srd/combat/attacks#term-passive)|N/A|In addition to [MP](/srd/heroes/numbers#term-mp), the Sage also has a number of Spell Slots equal to their current tier. When they use a [spell](/srd/combat/attacks#term-spell), including spells from [feats](/srd/heroes/advancement#term-feat), they may expend a single Spell Slot instead of paying the MP cost.|
 
 **Tier 2:** The Sage gains +1 Magical Attack.
 

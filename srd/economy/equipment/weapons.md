@@ -50,13 +50,13 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons are those that augment a
 
 ## Weapon Pricing
 
-Novice weapons cost 10 <abbr title = "currency">¤</abbr>, Standard weapons cost 100 <abbr title = "currency">¤</abbr>, and Expert weapons cost 1,000 <abbr title = "currency">¤</abbr>.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
+Novice weapons cost 10 <abbr title = "currency">¤</abbr>, Standard weapons cost 100 <abbr title = "currency">¤</abbr>, and Expert weapons cost 1,000 <abbr title = "currency">¤</abbr>.  Each 1-slot upgrade multiplies the cost of a weapon by 2, each 2-slot 2 upgrade multiplies the cost of a weapon by 4, and each 3-slot upgrade multiplies the cost of a weapon by 8.
 
 <table>
     <caption>Weapon Cost in <abbr title = "currency">¤</abbr></caption>
     <tr>
         <td></td>
-        <td colspan=4><b>Total Upgrade Value</b></td>
+        <td colspan=4><b>Occupied Upgrade Slots</b></td>
     </tr>
     <tr>
         <td><b>Grade</b></td>
@@ -93,13 +93,13 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 
 |Name|Description|
 |:-|:-|
-|Keen|This upgrade gives a bonus to either the wearer's Status, Magical, or Physical Accuracy whose value depends on its [UV](/srd/economy/equipment/upgrades#term-upgrade-value).  UV 1 gives a +1, UV 2 gives a +3, and UV 3 gives a +5.|
-|Extra Ability|When a character wields a weapon with this upgrade, they are able to use an extra [flex power](/srd/heroes/character-advancmement#term-flex-power), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/glossary#term-ability) at its normal [MP](/srd/heroes/numbers#term-mp) cost.  At UV 1, the ability is earned at of rank 1-3 of the role or archetype that can use it, at UV 2 the ability is earned at rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
-|Fast|This upgrade gives a bonus to the wielder's [Initiative](/srd/heroes/numbers#term-initiative).  At UV 1, the bonus is +1, at UV 2 the bonus is +2, and at UV 3 the bonus is +3.|
-|Sharpened|After the wielder hits a target with a [strike](/srd/combat/attacks#term-strike) while wielding a weapon with this upgrade, they may add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +3 extra damage, and UV 3 gives +5 extra damage.|
-|Energized|After the wielder hits a target with a [spell](/srd/combat/attacks#term-spell) while wielding a weapon with this upgrade, they may add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +3 extra damage, and UV 3 gives +5 extra damage.|
+|Keen|This upgrade gives a bonus to either the wearer's Status, Magical, or Physical Accuracy whose value depends how many [slots](/srd/economy/equipment/upgrades#term-slot) it occupies.  The 1-slot version gives a +1, the 2-slot gives a +3, and the 3-slot gives a +5.|
+|Extra Ability|When a character wields a weapon with this upgrade, they are able to use an extra [feat](/srd/heroes/character-advancmement#term-feat), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/glossary#term-ability) at its normal [MP](/srd/heroes/numbers#term-mp) cost.  The 1-slot version of this upgrade grants an ability earned at of rank or tier 1-3 of the role or archetype that can use it, respectively, the 2-slot version grants an ability earned at rank or tier 4-6, and the 3-slot version grants an ability earned at rank or tier 7-9.  Feats always take up 1 slot.|
+|Fast|This upgrade gives a bonus to the wielder's [Initiative](/srd/heroes/numbers#term-initiative).  The 1-slot version of this upgrade grants a bonus of +1, the 2-slot version grants a bonus of +2, and the 3-slot version grants a bonus of +3.|
+|Sharpened|After the wielder hits a target with a [strike](/srd/combat/attacks#term-strike) while wielding a weapon with this upgrade, they may add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) determined by the number of slots the upgrade takes up.  The 1-slot version grants +1 extra damage, the 2-slot version grants +3 extra damage, and the 3-slot version grants +5 extra damage.|
+|Energized|After the wielder hits a target with a [spell](/srd/combat/attacks#term-spell) while wielding a weapon with this upgrade, they may add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the number of slots this upgrade takes up.  The 1-slot version of this upgrade grants +1 extra damage, the 2-slot version grants +3 extra damage, and the 3-slot version grants +5 extra damage.|
 
-### UV 1
+### 1-Slot
 
 |Name|Description|
 |:-|:-|
@@ -109,21 +109,21 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 |Toxic|When the wielder hits a target with a basic attack, it also inflicts one level of the [hex](/srd/combat/glamors#term-hex) specified by this upgrade.  This ability cannot stack, but a weapon can have this effect for multiple different kinds of hexes at once.|
 |Pommel Guard|While wielding this weapon, a character is immune to abilities such as [Counter](/srd/heroes/jobs/defender) that reflect their abilities back at them.  However, when a target successfully reflects one of their abilities, its effect is still negated.|
 
-### UV 2
+### 2-Slot
 
 |Name|Description|
 |:-|:-|
 |Cursed|When the wielder hits a target with this weapon's basic attack, they also inflict the [status](/srd/combat/statuses) specified by this upgrade.|
-|Blunt|This weapon's basic attack is replaced with an ability that makes a Melee strike against a single target.  On a hit, this attack does not do damage, but instead reduces the [AP](/srd/combat/round#term-ap) that the target can use during its next [turn](/srd/combat/round#term-turn) by one.  The wielder can hit a target with this attack multiple times per turn, but they cannot reduce its AP below zero.|
+|Enchanted|In addition to their regular basic attack, the wielder of this weapon may also make a Melee strike against a single target that deals colorless [magical damage](/srd/combat/attacks#term-magical-damage) instead colorless physical damage.  Their Physical Accuracy still applies to the attack, and their Physical Attack is still what determines the bonus to its damage.|
 |Ambushing|At the beginning of a [battle](/srd/glossary#term-battle), the wielder may make a free basic attack against any of their opponents before the [Initiative Order](/srd/combat/starting#term-initiative-order) is determined.  If their [party](/srd/glossary#term-party) has [First Strike](/srd/combat/starting#term-first-strike), they may make this attack for free during the First Strike round in addition to any other [actions](/srd/glossary#term-action).|
 |Standard Issue|Weapons with this upgrade can be wielded by any character, regardless of whether or not that character is proficient in using weapons of its type.|
 |Sensor Array|When the wielder hits a target with a basic attack while using this weapon, it automatically inflicts the [Scan](/srd/heroes/archetypes/artificer) ability in addition to its usual damage.|
 
-### UV 3
+### 3-Slot
 
 |Name|Description|
 |:-|:-|
-|Reach|The user's Melee abilities can hit targets in the [back row](/srd/combat/starting#term-back-row) or the [front row](/srd/combat/starting#term-front-row) while the wielder is in the front row, and can also hit targets in the front row while the wielder is in the back row.|
+|Reach|The user's basic attack can hit targets in the [back row](/srd/combat/starting#term-back-row) or the [front row](/srd/combat/starting#term-front-row) while the wielder is in the front row, and can also hit targets in the front row while the wielder is in the back row.|
 |Heavy|This weapon's basic attack costs 2 AP to use instead of 1, but deals 3x its base damage in addition to other multipliers on a hit.|
 |Primordial|When the wielder makes a basic attack while wielding this weapon, they may decide the element of the resulting damage.  However, the damage's element cannot be colorless.|
 |Laser|This weapon's basic attack deals 2x damage to the target's Shell.|
@@ -134,14 +134,14 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 |Name|Description|
 |:-|:-|
 |Temporal|Once per turn, not including [held turns](/srd/combat/round#term-hold-ap), the wielder may reverse the effects of any abilities they used during their turn in order to regain all of their AP.|
-|Lunar|In addition to their regular basic attack, the wielder of this weapon gains an ability called Lunar Attack that makes a Melee strike against a single target that deals colorless [magical damage](/srd/combat/attacks#term-magical-damage) instead colorless physical damage.  Their Physical Accuracy still applies to the attack, and their Physical Attack is still what determines the bonus to its damage.|
+|Lunar|This weapon's basic attack is replaced with an ability called Lunar Strike that makes a Melee strike against a single target.  On a hit, this attack does not do damage, but instead reduces the [AP](/srd/combat/round#term-ap) that the target can use during its next [turn](/srd/combat/round#term-turn) by one.  This effect cannot stack with itself, but can stack with the effects of [Slowed](/srd/heroes/roles/saboteur).|
 |Vorpal|When the wielder makes a strike with this weapon, the damage they deal is calculated as though the target's Physical Defense were half its actual value, rounded down.|
 |Plasma|When the wielder uses a spell with this weapon, the damage they deal is calculated as though the target's Magical Defense were half its actual value, rounded down.|
 |Organic|When the wielder uses a [sleight](/srd/combat/attacks#term-sleight) while wielding this weapon, cast the [hit die](/srd/combat/attacks#term-hit-die) as though the target's Resistance were one half its actual value, rounded down.|
 |Vampiric|When the wielder hits a target with a strike while wielding this weapon, they also heal an amount of HP equal to the total damage they dealt to that target.|
 |Masterwork|This weapon is of unusual grade, even for an Expert weapon.  It gives the wearer an extra +2 to both Physical and Magical Attack.|
-|Explosive|When the wielder hits a target with this weapon's basic attack, every other target also takes damage as though they had been hit with a basic attack as well.|
-|Holy|When the wielder makes a basic attack with this weapon, its damage is not calculated as usual.  Instead, the wielder deals [1d100](/srd/glossary#term-d100) damage to the target that cannot be reflected, negated, guarded against, absorbed, or otherwise modified, including by normal damage modifiers.  If a target's [Shell](/srd/combat/shells) is broken in this manner, all rules for [Shellbreaking](/srd/combat/shells#term-shellbroken) still apply.|
+|Explosive|When the wielder hits a target with this weapon's basic attack, every other opponent also takes damage as though they had been hit with a basic attack as well.|
+|Holy|When the wielder makes a basic attack with this weapon, its damage is not calculated as usual.  Instead, the wielder deals [1d100](/srd/glossary#term-d100) damage divided by 3, rounded to the nearest integer.  If a target's [Shell](/srd/combat/shells) is broken in this manner, all rules for [Shellbreaking](/srd/combat/shells#term-shellbroken) still apply.|
 |Corrupted|Every ability that the wielder uses that has an element, statuses included, counts as having the [shadow](/srd/combat/elements#term-shadow) type.  Whenever the wielder [kills](/srd/anima/true-death) a target while wielding this weapon, it gains a stacking +1 base damage bonus to all damage done while wielding the weapon that stacks with each kill.  After the bonus hits +13, something happens.|
 
 ## Example Weapons
@@ -160,7 +160,7 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 
 ## Weapon Generation
 
-To generate a new random weapon, first choose the type and the Grade.  Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result with the table below until a number of upgrades have been generated whose total UV add up to the possible UV of the weapon.  If the result is a Variable upgrade, give the weapon the UV 1 version.  If the result is an upgrade that would put the total Upgrade Value of the weapon above its maximum, recast the die.  Do not generate Unique weapons randomly, as they are meant to have significance to the story.
+To generate a new random weapon, first choose the type and the Grade.  Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result with the table below until a number of upgrades have been generated that occupy all of the weapon's slots.  If the result is a Variable upgrade, give the weapon the 1-slot version.  If the result is an upgrade that would occupy more slots than the weapon has remaining, recast the die.  Do not generate Unique weapons randomly, as they are meant to have significance to the story.
 
 |Result|Upgrade|
 |:-|:-|
@@ -175,7 +175,7 @@ To generate a new random weapon, first choose the type and the Grade.  Then, cas
 |9|Toxic|
 |10|Pommel Guard|
 |11|Cursed|
-|12|Blunt|
+|12|Enchanted|
 |13|Ambushing|
 |14|Standard Issue|
 |15|Sensor Array|

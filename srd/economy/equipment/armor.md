@@ -41,13 +41,13 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 ## Armor Pricing
 
-Novice armor costs 50 <abbr title = "currency">¤</abbr>, Standard armor costs 250 <abbr title = "currency">¤</abbr>, and Expert armor costs 1,250 <abbr title = "currency">¤</abbr>.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
+Novice armor costs 50 <abbr title = "currency">¤</abbr>, Standard armor costs 250 <abbr title = "currency">¤</abbr>, and Expert armor costs 1,250 <abbr title = "currency">¤</abbr>.  Each 1-slot upgrade multiplies the cost of an armor set by 2, each 2-slot upgrade multiplies the cost of an armor set by 4, and each 3-slot upgrade multiplies the cost of an armor set by 8.
 
 <table>
     <caption>Armor Cost in <abbr title = "currency">¤</abbr></caption>
     <tr>
         <td></td>
-        <td colspan=4><b>Total Upgrade Value</b></td>
+        <td colspan=4><b>Occupied Slots</b></td>
     </tr>
     <tr>
         <td><b>Grade</b></td>
@@ -84,13 +84,13 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 
 |Name|Description|
 |:-|:-|
-|Reinforced|When the wearer is hit by a [strike](/srd/combat/attacks#term-strike) while wearing this armor, the damage they take is reduced by a fixed amount after all modifiers to the [base](/srd/glossary#term-base) damage are applied.  At [UV](/srd/economy/equipment/upgrades#term-upgrade-value) 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
-|Inscribed|When the wearer is hit by a [spell](/srd/combat/attacks#term-spell) while wearing this armor, the damage they take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 3, and at UV 3 this reduces damage by 5.|
-|Extra Ability|When a character wears armor with this upgrade, they are able to use a single [flex power](/srd/heroes/advancement#term-flex-power), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/glossary#term-ability) at its listed [MP](/srd/heroes/numbers#term-mp) cost.  At UV 1, the ability is earned at rank 1-3 of the role or archetype that can use it, at UV 2 the ability is earned at rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
-|Elemental Resistance|When a character wears this armor, they resist damage of the specified [element](/srd/combat/elements#term-element) based on the value of the upgrade.  At UV 1, damage dealt to them of that element is multiplied by 0.5, at UV 2 it is multiplied by 0.25, and at UV 3 they are completely immune.|
-|Infused|At the beginning of every [battle](/srd/glossary#term-battle) while wearing this armor, the wearer gains an amount of temporary [HP](/srd/heroes/numbers#term-hp) depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, they gain 5 HP, at UV 2 they gain 10, and at UV 3 they have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum [Shell](/srd/combat/shells) they can have during the battle.|
+|Reinforced|When the wearer is hit by a [strike](/srd/combat/attacks#term-strike) while wearing this armor, the damage they take is reduced by a fixed amount after all modifiers to the [base](/srd/glossary#term-base) damage are applied.  The 1-[slot](/srd/economy/equipment/upgrades#term-slot) version of this upgrade reduces damage by 1, the 2-slot version reduces damage by 3, and the 3-slot version this reduces damage by 5.|
+|Inscribed|When the wearer is hit by a [spell](/srd/combat/attacks#term-spell) while wearing this armor, the damage they take is reduced by a fixed amount after all modifiers to the base damage are applied.  The 1-slot version of this upgrade reduces damage by 1, the 2-slot version reduces damage by 3, and the 3-slot version reduces damage by 5.|
+|Extra Ability|When a character wears armor with this upgrade, they are able to use a single [feat](/srd/heroes/advancement#term-feat), [role](/srd/heroes/roles) ability, or [archetype](/srd/heroes/archetypes) [ability](/srd/glossary#term-ability) at its listed [MP](/srd/heroes/numbers#term-mp) cost.  The 1-slot version of this upgrade grants an ability is earned at rank 1-3 of the role or archetype that can use it, the 2-slot version grants an ability earned at rank 4-6, and the 3-slot version grants an ability which is earned at rank 7-9.  Feats always count as taking up 1 slot.|
+|Elemental Resistance|When a character wears this armor, they resist damage of the specified [element](/srd/combat/elements#term-element) based on the value of the upgrade.  The 1-slot version of this upgrade causes damage dealt to them of that element to be multiplied by 0.5, the 2-slot version multiplies it by 0.25, and the 3-slot version renders them immune.|
+|Infused|At the beginning of every [battle](/srd/glossary#term-battle) while wearing this armor, the wearer gains an amount of temporary [HP](/srd/heroes/numbers#term-hp) depending on the value of this upgrade.  This HP goes away at the end of the battle.  The 1-slot version gives 5 HP, the 2-slot version gives 10, and the 3-slot version gives 15 temporary HP every battle.  This temporary HP does not affect the maximum [Shell](/srd/combat/shells) they can have during the battle.|
 
-### UV 1
+### 1-Slot
 
 |Name|Description|
 |:-|:-|
@@ -100,7 +100,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Status Resistance|While a character is wearing this armor, the probability of a warrior inflicting a particular [status](/srd/combat/statuses) on them is reduced as though they were resistant to the effect's element.  This upgrade does not stack, but they can resist multiple statuses at once with different versions of this upgrade.|
 |Sealed|This armor lets the wearer function in an environment such as vacuum or underwater without suffering any negative effects.  This does not stack, but armors can be sealed to multiple environments at once.|
 
-### UV 2
+### 2-Slot
 
 |Name|Description|
 |:-|:-|
@@ -108,9 +108,9 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Proofed|A character gains +1 to their [Resistance](/srd/heroes/numbers#term-resistance) while they are wearing this armor.|
 |Fitted|Characters that do not have the correct proficiency to allow them to wear this armor may still wear it without any penalties.|
 |Plated|When a character is hit by an attack that does [colorless](/srd/combat/elements#term-colorless) [physical damage](/srd/combat/attacks#term-physical-damage), the damage it deals is multiplied by 0.5 in addition to any other multipliers.|
-|Status Immunity|When a character is wearing armor with this upgrade, they are immune to the specified status.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status.|
+|Status Immunity|When a character is wearing armor with this upgrade, they are immune to the specified status.  This upgrade is mutually exclusive with the 1-slot Status Resistance upgrade for the same status.|
 
-### UV 3
+### 3-Slot
 
 |Name|Description|
 |:-|:-|
@@ -145,7 +145,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Black Knight's Armor|Unique|Heavy|Corrupted, Plated, Element (Shadow)|
 
 ## Armor Generation
-To generate a new random piece of armor, first choose the type and the [Grade](/srd/economy/equipment#term-equipment-grade). Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result to the table below until a number of upgrades have been generated whose total UV adds up to the possible UV of the armor. If the result is a Variable upgrade, give the armor the UV 1 version. If the result is an upgrade that would put the total Upgrade Value of the armor above its maximum, recast the die.
+To generate a new random piece of armor, first choose the type and the [Grade](/srd/economy/equipment#term-equipment-grade). Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result to the table below until all of the piece of equipment's slots are occupied. If the result is a Variable upgrade, give the armor the 1-slot version. If the result is an upgrade that would occupy more slots than there are remaining, recast the die.
 
 |Result|Upgrade|
 |:-|:-|

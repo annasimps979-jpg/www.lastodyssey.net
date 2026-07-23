@@ -21,7 +21,7 @@ While they are Casters, [Heroes](/srd/glossary#term-hero) gain the following bon
 |:-|:-|:-|:-|:-|
 |1|Magic Missile|[Ranged](/srd/combat/attacks#term-ranged)|3 [MP](/srd/heroes/numbers#term-mp), 1 [AP](/srd/combat/round#term-ap)|The Caster uses a [colorless](/srd/combat/elements#term-colorless) spell against a single target.|
 |2|Elemental Bolt|Ranged|5 MP, 1 AP|The Caster uses a spell against a single target whose [element](/srd/combat/elements#term-element) is the same as their [base](/srd/glossary#term-base) element.|
-|3|Trained Spellcaster|[Passive](/srd/combat/attacks#term-passive)|N/A|The Caster's [flex powers](/srd/heroes/advancement#term-flex-power) that are spells cost 5 MP instead of 10 MP.|
+|3|Trained Spellcaster|[Passive](/srd/combat/attacks#term-passive)|N/A|The Caster's [feats](/srd/heroes/advancement#term-feat) that are spells cost 5 MP instead of 10 MP.|
 |4|Magic Chain|[Special](/srd/combat/attacks#term-special)|5 MP, 1 AP|The Caster uses a ranged, colorless spell against a single target.  If this results in the target becoming [Shellbroken](/srd/combat/shells#term-shellbroken), they may use this [ability](/srd/glossary#term-ability) again against another target without spending any MP or AP.|
 |5|Magic Burst|Ranged|7 MP, 1 AP|The Caster uses a colorless spell against a single target.  On a hit, the attack deals 2x damage in addition to other modifiers.|
 |6|Elemental Burst|Ranged|9 MP, 1 AP|The Caster uses a spell against a single target whose element is their element.  On a hit, the attack deals 2x damage in addition to other modifiers.|
