@@ -15,7 +15,7 @@ The purpose of <abbr title = "anima">🜉</abbr> is to manipulate fate in the He
 *  In combat, they must spend 1 <abbr title = "anima">🜉</abbr> per round to keep their eidolon on the field.
 *  In combat, they may spend 1 <abbr title = "anima">🜉</abbr> to turn any die result into either a 1 or a 10, with the exception of [calling Initiative](/srd/combat/starting#term-calling-initiative).
 *  In and out of combat, they can spend 3 <abbr title = "anima">🜉</abbr> to save themselves from True Death.  If so, they will be revived at 1 [HP](/srd/heroes/numbers#term-hp) during the [Paradigm Phase](/srd/combat/round#term-paradigm-phase) of the following round, or after a making contact with their eidolon if they are not in combat.  They must do this at the moment of their own death, and they cannot intervene to save any other characters but themselves.  If a Hero saves themselves from True Death after dying due to a [Scene](/srd/anima/scenes), no <abbr title = "anima">🜉</abbr> is earned as a result of the Scene.
-*  Out of combat, they can spend 1 <abbr title = "anima">🜉</abbr> to automatically succeed on a skill challenge.
+*  Out of combat, they can spend 1 <abbr title = "anima">🜉</abbr> to automatically succeed on a trial.
 *  Out of combat, they can spend 1 <abbr title = "anima">🜉</abbr> to ask whether or not the situation they are in is dangerous.
 *  Out of combat, they can spend 1 <abbr title = "anima">🜉</abbr> to revive their eidolon to full HP.
 

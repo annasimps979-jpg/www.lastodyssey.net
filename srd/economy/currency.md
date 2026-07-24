@@ -11,7 +11,7 @@ All transactions that take place between [characters](/srd/glossary#term-charact
 
 ## Barter
 
-If players do not want or are unable to directly exchange currency&mdash;for example, in a very poor or out of the way settlement&mdash;they can also engage in direct barter.  The way barter works is quite simple: if the players are able to offer the equivalent <abbr title = "currency">¤</abbr> value for an item in other items or above, they can exchange their items for one.  Exchanging an item for a lesser <abbr title = "currency">¤</abbr> value is difficult, and requires either deception or a good relationship with the person being bartered with.  Haggling is handled with a [Mind](/srd/heroes/numbers#term-mind) [skill challenge](/srd/discovery/skill-challenges).
+If players do not want or are unable to directly exchange currency&mdash;for example, in a very poor or out of the way settlement&mdash;they can also engage in direct barter.  The way barter works is quite simple: if the players are able to offer the equivalent <abbr title = "currency">¤</abbr> value for an item in other items or above, they can exchange their items for one.  Exchanging an item for a lesser <abbr title = "currency">¤</abbr> value is difficult, and requires either deception or a good relationship with the person being bartered with.  Haggling is handled with a [Mind](/srd/heroes/numbers#term-mind) [trial](/srd/discovery/trials).
 
 ## Earning Money
 
@@ -20,5 +20,5 @@ If players do not want or are unable to directly exchange currency&mdash;for exa
 The opportunity to work for a wage will usually present itself to players who are otherwise out of options.  All but the smallest villages have a few forms of employment available.  If players decide to work for money, each "round" of work will take the majority of a single day.  Here are a few examples:
 *  Grunt labor, such as working in a mine or on a farm, will pay 1 <abbr title = "currency">¤</abbr> per day.
 *  Professional labor that makes use of a [character's](/srd/glossary#term-character) particular skills will pay 5 <abbr title = "currency">¤</abbr> per day.
-*  Specialist labor requires a successful skill challenge of the appropriate type, and will earn players 10 <abbr title = "currency">¤</abbr> per day per successful skill challenge.
-*  Criminal labor, including smuggling and burglary, will net the players 2d10 <abbr title = "currency">¤</abbr> per day and will require a successful skill challenge of the appropriate type to avoid facing consequences.
+*  Specialist labor requires a successful trial of the appropriate type, and will earn players 10 <abbr title = "currency">¤</abbr> per day per successful trial.
+*  Criminal labor, including smuggling and burglary, will net the players 2d10 <abbr title = "currency">¤</abbr> per day and will require a successful trial of the appropriate type to avoid facing consequences.

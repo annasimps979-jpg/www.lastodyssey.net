@@ -7,7 +7,7 @@ abstract: >-
     How Heroes may earn <abbr title = "anima">🜉</abbr>.
 ---
 
-Heroes are agents of change, and when they pursue change they will also accrue the power of [<abbr title = "anima">🜉</abbr>](/srd/anima).  Earning <abbr title = "anima">🜉</abbr> is what allows [players](/srd/glossary#term-player) to advance their [tier](/srd/heroes/creation#term-tier), overcome [skill challenges](/srd/discovery/skill-challenges), and save themselves from [True Death](/srd/anima/true-death).  In Last Odyssey, for a Hero to earn <abbr title = "anima">🜉</abbr>, their player must initiate a _<dfn id = "term-scene">Scene</dfn>._  A Scene is a dramatic cutscene that somehow either directly or indirectly contextualizes the emotions that a character is currently experiencing in a way that would not be communicated by ordinary play.
+Heroes are agents of change, and when they pursue change they will also accrue the power of [<abbr title = "anima">🜉</abbr>](/srd/anima).  Earning <abbr title = "anima">🜉</abbr> is what allows [players](/srd/glossary#term-player) to advance their [tier](/srd/heroes/creation#term-tier), overcome [trials](/srd/discovery/trials), and save themselves from [True Death](/srd/anima/true-death).  In Last Odyssey, for a Hero to earn <abbr title = "anima">🜉</abbr>, their player must initiate a _<dfn id = "term-scene">Scene</dfn>._  A Scene is a dramatic cutscene that somehow either directly or indirectly contextualizes the emotions that a character is currently experiencing in a way that would not be communicated by ordinary play.
 
 ## Beginning a Scene
 
@@ -21,7 +21,7 @@ A Scene ends once sufficient context for the central character's anxiety is esta
 
 ## What Counts as a Scene?
 
-Because Scenes are special forms of story resolution, they cannot trigger as a part of [combat](/srd/combat), or any other structured form of play.  For example, if a character is doing something that counts as a skill challenge, they cannot also earn <abbr title = "anima">🜉</abbr>.  With this in mind, there are five scenarios which are always valid opportunities for a Scene:
+Because Scenes are special forms of story resolution, they cannot trigger as a part of [combat](/srd/combat), or any other structured form of play.  For example, if a character is doing something that counts as a trial, they cannot also earn <abbr title = "anima">🜉</abbr>.  With this in mind, there are five scenarios which are always valid opportunities for a Scene:
 *  When a character puts their life at risk for something important to them, they will earn 5 <abbr title = "anima">🜉</abbr>.  Characters without an [Inspiration](/srd/heroes/creation#term-inspiration) may not do this.
 *  When a character poses a question about one of their [Relationships](/srd/heroes/creation#term-relationship), they will earn 1-3 <abbr title = "anima">🜉</abbr>.
 *  When a character poses a question about their [Inspiration](/srd/heroes/creation#term-inspiration), they will earn 1-3 <abbr title = "anima">🜉</abbr>.

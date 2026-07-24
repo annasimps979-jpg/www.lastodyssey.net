@@ -12,7 +12,7 @@ In Last Odyssey, a Villain is a kind of Antagonist that is defined by something 
 ## How Villains Earn <abbr title = "anima">🜉</abbr>
 
 New Villains created by the <abbr title="game master">GM</abbr> begin with starting <abbr title = "anima">🜉</abbr> taken from the [<abbr title = "anima">🜉</abbr> Pool](/srd/anima/spending#term-anima-pool).  There are four circumstances under which a Villain will earn more:
-*  For each <abbr title = "anima">🜉</abbr> the [players](/srd/glossary#term-player) spend in order to thwart the Villain's Ambition, the Villain will earn 1 <abbr title = "anima">🜉</abbr>.  This includes <abbr title = "anima">🜉</abbr> they spend to succeed in [skill challenges](/srd/discovery/skill-challenges).
+*  For each <abbr title = "anima">🜉</abbr> the [players](/srd/glossary#term-player) spend in order to thwart the Villain's Ambition, the Villain will earn 1 <abbr title = "anima">🜉</abbr>.  This includes <abbr title = "anima">🜉</abbr> they spend to succeed in [trials](/srd/discovery/trials).
 *  Every time the players advance the Villain's Ambition of their own free will, knowingly or otherwise, the Villain will earn 1 <abbr title = "anima">🜉</abbr>.
 *  Every time the Villain achieves their Ambition, they earn 5 <abbr title = "anima">🜉</abbr>.
 *  Every time a Hero uses <abbr title = "anima">🜉</abbr> during [combat](/srd/combat) against a Villain, the Villain earns the same amount of <abbr title = "anima">🜉</abbr> the Hero spent.
@@ -24,7 +24,7 @@ Villains can spend <abbr title = "anima">🜉</abbr> to subvert player goals for
 |Name|Cost|Description|
 |:-|:-|:-|
 |Interrupt|1 <abbr title = "anima">🜉</abbr>|A Villain may take one additional action during, before, or after another [character's](/srd/glossary#term-character) [turn](/srd/combat/round#term-turn).|
-|Intervene|3 <abbr title = "anima">🜉</abbr>|When the narrative or mechanics indicate that a Hero would succeed at doing something to thwart a Villain's Ambition, such as after a [skill challenge](/srd/discovery/skill-challenges), the Villain may make them fail instead.|
+|Intervene|3 <abbr title = "anima">🜉</abbr>|When the narrative or mechanics indicate that a Hero would succeed at doing something to thwart a Villain's Ambition, such as after a [trial](/srd/discovery/trials), the Villain may make them fail instead.|
 |Kill|3 <abbr title = "anima">🜉</abbr>|If at least one Hero is [downed](/srd/combat/injuries#term-downed) during the [Paradigm Phase](/srd/combat/round#term-paradigm-phase), a Villain may grant them [True Death](/srd/anima/true-death).  This counts as a [paradigm action](/srd/anima/antagonists/paradigm#term-paradigm-action) when used.|
 |Summon Eidolon|5 <abbr title = "anima">🜉</abbr>|A Villain may summon their [eidolon](/srd/heroes/eidolons#term-eidolon).  The same rules apply for a Villain's eidolon that apply for a Hero's, including that the Villain must spend 1 <abbr title = "anima">🜉</abbr> per [round](/srd/combat/round#term-round) to keep their eidolon on the field, with the exception that the Villain may summon their eidolon as a reaction to a player summoning theirs before the player's eidolon can act.|
 |Sacrifice|10 <abbr title = "anima">🜉</abbr>|A Villain may grant a Hero True Death out of combat.|

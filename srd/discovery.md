@@ -16,7 +16,7 @@ There will often be times at which the [actions](/srd/glossary#term-action) [pla
     - [Lore:](/srd/discovery/lore) A guide to actionable knowledge, and how players might acquire it.
 - How to Strive
     - [Puzzles:](/srd/discovery/puzzles) Tips and advice for adding puzzle encounters to [campaigns](/srd/glossary#term-campaign).
-    - [Skill Challenges:](/srd/discovery/skill-challenges) When [Heroes](/srd/glossary#term-hero) attempt to use their innate capabilities during discovery.
+    - [Trials:](/srd/discovery/trials) When [Heroes](/srd/glossary#term-hero) attempt to use their innate capabilities during discovery.
     - [Magic:](/srd/discovery/magic) Tips for making rulings about the use of combat abilities during discovery.
 - How to Grow
     - [Earning Experience:](/srd/discovery/earning-xp) The means by which characters grow stronger within a single tier.

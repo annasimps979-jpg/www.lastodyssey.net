@@ -26,7 +26,7 @@ Monsters use the power of <abbr title = "anima">🜉</abbr> to protect themselve
 |Name|Cost|Description|
 |:-|:-|:-|
 |Interrupt|1 <abbr title = "anima">🜉</abbr>|A Monster may take one additional action during, before, or after another [character's](/srd/glossary#term-character) [turn](/srd/combat/round#term-turn).|
-|Intervene|3 <abbr title = "anima">🜉</abbr>|When the narrative or mechanics indicate that a Hero would succeed at doing something inside of a Monster's Domain, such as after a [skill challenge](/srd/discovery/skill-challenges), the Monster may make them fail instead.|
+|Intervene|3 <abbr title = "anima">🜉</abbr>|When the narrative or mechanics indicate that a Hero would succeed at doing something inside of a Monster's Domain, such as after a [trial](/srd/discovery/trials), the Monster may make them fail instead.|
 |Revive|5 <abbr title = "anima">🜉</abbr>|If a Monster is downed during the Paradigm Phase, it may revive itself to full [HP](/srd/heroes/numbers#term-hp) and [MP](/srd/heroes/numbers#term-mp).  If it cannot do this, it will either move to its next Form, Retreat, or die.|
 |Grow|10 <abbr title = "anima">🜉</abbr>|A Monster may spend <abbr title = "anima">🜉</abbr> to acquire a new Form.  The <abbr title="game master">GM</abbr> should create this Form using the same process for creating the Monster's initial Forms.|
 
