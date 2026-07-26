@@ -156,11 +156,11 @@ Unique weapons do not have a cost, as they are not for sale and are the only ite
 |Seelie Court Rapier|Expert|Sword|Primordial|
 |Demon Claws|Expert|Claws|Double-Edged|
 |Headmaster's Staff|Expert|Staff|Sensor Array, Extra Ability (Magic Bolt)|
-|Archangel's Lance|Expert|Lance|Heavy, Holy|
+|Archangel's Lance|Unique|Lance|Heavy, Holy|
 
 ## Weapon Generation
 
-To generate a new random weapon, first choose the type and the Grade.  Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result with the table below until a number of upgrades have been generated that occupy all of the weapon's slots.  If the result is a Variable upgrade, give the weapon the 1-slot version.  If the result is an upgrade that would occupy more slots than the weapon has remaining, recast the die.  Do not generate Unique weapons randomly, as they are meant to have significance to the story.
+To generate a new random weapon, first choose the type and the Grade.  Then, cast the [outcome die](/srd/glossary#term-outcome-die) and compare the result with the table below until a number of upgrades have been generated that occupy all of the weapon's slots.  If the result is a Variable upgrade, give the weapon the 1-slot version.  If the result is an upgrade that would occupy more slots than the weapon has remaining, recast the die.  Do this until you have generated a weapon with the desired number of upgrades.  Do not generate Unique weapons randomly, as they are meant to have significance to the story.
 
 |Result|Upgrade|
 |:-|:-|
