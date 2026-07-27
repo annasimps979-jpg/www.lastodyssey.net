@@ -20,7 +20,7 @@ Heroes, warriors, [eidolons](/srd/heroes/eidolons#term-eidolon), and many [abili
 
 An [ability](/srd/glossary#term-ability) or [character](/srd/glossary#term-character) that does not have an element is referred to as _<dfn id = "term-colorless">colorless</dfn>._  Unless they have a [Shell](/srd/combat/shells) active, Heroes count as colorless for the purpose of calculating the damage they take from all attacks.
 
-## Elemental Damage
+## Charge
 
 All abilities with an element have their effects modified by the element of the target.  For example, the damage that a [physical](/srd/combat/attacks#term-strike) or [spell](/srd/combat/attacks#term-spell) does is multiplied by an amount determined by both the element of the attack and the element of the target.  Characters with a Shell active will count as having the Shell's element for the purposes of calculating how much damage they receive.  All elements will have as many types they do more damage to and less damage to, but not always to the same degree.  As an example, Wood does 2x damage against Light, Shadow, and Wind, while Fire does 2x damage against Wood and 4x damage against Ice.
 

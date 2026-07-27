@@ -56,7 +56,7 @@ The Commander's core virtue is their **Leadership.**  At [Hero creation](/srd/he
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Charge!|[Special](/srd/combat/attacks#term-special-ability)|1 [🜉](/srd/anima), 2 AP|The [eidolon](/srd/heroes/eidolons) grants one of their allies an immediate full turn.  When that ally uses abilities during this turn, they can substitute the eidolon's [statistics](/srd/glossary#term-statistic) for theirs.|
+|Charge!|[Special](/srd/combat/attacks#term-special-ability)|1 [<abbr title = "anima">🜉</abbr>](/srd/anima), 2 AP|The [eidolon](/srd/heroes/eidolons) grants one of their allies an immediate full turn.  When that ally uses abilities during this turn, they can substitute the eidolon's [statistics](/srd/glossary#term-statistic) for theirs.|
 
 ## Talents
 

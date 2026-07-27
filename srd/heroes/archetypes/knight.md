@@ -56,7 +56,7 @@ The Knight's core virtue is their **Discipline.**  At [Hero creation](/srd/heroe
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Berserk Charge|[Special](/srd/combat/attacks#term-special-ability)|1 [🜉](/srd/anima#term-anima), 2 AP|The [eidolon](/srd/heroes/eidolons#term-eidolon) applies Focused to itself and makes 1d10 basic attacks against targets of their player's choice.|
+|Berserk Charge|[Special](/srd/combat/attacks#term-special-ability)|1 [<abbr title = "anima">🜉</abbr>](/srd/anima#term-anima), 2 AP|The [eidolon](/srd/heroes/eidolons#term-eidolon) applies Focused to itself and makes 1d10 basic attacks against targets of their player's choice.|
 
 ## Talents
 

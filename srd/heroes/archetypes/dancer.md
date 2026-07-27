@@ -56,7 +56,7 @@ The Dancer's core virtue is their **Charm.**  At [Hero creation](/srd/heroes/cre
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Tango|Special|1 🜉, 2 AP|The eidolon uses all of the abilities that one of its opponents has used between the end of its last turn and the beginning of its current turn.  The eidolon may choose the targets of all of these abilities at will.|
+|Tango|Special|1 <abbr title = "anima">🜉</abbr>, 2 AP|The eidolon uses all of the abilities that one of its opponents has used between the end of its last turn and the beginning of its current turn.  The eidolon may choose the targets of all of these abilities at will.|
 
 ## Talents
 

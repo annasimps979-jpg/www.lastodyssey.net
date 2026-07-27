@@ -49,7 +49,7 @@
     - [Villains](/srd/anima/antagonists/villains)
     - [_Example Antagonists_](/srd/anima/antagonists/examples)
 - [**Discovery**](/srd/discovery)
-  - [Skill Challenges](/srd/discovery/skill-challenges)
+  - [Trials](/srd/discovery/trials)
   - [Investigation](/srd/discovery/investigation)
   - [Magic](/srd/discovery/magic)
   - [Earning Experience](/srd/discovery/earning-xp)

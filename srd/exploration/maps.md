@@ -23,7 +23,7 @@ When a new node is placed on the map, at least one path should be drawn connecti
 
 ## The Danger Rating
 
-While traveling, players may encounter [warriors](/srd/warriors#term-warrior) or [NPCs](/srd/glossary#term-npc) on the road.  In addition to the navigation difficulty, each path is also assigned a _<dfn id = "term-danger-rating">danger rating</dfn>,_ which is a number between 0 and 5 that determines how likely it is that they will encounter warriors during their journey, with 0 meaning that it won't happen and 5 meaning that it has a 50% chance of happening.  The danger ratings corresponding to different danger levels are shown below.
+While traveling, players may encounter [warriors](/srd/warriors#term-warrior) or [<abbr title = "non-player character">NPC</abbr>s](/srd/glossary#term-npc) on the road.  In addition to the navigation difficulty, each path is also assigned a _<dfn id = "term-danger-rating">danger rating</dfn>,_ which is a number between 0 and 5 that determines how likely it is that they will encounter warriors during their journey, with 0 meaning that it won't happen and 5 meaning that it has a 50% chance of happening.  The danger ratings corresponding to different danger levels are shown below.
 
 |Danger Rating|Description|
 |:-|:-|
@@ -34,10 +34,10 @@ While traveling, players may encounter [warriors](/srd/warriors#term-warrior) or
 |4|Hostile areas where dangerous creatures gather, such as fetid swamps or jungles.|
 |5|Enemy territory, such as in the wake of an army or in the middle of a [dungeon](/srd/exploration/dungeons).|
 
-## Exploration 🜹
+## Exploration <abbr title = "experience">🜹</abbr>
 
-When players either visit a new node, discover an interesting [landmark](/srd/exploration/settlements/landmarks), or discover a hidden or otherwise hard-to-reach area, they will earn 1 [Exploration 🜹](/srd/discovery/earning-xp#term-exploration-xp) for doing so.  If they manage to reach a node that is secret or otherwise difficult to find, they will earn 5 🜹 instead.
+When players either visit a new node, discover an interesting [landmark](/srd/exploration/settlements/landmarks), or discover a hidden or otherwise hard-to-reach area, they will earn 1 [Exploration <abbr title = "experience">🜹</abbr>](/srd/discovery/earning-xp#term-exploration-xp) for doing so.  If they manage to reach a node that is secret or otherwise difficult to find, they will earn 5 <abbr title = "experience">🜹</abbr> instead.
 
 ## Varying Paths
 
-Multiple paths with varying [climates,](/srd/exploration/weather) navigation difficulties, and danger ratings can be strung together by denoting the number of travel rounds the party will spend in each segment of the path.  For example, a mountain path that starts at the bottom and goes all the way to the snowy peak will be demarcated based on how many travel rounds it will take for the players to reach the climatic transition zone.  When the party passes from one zone of the path to another, the [GM](/srd/glossary#term-gm) will indicate this via narration.
+Multiple paths with varying [climates,](/srd/exploration/weather) navigation difficulties, and danger ratings can be strung together by denoting the number of travel rounds the party will spend in each segment of the path.  For example, a mountain path that starts at the bottom and goes all the way to the snowy peak will be demarcated based on how many travel rounds it will take for the players to reach the climatic transition zone.  When the party passes from one zone of the path to another, the <abbr title="game master">[GM](/srd/glossary#term-gm)</abbr> will indicate this via narration.
