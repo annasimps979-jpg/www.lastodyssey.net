@@ -115,7 +115,7 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Name|Description|
 |:-|:-|
 |<dfn id = "term-barbed-armor">Barbed</dfn>|When a warrior hits the wearer with a [Melee](/srd/combat/attacks#term-melee) ability, they automatically receive the status specified by this upgrade, except if they are immune.|
-|Enchanted|If a character is wearing this armor at the beginning of combat, they automatically gain 20 points of Shell of the specified element of this upgrade.  They still gain this even if their [Health](/srd/heroes/numbers#term-health) is less than 20.  All other rules for Shells apply as normal.|
+|Enchanted|If a character is wearing this armor at the beginning of combat, they automatically gain 20 points of Shell of the specified element of this upgrade.  They still gain this even if their [Health](/srd/heroes/numbers#term-health) is less than 20.  All other rules for Shells apply as normal.  This temporary Shell goes away at the end of combat, if the wearer still has it.|
 |Blessed|A character is immune to all hexes while wearing this armor, and they are also immune to any effects that reduce their [AP](/srd/combat/round#term-ap) in any capacity.|
 |[Mana](/srd/heroes/numbers#term-mana) Battery|When the wearer begins a battle, they gain 20 temporary MP in addition to their current MP.  Any unspent MP from this pool goes away at the end of the battle.|
 |Mechanical|When a character is wearing this armor, they are immune to any statuses that prevent them from using certain [actions](/srd/glossary#term-action), such as [Silenced](/srd/combat/statuses#term-silenced) or [Frostbitten](/srd/combat/statuses#term-frostbitten).|
@@ -139,9 +139,9 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 
 |Name|Grade|Type|Upgrades|
 |:-|:-|:-|:-|
-|Boiled Leather Jerkin|Novice|Light Armor|Reinforced 1|
+|Boiled Leather Jerkin|Novice|Light|Reinforced 1|
 |Soldier's Uniform|Standard|Heavy|Fitted|
-|Instructor's Robes|Expert|Cloth Armor|Mana Battery|
+|Instructor's Robes|Expert|Cloth|Mana Battery|
 |Black Knight's Armor|Unique|Heavy|Corrupted, Plated, Element (Shadow)|
 
 ## Armor Generation

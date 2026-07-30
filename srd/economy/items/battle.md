@@ -53,7 +53,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Row|This item affects all characters on a single [row](/srd/combat/starting#term-row).  When a character uses this item, they may choose which row it affects.  Multiplies base cost by 5.|
 |Multi|This item affects all characters on the side it targets.  Items that target the user's allies' side will affect all allies, while items that target their opponents' side will affect all opponents.  Multiplies base cost by 10.|
 |Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item effect added together, multiplied by 5.|
-|Delay|When a character uses this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](/srd/combat/round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down.|
+|Delay|When a character uses this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](/srd/combat/round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down to a minimum of 1.|
 |Random|If possible, then, when a character uses this item, it inflicts a random effect based on casting a result from the [Random Element Table](/srd/combat/random-tables#term-random-element-table) or [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table), depending on the item in question. If the item being generated does not have either of these types, this enhancement counts as having none at all.  Multiplies cost by 1.|
 
 Enhancements cannot be applied to the Conjure item.
