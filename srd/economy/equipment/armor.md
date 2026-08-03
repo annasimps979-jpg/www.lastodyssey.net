@@ -114,8 +114,8 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 
 |Name|Description|
 |:-|:-|
-|<dfn id = "term-barbed-armor">Barbed</dfn>|When a warrior hits the wearer with a [Melee](/srd/combat/attacks#term-melee) ability, they automatically receive the status specified by this upgrade.|
-|Enchanted|If a character is wearing this armor at the beginning of combat, they automatically gain 20 points of Shell of the specified element of this upgrade.  They still gain this even if their [Health](/srd/heroes/numbers#term-health) is less than 20.  All other rules for Shells apply as normal.|
+|<dfn id = "term-barbed-armor">Barbed</dfn>|When a warrior hits the wearer with a [Melee](/srd/combat/attacks#term-melee) ability, they automatically receive the status specified by this upgrade, except if they are immune.|
+|Enchanted|If a character is wearing this armor at the beginning of combat, they automatically gain 20 points of Shell of the specified element of this upgrade.  They still gain this even if their [Health](/srd/heroes/numbers#term-health) is less than 20.  All other rules for Shells apply as normal.  This temporary Shell goes away at the end of combat, if the wearer still has it.|
 |Blessed|A character is immune to all hexes while wearing this armor, and they are also immune to any effects that reduce their [AP](/srd/combat/round#term-ap) in any capacity.|
 |[Mana](/srd/heroes/numbers#term-mana) Battery|When the wearer begins a battle, they gain 20 temporary MP in addition to their current MP.  Any unspent MP from this pool goes away at the end of the battle.|
 |Mechanical|When a character is wearing this armor, they are immune to any statuses that prevent them from using certain [actions](/srd/glossary#term-action), such as [Silenced](/srd/combat/statuses#term-silenced) or [Frostbitten](/srd/combat/statuses#term-frostbitten).|
@@ -127,21 +127,21 @@ Unique armor does not have a cost, as it is not for sale and each set is the onl
 |Corrupted|When the wearer would otherwise undergo [True Death](/srd/anima/true-death) during combat, something else happens instead.|
 |Druidic|While a character is wearing this armor, any healing they do to either themselves or their allies is multiplied by 1.5, rounded down.  This applies in or out of combat.|
 |Exoskeleton|If a character is wearing this armor at the beginning of a battle, they automatically gain [Hasted](/srd/heroes/roles/support) without having to have it cast on themselves.|
-|Vengeful|When the wearer takes physical damage due to a warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own strike as though they were the target of the attack.|
-|Conductive|When the wearer takes [magical damage](/srd/combat/attacks#term-magical-damage) due to a warrior's attack while wearing this armor, the warrior immediately also becomes the target of their own spell as though they were the target of the attack.|
+|Vengeful|The next time the wearer hits the last enemy to deal physical damage to them, they deal 2x damage.|
+|Conductive|The last enemy to deal [magical damage](/srd/combat/attacks#term-magical-damage) to the wearer will take 2x damage the next time the wearer hits them.|
 |Weapons Platform|While a character is wearing this armor, they can [swap](/srd/combat/round#term-swap-equipment) weapons and accessories without spending any AP.|
 |Angelic|This armor gives the wearer wings that allow them to take the Fly action during combat.  Fly costs 1 AP and puts the user within melee range of every warrior on the battlefield as though they were in the [front row](/srd/combat/starting#term-front-row), while putting them out of melee range of their attacks as though they were in the [back row](/srd/combat/starting#term-back-row).  However, if the user is hit by any attacks while Flying, they will fall back down to the front row of the battlefield.|
 |Utility Belt|While a character is wearing this armor, they may use one Item from the [party](/srd/glossary#term-party) inventory per [round](/srd/combat/round#term-round) without spending any AP.|
 |Masterwork|This armor is of unusual quality.  It grants the wearer an extra +1 to both Physical and Magical Defense.|
-|Bound|While wearing this armor during combat, a character cannot use any attacks, use the [Move](/srd/combat/round#term-move) action, or use items.  However, they also cannot take any damage that would not automatically kill them or break their current Shell.  They may use any other abilities as normal.|
+|Bound|While wearing this armor during combat, a character cannot use any attacks, use the [Move](/srd/combat/round#term-move) action, or use items.  However, they also cannot take any damage that would deal less than 15 base damage.  They may use any other abilities as normal.|
 
 ## Example Armor
 
 |Name|Grade|Type|Upgrades|
 |:-|:-|:-|:-|
-|Boiled Leather Jerkin|Novice|Light Armor|Reinforced 1|
+|Boiled Leather Jerkin|Novice|Light|Reinforced 1|
 |Soldier's Uniform|Standard|Heavy|Fitted|
-|Instructor's Robes|Expert|Cloth Armor|Mana Battery|
+|Instructor's Robes|Expert|Cloth|Mana Battery|
 |Black Knight's Armor|Unique|Heavy|Corrupted, Plated, Element (Shadow)|
 
 ## Armor Generation

@@ -31,7 +31,7 @@ The base cost of an accessory is 75 <abbr title = "currency">¤</abbr>.  A Parti
 |Resonance|When a character is wearing an accessory of this type, when they hit an opponent with an [ability](/srd/glossary#term-ability) of the specified [element](/srd/combat/elements#term-element), it hits them as though the result on the [hit die](/srd/combat/attacks#term-hit-die) were a 10 regardless of what the actual result of their attack or [sleight](/srd/combat/attacks#term-sleight) was.  This effect does not stack with other effects of the same type, but the wearer can have multiple elemental resonances at once.|
 |Supporting|Wearing this accessory grants [proficiency](/srd/heroes/creation#term-armor-proficiency) with a specified type of [weapon](/srd/economy/equipment/weapons) or [armor](/srd/economy/equipment/weapons).  This does not stack, but characters can wear accessories that give them multiple different proficiencies at the same time.|
 |Volatile|When the wearer uses an ability that costs [MP](/srd/heroes/numbers#term-mp) while wearing this accessory, cast the [outcome die](/srd/glossary#term-outcome-die).  If the result is greater than 5, the ability does not cost any MP, while if the result is 5 or below, the ability costs double MP.  If they cannot afford the double MP cost in the latter case, the ability still activates but they immediately drop to 0 MP.|
-|Item Sleeve|When a character uses the item specified by this upgrade, if using said item involves casting the outcome die, their player may cast an additional outcome die and freely choose which result to take.  If this is not involved, it instead doubles the item's potency or adds an extra [enhancement](/srd/economy/items/battle#term-item-enhancement).  For example, a healing item that normally heals 10 [HP](/srd/heroes/numbers#term-hp) will now heal 20, or an Item Sleeve for an Analyze item will give it the Multi enhancement.|
+|Item Sleeve|When a character uses the item specified by this upgrade, if using said item involves casting the outcome die, their player may cast an additional outcome die and freely choose which result to take.  If this is not involved, it instead doubles the item's potency or adds an extra non-Dual [enhancement](/srd/economy/items/battle#term-item-enhancement) of the wielder's choice, if possible.  For example, a healing item that normally heals 10 [HP](/srd/heroes/numbers#term-hp) will now heal 20, or an Item Sleeve for an Analyze item allows the user to give it the Multi enhancement.  This effect cannot apply to Conjure items.|
 |Linked Ability|When a character wears this accessory, they gain the use of an ability specified by the upgrade for double its usual MP cost.|
 |[Mana](/srd/heroes/numbers#term-mana) Battery|This accessory has a linked pool of 10 temporary MP that the wearer can draw on instead of their base MP pool.  This MP resets at the beginning of every [battle](/srd/glossary#term-battle).|
 |Scanner|While a character is wearing this accessory, they can use the [Scan](/srd/heroes/archetypes/artificer) ability without spending any MP.|
@@ -47,10 +47,10 @@ The base cost of an accessory is 75 <abbr title = "currency">¤</abbr>.  A Parti
 |Targe|This ability gives the wearer the Block ability.  Block costs 1 AP and no MP, and multiplies the damage of the next [strike](/srd/combat/attacks#term-strike) that hits them by 0.5 in addition to other modifiers.  This ability only lasts until the beginning of the user's next turn, not counting held turns.|
 |Soul Sink|The first time the wearer undergoes [True Death](/srd/anima/true-death) while wearing this accessory, it will reconstitute them back to 1 HP, regardless of how badly they were injured.  However, after the first time they die while wearing this accessory, they cannot take it off again, or they will instantly and permanently die.|
 |Chameleon|While a character is wearing this accessory, they can use the [Dancer's](/srd/heroes/archetypes/dancer) Costume Change ability without spending any MP.  If the wearer is a Dancer, this also reduces the cost of the ability to 1 AP.|
-|Protection Against Monsters|When the wearer takes damage from an attack made by another character of the creature type specified by this item, it is multiplied by a factor of 0.5 in addition to other multipliers.|
+|Protection|When the wearer takes damage from an attack made by another character of the creature type specified by this item, it is multiplied by a factor of 0.5 in addition to other multipliers.|
 |Auto Heal|During the [Effect Phase](/srd/combat/round#term-effect-phase) of every round, if a character is wearing this accessory they automatically heal for 5 HP.  While they are [downed](/srd/combat/injuries#term-downed), this accessory does nothing.|
 |Grant Edge|At the start of a battle, if a character is wearing this accessory, they count as having +1 to their [base](/srd/glossary#term-base) [Initiative](/srd/heroes/numbers#term-initiative).  This effect can stack.|
-|Absorb Magic|If the wearer is hit by a [spell](/srd/combat/attacks#term-spell) of the specified element while wearing this accessory, they gain an amount of HP equal to the damage they would have taken normally.  However, they may not use abilities of that element while wearing this accessory.|
+|Absorb Element|If the wearer is hit by a [spell](/srd/combat/attacks#term-spell) of the specified element while wearing this accessory, they gain an amount of HP equal to the damage they would have taken normally.  However, they may not use abilities of that element while wearing this accessory.|
 |Reciprocity|Any [hex](/srd/combat/glamors#term-hex), [status](/srd/combat/statuses), or [charm](/srd/combat/glamors#term-charm) that any character applies to the wearer is also applied to them.  This includes statuses such as [Taunted](/srd/heroes/roles/defender), Guarded, and [Hunted](/srd/heroes/archetypes/ranger), but does not include the effects of [Shells](/srd/combat/shells).  Any effects the wearer applies to themselves are only applied once.|
 
 ## Example Accessories
@@ -83,8 +83,8 @@ Each accessory has only one upgrade, so generating random accessories is just a 
 |13|Targe|
 |14|Soul Sink|
 |15|Chameleon|
-|16|Protection Against Monsters|
+|16|Protection|
 |17|Auto Heal|
 |18|Grant Edge|
-|19|Absorb Magic|
+|19|Absorb Element|
 |20|Reciprocity|
