@@ -96,7 +96,7 @@ At times, there is a need to quickly create new items.  If the <abbr title="game
 |17|Enshell|
 |18|Accelerate|
 |19|Decelerate|
-|20|Summon Creature|
+|20|Conjure|
 
 The result that matches the result on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Grade.  Novice items are appropriate for characters of levels 1-4, Standard items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the item costs are balanced such that characters of different tiers can still use items of a lower or higher Grade without the balance of combat being destroyed.
 
@@ -111,6 +111,6 @@ After the item's effect has been determined, cast the [outcome die](/srd/glossar
 |5|Delay|
 |6|Random|
 
-For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the element of the item's effect.  If the item is a Strengthen or Weaken item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/glossary#term-statistic) it affects.  If the item is a Summon Creature item, choose a warrior from the [Example Warriors](/srd/warriors/examples) section or create one of the appropriate tier.
+For the Dual effect, cast the outcome die again for the item's second effect.  Then, if relevant, cast the die on the Random Element Table to determine the element of the item's effect.  If the item is a Strengthen or Weaken item, use the [Random Statistic Table](/srd/combat/random-tables#term-random-statistic-table) to see what [statistic](/srd/glossary#term-statistic) it affects.  If the item is a Conjure item, choose a warrior from the [Example Warriors](/srd/warriors/examples) section or create one of the appropriate tier.
 
 The last thing to do when creating an item is to calculate its <abbr title = "currency">¤</abbr> value and give it tangible existence in the game world.  A good rule of thumb is that an item should have a means by which character activate it, a physical form, and a container, such as a glass vial or a ball of clay.
