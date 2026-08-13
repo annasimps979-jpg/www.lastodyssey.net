@@ -57,12 +57,12 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 Analyze items, all varieties of Novice Cloak, Novice Bags.|
-|2|1d6 Analyze items, all varieties of Novice Cloak, Novice Bags.|
-|3|2d4 Analyze items, all varieties of Novice and Standard Cloak, Novice and Standard Bags.|
-|4|2d6 Analyze items, 1d4 Decelerate items, all varieties of Novice and Standard Cloak, Novice and Standard Bags.|
-|5|1d12 Analyze items, 1d6 Decelerate items, all varieties of Novice, Standard, and Expert Cloak, Novice, Standard, and Expert Bags, 1d4 Neutralize items.|
-|6|2d12 Analyze items, 1d8 Decelerate items, all varieties of Novice, Standard, and Expert Cloak, Novice, Standard, and Expert Bags, 1d6 Neutralize items.|
+|1|1d4 Analyze items, all varieties of Novice Cloak, 1d4 Novice Bags.|
+|2|1d6 Analyze items, all varieties of Novice Cloak, 1d6 Novice Bags.|
+|3|2d4 Analyze items, all varieties of Novice and 2 Standard Cloaks, 1d8 Novice and 1d4 Standard Bags.|
+|4|2d6 Analyze items, 1d4 Decelerate items, all varieties of Novice and 3 Standard Cloaks, 1d10 Novice and 1d6 Standard Bags.|
+|5|1d12 Analyze items, 1d6 Decelerate items, all varieties of Novice, 3 Standard, and 2 Expert Cloaks, 1d12 Novice, 1d8 Standard, and 1d4 Expert Bags, 1d4 Neutralize items.|
+|6|2d12 Analyze items, 1d8 Decelerate items, all varieties of Novice, 3 Standard, and 3 Expert Cloaks, 1d20 Novice, 1d10 Standard, and 1d6 Expert Bags, 1d6 Neutralize items.|
 
 ### Sorcerers
 
@@ -79,17 +79,17 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 
 |Rating|Items|
 |:-|:-|
-|1|5 [Supplies](/srd/economy/items/travel#term-supplies), Novice [maps](/srd/economy/items/travel#term-map) of local [paths](/srd/exploration/maps#term-path), 1d4 Shell items.|
-|2|10 Supplies, Novice maps of local paths, 1d4 Shell items.|
-|3|15 Supplies, Standard and Novice maps of local paths, 1d4 varieties of [Scrolls](/srd/economy/items/travel#term-scroll), 1d4 Shell items.|
-|4|20 Supplies, Standard and Novice maps of local paths, 1d4 varieties of Scrolls, 1d4 Shell items.|
-|5|25 Supplies, Expert, Standard, and Novice maps of local paths, 1d4 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Shell items.|
-|6|30 Supplies, Expert, Standard, and Novice maps of local paths, 1d6 Summon Creature items, 1d6 varieties of Scrolls, 1d6 Shell items.|
+|1|5 [Supplies](/srd/economy/items/travel#term-supplies), 1d4 Novice [maps](/srd/economy/items/travel#term-map) of various local [paths](/srd/exploration/maps#term-path), 1d4 varieties of Enshell item.|
+|2|10 Supplies, 1d6 Novice maps of various local paths, 1d4 varieties of Enshell item.|
+|3|15 Supplies, 1d4 Standard and 1d6 Novice maps of various local paths, 1d4 varieties of [Scrolls](/srd/economy/items/travel#term-scroll), 1d4 varieties of Enshell item.|
+|4|20 Supplies, 1d6 Standard and 1d6 Novice maps of various local paths, 1d4 varieties of Scrolls, 1d6 varieties of Enshell item.|
+|5|25 Supplies, 1d4 Expert, 1d6 Standard, and 1d6 Novice maps of various local paths, 1d4 varieties of Conjure item of tier 1-5, 1d6 varieties of Scrolls, 1d6 varieties of Enshell item.|
+|6|30 Supplies, 1d6 Expert, 1d6 Standard, and 1d6 Novice maps of various local paths, 1d6 varieties of Conjure item of tier 1-10, 1d6 varieties of Scrolls, 1d6 varieties of Enshell item.|
 
 ### Other Merchants
 
 The vast majority of merchants will have storefronts where there are potential customers.  Most [villages](/srd/exploration/settlements/villages) will have a blacksmith, an apothecary, and possibly a ranger, while most [towns](/srd/exploration/settlements/towns) and all [cities](/srd/exploration/settlements/cities) will have markets in addition to at least one of each type of merchant.  To add flavor, <abbr title="game master">GM</abbr>s can create merchant themes that do not follow the typical types outlined above.  Here are some suggestions:
-*  A merchant that specializes in selling a particular type of rare good, such as Summon Creature battle items.
+*  A merchant that specializes in selling a particular type of rare good, such as Conjure battle items.
 *  A merchant that specializes in selling all [elements](/srd/combat/elements#term-element) of a common good, such as a merchant who only sells Fracture or Harm items.
 *  A merchant whose items all have a particular enhancement, such as Random or All.
 *  A merchant that sells items for unusually low or high prices, up to an order of magnitude above or below the norm.
