@@ -22,7 +22,7 @@ The Priest's core virtue is their **Compassion.**  At [Hero creation](/srd/heroe
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Restore [MP](/srd/heroes/numbers#term-mp)|[Ally](/srd/combat/attacks#term-ally-ability)|5 MP, 1 [AP](/srd/combat/round#term-ap)|The Priest restores the MP of an ally apart from themselves or any other Priests by an amount equal to their Magical Attack.|
+|Restore|Ally|5 [MP](/srd/heroes/numbers#term-mp)|[Ally](/srd/combat/attacks#term-ally-ability), 1 [AP](/srd/combat/round#term-ap)|The Priest restores the MP of an ally apart from themselves or any other characters with this ability by an amount equal to their Magical Attack.|
 
 **Tier 2:** The Priest gains +1 Magical Defense.
 
