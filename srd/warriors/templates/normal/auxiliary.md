@@ -96,7 +96,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|5|Vulnerability|Ranged|4 MP, 1 AP|The Auxiliary uses a sleight that, on a hit, inflicts the Vulnerable status on a single target.  When a target is Vulnerable, the next time they are hit by an attack of the Auxiliary's [base](/srd/glossary#term-base) element, it affects them as though they had a 2x weakness to that element, and the Vulnerable status is removed.  Characters can be Vulnerable to multiple elements at a time.  If a character has a 2x or greater weakness to the element it is Vulnerable to, the Vulnerable status does nothing.|
+|5|Vulnerability|Ranged|4 MP, 2 AP|The Auxiliary uses a sleight that, on a hit, inflicts the Vulnerable status on a single target.  When a target is Vulnerable, the next time they are hit by an attack of the Auxiliary's [base](/srd/glossary#term-base) element, it affects them as though they had a 2x weakness to that element, and the Vulnerable status is removed.  Characters can be Vulnerable to multiple elements at a time.  If a character has a 2x or greater weakness to the element it is Vulnerable to, the Vulnerable status does nothing.|
 
 ## Tier 6
 
@@ -186,4 +186,4 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Multivulnerability|Multi|10 MP, 2 AP|The Auxiliary uses a sleight that, on a hit, inflicts the Vulnerable status on all opponents on the battlefield.  When a character is Vulnerable, the next time they are hit by an attack of the Auxiliary's base element, it affects them as though they had a 2x weakness to that element, and the Vulnerable status is removed.  Characters can be Vulnerable to multiple elements at a time.  If a character has a 2x or greater weakness to the element it is Vulnerable to, the Vulnerable status does nothing.|
+|Multivulnerability|Multi|10 MP, 3 AP|The Auxiliary uses a sleight that, on a hit, inflicts the Vulnerable status on all opponents on the battlefield.  When a character is Vulnerable, the next time they are hit by an attack of the Auxiliary's base element, it affects them as though they had a 2x weakness to that element, and the Vulnerable status is removed.  Characters can be Vulnerable to multiple elements at a time.  If a character has a 2x or greater weakness to the element it is Vulnerable to, the Vulnerable status does nothing.|

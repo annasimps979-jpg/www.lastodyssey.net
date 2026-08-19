@@ -172,7 +172,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Vulnerability|Ranged|4 MP, 1 AP|The Hunter uses a sleight that, on a hit, inflicts the Vulnerable status on a single target.  When a target is Vulnerable, the next time they are hit by an attack of the Hunter's [base](/srd/glossary#term-base) element, it affects them as though they had a 2x weakness to that element, and the Vulnerable status is removed.  [Characters](/srd/glossary#term-character) can be Vulnerable to multiple elements at a time.  If a character has a 2x or greater weakness to the element it is Vulnerable to, the Vulnerable status does nothing.|
+|Vulnerability|Ranged|4 MP, 2 AP|The Hunter uses a sleight that, on a hit, inflicts the Vulnerable status on a single target.  When a target is Vulnerable, the next time they are hit by an attack of the Hunter's [base](/srd/glossary#term-base) element, it affects them as though they had a 2x weakness to that element, and the Vulnerable status is removed.  [Characters](/srd/glossary#term-character) can be Vulnerable to multiple elements at a time.  If a character has a 2x or greater weakness to the element it is Vulnerable to, the Vulnerable status does nothing.|
 
 ## Tier 10
 

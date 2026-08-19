@@ -9,6 +9,8 @@ abstract: >-
 
 To create enemies faster, <abbr title = "game master">[GMs](/srd/glossary#term-gm)</abbr> can use the templates in this section without having to calculate [warrior](/srd/warriors) [statistics](/srd/glossary#term-statistic) from scratch.  To make a new warrior from the template rules, choose their [tier,](/srd/heroes/creation#term-tier) choose their [element](/srd/combat/elements#term-element) and their [creature type](/srd/warriors/types#term-creature-type), and then choose [abilities](/srd/glossary#term-ability) from the list of available abilities for their tier and below.  Each warrior gets a number of abilities per the basic [creation rules.](/srd/warriors/creation)
 
+[Antagonists](/srd/anima/antagonists) are meant to be memorable and have many unique abilities.  It is advised that you not use a template to create them, but instead take the abilities from the [examples](/srd/anima/antagonists/examples) given in the text or come up with new abilities on your own.
+
 - [Normal](/srd/warriors/creation#term-normal-warrior) Templates
     - [Auxiliary:](/srd/warriors/templates/normal/auxiliary) Support-type warriors that can assist with elemental strengths and weaknesses.
     - [Brute:](/srd/warriors/templates/normal/brute) Warriors with high defenses that act as tanks.
@@ -26,7 +28,3 @@ To create enemies faster, <abbr title = "game master">[GMs](/srd/glossary#term-g
     - [Colossus:](/srd/warriors/templates/elite/colossus) Defensive fighters that have abnormally high [Health](/srd/heroes/numbers#term-hp) and healing potential.
     - [War Leader:](/srd/warriors/templates/elite/war-leader) Warriors designed specifically to fight alongside other warriors.
     - [Wizard:](/srd/warriors/templates/elite/wizard) A powerful spellcaster that can use some of the [Sage's](/srd/heroes/archetypes/sage) abilities.
-- [Antagonist](/srd/anima/antagonists) Templates
-    - [Dragon:](/srd/warriors/templates/antagonist/dragon) An all-rounder of a [form](/srd/anima/antagonists/defeat#term-form) that has mixed physical and magical damage potential, as well as good defense.
-    - [Sorcerer:](/srd/warriors/templates/antagonist/sorcerer) A magical specialist that can also use abilities such as [Slow](/srd/heroes/roles/saboteur) and [Haste](/srd/heroes/roles/support) to further gain an advantage over their foes.
-    - [Vampire:](/srd/warriors/templates/antagonist/vampire) A combination [sleight](/srd/combat/attacks#term-sleight) and Thief ability user that can control their enemies as well as their allies.
