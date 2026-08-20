@@ -24,7 +24,9 @@ To create enemies faster, <abbr title = "game master">[GMs](/srd/glossary#term-g
     - [Vanguard:](/srd/warriors/templates/normal/vanguard) Warriors that focus purely on damage output at the expense of everything else.
 - [Elite](/srd/warriors/creation#term-elite-warrior) Templates
     - [Assassin:](/srd/warriors/templates/elite/assassin) Fast, deadly attackers who can use [Thief](/srd/heroes/archetypes/thief) abilities.
-    - [Berserker:](/srd/warriors/templates/elite/berserker) Aggressive warriors who can use the [Knight's](/srd/heroes/archetypes/knight) Focus ability to build damage potential.
+    - [Paladins:](/srd/warriors/templates/elite/paladin) Aggressive warriors who can use the [Knight's](/srd/heroes/archetypes/knight) Focus ability to build damage potential.
     - [Colossus:](/srd/warriors/templates/elite/colossus) Defensive fighters that have abnormally high [Health](/srd/heroes/numbers#term-hp) and healing potential.
     - [War Leader:](/srd/warriors/templates/elite/war-leader) Warriors designed specifically to fight alongside other warriors.
-    - [Wizard:](/srd/warriors/templates/elite/wizard) A powerful spellcaster that can use some of the [Sage's](/srd/heroes/archetypes/sage) abilities.
+    - [Sorcerer:](/srd/warriors/templates/elite/sorcerer) A powerful spellcaster that can use some of the [Sage's](/srd/heroes/archetypes/sage) abilities.
+- [Passives:](/srd/warriors/templates/passives) Extra passive abilities that add tactical depth to each warrior.
+- [Elite Abilities:](/srd/warriors/templates/elite-abilities) Abilities solely accessible to [Antagonists](/srd/anima/antagonists) and Elite warriors that express their unique danger and power.

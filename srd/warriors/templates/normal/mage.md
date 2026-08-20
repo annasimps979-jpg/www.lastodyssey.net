@@ -65,7 +65,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Magic Chain|[Special](/srd/combat/attacks#term-special)|5 MP, 2 AP|The Mage uses a ranged, colorless spell against a single target.  If this results in the target becoming [Shellbroken](/srd/combat/shells#term-shellbroken), they may use this [ability](/srd/glossary#term-ability) again against another target without spending any MP or AP.|
+|Magic Chain|[Special](/srd/combat/attacks#term-special)|5 MP, 2 AP|The Mage uses a ranged, colorless spell against a single target.  If this results in the target becoming [Shellbroken](/srd/combat/shells#term-shellbroken) or downed, they may use this [ability](/srd/glossary#term-ability) again against another target without spending any MP or AP.|
 
 ## Tier 4
 

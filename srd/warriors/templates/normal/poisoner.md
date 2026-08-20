@@ -172,7 +172,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|Elemental Chain|Special|7 MP, 2 AP|The Caster uses a ranged spell against a single target whose element is their base element.  If this results in the target becoming Shellbroken, they may use this ability against another target without spending any MP or AP.|
+|Elemental Chain|Special|7 MP, 2 AP|The Caster uses a ranged spell against a single target whose element is their base element.  If this results in the target becoming Shellbroken or downed, they may use this ability against another target without spending any MP or AP.|
 
 ## Tier 10
 
