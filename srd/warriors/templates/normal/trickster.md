@@ -2,7 +2,7 @@
 
 title: Trickster
 
-permalink: /srd/warriors/templates/trickster
+permalink: /srd/warriors/templates/normal/trickster
 
 abstract: >-
     Templates for making Trickster warriors.

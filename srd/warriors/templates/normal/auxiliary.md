@@ -1,7 +1,7 @@
 ---
 title: Auxiliaries
 
-permalink: /srd/warriors/templates/auxiliary
+permalink: /srd/warriors/templates/normal/auxiliary
 
 abstract: >-
     Statistics and abilities for the Auxiliary template.
@@ -26,7 +26,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|:-|
 |Charm (Magical Defense)|[Ally](/srd/combat/attacks#term-ally-ability)|3 [MP](/srd/heroes/numbers#term-mp), 1 [AP](/srd/combat/round#term-ap)|The Auxiliary moves the target's Magical Defense a single step up the [Bonus Tracker](/srd/combat/glamors#term-bonus-tracker) for the selected target.|
-|2|Shell|Ally|5 MP, 1 AP|The Auxiliary applies an amount of Shell equal to their Magical Attack of their [base](/srd/glossary#term-base) [element](/srd/combat/elements#term-element) to a single ally.  If the target already has a Shell of a different element, it changes to the element of this [ability](/srd/glossary#term-ability).|
+|Shell|Ally|5 MP, 1 AP|The Auxiliary applies an amount of Shell equal to their Magical Attack of their [base](/srd/glossary#term-base) [element](/srd/combat/elements#term-element) to a single ally.  If the target already has a Shell of a different element, it changes to the element of this [ability](/srd/glossary#term-ability).|
 
 ## Tier 2
 

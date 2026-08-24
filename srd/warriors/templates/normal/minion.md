@@ -2,7 +2,7 @@
 
 title: Minions
 
-permalink: /srd/warriors/templates/minion
+permalink: /srd/warriors/templates/normal/minion
 
 abstract: >-
     Templates for making Minion warriors.
@@ -136,8 +136,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|Multicharm (Physical Attack)|[Multi](/srd/combat/attacks#term-multi)|5 MP, 2 AP|The Minion moves Physical Attack up by 1 on the Bonus Tracker
- for themselves and all of their allies.|
+|Multicharm (Physical Attack)|[Multi](/srd/combat/attacks#term-multi)|5 MP, 2 AP|The Minion moves Physical Attack up by 1 on the Bonus Tracker for themselves and all of their allies.|
 
 ## Tier 8
 

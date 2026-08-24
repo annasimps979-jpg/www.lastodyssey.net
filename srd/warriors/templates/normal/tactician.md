@@ -28,7 +28,7 @@ Tacticians are [warriors](/srd/warriors) which indirectly and directly support t
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Orders|[Ally](/srd/combat/attacks#term-ally-ability)|1 AP|The Tactician grants a free [AP](/srd/combat/round#term-ap) to a single ally that can then use it to act during their [turn](/srd/combat/round#term-turn).  They may only use this ability once per [round](/srd/combat/round#term-round).|
-|Restore|Ally|5 [MP](/srd/heroes/numbers#term-mp)|[Ally](/srd/combat/attacks#term-ally-ability), 1 [AP](/srd/combat/round#term-ap)|The Tactician restores the MP of an ally apart from themselves or any other characters with this ability by an amount equal to their Magical Attack.|
+|Restore|Ally|5 [MP](/srd/heroes/numbers#term-mp), 1 [AP](/srd/combat/round#term-ap)|The Tactician restores the MP of an ally apart from themselves or any other characters with this ability by an amount equal to their Magical Attack.|
 
 ## Tier 2
 
@@ -152,7 +152,7 @@ Tacticians are [warriors](/srd/warriors) which indirectly and directly support t
 
 ### New Ability
 
-|Rank|Name|Type|Cost|Description|
+|Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Multicharm (Physical Accuracy)|Multi|5 MP, 2 AP|The Tactician moves Physical Accuracy a single step up the Bonus Tracker for themselves and all of their allies.|
 
@@ -170,7 +170,7 @@ Tacticians are [warriors](/srd/warriors) which indirectly and directly support t
 
 ### New Ability
 
-|Rank|Name|Type|Cost|Description|
+|Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Multicharm (Magical Accuracy)|Multi|5 MP, 2 AP|The Tactician moves Magical Accuracy a single step up the Bonus Tracker for themselves and all of their allies.|
 
@@ -188,6 +188,6 @@ Tacticians are [warriors](/srd/warriors) which indirectly and directly support t
 
 ### New Ability
 
-|Rank|Name|Type|Cost|Description|
+|Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Multicharm (Status Accuracy)|Multi|5 MP, 2 AP|The Tactician moves Status Accuracy a single step up the Bonus Tracker for themselves and all of their allies.|

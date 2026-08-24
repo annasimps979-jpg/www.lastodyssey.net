@@ -2,7 +2,7 @@
 
 title: Paladins
 
-permalink: /srd/warriors/templates/paladin
+permalink: /srd/warriors/templates/elite/paladin
 
 abstract: >-
     Templates for making Paladin warriors.
