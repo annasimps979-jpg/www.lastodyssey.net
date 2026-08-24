@@ -16,6 +16,7 @@ A warrior's description will list their [tier](/srd/heroes/creation#term-tier), 
 - Differentiate
     - [Creature Types:](/srd/warriors/types) How each warrior is classified.
     - [Warrior Creation:](/srd/warriors/creation) A step-by-step process for creating custom warriors.
+    - [Warrior Templates:](/srd/warriors/templates) Easy templates for creating new warriors quickly.
     - [Encounter Creation:](/srd/warriors/encounters) A guide to creating and roleplaying combat encounters.
 - Instantiate
     - [Playing Warriors:](/srd/warriors/playing) How to portray warriors as characters on the battlefield.
