@@ -64,7 +64,7 @@ Tacticians are [warriors](/srd/warriors) which indirectly and directly support t
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Scan|Ranged|2 MP, 1 AP|The Tactician uses a [sleight](/srd/) on a single target.  If it hits, the next spell, status, or strike dealt to them ignores any of their resistances or immunities to damage or statuses, but not their weaknesses.|
+|Scan|Ranged|2 MP, 1 AP|The Tactician uses a [sleight](/srd/combat/attacks#term-sleight) on a single target.  If it hits, the next spell, status, or strike dealt to them ignores any of their resistances or immunities to damage or statuses, but not their weaknesses.|
 
 ## Tier 4
 

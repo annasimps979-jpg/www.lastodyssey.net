@@ -9,7 +9,7 @@ abstract: >-
 
 ---
 
-Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/attacks#term-spell) and [elemental](/srd/) damage.
+Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/attacks#term-spell) and [elemental](/srd/combat/elements) damage.
 
 ## Tier 1
 
