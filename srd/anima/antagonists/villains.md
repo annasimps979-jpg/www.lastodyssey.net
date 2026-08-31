@@ -44,14 +44,14 @@ Nothing else that a Villain does requires <abbr title = "anima">🜉</abbr> besi
 ## Villainous Eidolons
 
 In addition to their own powers, Villains also have eidolons they summon during combat.  The power of a Villain's eidolon corresponds to their current lowest-tier form.  It has this form's element and its statistics are calculated from the form's underlying attributes.  The formulae for its statistics are as follows:
-*  The eidolon's _[Health](/srd/heroes/numbers#term-health)_ is their summoner's <math><menclose>Toughness</menclose><mo>x</mo>5 <mo>+</mo> <menclose>Tier</menclose><mo>x</mo>5</math>
-*  The eidolon's _Physical Attack_ is their summoner's <math><menclose>Aggression</menclose> <mo>+</mo> <menclose>Cunning</menclose> <mo>+</mo> <menclose>Tier</menclose></math>
-*  The eidolon's _Magical Attack_ is their summoner's <math><menclose>Magic</menclose> <mo>+</mo> <menclose>Aggression</menclose> <mo>+</mo> <menclose>Tier</menclose></math>
-*  The eidolon's _[Physical Defense](/srd/heroes/numbers#term-physical-defense)_ is their summoner's <math><menclose>Toughness</menclose> <mo>+</mo> <menclose>Tier</menclose></math>
-*  The eidolon's _[Magical Defense](/srd/heroes/numbers#term-magical-defense)_ is their summoner's <math><menclose>Magic</menclose> <mo>+</mo> <menclose>Tier</menclose></math>
-*  The eidolon's _[Evasion](/srd/heroes/numbers#term-evasion)_ is their summoner's <math><menclose>Cunning</menclose> <mo>+</mo> <menclose>Tier</menclose></math>
-*  The eidolon's _[Resistance](/srd/heroes/numbers#term-resistance)_ is their summoner's <math><menclose>Toughness</menclose> <mo>+</mo> <menclose>Tier</menclose></math>
-*  The eidolon's _[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy), [Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy),_ and _[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)_ are their summoner's <math><menclose>Aggression</menclose> <mo>+</mo> <menclose>Cunning</menclose> <mo>+</mo> <menclose>Tier</menclose></math>
+*  The eidolon's _[Health](/srd/heroes/numbers#term-health)_ is their summoner's <math><mo>(</mo>Toughness<mo>)</mo><mo>x</mo>5 <mo>+</mo> <mo>(</mo>Tier<mo>)</mo><mo>x</mo>5</math>
+*  The eidolon's _Physical Attack_ is their summoner's <math><mo>(</mo>Aggression<mo>)</mo> <mo>+</mo> <mo>(</mo>Cunning<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo></math>
+*  The eidolon's _Magical Attack_ is their summoner's <math><mo>(</mo>Magic<mo>)</mo> <mo>+</mo> <mo>(</mo>Aggression<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo></math>
+*  The eidolon's _[Physical Defense](/srd/heroes/numbers#term-physical-defense)_ is their summoner's <math><mo>(</mo>Toughness<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo></math>
+*  The eidolon's _[Magical Defense](/srd/heroes/numbers#term-magical-defense)_ is their summoner's <math><mo>(</mo>Magic<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo></math>
+*  The eidolon's _[Evasion](/srd/heroes/numbers#term-evasion)_ is their summoner's <math><mo>(</mo>Cunning<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo></math>
+*  The eidolon's _[Resistance](/srd/heroes/numbers#term-resistance)_ is their summoner's <math><mo>(</mo>Toughness<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo></math>
+*  The eidolon's _[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy), [Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy),_ and _[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)_ are their summoner's <math><mo>(</mo>Aggression<mo>)</mo> <mo>+</mo> <mo>(</mo>Cunning<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo></math>
 
 As with [warrior creation,](/srd/warriors/creation) an eidolon's attributes are totally hidden from the players, and thus their statistics may be adjusted as needed.  A Villain's eidolon possesses the Attack and Full Restore abilities that a Hero eidolon has, and may also use the Villain's paradigm actions as abilities if they have any.  The cost of using them is the same as for the Villain, but they are used as normal actions instead, with their corresponding AP cost.
 

@@ -25,14 +25,14 @@ As per the rules for [Hero creation,](/srd/heroes/creation) not all characters w
 
 ## Eidolons in Combat
 An eidolon's combat abilities do not cost [MP](/srd/heroes/numbers#term-mp).  In addition, eidolons act in lieu of their summoner during their summoner's turn in the Initiative Order.  Therefore, they do not have Mana or Initiative, but otherwise they share the same statistics that all [Heroes](/srd/glossary#term-hero) have.  Each of their statistics also receives a bonus given by their class, which is the same as the bonus to a Hero's statistics from the corresponding [role](/srd/heroes/roles) of the same name.  For example, an eidolon that is a Striker gets a bonus to their [Physical Attack](/srd/heroes/numbers#term-strike) equal to their summoner's [Body](/srd/heroes/numbers#term-body), an eidolon that is a Caster gets a bonus to their [Magical Attack](/srd/heroes/numbers#term-spell) equal to their summoner's [Mind](/srd/heroes/numbers#term-mind), and so on.  The formulae for their statistics are as follows:
-*  <math><menclose>Health</menclose> = <menclose>Body</menclose><mo>x</mo>5 <mo>+</mo> <menclose>Spirit</menclose><mo>x</mo>5 <mo>+</mo> <menclose>Tier</menclose><mo>x</mo>5</math>
-*  <math><menclose>Physical Attack</menclose><mo>=</mo> <menclose>Body</menclose> <mo>+</mo> <menclose>Tier</menclose> <mo>+</mo> <menclose>Class Bonus</menclose></math>
-*  <math><menclose>Magical Attack</menclose> <mo>=</mo> <menclose>Mind</menclose> <mo>+</mo> <menclose>Tier</menclose> <mo>+</mo> <menclose>Class Bonus</menclose></math>
-*  <math><menclose>Physical Defense</menclose><mo>=</mo> <menclose>Body</menclose> <mo>+</mo> <menclose>Tier</menclose> <mo>+</mo> <menclose>Class Bonus</menclose></math>
-*  <math><menclose>Magical Defense</menclose> <mo>=</mo> <menclose>Spirit</menclose> <mo>+</mo> <menclose>Tier</menclose> <mo>+</mo> <menclose>Class Bonus</menclose></math>
-*  <math><menclose>Evasion</menclose> <mo>=</mo> <menclose>Mind</menclose> <mo>+</mo> <menclose>Tier</menclose> <mo>+</mo> <menclose>Class Bonus</menclose></math>
-*  <math><menclose>Resistance</menclose> <mo>=</mo> <menclose>Spirit</menclose> <mo>+</mo> <menclose>Tier</menclose> <mo>+</mo> <menclose>Class Bonus</menclose></math>
-*  <math><menclose>All Accuracies</menclose> <mo>=</mo> <menclose>Mind</menclose> <mo>+</mo> <menclose>Body</menclose> <mo>+</mo> <menclose>Spirit</menclose></math>
+*  <math><mo>(</mo>Health<mo>)</mo> = <mo>(</mo>Body<mo>)</mo><mo>x</mo>5 <mo>+</mo> <mo>(</mo>Spirit<mo>)</mo><mo>x</mo>5 <mo>+</mo> <mo>(</mo>Tier<mo>)</mo><mo>x</mo>5</math>
+*  <math><mo>(</mo>Physical Attack<mo>)</mo><mo>=</mo> <mo>(</mo>Body<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo> <mo>+</mo> <mo>(</mo>Class Bonus<mo>)</mo></math>
+*  <math><mo>(</mo>Magical Attack<mo>)</mo> <mo>=</mo> <mo>(</mo>Mind<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo> <mo>+</mo> <mo>(</mo>Class Bonus<mo>)</mo></math>
+*  <math><mo>(</mo>Physical Defense<mo>)</mo><mo>=</mo> <mo>(</mo>Body<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo> <mo>+</mo> <mo>(</mo>Class Bonus<mo>)</mo></math>
+*  <math><mo>(</mo>Magical Defense<mo>)</mo> <mo>=</mo> <mo>(</mo>Spirit<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo> <mo>+</mo> <mo>(</mo>Class Bonus<mo>)</mo></math>
+*  <math><mo>(</mo>Evasion<mo>)</mo> <mo>=</mo> <mo>(</mo>Mind<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo> <mo>+</mo> <mo>(</mo>Class Bonus<mo>)</mo></math>
+*  <math><mo>(</mo>Resistance<mo>)</mo> <mo>=</mo> <mo>(</mo>Spirit<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo> <mo>+</mo> <mo>(</mo>Class Bonus<mo>)</mo></math>
+*  <math><mo>(</mo>All Accuracies<mo>)</mo> <mo>=</mo> <mo>(</mo>Mind<mo>)</mo> <mo>+</mo> <mo>(</mo>Body<mo>)</mo> <mo>+</mo> <mo>(</mo>Spirit<mo>)</mo></math>
 
 As Heroes advance in tier, they will unlock unique capstone abilities that only their eidolons can use.  In addition, a Hero's eidolon may also use two basic abilities and two abilities determined by its class.  All eidolons have the following abilities:
 

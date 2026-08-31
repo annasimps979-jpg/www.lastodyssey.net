@@ -16,7 +16,7 @@ In Last Odyssey, each [player](/srd) plays one of the protagonists of the story.
 - How They Are Classified
     - [Numbers:](/srd/heroes/numbers) The mechanical heart of every character.
     - [Archetypes:](/srd/heroes/archetypes) Unique sets of abilities that distinguish each Hero.
-    - [Roles:](/srd/heroes/Roles) A Hero's proficiencies during battle.
+    - [Roles:](/srd/heroes/roles) A Hero's proficiencies during battle.
 - What Comes In Their Wake
     - [Eidolons:](/srd/heroes/eidolons) The expressions of a character's <abbr title = "anima">🜉</abbr> made manifest.
     - [Hero Advancement:](/srd/heroes/advancement) How Heroes grow stronger.

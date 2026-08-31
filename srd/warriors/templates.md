@@ -19,7 +19,7 @@ To create enemies faster, <abbr title = "game master">[GMs](/srd/glossary#term-g
     - [Medic:](/srd/warriors/templates/normal/medic) Specialists in healing that can revive allies at higher tiers.
     - [Minion:](/srd/warriors/templates/normal/minion) Basic grunts that have greater strength in numbers.
     - [Poisoner:](/srd/warriors/templates/normal/poisoner) Specialists in inflicting [statuses](/srd/combat/statuses) and [hexes.](/srd/combat/glamors#term-hex)
-    - [Tactician:](/srd/warriors/templates/normal/tactician) Warriors that support their allies with non-[charm](/srd/warriors/templates/normal/glamors#term-charm) abilities.
+    - [Tactician:](/srd/warriors/templates/normal/tactician) Warriors that support their allies with non-[charm](/srd/combat/glamors#term-charm) abilities.
     - [Trickster:](/srd/warriors/templates/normal/trickster) Warriors whose high [Evasion](/srd/heroes/numbers#term-evasion) makes them difficult to fell.
     - [Vanguard:](/srd/warriors/templates/normal/vanguard) Warriors that focus purely on damage output at the expense of everything else.
 - [Elite](/srd/warriors/creation#term-elite-warrior) Templates

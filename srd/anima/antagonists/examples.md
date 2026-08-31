@@ -173,7 +173,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Soulrend|Special|1 AP, 10 MP|The Doctor uses a spell against a single warrior that does magical wind damage on a hit.  If this attack breaks the target's Shell, the Doctor can use this ability again immediately on another warrior without needing to spend additional AP and MP.|
 |Treatment|Multi|2 AP, 18 MP|The Doctor removes all statuses and hexes from themselves and all of their allies.|
 |Recharge|Ally|1 AP, 5 MP|Restores 30 MP to a single one of the Doctor's allies.  The Doctor cannot use this ability on themselves.|
-|Time Dilation|Multi|3 AP, 25 MP|The Doctor uses [Haste](/srd/heroes/jobs/support) on itself and all of its allies.|
+|Time Dilation|Multi|3 AP, 25 MP|The Doctor uses [Haste](/srd/heroes/roles/support) on itself and all of its allies.|
 |Sadist|Passive|N/A|Whenever the Doctor inflicts damage on a warrior, they also regain an amount of MP equal to the amount of damage they dealt.|
 |Prepared|Passive|N/A|The Doctor has one of each [element](/srd/combat/elements#term-element) of Standard Charge [battle item](/srd/economy/items/battle) in its inventory.|
 |Target Acquired|Paradigm Action|1 <abbr title = "anima">🜉</abbr>|All of the Doctor's opponents on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
@@ -226,7 +226,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |Cannon|Melee|1 AP|The Infernal Engine makes a basic strike.|
 |Crush|Melee|1 AP, 5 MP|The Infernal Engine makes a strike against a single target that deals physical colorless damage on a hit that is multiplied by 2 in addition to other modifiers.|
 |Bake|Multi|3 AP, 15 MP|The Infernal Engine makes a strike against all of its opponents that deals fire damage on a hit.|
-|Shield|Self|1 AP, 7 MP|The Infernal Engine inflicts the [Shielded](/srd/heroes/jobs/defender) status on itself.  The next time a strike hits it, the damage is negated.|
+|Shield|Self|1 AP, 7 MP|The Infernal Engine inflicts the [Shielded](/srd/heroes/roles/defender) status on itself.  The next time a strike hits it, the damage is negated.|
 |Enrage|Ranged|1 AP, 10 MP|The Infernal Engine uses a sleight that inflicts the Focused status on a single warrior on a hit.|
 |Reflect|Self|1 AP, 12 MP|Inflicts the Reflecting status on the Infernal Engine.  The next time a Reflecting character it is hit with a spell, the attack is bounced back at the user instead and the Reflecting status is removed.|
 |Ingenious Design|Passive|N/A|The Infernal Engine has no elemental weaknesses, only resistances.|

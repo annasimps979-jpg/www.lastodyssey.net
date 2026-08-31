@@ -38,4 +38,4 @@ In [combat](/srd/combat), a Hero's strengths and weaknesses are represented by 1
 
 During play, a character's statistics can be modified by many effects, such as [glamors](/srd/combat/glamors) and [injuries](/srd/combat/injuries).  For reference, to determine what any of a character's statistics are in battle, the formula looks like this:
 
-<math xmlns = "https://www.w3.org/1998/Math/MathML"><menclose>Total</menclose> <mo>=</mo> <menclose>Base Value</menclose> <mo>x</mo> <menclose>Status Multiplier</menclose> <mo>+</mo> <menclose>Bonus Tracker</menclose> <mo>+</mo> <menclose>Injury Modifier</menclose></math>
+<math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo>Total<mo>)</mo> <mo>=</mo> <mo>(</mo>Base Value<mo>)</mo> <mo>x</mo> <mo>(</mo>Status Multiplier<mo>)</mo> <mo>+</mo> <mo>(</mo>Bonus Tracker<mo>)</mo> <mo>+</mo> <mo>(</mo>Injury Modifier<mo>)</mo></math>

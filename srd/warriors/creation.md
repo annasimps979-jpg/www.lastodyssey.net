@@ -27,18 +27,18 @@ When creating a new warrior, the <abbr title="game master">GM</abbr> must spend 
 ## Calculating Statistics
 
 Once attribute points have been allocated, the warrior's combat statistics are determined by their attributes by the following formulae:
-*  <math><menclose>Health</menclose> <mo>=</mo> <menclose>Toughness</menclose><mo>x</mo>5 <mo>+</mo> <menclose>Tier</menclose><mo>x</mo><menclose>Tier Multiplier</menclose></math>
-*  <math><menclose>Mana</menclose> <mo>=</mo> <menclose>Magic</menclose><mo>x</mo>5 <mo>+</mo> <menclose>Tier</menclose><mo>x</mo><menclose>Tier Multiplier</menclose></math>
-*  <math><menclose>Initiative</menclose> <mo>=</mo> <menclose>Aggression</menclose> <mo>+</mo> <menclose>Cunning</menclose> <mo>+</mo> <menclose>Tier</menclose><mo>x</mo><menclose>Tier Multiplier</menclose></math>
-*  <math><menclose>Physical Attack</menclose> <mo>=</mo> <menclose>Aggression</menclose><mo>x</mo>2</math>
-*  <math><menclose>Magical Attack</menclose> <mo>=</mo> <menclose>Magic</menclose> <mo>x</mo> 2</math>
-*  <math><menclose>Physical Defense</menclose> <mo>=</mo> <menclose>Toughness</menclose></math>
-*  <math><menclose>Magical Defense</menclose> <mo>=</mo> <menclose>Magic</menclose></math>
-*  <math><menclose>Evasion</menclose> <mo>=</mo> <menclose>Cunning</menclose></math>
-*  <math><menclose>Resistance</menclose> <mo>=</mo> <menclose>Toughness</menclose></math>
-*  <math><menclose>Physical Accuracy</menclose> <mo>=</mo> <menclose>Aggression</menclose><mo>x</mo>2</math>
-*  <math><menclose>Magical Accuracy</menclose> <mo>=</mo> <menclose>Cunning</menclose> <mo>+</mo> <menclose>Magic</menclose></math>
-*  <math><menclose>Status Accuracy</menclose> <mo>=</mo> <menclose>Cunning</menclose><mo>x</mo>2</math>
+*  <math><mo>(</mo>Health<mo>)</mo> <mo>=</mo> <mo>(</mo>Toughness<mo>)</mo><mo>x</mo>5 <mo>+</mo> <mo>(</mo>Tier<mo>)</mo><mo>x</mo><mo>(</mo>Tier Multiplier<mo>)</mo></math>
+*  <math><mo>(</mo>Mana<mo>)</mo> <mo>=</mo> <mo>(</mo>Magic<mo>)</mo><mo>x</mo>5 <mo>+</mo> <mo>(</mo>Tier<mo>)</mo><mo>x</mo><mo>(</mo>Tier Multiplier<mo>)</mo></math>
+*  <math><mo>(</mo>Initiative<mo>)</mo> <mo>=</mo> <mo>(</mo>Aggression<mo>)</mo> <mo>+</mo> <mo>(</mo>Cunning<mo>)</mo> <mo>+</mo> <mo>(</mo>Tier<mo>)</mo><mo>x</mo><mo>(</mo>Tier Multiplier<mo>)</mo></math>
+*  <math><mo>(</mo>Physical Attack<mo>)</mo> <mo>=</mo> <mo>(</mo>Aggression<mo>)</mo><mo>x</mo>2</math>
+*  <math><mo>(</mo>Magical Attack<mo>)</mo> <mo>=</mo> <mo>(</mo>Magic<mo>)</mo> <mo>x</mo> 2</math>
+*  <math><mo>(</mo>Physical Defense<mo>)</mo> <mo>=</mo> <mo>(</mo>Toughness<mo>)</mo></math>
+*  <math><mo>(</mo>Magical Defense<mo>)</mo> <mo>=</mo> <mo>(</mo>Magic<mo>)</mo></math>
+*  <math><mo>(</mo>Evasion<mo>)</mo> <mo>=</mo> <mo>(</mo>Cunning<mo>)</mo></math>
+*  <math><mo>(</mo>Resistance<mo>)</mo> <mo>=</mo> <mo>(</mo>Toughness<mo>)</mo></math>
+*  <math><mo>(</mo>Physical Accuracy<mo>)</mo> <mo>=</mo> <mo>(</mo>Aggression<mo>)</mo><mo>x</mo>2</math>
+*  <math><mo>(</mo>Magical Accuracy<mo>)</mo> <mo>=</mo> <mo>(</mo>Cunning<mo>)</mo> <mo>+</mo> <mo>(</mo>Magic<mo>)</mo></math>
+*  <math><mo>(</mo>Status Accuracy<mo>)</mo> <mo>=</mo> <mo>(</mo>Cunning<mo>)</mo><mo>x</mo>2</math>
 
 Unlike Heroes, warriors' maximum [HP](/srd/heroes/numbers#term-hp) and [Shell](/srd/combat/shells) are distinct values.  The total combined HP plus Shell of a single warrior is equal to its Health, and the ratio of its HP to its Shell is equal to the ratio of its Toughness plus its Aggression to its Magic plus its Cunning.  For example, a warrior with an Aggression of 4, a Toughness of 5, a Magic of 3, and a Cunning of 3 would have HP equal to three fifths of its Health and Shell equal to two fifths of its Health.  If the value calculated isn't exact (and it often won't be) just round the warrior's Health and Shell to the nearest integer.  Once statistics are calculated, the <abbr title="game master">GM</abbr> can then adjust them if they like.  When doing so, they should remember that 1 point of Physical Defense, Magical Defense, Evasion, or Resistance is worth 2 points of Physical Attack, Magical Attack, Physical Accuracy, Magical Accuracy, Initiative, or Status Accuracy, and also worth 5 points of Health or Mana.
 
