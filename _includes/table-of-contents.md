@@ -93,7 +93,7 @@
       - [Mages](/srd/warriors/templates/normal/mage)
       - [Medics](/srd/warriors/templates/normal/medic)
       - [Minions](/srd/warriors/templates/normal/minion)
-      - [Poisoners](/srd/warriors/templates/normal/warrior)
+      - [Poisoners](/srd/warriors/templates/normal/poisoner)
       - [Tacticians](/srd/warriors/templates/normal/tactician)
       - [Tricksters](/srd/warriors/templates/normal/trickster)
     - _Elite_
