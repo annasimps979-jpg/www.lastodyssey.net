@@ -21,7 +21,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|2|2|2|3|4|
+|3|3|2|3|4|
 
 ### Available Abilities
 
@@ -40,7 +40,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|2|2|5|6|
+|4|3|2|5|6|
 
 ### New Ability
 
@@ -58,7 +58,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|3|4|5|6|
+|4|4|4|5|6|
 
 ### New Ability
 
@@ -76,7 +76,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|4|4|6|8|
+|6|6|4|6|8|
 
 ### New Ability
 
@@ -94,7 +94,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|4|4|8|10|
+|7|6|4|8|10|
 
 ### New Ability
 
@@ -112,7 +112,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|5|6|8|10|
+|7|7|6|8|10|
 
 ### New Ability
 
@@ -130,7 +130,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|6|6|9|12|
+|9|9|6|9|12|
 
 ### New Ability
 
@@ -148,7 +148,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|6|8|10|14|
+|10|9|8|10|14|
 
 ### New Ability
 
@@ -166,7 +166,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|7|8|11|14|
+|10|10|8|11|14|
 
 ### New Ability
 
@@ -184,7 +184,7 @@ Poisoners specialize in [sleights](/srd/combat/attacks#term-sleight) and [hexes,
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|8|8|8|12|16|
+|12|12|8|12|16|
 
 ### New Ability
 

@@ -21,7 +21,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
-|2|2|4|4|4|
+|3|3|4|4|4|
 
 ### Available Abilities
 
@@ -42,7 +42,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|2|6|6|6|
+|4|3|6|6|6|
 
 ### New Abilities
 
@@ -61,7 +61,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|3|6|8|8|
+|6|4|6|8|8|
 
 ### New Abilities
 
@@ -80,7 +80,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|4|8|9|8|
+|6|6|8|9|8|
 
 ### New Abilities
 
@@ -99,7 +99,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|5|10|10|10|
+|7|7|10|10|10|
 
 ### New Abilities
 
@@ -118,7 +118,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|5|12|12|12|
+|9|7|12|12|12|
 
 ### New Abilities
 
@@ -137,7 +137,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|6|12|14|14|
+|10|9|12|14|14|
 
 ### New Abilities
 
@@ -156,7 +156,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|7|14|15|14|
+|10|10|14|15|14|
 
 ### New Abilities
 
@@ -175,7 +175,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|8|8|16|16|16|
+|12|12|16|16|16|
 
 ### New Abilities
 
@@ -194,7 +194,7 @@ War Leaders excel at leading weaker [warriors](/srd/warriors) into battle.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|9|8|18|18|18|
+|13|12|18|18|18|
 
 ### New Abilities
 

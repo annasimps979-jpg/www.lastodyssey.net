@@ -19,7 +19,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|1|2|2|3|2|
+|1|3|2|3|2|
 
 ### Available Abilities
 
@@ -38,7 +38,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|2|2|5|4|
+|3|3|2|5|4|
 
 ### New Ability
 
@@ -55,7 +55,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|3|4|5|4|
+|3|4|4|5|4|
 
 ### New Ability
 
@@ -72,7 +72,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|4|4|6|4|
+|3|6|4|6|4|
 
 ### New Ability
 
@@ -90,7 +90,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|4|4|8|6|
+|4|6|4|8|6|
 
 ### New Ability
 
@@ -108,7 +108,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|5|6|8|6|
+|4|7|6|8|6|
 
 ### New Ability
 
@@ -126,7 +126,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|6|6|9|6|
+|4|9|6|9|6|
 
 ### New Ability
 
@@ -144,7 +144,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|6|6|11|8|
+|6|9|6|11|8|
 
 ### New Ability
 
@@ -162,7 +162,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|7|8|11|8|
+|6|10|8|11|8|
 
 ### New Ability
 
@@ -180,7 +180,7 @@ Auxiliaries are [warriors](/srd/warriors) who can manipulate the [elemental](/sr
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|8|8|12|8|
+|6|12|8|12|8|
 
 ### New Ability
 

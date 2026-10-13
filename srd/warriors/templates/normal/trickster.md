@@ -21,7 +21,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|3|1|2|4|6|
+|4|1|2|4|6|
 
 ### Available Abilities
 
@@ -40,7 +40,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|1|2|6|8|
+|6|1|2|6|8|
 
 ### New Ability
 
@@ -58,7 +58,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|2|2|7|10|
+|7|3|2|7|10|
 
 ### New Ability
 
@@ -76,7 +76,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|2|4|8|12|
+|9|3|4|8|12|
 
 ### New Ability
 
@@ -94,7 +94,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|2|6|9|14|
+|10|3|6|9|14|
 
 ### New Ability
 
@@ -112,7 +112,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|8|3|6|10|16|
+|12|4|6|10|16|
 
 ### New Ability
 
@@ -130,7 +130,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|9|3|6|12|18|
+|12|4|6|12|18|
 
 ### New Ability
 
@@ -148,7 +148,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|10|3|8|13|20|
+|15|4|8|13|20|
 
 ### New Ability
 
@@ -166,7 +166,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|10|4|8|14|20|
+|15|6|8|14|20|
 
 ### New Ability
 
@@ -184,7 +184,7 @@ Tricksters exist to throw the [party](/srd/glossary#term-party) off guard.  They
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|10|4|10|15|20|
+|15|6|10|15|20|
 
 ### New Ability
 

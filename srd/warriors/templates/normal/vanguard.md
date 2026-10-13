@@ -40,7 +40,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|1|2|8|2|2|
+|1|3|8|2|2|
 
 ### New Ability
 
@@ -58,7 +58,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|1|2|10|3|2|
+|1|3|10|3|2|
 
 ### New Ability
 
@@ -76,7 +76,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|2|12|4|4|
+|3|3|12|4|4|
 
 ### New Ability
 
@@ -94,7 +94,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|3|12|5|6|
+|4|4|12|5|6|
 
 ### New Ability
 
@@ -112,7 +112,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|3|14|6|6|
+|4|4|14|6|6|
 
 ### New Ability
 
@@ -130,7 +130,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|4|14|7|8|
+|6|6|14|7|8|
 
 ### New Ability
 
@@ -148,7 +148,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|4|16|8|8|
+|6|6|16|8|8|
 
 ### New Ability
 
@@ -166,7 +166,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|5|18|8|8|
+|6|7|18|8|8|
 
 ### New Ability
 
@@ -184,7 +184,7 @@ Vanguard are dedicated physical attackers whose entire job is to deal as much da
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|5|20|9|10|
+|7|7|20|9|10|
 
 ### New Ability
 

@@ -21,7 +21,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|3|1|6|4|6|
+|4|1|6|4|6|
 
 ### Available Abilities
 
@@ -42,7 +42,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|2|8|5|8|
+|6|3|8|5|8|
 
 ### New Abilities
 
@@ -61,7 +61,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|2|10|7|10|
+|7|3|10|7|10|
 
 ### New Abilities
 
@@ -80,7 +80,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|3|12|8|12|
+|9|4|12|8|12|
 
 ### New Abilities
 
@@ -99,7 +99,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|3|14|10|14|
+|10|4|14|10|14|
 
 ### New Abilities
 
@@ -118,7 +118,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|8|3|16|11|16|
+|12|4|16|11|16|
 
 ### New Abilities
 
@@ -137,7 +137,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|9|4|18|12|18|
+|13|6|18|12|18|
 
 ### New Abilities
 
@@ -156,7 +156,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|10|4|20|14|20|
+|15|6|20|14|20|
 
 ### New Abilities
 
@@ -175,7 +175,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|11|5|22|15|22|
+|16|7|22|15|22|
 
 ### New Abilities
 
@@ -194,7 +194,7 @@ Assassins are fast, deadly attackers that can quickly take out more fragile [par
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|12|5|24|17|24|
+|18|7|24|17|24|
 
 ### New Abilities
 

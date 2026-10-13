@@ -21,7 +21,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|2|1|4|3|4|
+|3|1|4|3|4|
 
 ### Available Abilities
 
@@ -40,7 +40,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|1|6|4|6|
+|4|1|6|4|6|
 
 ### New Ability
 
@@ -58,7 +58,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|2|6|5|6|
+|4|3|6|5|6|
 
 ### New Ability
 
@@ -76,7 +76,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|2|8|6|8|
+|6|3|8|6|8|
 
 ### New Ability
 
@@ -94,7 +94,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|2|10|7|10|
+|7|3|10|7|10|
 
 ### New Ability
 
@@ -112,7 +112,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|3|10|8|10|
+|7|4|10|8|10|
 
 ### New Ability
 
@@ -130,7 +130,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|3|12|9|12|
+|9|4|12|9|12|
 
 ### New Ability
 
@@ -148,7 +148,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|3|14|10|14|
+|10|4|14|10|14|
 
 ### New Ability
 
@@ -166,7 +166,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|8|3|16|11|16|
+|12|4|16|11|16|
 
 ### New Ability
 
@@ -184,7 +184,7 @@ Hunters are fast, accurate [warriors](/srd/warriors) who are good at taking out 
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|8|4|16|12|16|
+|12|6|16|12|16|
 
 ### New Ability
 
