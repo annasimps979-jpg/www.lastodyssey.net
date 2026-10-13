@@ -42,7 +42,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|1|6|4|4|2|
+|1|9|4|4|2|
 
 ### New Abilities
 
@@ -61,7 +61,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|8|4|5|4|
+|3|12|4|5|4|
 
 ### New Abilities
 
@@ -80,7 +80,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|9|6|6|6|
+|4|13|6|6|6|
 
 ### New Abilities
 
@@ -99,7 +99,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|9|8|8|8|
+|6|13|8|8|8|
 
 ### New Abilities
 
@@ -118,7 +118,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|11|10|8|8|
+|6|16|10|8|8|
 
 ### New Abilities
 
@@ -137,7 +137,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|12|12|9|8|
+|6|18|12|9|8|
 
 ### New Abilities
 
@@ -156,7 +156,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|13|12|10|8|
+|6|19|12|10|8|
 
 ### New Abilities
 
@@ -175,7 +175,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|14|14|10|8|
+|6|21|14|10|8|
 
 ### New Abilities
 
@@ -194,7 +194,7 @@ Colossi have high defense, and also the capacity to heal themselves.
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|15|14|11|8|
+|6|22|14|11|8|
 
 ### New Abilities
 

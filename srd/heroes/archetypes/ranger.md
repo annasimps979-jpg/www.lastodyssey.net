@@ -22,7 +22,7 @@ A Ranger's core virtue is their **Focus.**  At [Hero creation](/srd/heroes/creat
 
 |Name|[Type](/srd/combat/attacks#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Mark Target|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Ranger inflicts the Hunted [status](/srd/combat/statuses) on the target.  When they use a [spell](/srd/combat/attacks#term-spell), [strike](/srd/combat/attacks#term-strike), or [sleight](/srd/combat/attacks#term-sleight) on the target, their player casts the [hit die](/srd/combat/attacks#term-hit-die) twice and chooses the number they prefer.  This does not apply to attacks that target multiple [warriors](/srd/warriors).  Only one warrior can have the Hunted status inflicted on them per Ranger in the [party](/srd/glossary#term-party).  If a Hunted warrior dies due to one of the Ranger's attacks, they may immediately use Mark Target on another warrior at no AP cost.|
+|Hunt|[Ranged](/srd/combat/attacks#term-ranged)|1 [AP](/srd/combat/round#term-ap)|The Ranger inflicts the Hunted [status](/srd/combat/statuses) on the target.  When they use a [spell](/srd/combat/attacks#term-spell), [strike](/srd/combat/attacks#term-strike), or [sleight](/srd/combat/attacks#term-sleight) on the target, their player casts the [hit die](/srd/combat/attacks#term-hit-die) twice and chooses the number they prefer.  This does not apply to attacks that target multiple [warriors](/srd/warriors).  Only one warrior can have the Hunted status inflicted on them per Ranger in the [party](/srd/glossary#term-party).  If a Hunted warrior dies due to one of the Ranger's attacks, they may immediately use Mark Target on another warrior at no AP cost.|
 
 **Tier 2:** The Ranger gains +1 Physical Accuracy.
 

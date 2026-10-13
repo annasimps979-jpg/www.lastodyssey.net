@@ -21,7 +21,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
-|3|1|2|6|6|
+|4|1|2|6|6|
 
 ### Available Abilities
 
@@ -42,7 +42,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|2|2|8|8|
+|6|3|2|8|8|
 
 ### New Abilities
 
@@ -61,7 +61,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|2|4|10|8|
+|6|3|4|10|8|
 
 ### New Abilities
 
@@ -80,7 +80,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|2|4|13|10|
+|7|3|4|13|10|
 
 ### New Abilities
 
@@ -99,7 +99,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|3|6|14|10|
+|7|4|6|14|10|
 
 ### New Abilities
 
@@ -118,7 +118,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|4|8|15|10|
+|7|6|8|15|10|
 
 ### New Abilities
 
@@ -137,7 +137,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|4|8|18|12|
+|9|6|8|18|12|
 
 ### New Abilities
 
@@ -156,7 +156,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|5|10|19|12|
+|9|7|10|19|12|
 
 ### New Abilities
 
@@ -175,7 +175,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|5|12|21|14|
+|10|7|12|21|14|
 
 ### New Abilities
 
@@ -194,7 +194,7 @@ Sorcerers are magical specialists, and can make use of [Sorcerer](/srd/heroes/ar
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|8|6|12|23|16|
+|12|9|12|23|16|
 
 ### New Abilities
 

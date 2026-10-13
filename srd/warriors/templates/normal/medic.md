@@ -40,7 +40,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|1|2|6|4|
+|3|1|2|6|4|
 
 ### New Ability
 
@@ -58,7 +58,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|2|2|7|4|
+|3|3|2|7|4|
 
 ### New Ability
 
@@ -76,7 +76,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|2|4|8|4|
+|3|3|4|8|4|
 
 ### New Ability
 
@@ -94,7 +94,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|2|4|10|6|
+|4|3|4|10|6|
 
 ### New Ability
 
@@ -112,7 +112,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|3|6|10|6|
+|4|4|6|10|6|
 
 ### New Ability
 
@@ -130,7 +130,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|3|6|12|8|
+|6|4|6|12|8|
 
 ### New Ability
 
@@ -148,7 +148,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|4|8|12|8|
+|6|6|8|12|8|
 
 ### New Ability
 
@@ -166,7 +166,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|4|8|14|10|
+|7|6|8|14|10|
 
 ### New Ability
 
@@ -184,7 +184,7 @@ Medics are dedicated healers, but also have some amount of offensive potential f
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|5|8|15|10|
+|7|7|8|15|10|
 
 ### New Ability
 

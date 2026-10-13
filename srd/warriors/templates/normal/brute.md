@@ -21,7 +21,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|1|3|2|2|2|
+|1|4|2|2|2|
 
 ### Available Abilities
 
@@ -40,7 +40,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|1|4|4|2|2|
+|1|6|4|2|2|
 
 ### New Ability
 
@@ -58,7 +58,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|1|5|4|3|2|
+|1|7|4|3|2|
 
 ### New Ability
 
@@ -76,7 +76,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|6|4|4|4|
+|3|9|4|4|4|
 
 ### New Ability
 
@@ -94,7 +94,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|7|6|4|4|
+|3|10|6|4|4|
 
 ### New Ability
 
@@ -112,7 +112,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|8|6|5|4|
+|3|12|6|5|4|
 
 ### New Ability
 
@@ -130,7 +130,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|9|6|6|6|
+|4|13|6|6|6|
 
 ### New Ability
 
@@ -148,7 +148,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|9|8|7|6|
+|4|13|8|7|6|
 
 ### New Ability
 
@@ -166,7 +166,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|10|8|8|8|
+|6|15|8|8|8|
 
 ### New Ability
 
@@ -184,7 +184,7 @@ Brutes are [warriors](/srd/warriors) with high defensive [statistics.](/srd/glos
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|10|10|9|8|
+|6|15|10|9|8|
 
 ### New Ability
 

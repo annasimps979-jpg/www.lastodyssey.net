@@ -21,7 +21,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|1|2|4|2|2|
+|1|3|4|2|2|
 
 ### Available Abilities
 
@@ -40,7 +40,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|2|4|4|4|
+|3|3|4|4|4|
 
 ### New Ability
 
@@ -58,7 +58,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|2|6|5|4|
+|3|3|6|5|4|
 
 ### New Ability
 
@@ -76,7 +76,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|3|6|6|6|
+|4|4|6|6|6|
 
 ### New Ability
 
@@ -94,7 +94,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|3|8|7|8|
+|6|4|8|7|8|
 
 ### New Ability
 
@@ -112,7 +112,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|4|8|8|8|
+|6|6|8|8|8|
 
 ### New Ability
 
@@ -130,7 +130,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|4|10|9|8|
+|6|6|10|9|8|
 
 ### New Ability
 
@@ -148,7 +148,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|5|10|10|10|
+|7|7|10|10|10|
 
 ### New Ability
 
@@ -166,7 +166,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|5|12|11|10|
+|7|7|12|11|10|
 
 ### New Ability
 
@@ -184,7 +184,7 @@ Minions are all-rounders, and therefore fairly weak on their own, but are extrem
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|6|12|12|12|
+|9|9|12|12|12|
 
 ### New Ability
 

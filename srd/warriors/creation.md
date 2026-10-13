@@ -26,7 +26,7 @@ When creating a new warrior, the <abbr title="game master">GM</abbr> must spend 
 
 ## Calculating Statistics
 
-Once attribute points have been allocated, the warrior's combat statistics are determined by their attributes by the following formulae:
+Once attribute points have been allocated, the warrior's combat statistics are determined by their attributes by the following formulae, rounded to the nearest integer:
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Health</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Toughness</mtext><mo>)</mo><mo>x</mo><mn>5</mn> <mo>+</mo> <mo>(</mo><mtext>Tier</mtext><mo>)</mo><mo>x</mo><mo>(</mo><mtext>Tier Multiplier</mtext><mo>)</mo></math>
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Mana</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Magic</mtext><mo>)</mo><mo>x</mo><mn>5</mn> <mo>+</mo> <mo>(</mo><mtext>Tier</mtext><mo>)</mo><mo>x</mo><mo>(</mo><mtext>Tier Multiplier</mtext><mo>)</mo></math>
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Initiative</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Aggression</mtext><mo>)</mo> <mo>+</mo> <mo>(</mo><mtext>Cunning</mtext><mo>)</mo> <mo>+</mo> <mo>(</mo><mtext>Tier</mtext><mo>)</mo><mo>x</mo><mo>(</mo><mtext>Tier Multiplier</mtext><mo>)</mo></math>
@@ -34,8 +34,8 @@ Once attribute points have been allocated, the warrior's combat statistics are d
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Magical Attack</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Magic</mtext><mo>)</mo> <mo>x</mo> <mn>2</mn></math>
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Physical Defense</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Toughness</mtext><mo>)</mo></math>
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Magical Defense</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Magic</mtext><mo>)</mo></math>
-*  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Evasion</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Cunning</mtext><mo>)</mo></math>
-*  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Resistance</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Toughness</mtext><mo>)</mo></math>
+*  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Evasion</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Cunning</mtext><mo>)</mo></math> <mo>x</mo> <mn>1.5</mn>
+*  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Resistance</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Toughness</mtext><mo>)</mo></math><mo>x</mo><mn>1.5</mn>
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Physical Accuracy</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Aggression</mtext><mo>)</mo><mo>x</mo><mn>2</mn></math>
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Magical Accuracy</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Cunning</mtext><mo>)</mo> <mo>+</mo> <mo>(</mo><mtext>Magic</mtext><mo>)</mo></math>
 *  <math xmlns = "https://www.w3.org/1998/Math/MathML"><mo>(</mo><mtext>Status Accuracy</mtext><mo>)</mo> <mo>=</mo> <mo>(</mo><mtext>Cunning</mtext><mo>)</mo><mo>x</mo><mn>2</mn></math>

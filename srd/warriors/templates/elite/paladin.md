@@ -21,7 +21,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|1|3|6|2|2|
+|1|4|6|2|2|
 
 ### Available Abilities
 
@@ -42,7 +42,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|1|4|8|3|2|
+|1|6|8|3|2|
 
 ### New Abilities
 
@@ -61,7 +61,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|5|10|4|4|
+|3|7|10|4|4|
 
 ### New Abilities
 
@@ -80,7 +80,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|2|6|12|5|4|
+|3|9|12|5|4|
 
 ### New Abilities
 
@@ -99,7 +99,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|7|14|6|6|
+|4|10|14|6|6|
 
 ### New Abilities
 
@@ -118,7 +118,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|8|16|7|6|
+|4|12|16|7|6|
 
 ### New Abilities
 
@@ -137,7 +137,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|9|18|8|8|
+|6|13|18|8|8|
 
 ### New Abilities
 
@@ -156,7 +156,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|10|20|9|8|
+|6|15|20|9|8|
 
 ### New Abilities
 
@@ -175,7 +175,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|11|22|10|10|
+|7|16|22|10|10|
 
 ### New Abilities
 
@@ -194,7 +194,7 @@ Paladins are tough [warriors](/srd/warriors) with a mix of offensive and defensi
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|12|24|11|10|
+|7|18|24|11|10|
 
 ### New Abilities
 

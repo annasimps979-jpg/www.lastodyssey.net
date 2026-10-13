@@ -21,7 +21,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-| 
-|2|1|2|4|4|
+|3|1|2|4|4|
 
 ### Available Abilities
 
@@ -40,7 +40,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|3|1|2|6|6|
+|4|1|2|6|6|
 
 ### New Ability
 
@@ -59,7 +59,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|2|4|8|8|
+|6|3|4|8|8|
 
 ### New Ability
 
@@ -77,7 +77,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|4|3|6|8|8|
+|6|4|6|8|8|
 
 ### New Ability
 
@@ -95,7 +95,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|5|3|6|10|10|
+|7|4|6|10|10|
 
 ### New Ability
 
@@ -113,7 +113,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|6|3|6|12|12|
+|9|4|6|12|12|
 
 ### New Ability
 
@@ -131,7 +131,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|3|6|14|14|
+|10|4|6|14|14|
 
 ### New Ability
 
@@ -149,7 +149,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|7|4|8|14|14|
+|10|6|8|14|14|
 
 ### New Ability
 
@@ -167,7 +167,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|8|4|8|16|16|
+|12|6|8|16|16|
 
 ### New Ability
 
@@ -185,7 +185,7 @@ Mages are [warriors](/srd/warriors) that focus heavily on [spells](/srd/combat/a
  
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy| 
 |:-|:-|:-|:-|:-| 
-|9|4|8|18|18|
+|13|6|8|18|18|
 
 
 ### New Ability

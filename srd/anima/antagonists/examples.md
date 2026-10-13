@@ -25,7 +25,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |[Evasion](/srd/heroes/numbers#term-evasion)|[Resistance](/srd/heroes/numbers#term-resistance)|[Physical Accuracy](/srd/heroes/numbers#term-physical-accuracy)|[Magical Accuracy](/srd/heroes/numbers#term-magical-accuracy)|[Status Accuracy](/srd/heroes/numbers#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
-|4|2|4|8|8|
+|6|3|4|8|8|
 
 **Abilities**
 
@@ -50,7 +50,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|2|4|10|4|4|
+|3|6|10|4|4|
 
 **Abilities**
 
@@ -82,7 +82,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|5|6|10|10|10|
+|7|9|10|10|10|
 
 **Abilities**
 
@@ -107,7 +107,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|2|7|12|4|4|
+|3|10|12|4|4|
 
 **Abilities**
 
@@ -131,7 +131,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|3|8|14|6|6|
+|4|12|14|6|6|
 
 **Abilities**
 
@@ -163,7 +163,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|9|5|12|18|18|
+|13|7|12|18|18|
 
 **Abilities**
 
@@ -189,7 +189,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|10|6|14|20|20|
+|15|9|14|20|20|
 
 **Abilities**
 
@@ -217,7 +217,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|10|6|14|20|20|
+|15|9|14|20|20|
 
 **Abilities**
 
@@ -252,7 +252,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|16|5|10|32|32|
+|24|7|10|32|32|
 
 **Abilities**
 
@@ -281,7 +281,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
-|17|6|12|34|34|
+|25|9|12|34|34|
 
 **Abilities**
 
@@ -295,7 +295,7 @@ Entire [adventures](/srd/glossary#term-adventure) or even [campaigns](/srd/gloss
 |The Void Stares Back|Special|1 AP, 20 MP|Uses any of the abilities that the Unveiled's opponents used between the end of its last [turn](/srd/combat/round#term-turn) and the beginning of its current turn.|
 |Push Through the Cracks|Ranged|1 AP, 30 MP|The Unveiled targets a single one of its opponents.  Said warrior cannot act and cannot be acted upon until the beginning of the Unveiled's next turn.|
 |Prism|Passive|N/A|When the Unveiled is hit by a form of elemental damage it is weak to, it changes its element to a random new one as determined by the Random Element Table.|
-|Incomprehensible Horror|Passive|N/A|The Unveiled is immune to the Scan ability as well as any equivalent abilities or items.|
+|Incomprehensible Horror|Passive|N/A|The Unveiled is immune to being Scanned.|
 |Devourer of Souls|Passive|N/A|Whenever the Unveiled downs a warrior, it also drains that warrior of all of its MP and restores the same amount of MP to itself.|
 |Devourer of Worlds|Passive|N/A|The Unveiled cannot be downed by damage from sources other than damage that it has an elemental weakness to.|
 |Mirror Shield|Paradigm Action|1 <abbr title = "anima">🜉</abbr>|Until the beginning of the Unveiled's next turn, all strikes, spells, and sleights used against it are negated and reflected back onto the user.|
