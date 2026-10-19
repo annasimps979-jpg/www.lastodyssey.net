@@ -4,7 +4,7 @@ title: Earning Experience
 permalink: /srd/discovery/earning-xp
 
 abstract: >-
-    How to measure <abbr title = "experience">🜹</abbr> gain.
+    How to measure experience gain.
 ---
 
 The progress of the [Heroes](/srd/glossary#term-hero) through a [campaign](/srd/glossary#term-campaign) is measured by the amount of _<dfn id = "term-xp">experience</dfn>_ they earn.  Experience, or <abbr title = "experience">🜹</abbr> for short, is a resource that can be spent to make characters stronger and more capable.  See the [Hero Advancement](/srd/heroes/advancement) section for more details.  In total, it takes 1,155 <abbr title = "experience">🜹</abbr> to progress a character from the beginning of [tier](/srd/heroes/creation#term-tier) 1 to the end of tier 10.  Planning out the relative amount of <abbr title = "experience">🜹</abbr> that [players](/srd/glossary#term-player) will earn from different sources is one way for the <abbr title="game master">[GM](/srd/glossary#term-gm)</abbr> to determine what elements of a campaign to emphasize.  
