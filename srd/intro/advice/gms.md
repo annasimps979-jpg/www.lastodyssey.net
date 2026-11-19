@@ -1,5 +1,5 @@
 ---
-title: Advice for <abbr title="game master">GM</abbr>s
+title: Advice for GMs
 
 permalink: /srd/intro/advice/gms
 
