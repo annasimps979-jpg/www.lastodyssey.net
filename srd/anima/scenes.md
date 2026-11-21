@@ -4,7 +4,7 @@ title: Scenes
 permalink: /srd/anima/scenes
 
 abstract: >-
-    How Heroes may earn <abbr title = "anima">🜉</abbr>.
+    How Heroes may earn 🜉.
 ---
 
 Heroes are agents of change, and when they pursue change they will also accrue the power of [<abbr title = "anima">🜉</abbr>](/srd/anima).  Earning <abbr title = "anima">🜉</abbr> is what allows [players](/srd/glossary#term-player) to advance their [tier](/srd/heroes/creation#term-tier), overcome [trials](/srd/discovery/trials), and save themselves from [True Death](/srd/anima/true-death).  In Last Odyssey, for a Hero to earn <abbr title = "anima">🜉</abbr>, their player must initiate a _<dfn id = "term-scene">Scene</dfn>._  A Scene is a dramatic cutscene that somehow either directly or indirectly contextualizes the emotions that a character is currently experiencing in a way that would not be communicated by ordinary play.
